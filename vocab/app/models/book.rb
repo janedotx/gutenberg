@@ -12,6 +12,7 @@ class Book < ActiveRecord::Base
   SNIPPET_HALF_LENGTH = 100
   # attr_accessible :title, :body
 
+  validates :file, :uniqueness => true
   # TODO Add validation, no redundant books
 
   def build_index_specific_word(word)
