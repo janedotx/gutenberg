@@ -1,0 +1,100 @@
+s.byte = 100
+s.update_attribute(:byte, 100)
+ActiveRecord
+load 'db_connect.rb'
+ActiveRecord::Schema.define() do
+  class CreateSearchResultsTable <  ActiveRecord::Migration
+    def up
+      create_table :search_results, :force => true do |t|
+        t.integer :book_id
+        t.integer :byte
+        t.string  :snippet
+        t.integer :word_id
+        t.datetime :created_at
+        t.datetime :updated_at
+      end
+   
+    def down
+      drop_table :search_results
+    end
+class SearchResult < ActiveRecord::Base
+  attr_accessor :book, :byte, :snippet, :dbfile
+=begin
+  def initialize(book, byte, snippet, dbfile)
+    @book = book
+    @byte = byte
+    @snippet = snippet
+    @dbfile = dbfile
+  end
+=end
+SearchResult
+s = SearchResult.new
+s.byte = 10
+s.save
+s
+Word
+Word.find :first
+load 'search_classes.rb'
+Book
+f.read
+f.close
+f = File.open('tmp')
+s = f.read
+s = s.split(/\./)
+s.map! { |s| s.downcase.capitalize}
+s.map! { |s| s.lstrip }
+s.map! { |s| s.capitalize }
+f = File.open('tmp0', 'w')
+s.each { |s| f.write(s); f.write("\n") }
+f = File.open('new-book-urls')
+lines = f.readlines
+  id = line.split(/\\/)[-1]
+lines[0].split(/\\/)
+lines[0].split(/\/)
+)
+/)
+lines[0].split(/\//)
+lines.each do |line|
+page = Curl::Easy.perform(line.chomp).body_str
+  id = line.split(/\//)[-1]
+  f = File.open("books/#{id}", 'w')
+  f.write(page)
+"1010" < "1100"
+"110" < "10000"
+"1010.txt?".gsub(/[^\d]/, '')
+e = Exception.new("asdf")
+e.message
+e.trace
+e.methods.sort() - 2.methods
+e.backtrace
+Curl::Easy.perform('http://mirrors.xmission.com/gutenberg/1/1/7/7/11776/11776.txt
+').body_str
+3000.0/250.0
+18 + 11789
+f = File.open("exceptions")
+arr = []
+f.readlines.each do |line|
+if line =~ /Curl::Err/
+arr << line
+end
+arr
+arr.select { |x| !(x =~ /HostResolution/) }
+arr.select { |x| (x =~ /HostResolution/) }
+"asdf" =~ /asdf/
+!("asdf" =~ /asdf/)
+!("asdf" =~ /bsdf/)
+("asdf" =~ /bsdf/)
+eixt
+require 'nokogiri'
+require 'curb'
+  base_url = 'http://mirrors.xmission.com/gutenberg/'
+  puts "getting base url now"
+  page = Curl::Easy.perform(base_url).body_str
+  links = Nokogiri::HTML(page).css("a")
+etexs = links.select { |link| link.attribute('href').text =~ /etext/ }
+e = etexs[0]
+e.href
+e.attribute('href')
+e.attribute('href').value
+3.0/4
+exit

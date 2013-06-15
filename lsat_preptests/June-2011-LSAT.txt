@@ -1,0 +1,4194 @@
+June 2011
+Full-Length LSAT
+
+1
+
+1
+
+1
+
+-10-
+
+SECTION I
+Time—35 minutes
+25 Questions
+Directions: The questions in this section are based on the reasoning contained in brief statements or passages. For some
+questions, more than one of the choices could conceivably answer the question. However, you are to choose the best answer; that
+is, the response that most accurately and completely answers the question. You should not make assumptions that are by
+commonsense standards implausible, superfluous, or incompatible with the passage. After you have chosen the best answer,
+blacken the corresponding space on your answer sheet.
+1. Backyard gardeners who want to increase the yields of
+their potato plants should try growing stinging nettles
+alongside the plants, since stinging nettles attract insects
+that kill a wide array of insect pests that damage potato
+plants. It is true that stinging nettles also attract aphids,
+and that many species of aphids are harmful to potato
+plants, but that fact in no way contradicts this
+recommendation, because _______.
+
+3. A recent survey quizzed journalism students about the
+sorts of stories they themselves wished to read.
+A significant majority said they wanted to see stories
+dealing with serious governmental and political issues and
+had little tolerance for the present popularity of stories
+covering lifestyle trends and celebrity gossip. This
+indicates that today’s trends in publishing are based on
+false assumptions about the interests of the public.
+
+Which one of the following most logically completes
+the argument?
+
+Which one of the following most accurately describes
+a flaw in the argument’s reasoning?
+
+(A)
+
+(A)
+
+(B)
+(C)
+(D)
+(E)
+
+stinging nettles require little care and thus are
+easy to cultivate
+some types of aphids are attracted to stinging
+nettle plants but do not damage them
+the types of aphids that stinging nettles attract
+do not damage potato plants
+insect pests typically cause less damage to
+potato plants than other harmful organisms do
+most aphid species that are harmful to potato
+plants cause greater harm to other edible
+food plants
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+2. Jocko, a chimpanzee, was once given a large bunch of
+bananas by a zookeeper after the more dominant
+members of the chimpanzee’s troop had wandered off.
+In his excitement, Jocko uttered some loud “food
+barks.” The other chimpanzees returned and took the
+bananas away. The next day, Jocko was again found
+alone and was given a single banana. This time,
+however, he kept silent. The zookeeper concluded that
+Jocko’s silence was a stratagem to keep the other
+chimpanzees from his food.
+Which one of the following, if true, most seriously calls
+into question the zookeeper’s conclusion?
+(A)
+(B)
+(C)
+(D)
+
+(E)
+
+Chimpanzees utter food barks only when their
+favorite foods are available.
+Chimpanzees utter food barks only when they
+encounter a sizable quantity of food.
+Chimpanzees frequently take food from other
+chimpanzees merely to assert dominance.
+Even when they are alone, chimpanzees often
+make noises that appear to be signals to
+other chimpanzees.
+Bananas are a food for which all of the
+chimpanzees at the zoo show a decided
+preference.
+
+It takes what is more likely to be the effect of
+a phenomenon to be its cause.
+It regards the production of an effect as
+incontrovertible evidence of an intention to
+produce that effect.
+It relies on the opinions of a group unlikely to
+be representative of the group at issue in the
+conclusion.
+It employs language that unfairly represents
+those who are likely to reject the argument’s
+conclusion.
+It treats a hypothesis as fact even though it is
+admittedly unsupported.
+
+GO ON TO THE NEXT PAGE.
+
+1
+
+1
+4. Electric bug zappers, which work by attracting insects to
+light, are a very effective means of ridding an area of
+flying insects. Despite this, most pest control experts
+now advise against their use, recommending instead
+such remedies as insect-eating birds or insecticide sprays.
+Which one of the following, if true, most helps to
+account for the pest control experts’ recommendation?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Insect-eating birds will take up residence in any
+insect-rich area if they are provided with
+nesting boxes, food, and water.
+Bug zappers are less effective against mosquitoes,
+which are among the more harmful insects, than
+they are against other harmful insects.
+Bug zappers use more electricity but provide
+less light than do most standard outdoor light
+sources.
+Bug zappers kill many more beneficial insects
+and fewer harmful insects than do insect-eating
+birds and insecticide sprays.
+Developers of certain new insecticide sprays
+claim that their products contain no chemicals
+that are harmful to humans, birds, or pets.
+
+-11-
+
+6. Small experimental vacuum tubes can operate in heat
+that makes semiconductor components fail. Any
+component whose resistance to heat is greater than that
+of semiconductors would be preferable for use in digital
+circuits, but only if that component were also comparable
+to semiconductors in all other significant respects, such
+as maximum current capacity. However, vacuum tubes’
+maximum current capacity is presently not comparable
+to that of semiconductors.
+If the statements above are true, which one of the
+following must also be true?
+(A)
+(B)
+
+(C)
+
+(D)
+
+(E)
+5. Gardener: The design of Japanese gardens should
+display harmony with nature. Hence, rocks
+chosen for placement in such gardens should
+vary widely in appearance, since rocks found in
+nature also vary widely in appearance.
+The gardener’s argument depends on assuming which
+one of the following?
+(A)
+
+(B)
+
+(C)
+
+(D)
+(E)
+
+The selection of rocks for placement in a
+Japanese garden should reflect every key value
+embodied in the design of Japanese gardens.
+In the selection of rocks for Japanese gardens,
+imitation of nature helps to achieve harmony
+with nature.
+The only criterion for selecting rocks for
+placement in a Japanese garden is the expression
+of harmony with nature.
+Expressing harmony with nature and being
+natural are the same thing.
+Each component of a genuine Japanese
+garden is varied.
+
+Vacuum tubes are not now preferable to
+semiconductors for use in digital circuits.
+Once vacuum tubes and semiconductors have
+comparable maximum current capacity, vacuum
+tubes will be used in some digital circuits.
+The only reason that vacuum tubes are not now
+used in digital circuits is that vacuum tubes’
+maximum current capacity is too low.
+Semiconductors will always be preferable to
+vacuum tubes for use in many applications
+other than digital circuits.
+Resistance to heat is the only advantage that
+vacuum tubes have over semiconductors.
+
+7. The cause of the epidemic that devastated Athens in
+430 B.C. can finally be identified. Accounts of the
+epidemic mention the hiccups experienced by many
+victims, a symptom of no known disease except that
+caused by the recently discovered Ebola virus.
+Moreover, other symptoms of the disease caused by
+the Ebola virus are mentioned in the accounts of the
+Athenian epidemic.
+Each of the following, if true, weakens the argument
+EXCEPT:
+(A)
+
+(B)
+(C)
+(D)
+
+(E)
+
+Victims of the Ebola virus experience many
+symptoms that do not appear in any of the
+accounts of the Athenian epidemic.
+Not all of those who are victims of the Ebola
+virus are afflicted with hiccups.
+The Ebola virus’s host animals did not live in
+Athens at the time of the Athenian epidemic.
+The Ebola virus is much more contagious than
+the disease that caused the Athenian epidemic
+was reported to have been.
+The epidemics known to have been caused by
+the Ebola virus are usually shorter-lived than
+was the Athenian epidemic.
+
+GO ON TO THE NEXT PAGE.
+
+1
+
+1
+
+1
+
+1
+
+-12-
+
+8. Letter to the editor: Your article was unjustified in
+criticizing environmentalists for claiming that
+more wolves on Vancouver Island are killed by
+hunters than are born each year. You stated that
+this claim was disproven by recent studies that
+indicate that the total number of wolves on
+Vancouver Island has remained roughly constant
+for 20 years. But you failed to account for the fact
+that, fearing the extinction of this wolf population,
+environmentalists have been introducing new
+wolves into the Vancouver Island wolf population
+for 20 years.
+Which one of the following most accurately expresses
+the conclusion of the argument in the letter to the editor?
+(A)
+
+(B)
+(C)
+
+(D)
+
+(E)
+
+Environmentalists have been successfully
+maintaining the wolf population on
+Vancouver Island for 20 years.
+As many wolves on Vancouver Island are killed
+by hunters as are born each year.
+The population of wolves on Vancouver Island
+should be maintained by either reducing the
+number killed by hunters each year or
+introducing new wolves into the population.
+The recent studies indicating that the total
+number of wolves on Vancouver Island has
+remained roughly constant for 20 years
+were flawed.
+The stability in the size of the Vancouver Island
+wolf population does not warrant the article’s
+criticism of the environmentalists’ claim.
+
+9. Computer scientist: For several decades, the number of
+transistors on new computer microchips, and
+hence the microchips’ computing speed, has
+doubled about every 18 months. However, from
+the mid-1990s into the next decade, each such
+doubling in a microchip’s computing speed was
+accompanied by a doubling in the cost of
+producing that microchip.
+Which one of the following can be properly inferred
+from the computer scientist’s statements?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+The only effective way to double the computing
+speed of computer microchips is to increase
+the number of transistors per microchip.
+From the mid-1990s into the next decade, there
+was little if any increase in the retail cost of
+computers as a result of the increased number
+of transistors on microchips.
+For the last several decades, computer
+engineers have focused on increasing the
+computing speed of computer microchips
+without making any attempt to control the
+cost of producing them.
+From the mid-1990s into the next decade, a
+doubling in the cost of fabricating new computer
+microchips accompanied each doubling in the
+number of transistors on those microchips.
+It is unlikely that engineers will ever be able
+to increase the computing speed of microchips
+without also increasing the cost of producing
+them.
+
+GO ON TO THE NEXT PAGE.
+
+1
+
+1
+10. Ms. Sandstrom’s newspaper column describing a strange
+natural phenomenon on the Mendels’ farm led many
+people to trespass on and extensively damage their
+property. Thus, Ms. Sandstrom should pay for this
+damage if, as the Mendels claim, she could have
+reasonably expected that the column would lead people
+to damage the Mendels’ farm.
+The argument’s conclusion can be properly inferred if
+which one of the following is assumed?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+One should pay for any damage that one’s
+action leads other people to cause if one could
+have reasonably expected that the action would
+lead other people to cause damage.
+One should pay for damage that one’s action
+leads other people to cause only if, prior to the
+action, one expected that the action would lead
+other people to cause that damage.
+It is unlikely that the people who trespassed
+on and caused the damage to the Mendels’
+property would themselves pay for the damage
+they caused.
+Ms. Sandstrom knew that her column could
+incite trespassing that could result in damage
+to the Mendels’ farm.
+The Mendels believe that Ms. Sandstrom is able
+to form reasonable expectations about the
+consequences of her actions.
+
+11. Meyer was found by his employer to have committed
+scientific fraud by falsifying data. The University of
+Williamstown, from which Meyer held a PhD, validated
+this finding and subsequently investigated whether he
+had falsified data in his doctoral thesis, finding no
+evidence that he had. But the university decided to
+revoke Meyer’s PhD anyway.
+Which one of the following university policies most
+justifies the decision to revoke Meyer’s PhD?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Anyone who holds a PhD from the University
+of Williamstown and is found to have
+committed academic fraud in the course of
+pursuing that PhD will have the PhD revoked.
+No PhD program at the University of
+Williamstown will admit any applicant who
+has been determined to have committed any
+sort of academic fraud.
+Any University of Williamstown student who
+is found to have submitted falsified data as
+academic work will be dismissed from the
+university.
+Anyone who holds a PhD from the University
+of Williamstown and is found to have committed
+scientific fraud will have the PhD revoked.
+The University of Williamstown will not hire
+anyone who is under investigation for
+scientific fraud.
+
+-13-
+
+12. Aerobics instructor: Compared to many forms of
+exercise, kickboxing aerobics is highly risky.
+Overextending when kicking often leads to hip,
+knee, or lower-back injuries. Such overextension
+is very likely to occur when beginners try to
+match the high kicks of more skilled practitioners.
+Which one of the following is most strongly supported
+by the aerobics instructor’s statements?
+(A)
+
+(B)
+
+(C)
+
+(D)
+(E)
+
+Skilled practitioners of kickboxing aerobics
+are unlikely to experience injuries from
+overextending while kicking.
+To reduce the risk of injuries, beginners at
+kickboxing aerobics should avoid trying to
+match the high kicks of more skilled
+practitioners.
+Beginners at kickboxing aerobics will not
+experience injuries if they avoid trying to
+match the high kicks of more skilled
+practitioners.
+Kickboxing aerobics is more risky than forms of
+aerobic exercise that do not involve high kicks.
+Most beginners at kickboxing aerobics
+experience injuries from trying to match the
+high kicks of more skilled practitioners.
+
+13. A large company has been convicted of engaging in
+monopolistic practices. The penalty imposed on the
+company will probably have little if any effect on its
+behavior. Still, the trial was worthwhile, since it
+provided useful information about the company’s
+practices. After all, this information has emboldened the
+company’s direct competitors, alerted potential rivals,
+and forced the company to restrain its unfair behavior
+toward customers and competitors.
+Which one of the following most accurately expresses
+the overall conclusion drawn in the argument?
+(A)
+
+(B)
+
+(C)
+(D)
+(E)
+
+Even if the company had not been convicted
+of engaging in monopolistic practices, the trial
+probably would have had some effect on the
+company’s behavior.
+The light shed on the company’s practices by
+the trial has emboldened its competitors,
+alerted potential rivals, and forced the
+company to restrain its unfair behavior.
+The penalty imposed on the company will likely
+have little or no effect on its behavior.
+The company’s trial on charges of engaging in
+monopolistic practices was worthwhile.
+The penalty imposed on the company in the
+trial should have been larger.
+
+GO ON TO THE NEXT PAGE.
+
+1
+
+1
+
+1
+
+1
+
+-14-
+
+14. Waller: If there were really such a thing as extrasensory
+perception, it would generally be accepted by the
+public since anyone with extrasensory powers
+would be able to convince the general public of its
+existence by clearly demonstrating those powers.
+Indeed, anyone who was recognized to have such
+powers would achieve wealth and renown.
+Chin: It’s impossible to demonstrate anything to the
+satisfaction of all skeptics. So long as the cultural
+elite remains closed-minded to the possibility of
+extrasensory perception, the popular media
+reports, and thus public opinion, will always be
+biased in favor of such skeptics.
+Waller’s and Chin’s statements commit them to
+disagreeing on whether
+(A)
+(B)
+
+(C)
+(D)
+
+(E)
+
+extrasensory perception is a real phenomenon
+extrasensory perception, if it were a real
+phenomenon, could be demonstrated to the
+satisfaction of all skeptics
+skeptics about extrasensory perception have a
+weak case
+the failure of the general public to believe in
+extrasensory perception is good evidence
+against its existence
+the general public believes that extrasensory
+perception is a real phenomenon
+
+15. Counselor: Hagerle sincerely apologized to the physician
+for lying to her. So Hagerle owes me a sincere
+apology as well, because Hagerle told the same
+lie to both of us.
+Which one of the following principles, if valid, most
+helps to justify the counselor’s reasoning?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+It is good to apologize for having done
+something wrong to a person if one is capable
+of doing so sincerely.
+If someone tells the same lie to two different
+people, then neither of those lied to is owed
+an apology unless both are.
+Someone is owed a sincere apology for having
+been lied to by a person if someone else has
+already received a sincere apology for the
+same lie from that same person.
+If one is capable of sincerely apologizing to
+someone for lying to them, then one owes
+that person such an apology.
+A person should not apologize to someone for
+telling a lie unless he or she can sincerely
+apologize to all others to whom the lie was told.
+
+16. A survey of address changes filed with post offices and
+driver’s license bureaus over the last ten years has
+established that households moving out of the city of
+Weston outnumbered households moving into the city
+two to one. Therefore, we can expect that next year’s
+census, which counts all residents regardless of age,
+will show that the population of Weston has declined
+since the last census ten years ago.
+Which one of the following, if true, most helps
+strengthen the argument?
+(A)
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Within the past decade many people both
+moved into the city and also moved out of it.
+Over the past century any census of Weston
+showing a population loss was followed ten years
+later by a census showing a population gain.
+Many people moving into Weston failed to
+notify either the post office or the driver’s
+license bureau that they had moved to the city.
+Most adults moving out of Weston were parents
+who had children living with them, whereas
+most adults remaining in or moving into the
+city were older people who lived alone.
+Most people moving out of Weston were young
+adults who were hoping to begin a career
+elsewhere, whereas most adults remaining in
+or moving into the city had long-standing jobs
+in the city.
+
+17. Psychologist: People tend to make certain cognitive
+errors when they predict how a given event
+would affect their future happiness. But people
+should not necessarily try to rid themselves of
+this tendency. After all, in a visual context, lines
+that are actually parallel often appear to people as
+if they converge. If a surgeon offered to restructure
+your eyes and visual cortex so that parallel lines
+would no longer ever appear to converge, it
+would not be reasonable to take the surgeon up
+on the offer.
+The psychologist’s argument does which one of the
+following?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+attempts to refute a claim that a particular
+event is inevitable by establishing the
+possibility of an alternative event
+attempts to undermine a theory by calling into
+question an assumption on which the theory
+is based
+argues that an action might not be appropriate
+by suggesting that a corresponding action in
+an analogous situation is not appropriate
+argues that two situations are similar by
+establishing that the same action would be
+reasonable in each situation
+attempts to establish a generalization and then
+uses that generalization to argue against a
+particular action
+
+GO ON TO THE NEXT PAGE.
+
+1
+
+1
+18. Principle: Even if an art auction house identifies the
+descriptions in its catalog as opinions, it is guilty
+of misrepresentation if such a description is a
+deliberate attempt to mislead bidders.
+Application: Although Healy’s, an art auction house,
+states that all descriptions in its catalog are opinions,
+Healy’s was guilty of misrepresentation when its
+catalog described a vase as dating from the
+mid-eighteenth century when it was actually a
+modern reproduction.
+Which one of the following, if true, most justifies the
+above application of the principle?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+An authentic work of art from the
+mid-eighteenth century will usually sell for
+at least ten times more than a modern
+reproduction of a similar work from that period.
+Although pottery that is similar to the vase is
+currently extremely popular among art
+collectors, none of the collectors who are
+knowledgeable about such pottery were
+willing to bid on the vase.
+The stated policy of Healy’s is to describe
+works in its catalogs only in terms of their
+readily perceptible qualities and not to include
+any information about their age.
+Some Healy’s staff members believe that the
+auction house’s catalog should not contain any
+descriptions that have not been certified to be
+true by independent experts.
+Without consulting anyone with expertise in
+authenticating vases, Healy’s described the
+vase as dating from the mid-eighteenth century
+merely in order to increase its auction price.
+
+-15-
+
+19. Anthropologist: It was formerly believed that prehistoric
+Homo sapiens ancestors of contemporary humans
+interbred with Neanderthals, but DNA testing of a
+Neanderthal’s remains indicates that this is not the
+case. The DNA of contemporary humans is
+significantly different from that of the Neanderthal.
+Which one of the following is an assumption required
+by the anthropologist’s argument?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+At least some Neanderthals lived at the same
+time and in the same places as prehistoric Homo
+sapiens ancestors of contemporary humans.
+DNA testing of remains is significantly less
+reliable than DNA testing of samples from
+living species.
+The DNA of prehistoric Homo sapiens ancestors
+of contemporary humans was not significantly
+more similar to that of Neanderthals than is the
+DNA of contemporary humans.
+Neanderthals and prehistoric Homo sapiens
+ancestors of contemporary humans were
+completely isolated from each other
+geographically.
+Any similarity in the DNA of two species must
+be the result of interbreeding.
+
+20. Council member: The profits of downtown businesses
+will increase if more consumers live in the
+downtown area, and a decrease in the cost of
+living in the downtown area will guarantee that
+the number of consumers living there will
+increase. However, the profits of downtown
+businesses will not increase unless downtown
+traffic congestion decreases.
+If all the council member’s statements are true, which
+one of the following must be true?
+(A)
+
+(B)
+
+(C)
+(D)
+
+(E)
+
+If downtown traffic congestion decreases, the
+number of consumers living in the downtown
+area will increase.
+If the cost of living in the downtown area
+decreases, the profits of downtown businesses
+will increase.
+If downtown traffic congestion decreases, the
+cost of living in the downtown area will increase.
+If downtown traffic congestion decreases, the
+cost of living in the downtown area will
+decrease.
+If the profits of downtown businesses increase,
+the number of consumers living in the
+downtown area will increase.
+
+GO ON TO THE NEXT PAGE.
+
+1
+
+1
+
+1
+
+1
+
+-16-
+
+21. On the Discount Phoneline, any domestic long-distance
+call starting between 9 A.M. and 5 P.M. costs 15 cents a
+minute, and any other domestic long-distance call costs
+10 cents a minute. So any domestic long-distance call
+on the Discount Phoneline that does not cost 10 cents
+a minute costs 15 cents a minute.
+The pattern of reasoning in which one of the following
+arguments is most similar to that in the argument above?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+If a university class involves extensive lab
+work, the class will be conducted in a
+laboratory; otherwise, it will be conducted in a
+normal classroom. Thus, if a university class
+does not involve extensive lab work, it will not
+be conducted in a laboratory.
+If a university class involves extensive lab
+work, the class will be conducted in a laboratory;
+otherwise, it will be conducted in a normal
+classroom. Thus, if a university class is not
+conducted in a normal classroom, it will
+involve extensive lab work.
+If a university class involves extensive lab
+work, the class will be conducted in a
+laboratory; otherwise, it will be conducted in
+a normal classroom. Thus, if a university class
+is conducted in a normal classroom, it will
+not be conducted in a laboratory.
+If a university class involves extensive lab
+work, the class will be conducted in a laboratory;
+otherwise, it will be conducted in a normal
+classroom. Thus, if a university class involves
+extensive lab work, it will not be conducted in
+a normal classroom.
+If a university class involves extensive lab work,
+the class will be conducted in a laboratory;
+otherwise, it will be conducted in a normal
+classroom. Thus, if a university class is not
+conducted in a normal classroom, it will be
+conducted in a laboratory.
+
+22. One child pushed another child from behind, injuring
+the second child. The first child clearly understands the
+difference between right and wrong, so what was done
+was wrong if it was intended to injure the second child.
+Which one of the following principles, if valid, most
+helps to justify the reasoning in the argument?
+(A)
+
+(B)
+
+(C)
+(D)
+
+(E)
+
+An action that is intended to harm another
+person is wrong only if the person who
+performed the action understands the
+difference between right and wrong.
+It is wrong for a person who understands the
+difference between right and wrong to
+intentionally harm another person.
+Any act that is wrong is done with the
+intention of causing harm.
+An act that harms another person is wrong if
+the person who did it understands the
+difference between right and wrong and did
+not think about whether the act would injure
+the other person.
+A person who does not understand the difference
+between right and wrong does not bear any
+responsibility for harming another person.
+
+23. Researcher: Each subject in this experiment owns one
+car, and was asked to estimate what proportion of
+all automobiles registered in the nation are the
+same make as the subject’s car. The estimate of
+nearly every subject has been significantly higher
+than the actual national statistic for the make of
+that subject’s car. I hypothesize that certain makes
+of car are more common in some regions of the
+nation than in other regions; obviously, that
+would lead many people to overestimate how
+common their make of car is nationally. That is
+precisely the result found in this experiment, so
+certain makes of car must indeed be more common
+in some areas of the nation than in others.
+Which one of the following most accurately expresses
+a reasoning flaw in the researcher’s argument?
+(A)
+
+(B)
+(C)
+
+(D)
+
+(E)
+
+The argument fails to estimate the likelihood
+that most subjects in the experiment did not
+know the actual statistics about how common
+their make of car is nationwide.
+The argument treats a result that supports a
+hypothesis as a result that proves a hypothesis.
+The argument fails to take into account the
+possibility that the subject pool may come
+from a wide variety of geographical regions.
+The argument attempts to draw its main
+conclusion from a set of premises that are
+mutually contradictory.
+The argument applies a statistical generalization
+to a particular case to which it was not intended
+to apply.
+
+GO ON TO THE NEXT PAGE.
+
+1
+
+1
+24. In university towns, police issue far more parking
+citations during the school year than they do during
+the times when the students are out of town. Therefore,
+we know that most parking citations in university towns
+are issued to students.
+Which one of the following is most similar in its flawed
+reasoning to the flawed reasoning in the argument above?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+We know that children buy most of the snacks
+at cinemas, because popcorn sales increase as
+the proportion of child moviegoers to adult
+moviegoers increases.
+We know that this houseplant gets more of the
+sunlight from the window, because it is greener
+than that houseplant.
+We know that most people who go to a
+university are studious because most of those
+people study while they attend the university.
+We know that consumers buy more fruit during
+the summer than they buy during the winter,
+because there are far more varieties of fruit
+available in the summer than in the winter.
+We know that most of the snacks parents buy
+go to other people’s children, because when
+other people’s children come to visit, parents
+give out more snacks than usual.
+
+-17-
+
+25. Counselor: Those who believe that criticism should be
+gentle rather than harsh should consider the
+following: change requires a motive, and criticism
+that is unpleasant provides a motive. Since harsh
+criticism is unpleasant, harsh criticism provides a
+motive. Therefore, only harsh criticism will cause
+the person criticized to change.
+The reasoning in the counselor’s argument is most
+vulnerable to criticism on the grounds that the argument
+(A)
+(B)
+
+(C)
+(D)
+(E)
+
+infers that something that is sufficient to provide
+a motive is necessary to provide a motive
+fails to address the possibility that in some
+cases the primary goal of criticism is
+something other than bringing about change
+in the person being criticized
+takes for granted that everyone who is
+motivated to change will change
+confuses a motive for doing something with a
+motive for avoiding something
+takes the refutation of an argument to be
+sufficient to show that the argument’s
+conclusion is false
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+1
+
+2
+
+¼
+
+¼
+
+2
+
+-18-
+
+2
+
+2
+
+SECTION II
+Time—35 minutes
+23 Questions
+
+Directions: Each group of questions in this section is based on a set of conditions. In answering some of the questions, it may be
+useful to draw a rough diagram. Choose the response that most accurately and completely answers each question and blacken
+the corresponding space on your answer sheet.
+Questions 1–5
+Each of seven candidates for the position of judge—Hamadi,
+Jefferson, Kurtz, Li, McDonnell, Ortiz, and Perkins—will be
+appointed to an open position on one of two courts—the
+appellate court or the trial court. There are three open positions
+on the appellate court and six open positions on the trial court,
+but not all of them will be filled at this time. The judicial
+appointments will conform to the following conditions:
+Li must be appointed to the appellate court.
+Kurtz must be appointed to the trial court.
+Hamadi cannot be appointed to the same court as Perkins.
+1. Which one of the following is an acceptable set of
+appointments of candidates to courts?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+appellate: Hamadi, Ortiz
+trial: Jefferson, Kurtz, Li, McDonnell, Perkins
+appellate: Hamadi, Li, Perkins
+trial: Jefferson, Kurtz, McDonnell, Ortiz
+appellate: Kurtz, Li, Perkins
+trial: Hamadi, Jefferson, McDonnell, Ortiz
+appellate: Li, McDonnell, Ortiz
+trial: Hamadi, Jefferson, Kurtz, Perkins
+appellate: Li, Perkins
+trial: Hamadi, Jefferson, Kurtz, McDonnell, Ortiz
+
+3. Which one of the following CANNOT be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+4. If Ortiz is appointed to the appellate court, which one of
+the following must be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+(A)
+
+(B)
+(C)
+(D)
+(E)
+
+Hamadi and McDonnell are both appointed to
+the appellate court.
+McDonnell and Ortiz are both appointed to the
+appellate court.
+Ortiz and Perkins are both appointed to the
+appellate court.
+Hamadi and Jefferson are both appointed to the
+trial court.
+Ortiz and Perkins are both appointed to the trial
+court.
+
+Hamadi is appointed to the appellate court.
+Jefferson is appointed to the appellate court.
+Jefferson is appointed to the trial court.
+Perkins is appointed to the appellate court.
+Perkins is appointed to the trial court.
+
+5. Which one of the following, if substituted for the
+condition that Hamadi cannot be appointed to the same
+court as Perkins, would have the same effect on the
+appointments of the seven candidates?
+
+2. Which one of the following CANNOT be true?
+(A)
+
+Jefferson and McDonnell are both appointed to
+the appellate court.
+Jefferson and McDonnell are both appointed to
+the trial court.
+McDonnell and Ortiz are both appointed to the
+trial court.
+McDonnell and Perkins are both appointed to
+the appellate court.
+McDonnell and Perkins are both appointed to
+the trial court.
+
+(B)
+(C)
+(D)
+
+(E)
+
+Hamadi and Perkins cannot both be appointed
+to the appellate court.
+If Hamadi is not appointed to the trial court,
+then Perkins must be.
+If Perkins is appointed to the same court as
+Jefferson, then Hamadi cannot be.
+If Hamadi is appointed to the same court as Li,
+then Perkins must be appointed to the same
+court as Kurtz.
+No three of Hamadi, Kurtz, Li, and Perkins can
+be appointed to the same court as each other.
+
+GO ON TO THE NEXT PAGE.
+
+2
+
+¼
+2
+
+Questions 6–10
+
+Exactly six members of a skydiving team—Larue, Ohba, Pei,
+Treviño, Weiss, and Zacny—each dive exactly once, one at a
+time, from a plane, consistent with the following conditions:
+Treviño dives from the plane at some time before Weiss
+does.
+Larue dives from the plane either first or last.
+Neither Weiss nor Zacny dives from the plane last.
+Pei dives from the plane at some time after either Ohba or
+Larue but not both.
+6. Which one of the following could be an accurate list of
+the members in the order in which they dive from the
+plane, from first to last?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Larue, Treviño, Ohba, Zacny, Pei, Weiss
+Larue, Treviño, Pei, Zacny, Weiss, Ohba
+Weiss, Ohba, Treviño, Zacny, Pei, Larue
+Treviño, Weiss, Pei, Ohba, Zacny, Larue
+Treviño, Weiss, Zacny, Larue, Pei, Ohba
+
+7. Which one of the following must be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+At least two of the members
+plane after Larue.
+At least two of the members
+plane after Ohba.
+At least two of the members
+plane after Pei.
+At least two of the members
+plane after Treviño.
+At least two of the members
+plane after Weiss.
+
+dive from the
+
+¼
+2
+
+-19-
+
+8. If Larue dives from the plane last, then each of the
+following could be true EXCEPT:
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Treviño dives from the plane fourth.
+Weiss dives from the plane fourth.
+Ohba dives from the plane fifth.
+Pei dives from the plane fifth.
+Zacny dives from the plane fifth.
+
+9. If Zacny dives from the plane immediately after Weiss,
+then which one of the following must be false?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Larue dives from the plane first.
+Treviño dives from the plane third.
+Zacny dives from the plane third.
+Pei dives from the plane fourth.
+Zacny dives from the plane fourth.
+
+10. If Treviño dives from the plane immediately after Larue,
+then each of the following could be true EXCEPT:
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Ohba dives from the plane third.
+Weiss dives from the plane third.
+Zacny dives from the plane third.
+Pei dives from the plane fourth.
+Weiss dives from the plane fourth.
+
+dive from the
+dive from the
+dive from the
+dive from the
+
+GO ON TO THE NEXT PAGE.
+
+2
+
+2
+
+¼
+2
+
+-20-
+
+Questions 11–17
+
+A company’s six vehicles—a hatchback, a limousine, a pickup,
+a roadster, a sedan, and a van—are serviced during a certain
+week—Monday through Saturday—one vehicle per day.
+The following conditions must apply:
+At least one of the vehicles is serviced later in the week
+than the hatchback.
+The roadster is serviced later in the week than the van and
+earlier in the week than the hatchback.
+Either the pickup and the van are serviced on consecutive
+days, or the pickup and the sedan are serviced on
+consecutive days, but not both.
+The sedan is serviced earlier in the week than the pickup
+or earlier in the week than the limousine, but not both.
+11. Which one of the following could be the order in which
+the vehicles are serviced, from Monday through Saturday?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+the hatchback, the pickup, the sedan,
+the limousine, the van, the roadster
+the pickup, the sedan, the van, the roadster,
+the hatchback, the limousine
+the pickup, the van, the sedan, the roadster,
+the limousine, the hatchback
+the van, the roadster, the pickup, the hatchback,
+the sedan, the limousine
+the van, the sedan, the pickup, the roadster,
+the hatchback, the limousine
+
+12. Which one of the following CANNOT be the vehicle
+serviced on Thursday?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+the
+the
+the
+the
+the
+
+hatchback
+limousine
+pickup
+sedan
+van
+
+13. If neither the pickup nor the limousine is serviced on
+Monday, then which one of the following must be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+The hatchback and the limousine are serviced
+on consecutive days.
+The hatchback and the sedan are serviced on
+consecutive days.
+The van is serviced on Monday.
+The limousine is serviced on Saturday.
+The pickup is serviced on Saturday.
+
+¼
+
+2
+
+2
+
+14. If the limousine is not serviced on Saturday, then each
+of the following could be true EXCEPT:
+(A)
+(B)
+(C)
+(D)
+(E)
+
+The
+The
+The
+The
+The
+
+limousine is serviced on Monday.
+roadster is serviced on Tuesday.
+hatchback is serviced on Wednesday.
+roadster is serviced on Wednesday.
+sedan is serviced on Wednesday.
+
+15. If the sedan is serviced earlier in the week than the
+pickup, then which one of the following could be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+The
+The
+The
+The
+The
+
+limousine is serviced on Wednesday.
+sedan is serviced on Wednesday.
+van is serviced on Wednesday.
+hatchback is serviced on Friday.
+limousine is serviced on Saturday.
+
+16. If the limousine is serviced on Saturday, then which one
+of the following must be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+The pickup is serviced earlier in the week than
+the roadster.
+The pickup is serviced earlier in the week than
+the sedan.
+The sedan is serviced earlier in the week than
+the roadster.
+The hatchback and the limousine are serviced
+on consecutive days.
+The roadster and the hatchback are serviced on
+consecutive days.
+
+17. Which one of the following could be the list of the
+vehicles serviced on Tuesday, Wednesday, and Friday,
+listed in that order?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+the
+the
+the
+the
+the
+
+pickup, the hatchback, the limousine
+pickup, the roadster, the hatchback
+sedan, the limousine, the hatchback
+van, the limousine, the hatchback
+van, the roadster, the limousine
+
+GO ON TO THE NEXT PAGE.
+
+¼
+
+2
+
+2
+
+Questions 18–23
+
+18. If there are exactly two white balls, then which one of
+the following boxes could contain a green ball?
+box
+box
+box
+box
+box
+
+1
+3
+4
+5
+6
+
+19. If there are green balls in boxes 5 and 6, then which
+one of the following could be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+There
+There
+There
+There
+There
+
+-21-
+
+21. Which one of the following must be true?
+
+A street entertainer has six boxes stacked one on top of the
+other and numbered consecutively 1 through 6, from the
+lowest box up to the highest. Each box contains a single ball,
+and each ball is one of three colors—green, red, or white.
+Onlookers are to guess the color of each ball in each box,
+given that the following conditions hold:
+There are more red balls than white balls.
+There is a box containing a green ball that is lower in the
+stack than any box that contains a red ball.
+There is a white ball in a box that is immediately below a
+box that contains a green ball.
+
+(A)
+(B)
+(C)
+(D)
+(E)
+
+¼
+2
+
+(A)
+(B)
+(C)
+(D)
+(E)
+
+22. If there are red balls in boxes 2 and 3, then which one
+of the following could be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+There
+There
+There
+There
+There
+
+is
+is
+is
+is
+is
+
+a
+a
+a
+a
+a
+
+red ball in box 1.
+white ball in box 1.
+green ball in box 4.
+red ball in box 5.
+white ball in box 6.
+
+23. If boxes 2, 3, and 4 all contain balls that are the same
+color as each other, then which one of the following
+must be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+are red balls in boxes 1 and 4.
+are red balls in boxes 2 and 4.
+is a white ball in box 1.
+is a white ball in box 2.
+is a white ball in box 3.
+
+There is a green ball in a box that is lower than
+box 4.
+There is a green ball in a box that is higher
+than box 4.
+There is a red ball in a box that is lower than
+box 4.
+There is a red ball in a box that is higher than
+box 4.
+There is a white ball in a box that is lower than
+box 4.
+
+Exactly
+Exactly
+Exactly
+Exactly
+Exactly
+
+two of the boxes contain a green ball.
+three of the boxes contain a green ball.
+three of the boxes contain a red ball.
+one of the boxes contains a white ball.
+two of the boxes contain a white ball.
+
+20. The ball in which one of the following boxes must be
+the same color as at least one of the other balls?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+box
+box
+box
+box
+box
+
+2
+3
+4
+5
+6
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+2
+
+3
+
+3
+
+-22-
+
+3
+
+3
+
+SECTION III
+Time—35 minutes
+26 Questions
+Directions: The questions in this section are based on the reasoning contained in brief statements or passages. For some
+questions, more than one of the choices could conceivably answer the question. However, you are to choose the best answer; that
+is, the response that most accurately and completely answers the question. You should not make assumptions that are by
+commonsense standards implausible, superfluous, or incompatible with the passage. After you have chosen the best answer,
+blacken the corresponding space on your answer sheet.
+1. Commentator: In last week’s wreck involving one of
+Acme Engines’ older locomotives, the engineer
+lost control of the train when his knee accidentally
+struck a fuel shut-down switch. Acme claims it is
+not liable because it never realized that the
+knee-level switches were a safety hazard. When
+asked why it relocated knee-level switches in its
+newer locomotives, Acme said engineers had
+complained that they were simply inconvenient.
+However, it is unlikely that Acme would have
+spent the $500,000 it took to relocate switches in
+the newer locomotives merely because of
+inconvenience. Thus, Acme Engines should be
+held liable for last week’s wreck.
+The point that Acme Engines spent $500,000 relocating
+knee-level switches in its newer locomotives is offered
+in the commentator’s argument as
+(A)
+(B)
+
+(C)
+(D)
+(E)
+
+proof that the engineer is not at all responsible
+for the train wreck
+a reason for believing that the wreck would
+have occurred even if Acme Engines had
+remodeled their older locomotives
+an explanation of why the train wreck occurred
+evidence that knee-level switches are not in
+fact hazardous
+an indication that Acme Engines had been
+aware of the potential dangers of knee-level
+switches before the wreck occurred
+
+2. Artist: Almost everyone in this country really wants to
+be an artist even though they may have to work
+other jobs to pay the rent. After all, just about
+everyone I know hopes to someday be able to
+make a living as a painter, musician, or poet even
+if they currently work as dishwashers or discount
+store clerks.
+The reasoning in the artist’s argument is flawed in that
+the argument
+(A)
+(B)
+
+(C)
+(D)
+
+(E)
+
+contains a premise that presupposes the truth of
+the conclusion
+presumes that what is true of each person in a
+country is also true of the country’s population
+as a whole
+defends a view solely on the grounds that the
+view is widely held
+bases its conclusion on a sample that is unlikely
+to accurately represent people in the country as
+a whole
+fails to make a needed distinction between
+wanting to be an artist and making a living as
+an artist
+
+3. The qwerty keyboard became the standard keyboard
+with the invention of the typewriter and remains the
+standard for typing devices today. If an alternative known
+as the Dvorak keyboard were today’s standard, typists
+would type significantly faster. Nevertheless, it is not
+practical to switch to the Dvorak keyboard because the
+cost to society of switching, in terms of time, money,
+and frustration, would be greater than the benefits that
+would be ultimately gained from faster typing.
+The example above best illustrates which one of the
+following propositions?
+(A)
+
+(B)
+(C)
+
+(D)
+
+(E)
+
+Often it is not worthwhile to move to a process
+that improves speed if it comes at the expense
+of accuracy.
+People usually settle on a standard because that
+standard is more efficient than any alternatives.
+People often remain with an entrenched standard
+rather than move to a more efficient alternative
+simply because they dislike change.
+The emotional cost associated with change is a
+factor that sometimes outweighs financial
+considerations.
+The fact that a standard is already in wide use
+can be a crucial factor in making it a more
+practical choice than an alternative.
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+4. Sam: Mountain lions, a protected species, are preying
+on bighorn sheep, another protected species. We
+must let nature take its course and hope the
+bighorns survive.
+Meli: Nonsense. We must do what we can to ensure the
+survival of the bighorn, even if that means
+limiting the mountain lion population.
+
+3
+
+3
+
+-23-
+
+6. A transit company’s bus drivers are evaluated by
+supervisors riding with each driver. Drivers complain
+that this affects their performance, but because the
+supervisor’s presence affects every driver’s performance,
+those drivers performing best with a supervisor aboard
+will likely also be the best drivers under normal
+conditions.
+
+Which one of the following is a point of disagreement
+between Meli and Sam?
+
+Which one of the following is an assumption on which
+the argument depends?
+
+(A)
+
+(A)
+
+(B)
+(C)
+
+(D)
+
+(E)
+
+Humans should not intervene to protect bighorn
+sheep from mountain lions.
+The preservation of a species as a whole is more
+important than the loss of a few individuals.
+The preservation of a predatory species is easier
+to ensure than the preservation of the species
+preyed upon.
+Any measures to limit the mountain lion
+population would likely push the species to
+extinction.
+If the population of mountain lions is not limited,
+the bighorn sheep species will not survive.
+
+5. Parent: Pushing very young children into rigorous study
+in an effort to make our nation more competitive
+does more harm than good. Curricula for these
+young students must address their special
+developmental needs, and while rigorous work in
+secondary school makes sense, the same approach
+in the early years of primary school produces only
+short-term gains and may cause young children to
+burn out on schoolwork. Using very young
+students as pawns in the race to make the nation
+economically competitive is unfair and may
+ultimately work against us.
+Which one of the following can be inferred from the
+parent’s statements?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+For our nation to be competitive, our secondary
+school curriculum must include more rigorous
+study than it now does.
+The developmental needs of secondary school
+students are not now being addressed in our
+high schools.
+Our country can be competitive only if the
+developmental needs of all our students can
+be met.
+A curriculum of rigorous study does not
+adequately address the developmental needs
+of primary school students.
+Unless our nation encourages more rigorous
+study in the early years of primary school, we
+cannot be economically competitive.
+
+(B)
+(C)
+
+(D)
+
+(E)
+
+There is no effective way of evaluating the bus
+drivers’ performance without having
+supervisors ride with them.
+The supervisors are excellent judges of a bus
+driver’s performance.
+For most bus drivers, the presence of a
+supervisor makes their performance slightly
+worse than it otherwise would be.
+The bus drivers are each affected in roughly the
+same way and to the same extent by the
+presence of the supervisor.
+The bus drivers themselves are able to deliver
+accurate assessments of their driving
+performance.
+
+7. Economic growth accelerates business demand for the
+development of new technologies. Businesses supplying
+these new technologies are relatively few, while those
+wishing to buy them are many. Yet an acceleration of
+technological change can cause suppliers as well as
+buyers of new technologies to fail.
+Which one of the following is most strongly supported
+by the information above?
+(A)
+
+(B)
+(C)
+(D)
+
+(E)
+
+Businesses supplying new technologies are
+more likely to prosper in times of accelerated
+technological change than other businesses.
+Businesses that supply new technologies may
+not always benefit from economic growth.
+The development of new technologies may
+accelerate economic growth in general.
+Businesses that adopt new technologies are
+most likely to prosper in a period of general
+economic growth.
+Economic growth increases business failures.
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+
+-24-
+
+8. Energy analyst: During this record-breaking heat wave,
+air conditioner use has overloaded the region’s
+electrical power grid, resulting in frequent power
+blackouts throughout the region. For this reason,
+residents have been asked to cut back voluntarily
+on air conditioner use in their homes. But even if
+this request is heeded, blackouts will probably
+occur unless the heat wave abates.
+
+3
+
+3
+10. Editorial: Many critics of consumerism insist that
+advertising persuades people that they need
+certain consumer goods when they merely desire
+them. However, this accusation rests on a fuzzy
+distinction, that between wants and needs. In life,
+it is often impossible to determine whether
+something is merely desirable or whether it is
+essential to one’s happiness.
+
+Which one of the following, if true, most helps to resolve
+the apparent discrepancy in the information above?
+
+Which one of the following most accurately expresses
+the conclusion drawn in the editorial’s argument?
+
+(A)
+
+(A)
+
+(B)
+(C)
+
+(D)
+
+(E)
+
+Air-conditioning is not the only significant drain
+on the electrical system in the area.
+Most air-conditioning in the region is used to
+cool businesses and factories.
+Most air-conditioning systems could be made
+more energy efficient by implementing simple
+design modifications.
+Residents of the region are not likely to reduce
+their air conditioner use voluntarily during
+particularly hot weather.
+The heat wave is expected to abate in the near
+future.
+
+9. Long-term and short-term relaxation training are two
+common forms of treatment for individuals experiencing
+problematic levels of anxiety. Yet studies show that on
+average, regardless of which form of treatment one
+receives, symptoms of anxiety decrease to a normal
+level within the short-term-training time period. Thus,
+for most people the generally more expensive long-term
+training is unwarranted.
+Which one of the following, if true, most weakens the
+argument?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+A decrease in symptoms of anxiety often occurs
+even with no treatment or intervention by a
+mental health professional.
+Short-term relaxation training conducted by a
+more experienced practitioner can be more
+expensive than long-term training conducted
+by a less experienced practitioner.
+Recipients of long-term training are much less
+likely than recipients of short-term training to
+have recurrences of problematic levels of anxiety.
+The fact that an individual thinks that a treatment
+will reduce his or her anxiety tends, in and of
+itself, to reduce the individual’s anxiety.
+Short-term relaxation training involves the
+teaching of a wider variety of anxiety-combating
+relaxation techniques than does long-term
+training.
+
+(B)
+
+(C)
+
+(D)
+(E)
+
+The claim that advertising persuades people that
+they need things that they merely want rests on
+a fuzzy distinction.
+Many critics of consumerism insist that advertising
+attempts to blur people’s ability to distinguish
+between wants and needs.
+There is nothing wrong with advertising that
+tries to persuade people that they need certain
+consumer goods.
+Many critics of consumerism fail to realize that
+certain things are essential to human happiness.
+Critics of consumerism often use fuzzy
+distinctions to support their claims.
+
+11. People who browse the web for medical information
+often cannot discriminate between scientifically valid
+information and quackery. Much of the quackery is
+particularly appealing to readers with no medical
+background because it is usually written more clearly
+than scientific papers. Thus, people who rely on the web
+when attempting to diagnose their medical conditions
+are likely to do themselves more harm than good.
+Which one of the following is an assumption the
+argument requires?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+People who browse the web for medical
+information typically do so in an attempt to
+diagnose their medical conditions.
+People who attempt to diagnose their medical
+conditions are likely to do themselves more
+harm than good unless they rely exclusively
+on scientifically valid information.
+People who have sufficient medical knowledge
+to discriminate between scientifically valid
+information and quackery will do themselves
+no harm if they rely on the web when attempting
+to diagnose their medical conditions.
+Many people who browse the web assume that
+information is not scientifically valid unless it
+is clearly written.
+People attempting to diagnose their medical
+conditions will do themselves more harm than
+good only if they rely on quackery instead of
+scientifically valid information.
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+12. When adults toss balls to very young children they
+generally try to toss them as slowly as possible to
+compensate for the children’s developing coordination.
+But recent studies show that despite their developing
+coordination, children actually have an easier time
+catching balls that are thrown at a faster speed.
+Which one of the following, if true, most helps to
+explain why very young children find it easier to catch
+balls that are thrown at a faster speed?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Balls thrown at a faster speed, unlike balls
+thrown at a slower speed, trigger regions in the
+brain that control the tracking of objects for
+self-defense.
+Balls that are tossed more slowly tend to have a
+higher arc that makes it less likely that the ball
+will be obscured by the body of the adult
+tossing it.
+Adults generally find it easier to catch balls that
+are thrown slowly than balls that are thrown at
+a faster speed.
+Children are able to toss balls back to the adults
+with more accuracy when they throw fast than
+when they throw the ball back more slowly.
+There is a limit to how fast the balls can be
+tossed to the children before the children start
+to have more difficulty in catching them.
+
+13. Like a genetic profile, a functional magnetic-resonance
+image (fMRI) of the brain can contain information that
+a patient wishes to keep private. An fMRI of a brain
+also contains enough information about a patient’s skull
+to create a recognizable image of that patient’s face. A
+genetic profile can be linked to a patient only by
+referring to labels or records.
+The statements above, if true, most strongly support
+which one of the following?
+(A)
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+It is not important that medical providers apply
+labels to fMRIs of patients’ brains.
+An fMRI has the potential to compromise
+patient privacy in circumstances in which a
+genetic profile would not.
+In most cases patients cannot be reasonably sure
+that the information in a genetic profile will be
+kept private.
+Most of the information contained in an fMRI
+of a person’s brain is also contained in that
+person’s genetic profile.
+Patients are more concerned about threats to
+privacy posed by fMRIs than they are about
+those posed by genetic profiles.
+
+3
+
+3
+
+-25-
+
+14. Council member: I recommend that the abandoned shoe
+factory be used as a municipal emergency shelter.
+Some council members assert that the courthouse
+would be a better shelter site, but they have
+provided no evidence of this. Thus, the shoe
+factory would be a better shelter site.
+A questionable technique used in the council member’s
+argument is that of
+(A)
+(B)
+
+(C)
+(D)
+(E)
+
+asserting that a lack of evidence against a view
+is proof that the view is correct
+accepting a claim simply because advocates of
+an opposing claim have not adequately defended
+their view
+attacking the proponents of the courthouse rather
+than addressing their argument
+attempting to persuade its audience by appealing
+to their fear
+attacking an argument that is not held by any
+actual council member
+
+15. It was misleading for James to tell the Core Curriculum
+Committee that the chair of the Anthropology Department
+had endorsed his proposal. The chair of the Anthropology
+Department had told James that his proposal had her
+endorsement, but only if the draft proposal she saw
+included all the recommendations James would ultimately
+make to the Core Curriculum Committee.
+The argument relies on which one of the following
+assumptions?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+If the chair of the Anthropology Department did
+not endorse James’s proposed recommendations,
+the Core Curriculum Committee would be
+unlikely to implement them.
+The chair of the Anthropology Department
+would have been opposed to any
+recommendations James proposed to the
+Core Curriculum Committee other than those
+she had seen.
+James thought that the Core Curriculum
+Committee would implement the proposed
+recommendations only if they believed that the
+recommendations had been endorsed by the
+chair of the Anthropology Department.
+James thought that the chair of the
+Anthropology Department would have
+endorsed all of the recommendations that he
+proposed to the Core Curriculum Committee.
+The draft proposal that the chair of the
+Anthropology Department had seen did not
+include all of the recommendations in James’s
+proposal to the Core Curriculum Committee.
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+
+-26-
+
+16. Travaillier Corporation has recently hired employees
+with experience in the bus tour industry, and its
+executives have also been negotiating with charter bus
+companies that subcontract with bus tour companies.
+But Travaillier has traditionally focused on serving
+consumers who travel primarily by air, and marketing
+surveys show that Travaillier’s traditional consumers
+have not changed their vacation preferences. Therefore,
+Travaillier must be attempting to enlarge its consumer
+base by attracting new customers.
+Which one of the following, if true, would most weaken
+the argument?
+(A)
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+In the past, Travaillier has found it very difficult
+to change its customers’ vacation preferences.
+Several travel companies other than Travaillier
+have recently tried and failed to expand into
+the bus tour business.
+At least one of Travaillier’s new employees not
+only has experience in the bus tour industry
+but has also designed air travel vacation
+packages.
+Some of Travaillier’s competitors have increased
+profits by concentrating their attention on their
+customers who spend the most on vacations.
+The industry consultants employed by Travaillier
+typically recommend that companies expand by
+introducing their current customers to new
+products and services.
+
+17. Educator: Traditional classroom education is ineffective
+because education in such an environment is not
+truly a social process and only social processes
+can develop students’ insights. In the traditional
+classroom, the teacher acts from outside the group
+and interaction between teachers and students is
+rigid and artificial.
+The educator’s conclusion follows logically if which one
+of the following is assumed?
+(A)
+(B)
+
+(C)
+(D)
+(E)
+
+Development of insight takes place only if
+genuine education also occurs.
+Classroom education is effective if the
+interaction between teachers and students is
+neither rigid nor artificial.
+All social processes involve interaction that is
+neither rigid nor artificial.
+Education is not effective unless it leads to the
+development of insight.
+The teacher does not act from outside the group
+in a nontraditional classroom.
+
+3
+
+3
+18. The probability of avoiding heart disease is increased if
+one avoids fat in one’s diet. Furthermore, one is less
+likely to eat fat if one avoids eating dairy foods. Thus
+the probability of maintaining good health is increased
+by avoiding dairy foods.
+The reasoning in the argument is most vulnerable to
+criticism on which one of the following grounds?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+The argument ignores the possibility that, even
+though a practice may have potentially negative
+consequences, its elimination may also have
+negative consequences.
+The argument fails to consider the possibility
+that there are more ways than one of decreasing
+the risk of a certain type of occurrence.
+The argument presumes, without providing
+justification, that factors that carry increased
+risks of negative consequences ought to be
+eliminated.
+The argument fails to show that the evidence
+appealed to is relevant to the conclusion
+asserted.
+The argument fails to consider that what is
+probable will not necessarily occur.
+
+19. Professor: One cannot frame an accurate conception of
+one’s physical environment on the basis of a
+single momentary perception, since each such
+glimpse occurs from only one particular perspective.
+Similarly, any history book gives only a distorted
+view of the past, since it reflects the biases and
+prejudices of its author.
+The professor’s argument proceeds by
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+attempting to show that one piece of reasoning
+is incorrect by comparing it with another,
+presumably flawed, piece of reasoning
+developing a case for one particular conclusion
+by arguing that if that conclusion were false,
+absurd consequences would follow
+making a case for the conclusion of one argument
+by showing that argument’s resemblance to
+another, presumably cogent, argument
+arguing that because something has a certain
+group of characteristics, it must also have
+another, closely related, characteristic
+arguing that a type of human cognition is
+unreliable in one instance because it has been
+shown to be unreliable under similar
+circumstances
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+20. To date, most of the proposals that have been endorsed
+by the Citizens League have been passed by the city
+council. Thus, any future proposal that is endorsed by
+the Citizens League will probably be passed as well.
+The pattern of reasoning in which one of the following
+arguments is most similar to that in the argument above?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Most of the Vasani grants that have been awarded
+in previous years have gone to academic
+biologists. Thus, if most of the Vasani grants
+awarded next year are awarded to academics,
+most of these will probably be biologists.
+Most of the individual trees growing on the
+coastal islands in this area are deciduous.
+Therefore, most of the tree species on these
+islands are probably deciduous varieties.
+Most of the editors who have worked for the
+local newspaper have not been sympathetic to
+local farmers. Thus, if the newspaper hires
+someone who is sympathetic to local farmers,
+they will probably not be hired as an editor.
+Most of the entries that were received after the
+deadline for last year’s photography contest
+were rejected by the judges’ committee. Thus,
+the people whose entries were received after
+the deadline last year will probably send them
+in well before the deadline this year.
+Most of the stone artifacts that have been found
+at the archaeological site have been domestic
+tools. Thus, if the next artifact found at the site
+is made of stone, it will probably be a
+domestic tool.
+
+3
+
+3
+
+-27-
+
+21. Chemist: The molecules of a certain weed-killer are
+always present in two forms, one the mirror image
+of the other. One form of the molecule kills weeds,
+while the other has no effect on them. As a result,
+the effectiveness of the weed-killer in a given
+situation is heavily influenced by which of the
+two forms is more concentrated in the soil, which
+in turn varies widely because local soil conditions
+will usually favor the breakdown of one form or
+the other. Thus, much of the data on the effects of
+this weed-killer are probably misleading.
+Which one of the following, if true, most strengthens
+the chemist’s argument?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+In general, if the molecules of a weed-killer are
+always present in two forms, then it is likely
+that weeds are killed by one of those two forms
+but unaffected by the other.
+Almost all of the data on the effects of the
+weed-killer are drawn from laboratory studies
+in which both forms of the weed-killer’s
+molecules are equally concentrated in the soil
+and equally likely to break down in that soil.
+Of the two forms of the weed-killer’s molecules,
+the one that kills weeds is found in most local
+soil conditions to be the more concentrated form.
+The data on the effects of the weed-killer are
+drawn from studies of the weed-killer under a
+variety of soil conditions similar to those in
+which the weed-killer is normally applied.
+Data on the weed-killer’s effects that rely solely
+on the examination of the effects of only one
+of the two forms of the weed-killer’s molecules
+will almost certainly be misleading.
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+
+-28-
+
+22. Principle: A police officer is eligible for a Mayor’s
+Commendation if the officer has an exemplary
+record, but not otherwise; an officer eligible for
+the award who did something this year that
+exceeded what could be reasonably expected of a
+police officer should receive the award if the act
+saved someone’s life.
+Conclusion: Officer Franklin should receive a Mayor’s
+Commendation but Officer Penn should not.
+
+3
+
+3
+23. Essayist: It is much less difficult to live an enjoyable
+life if one is able to make lifestyle choices that
+accord with one’s personal beliefs and then see
+those choices accepted by others. It is possible for
+people to find this kind of acceptance by choosing
+friends and associates who share many of their
+personal beliefs. Thus, no one should be denied
+the freedom to choose the people with whom he
+or she will associate.
+
+From which one of the following sets of facts can the
+conclusion be properly drawn using the principle?
+
+Which one of the following principles, if valid, most
+helps to justify the essayist’s argument?
+
+(A)
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+In saving a child from drowning this year,
+Franklin and Penn both risked their lives
+beyond what could be reasonably expected of
+a police officer. Franklin has an exemplary
+record but Penn does not.
+Both Franklin and Penn have exemplary records,
+and each officer saved a child from drowning
+earlier this year. However, in doing so, Franklin
+went beyond what could be reasonably expected
+of a police officer; Penn did not.
+Neither Franklin nor Penn has an exemplary
+record. But, in saving the life of an accident
+victim, Franklin went beyond what could be
+reasonably expected of a police officer. In the
+only case in which Penn saved someone’s life
+this year, Penn was merely doing what could
+be reasonably expected of an officer under the
+circumstances.
+At least once this year, Franklin has saved a
+person’s life in such a way as to exceed what
+could be reasonably expected of a police officer.
+Penn has not saved anyone’s life this year.
+Both Franklin and Penn have exemplary records.
+On several occasions this year Franklin has
+saved people’s lives, and on many occasions
+this year Franklin has exceeded what could be
+reasonably expected of a police officer. On no
+occasions this year has Penn saved a person’s
+life or exceeded what could be reasonably
+expected of an officer.
+
+(B)
+(C)
+
+(D)
+
+(E)
+
+No one should be denied the freedom to make
+lifestyle choices that accord with his or her
+personal beliefs.
+One should associate with at least some people
+who share many of one’s personal beliefs.
+If having a given freedom could make it less
+difficult for someone to live an enjoyable life,
+then no one should be denied that freedom.
+No one whose enjoyment of life depends, at
+least in part, on friends and associates who
+share many of the same personal beliefs should
+be deliberately prevented from having such
+friends and associates.
+One may choose for oneself the people with
+whom one will associate, if doing so could
+make it easier to live an enjoyable life.
+
+24. Physician: The rise in blood pressure that commonly
+accompanies aging often results from a calcium
+deficiency. This deficiency is frequently caused
+by a deficiency in the active form of vitamin D
+needed in order for the body to absorb calcium.
+Since the calcium in one glass of milk per day can
+easily make up for any underlying calcium
+deficiency, some older people can lower their
+blood pressure by drinking milk.
+The physician’s conclusion is properly drawn if which
+one of the following is assumed?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+There is in milk, in a form that older people
+can generally utilize, enough of the active
+form of vitamin D and any other substances
+needed in order for the body to absorb the
+calcium in that milk.
+Milk does not contain any substance that is
+likely to cause increased blood pressure in
+older people.
+Older people’s drinking one glass of milk per
+day does not contribute to a deficiency in the
+active form of vitamin D needed in order for
+the body to absorb the calcium in that milk.
+People who consume high quantities of calcium
+together with the active form of vitamin D and
+any other substances needed in order for the
+body to absorb calcium have normal blood
+pressure.
+Anyone who has a deficiency in the active form
+of vitamin D also has a calcium deficiency.
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+
+3
+
+25. Political philosopher: A just system of taxation would
+require each person’s contribution to correspond
+directly to the amount the society as a whole
+contributes to serve that person’s interests. For
+purposes of taxation, wealth is the most objective
+way to determine how well the society has served
+the interest of any individual. Therefore, each
+person should be taxed solely in proportion to her
+or his income.
+The flawed reasoning in the political philosopher’s
+argument is most similar to that in which one of the
+following?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Cars should be taxed in proportion to the danger
+that they pose. The most reliable measure of
+this danger is the speed at which a car can
+travel. Therefore, cars should be taxed only in
+proportion to their ability to accelerate quickly.
+People should be granted autonomy in proportion
+to their maturity. A certain psychological test
+was designed to provide an objective measure
+of maturity. Therefore, those scoring above
+high school level on the test should be granted
+complete autonomy.
+Everyone should pay taxes solely in proportion
+to the benefits they receive from government.
+Many government programs provide subsidies
+for large corporations. Therefore, a just tax
+would require corporations to pay a greater
+share of their income in taxes than individual
+citizens pay.
+Individuals who confer large material benefits
+upon society should receive high incomes.
+Those with high incomes should pay
+correspondingly high taxes. Therefore, we as a
+society should place high taxes on activities
+that confer large benefits upon society.
+Justice requires that health care be given in
+proportion to each individual’s need. Therefore,
+we need to ensure that the most seriously ill
+hospital patients are given the highest priority
+for receiving care.
+
+3
+
+-29-
+
+26. A recent poll showed that almost half of the city’s
+residents believe that Mayor Walker is guilty of ethics
+violations. Surprisingly, however, 52 percent of those
+surveyed judged Walker’s performance as mayor to be
+good or excellent, which is no lower than it was before
+anyone accused him of ethics violations.
+Which one of the following, if true, most helps to
+explain the surprising fact stated above?
+(A)
+
+(B)
+
+(C)
+(D)
+
+(E)
+
+Almost all of the people who believe that Walker
+is guilty of ethics violations had thought, even
+before he was accused of those violations, that
+his performance as mayor was poor.
+In the time since Walker was accused of ethics
+violations, there has been an increase in the
+percentage of city residents who judge the
+performance of Walker’s political opponents to
+be good or excellent.
+About a fifth of those polled did not know that
+Walker had been accused of ethics violations.
+Walker is currently up for reelection, and
+anticorruption groups in the city have
+expressed support for Walker’s opponent.
+Walker has defended himself against the
+accusations by arguing that the alleged ethics
+violations were the result of honest mistakes
+by his staff members.
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+3
+
+4
+
+-30-
+
+4
+4
+4
+4
+=
+=
+=
+=
+SECTION IV
+
+Time—35 minutes
+27 Questions
+Directions: Each set of questions in this section is based on a single passage or a pair of passages. The questions are to be
+answered on the basis of what is stated or implied in the passage or pair of passages. For some of the questions, more than one
+of the choices could conceivably answer the question. However, you are to choose the best answer; that is, the response that
+most accurately and completely answers the question, and blacken the corresponding space on your answer sheet.
+
+(5)
+
+(10)
+
+(15)
+
+(20)
+
+(25)
+
+(30)
+
+(35)
+
+(40)
+
+(45)
+
+(50)
+
+In Alaska, tradition is a powerful legal concept,
+appearing in a wide variety of legal contexts relating
+to natural-resource and public-lands activities. Both
+state and federal laws in the United States assign
+privileges and exemptions to individuals engaged in
+“traditional” activities using otherwise off-limits land
+and resources. But in spite of its prevalence in
+statutory law, the term “tradition” is rarely defined.
+Instead, there seems to be a presumption that its
+meaning is obvious. Failure to define “tradition”
+clearly in written law has given rise to problematic and
+inconsistent legal results.
+One of the most prevalent ideas associated with
+the term “tradition” in the law is that tradition is based
+on long-standing practice, where “long-standing”
+refers not only to the passage of time but also to the
+continuity and regularity of a practice. But two recent
+court cases involving indigenous use of sea otter pelts
+illustrate the problems that can arise in the application
+of this sense of “traditional.”
+The hunting of sea otters was initially prohibited
+by the Fur Seal Treaty of 1910. The Marine Mammal
+Protection Act (MMPA) of 1972 continued the
+prohibition, but it also included an Alaska Native
+exemption, which allowed takings of protected
+animals for use in creating authentic native articles by
+means of “traditional native handicrafts.” The U.S.
+Fish and Wildlife Service (FWS) subsequently issued
+regulations defining authentic native articles as those
+“commonly produced” before 1972, when the MMPA
+took effect. Not covered by the exemption, according
+to the FWS, were items produced from sea otter pelts,
+because Alaska Natives had not produced such
+handicrafts “within living memory.”
+In 1986, FWS agents seized articles of clothing
+made from sea otter pelts from Marina Katelnikoff, an
+Aleut. She sued, but the district court upheld the FWS
+regulations. Then in 1991 Katelnikoff joined a similar
+suit brought by Boyd Dickinson, a Tlingit from whom
+articles of clothing made from sea otter pelts had also
+been seized. After hearing testimony establishing that
+Alaska Natives had made many uses of sea otters
+before the occupation of the territory by Russia in the
+late 1700s, the court reconsidered what constituted a
+traditional item under the statute. The court now held
+that the FWS’s regulations were based on a “strained
+interpretation” of the word “traditional,” and that the
+reference to “living memory” imposed an excessively
+restrictive time frame. The court stated, “The fact that
+Alaskan natives were prevented, by circumstances
+beyond their control, from exercising a tradition for a
+
+(55)
+
+given period of time does not mean that it has been
+lost forever or that it has become any less a ‘tradition.’
+It defies common sense to define ‘traditional’ in such
+a way that only those traditions that were exercised
+during a comparatively short period in history could
+qualify as ‘traditional.’”
+
+1. Which one of the following most accurately expresses
+the main point of the passage?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Two cases involving the use of sea otter pelts
+by Alaska Natives illustrate the difficulties
+surrounding the application of the legal
+concept of tradition in Alaska.
+Two court decisions have challenged the notion
+that for an activity to be considered “traditional,”
+it must be shown to be a long-standing activity
+that has been regularly and continually practiced.
+Two court cases involving the use of sea otter
+pelts by Alaska Natives exemplify the wave of
+lawsuits that are now occurring in response to
+changes in natural-resource and public-lands
+regulations.
+Definitions of certain legal terms long taken for
+granted are being reviewed in light of new
+evidence that has come from historical sources
+relating to Alaska Native culture.
+Alaskan state laws and U.S. federal laws are
+being challenged by Alaska Natives because
+the laws are not sufficiently sensitive to
+indigenous peoples’ concerns.
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+= = = =
+
+4
+
+4
+
+4
+
+2. The court in the 1991 case referred to the FWS’s
+interpretation of the term “traditional” as “strained”
+(line 46) because, in the court’s view, the interpretation
+(A)
+(B)
+(C)
+(D)
+
+(E)
+
+ignored the ways in which Alaska Natives have
+historically understood the term “traditional”
+was not consonant with any dictionary
+definition of “traditional”
+was inconsistent with what the term “traditional”
+is normally understood to mean
+led the FWS to use the word “traditional” to
+describe a practice that should not have been
+described as such
+failed to specify which handicrafts qualified to
+be designated as “traditional”
+
+4
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+(C)
+(D)
+(E)
+
+a narrow interpretation of the term “long-standing”
+a common-sense interpretation of the phrase
+“within living memory”
+strict adherence to the intent of FWS regulations
+a new interpretation of the Fur Seal Treaty of
+1910
+testimony establishing certain historical facts
+
+(A)
+(B)
+(C)
+(D)
+(E)
+
+reflects a compromise between the competing
+concerns surrounding the issue at hand
+emphasizes the continuity and regularity of
+practices to which the term is applied
+reflects the term’s usage in everyday discourse
+encourages the term’s application to recently
+developed, as well as age-old, activities
+reflects the concerns of the people engaging in
+what they consider to be traditional activities
+
+establish the earliest point in time at which fur
+seals were considered to be on the brink of
+extinction
+indicate that several animals in addition to sea
+otters were covered by various regulatory
+exemptions issued over the years
+demonstrate that there is a well-known legal
+precedent for prohibiting the hunting of
+protected animals
+suggest that the sea otter population was
+imperiled by Russian seal hunters and not by
+Alaska Natives
+help explain the evolution of Alaska Natives’
+legal rights with respect to handicrafts defined
+as “traditional”
+
+7. The ruling in the 1991 case would be most relevant as a
+precedent for deciding in a future case that which one of
+the following is a “traditional” Alaska Native handicraft?
+(A)
+
+(B)
+4. The passage most strongly suggests that the court in the
+1986 case believed that “traditional” should be defined
+in a way that
+
+-31-
+
+6. The author’s reference to the Fur Seal Treaty (line 22)
+primarily serves to
+
+3. According to the passage, the court’s decision in the
+1991 case was based on which one of the following?
+(A)
+(B)
+
+4
+
+(C)
+
+(D)
+
+(E)
+
+A handicraft no longer practiced but shown by
+archaeological evidence to have been common
+among indigenous peoples several millennia ago
+A handicraft that commonly involves taking the
+pelts of more than one species that has been
+designated as endangered
+A handicraft that was once common but was
+discontinued when herd animals necessary for
+its practice abandoned their local habitat due to
+industrial development
+A handicraft about which only a very few
+indigenous craftspeople were historically in
+possession of any knowledge
+A handicraft about which young Alaska Natives
+know little because, while it was once common,
+few elder Alaska Natives still practice it
+
+5. Which one of the following is most strongly suggested
+by the passage?
+(A)
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Between 1910 and 1972, Alaska Natives were
+prohibited from hunting sea otters.
+Traditional items made from sea otter pelts were
+specifically mentioned in the Alaska Native
+exemption of the MMPA.
+In the late 1700s, Russian hunters pressured the
+Russian government to bar Alaska Natives
+from hunting sea otters.
+By 1972, the sea otter population in Alaska had
+returned to the levels at which it had been
+prior to the late 1700s.
+Prior to the late 1700s, sea otters were the marine
+animal most often hunted by Alaska Natives.
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4
+
+-32-
+
+(5)
+
+(10)
+
+(15)
+
+(20)
+
+(25)
+
+(30)
+
+(35)
+
+(40)
+
+(45)
+
+(50)
+
+(55)
+
+4
+4
+4
+4
+=
+=
+=
+=
+
+The literary development of Kate Chopin, author
+of The Awakening (1899), took her through several
+phases of nineteenth-century women’s fiction. Born in
+1850, Chopin grew up with the sentimental novels that
+formed the bulk of the fiction of the mid–nineteenth
+century. In these works, authors employed elevated,
+romantic language to portray female characters whose
+sole concern was to establish their social positions
+through courtship and marriage. Later, when she
+started writing her own fiction, Chopin took as her
+models the works of a group of women writers known
+as the local colorists.
+After 1865, what had traditionally been regarded
+as “women’s culture” began to dissolve as women
+entered higher education, the professions, and the
+political world in greater numbers. The local colorists,
+who published stories about regional life in the 1870s
+and 1880s, were attracted to the new worlds opening
+up to women, and felt free to move within these worlds
+as artists. Like anthropologists, the local colorists
+observed culture and character with almost scientific
+detachment. However, as “women’s culture” continued
+to disappear, the local colorists began to mourn its
+demise by investing its images with mythic significance.
+In their stories, the garden became a paradisal
+sanctuary; the house became an emblem of female
+nurturing; and the artifacts of domesticity became
+virtual totemic objects.
+Unlike the local colorists, Chopin devoted herself
+to telling stories of loneliness, isolation, and frustration.
+But she used the conventions of the local colorists to
+solve a specific narrative problem: how to deal with
+extreme psychological states without resorting to the
+excesses of the sentimental novels she read as a youth.
+By reporting narrative events as if they were part of a
+region’s “local color,” Chopin could tell rather shocking
+or even melodramatic tales in an uninflected manner.
+Chopin did not share the local colorists’ growing
+nostalgia for the past, however, and by the 1890s she
+was looking beyond them to the more ambitious
+models offered by a movement known as the New
+Women. In the form as well as the content of their
+work, the New Women writers pursued freedom and
+innovation. They modified the form of the sentimental
+novel to make room for interludes of fantasy and
+parable, especially episodes in which women dream of
+an entirely different world than the one they inhabit.
+Instead of the crisply plotted short stories that had
+been the primary genre of the local colorists, the New
+Women writers experimented with impressionistic
+methods in an effort to explore hitherto unrecorded
+aspects of female consciousness. In The Awakening,
+Chopin embraced this impressionistic approach more
+fully to produce 39 numbered sections of uneven
+length unified less by their style or content than by
+their sustained focus on faithfully rendering the
+workings of the protagonist’s mind.
+
+8. Which one of the following statements most accurately
+summarizes the content of the passage?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Although Chopin drew a great deal of the
+material for The Awakening from the concerns
+of the New Women, she adapted them, using
+the techniques of the local colorists, to recapture
+the atmosphere of the novels she had read in
+her youth.
+Avoiding the sentimental excesses of novels she
+read in her youth, and influenced first by the
+conventions of the local colorists and then by
+the innovative methods of the New Women,
+Chopin developed the literary style she used in
+The Awakening.
+With its stylistic shifts, variety of content, and
+attention to the internal psychology of its
+characters, Chopin’s The Awakening was unlike
+any work of fiction written during the
+nineteenth century.
+In The Awakening, Chopin rebelled against the
+stylistic restraint of the local colorists,
+choosing instead to tell her story in elevated,
+romantic language that would more accurately
+convey her protagonist’s loneliness and
+frustration.
+Because she felt a kinship with the subject
+matter but not the stylistic conventions of the
+local colorists, Chopin turned to the New
+Women as models for the style she was
+struggling to develop in The Awakening.
+
+9. With which one of the following statements about the
+local colorists would Chopin have been most likely to
+agree?
+(A)
+
+(B)
+
+(C)
+(D)
+
+(E)
+
+Their idealization of settings and objects
+formerly associated with “women’s culture”
+was misguided.
+Their tendency to observe character
+dispassionately caused their fiction to have
+little emotional impact.
+Their chief contribution to literature lay in their
+status as inspiration for the New Women.
+Their focus on regional life prevented them
+from addressing the new realms opening up to
+women.
+Their conventions prevented them from
+portraying extreme psychological states with
+scientific detachment.
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+= = = =
+
+4
+
+4
+
+4
+
+10. According to the passage, which one of the following
+conventions did Chopin adopt from other nineteenthcentury women writers?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+elevated, romantic language
+mythic images of “women’s culture”
+detached narrative stance
+strong plot lines
+lonely, isolated protagonists
+
+4
+
+(A)
+(B)
+(C)
+(D)
+(E)
+
+domestic experiences
+regional customs
+artistic productions
+educational achievements
+political activities
+
+12. The author of the passage describes the sentimental
+novels of the mid–nineteenth century in lines 3–9
+primarily in order to
+(A)
+(B)
+(C)
+(D)
+(E)
+
+argue that Chopin’s style represents an attempt
+to mimic these novels
+explain why Chopin later rejected the work of
+the local colorists
+establish the background against which Chopin’s
+fiction developed
+illustrate the excesses to which Chopin believed
+nostalgic tendencies would lead
+prove that women’s literature was already
+flourishing by the time Chopin began to write
+
+-33-
+
+14. The primary purpose of the passage is to
+(A)
+(B)
+
+(C)
+(D)
+
+11. As it is used by the author in line 14 of the passage,
+“women’s culture” most probably refers to a culture that
+was expressed primarily through women’s
+
+4
+
+(E)
+
+educate readers of The Awakening about aspects
+of Chopin’s life that are reflected in the novel
+discuss the relationship between Chopin’s
+artistic development and changes in nineteenthcentury women’s fiction
+trace the evolution of nineteenth-century women’s
+fiction using Chopin as a typical example
+counter a claim that Chopin’s fiction was
+influenced by external social circumstances
+weigh the value of Chopin’s novels and stories
+against those of other writers of her time
+
+15. The work of the New Women, as it is characterized in
+the passage, gives the most support for which one of the
+following generalizations?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Works of fiction written in a passionate, engaged
+style are more apt to effect changes in social
+customs than are works written in a scientific,
+detached style.
+Even writers who advocate social change can
+end up regretting the change once it has
+occurred.
+Changes in social customs inevitably lead to
+changes in literary techniques as writers attempt
+to make sense of the new social realities.
+Innovations in fictional technique grow out of
+writers’ attempts to describe aspects of reality
+that have been neglected in previous works.
+Writers can most accurately depict extreme
+psychological states by using an uninflected
+manner.
+
+13. The passage suggests that one of the differences
+between The Awakening and the work of the New
+Women was that The Awakening
+(A)
+(B)
+(C)
+(D)
+(E)
+
+attempted to explore aspects of female
+consciousness
+described the dream world of female characters
+employed impressionism more consistently
+throughout
+relied more on fantasy to suggest psychological
+states
+displayed greater unity of style and content
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4
+
+-34-
+
+(5)
+
+(10)
+
+(15)
+
+(20)
+
+(25)
+
+(30)
+
+(35)
+
+(40)
+
+(45)
+
+(50)
+
+(55)
+
+4
+4
+4
+4
+=
+=
+=
+=
+
+Until the 1950s, most scientists believed that the
+geology of the ocean floor had remained essentially
+unchanged for many millions of years. But this idea
+became insupportable as new discoveries were made.
+First, scientists noticed that the ocean floor exhibited
+odd magnetic variations. Though unexpected, this was
+not entirely surprising, because it was known that
+basalt—the volcanic rock making up much of the
+ocean floor—contains magnetite, a strongly magnetic
+mineral that was already known to locally distort
+compass readings on land. This distortion is due to the
+fact that although some basalt has so-called “normal”
+polarity—that is, the magnetite in it has the same
+polarity as the earth’s present magnetic field—other
+basalt has reversed polarity, an alignment opposite that
+of the present field. This occurs because in magma
+(molten rock), grains of magnetite—behaving like
+little compass needles—align themselves with the
+earth’s magnetic field, which has reversed at various
+times throughout history. When magma cools to form
+solid basalt, the alignment of the magnetite grains is
+“locked in,” recording the earth’s polarity at the time
+of cooling.
+As more of the ocean floor was mapped, the
+magnetic variations revealed recognizable patterns,
+particularly in the area around the other great oceanic
+discovery of the 1950s: the global mid-ocean ridge, an
+immense submarine mountain range that winds its way
+around the earth much like the seams of a baseball.
+Alternating stripes of rock with differing polarities are
+laid out in rows on either side of the mid-ocean ridge:
+one stripe with normal polarity and the next with
+reversed polarity. Scientists theorized that mid-ocean
+ridges mark structurally weak zones where the ocean
+floor is being pulled apart along the ridge crest. New
+magma from deep within the earth rises easily through
+these weak zones and eventually erupts along the crest
+of the ridges to create new oceanic crust. Over millions
+of years, this process, called ocean floor spreading,
+built the mid-ocean ridge.
+This theory was supported by several lines of
+evidence. First, at or near the ridge crest, the rocks are
+very young, and they become progressively older
+away from the crest. Further, the youngest rocks all
+have normal polarity. Finally, because geophysicists
+had already determined the ages of continental volcanic
+rocks and, by measuring the magnetic orientation of
+these same rocks, had assigned ages to the earth’s
+recent magnetic reversals, they were able to compare
+these known ages of magnetic reversals with the ocean
+floor’s magnetic striping pattern, enabling scientists to
+show that, if we assume that the ocean floor moved
+away from the spreading center at a rate of several
+centimeters per year, there is a remarkable correlation
+between the ages of the earth’s magnetic reversals and
+the striping pattern.
+
+16. Which one of the following most accurately expresses
+the main idea of the passage?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+In the 1950s, scientists refined their theories
+concerning the process by which the ocean
+floor was formed many millions of years ago.
+The discovery of basalt’s magnetic properties in
+the 1950s led scientists to formulate a new
+theory to account for the magnetic striping on
+the ocean floor.
+In the 1950s, two significant discoveries led to
+the transformation of scientific views about the
+geology of the oceans.
+Local distortions to compass readings are caused,
+scientists have discovered, by magma that rises
+through weak zones in the ocean floor to
+create new oceanic crust.
+The discovery of the ocean floor’s magnetic
+variations convinced scientists of the need to
+map the entire ocean floor, which in turn led
+to the discovery of the global mid-ocean ridge.
+
+17. The author characterizes the correlation mentioned in
+the last sentence of the passage as “remarkable” in order
+to suggest that the correlation
+(A)
+(B)
+(C)
+(D)
+(E)
+
+indicates that ocean floor spreading occurs at an
+extremely slow rate
+explains the existence of the global mid-ocean
+ridge
+demonstrates that the earth’s magnetic field is
+considerably stronger than previously believed
+provides strong confirmation of the ocean floor
+spreading theory
+reveals that the earth’s magnetic reversals have
+occurred at very regular intervals
+
+18. According to the passage, which one of the following is
+true of magnetite grains?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+In the youngest basalt, they are aligned with the
+earth’s current polarity.
+In magma, most but not all of them align
+themselves with the earth’s magnetic field.
+They are not found in other types of rock
+besides basalt.
+They are about the size of typical grains of sand.
+They are too small to be visible to the naked eye.
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+= = = =
+
+4
+
+4
+
+4
+
+19. If the time intervals between the earth’s magnetic field
+reversals fluctuate greatly, then, based on the passage,
+which one of the following is most likely to be true?
+(A)
+(B)
+
+(C)
+(D)
+
+(E)
+
+Compass readings are most likely to be distorted
+near the peaks of the mid-ocean ridge.
+It is this fluctuation that causes the ridge to
+wind around the earth like the seams on a
+baseball.
+Some of the magnetic stripes of basalt on the
+ocean floor are much wider than others.
+Continental rock is a more reliable indicator of
+the earth’s magnetic field reversals than is
+oceanic rock.
+Within any given magnetic stripe on the ocean
+floor, the age of the basalt does not vary.
+
+4
+
+4
+
+-35-
+
+21. Which one of the following is most strongly supported
+by the passage?
+(A)
+
+(B)
+(C)
+(D)
+
+(E)
+
+Submarine basalt found near the continents is
+likely to be some of the oldest rock on the
+ocean floor.
+The older a sample of basalt is, the more times
+it has reversed its polarity.
+Compass readings are more likely to become
+distorted at sea than on land.
+The magnetic fields surrounding magnetite
+grains gradually weaken over millions of years
+on the ocean floor.
+Any rock that exhibits present-day magnetic
+polarity was formed after the latest reversal of
+the earth’s magnetic field.
+
+20. Which one of the following would, if true, most help to
+support the ocean floor spreading theory?
+(A)
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+There are types of rock other than basalt that
+are known to distort compass readings.
+The ages of the earth’s magnetic reversals have
+been verified by means other than examining
+magnetite grains in rock.
+Pieces of basalt similar to the type found on
+the mid-ocean ridge have been found on the
+continents.
+Along its length, the peak of the mid-ocean
+ridge varies greatly in height above the ocean
+floor.
+Basalt is the only type of volcanic rock found
+in portions of the ocean floor nearest to the
+continents.
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4
+
+-36-
+
+(5)
+
+(10)
+
+(15)
+
+(20)
+
+(25)
+
+(30)
+
+(35)
+
+(40)
+
+(45)
+
+(50)
+
+(55)
+
+4
+4
+4
+4
+=
+=
+=
+=
+
+Passage A
+Central to the historian’s profession and
+scholarship has been the ideal of objectivity. The
+assumptions upon which this ideal rests include a
+commitment to the reality of the past, a sharp separation
+between fact and value, and above all, a distinction
+between history and fiction.
+According to this ideal, historical facts are prior
+to and independent of interpretation: the value of an
+interpretation should be judged by how well it accounts
+for the facts; if an interpretation is contradicted by
+facts, it should be abandoned. The fact that successive
+generations of historians have ascribed different
+meanings to past events does not mean, as relativist
+historians claim, that the events themselves lack fixed
+or absolute meanings.
+Objective historians see their role as that of a
+neutral judge, one who must never become an
+advocate or, worse, propagandist. Their conclusions
+should display the judicial qualities of balance and
+evenhandedness. As with the judiciary, these qualities
+require insulation from political considerations, and
+avoidance of partisanship or bias. Thus objective
+historians must purge themselves of external loyalties;
+their primary allegiance is to objective historical truth
+and to colleagues who share a commitment to its
+discovery.
+
+Passage B
+The very possibility of historical scholarship as
+an enterprise distinct from propaganda requires of its
+practitioners that self-discipline that enables them to
+do such things as abandon wishful thinking, assimilate
+bad news, and discard pleasing interpretations that fail
+elementary tests of evidence and logic.
+Yet objectivity, for the historian, should not be
+confused with neutrality. Objectivity is perfectly
+compatible with strong political commitment. The
+objective thinker does not value detachment as an end
+in itself but only as an indispensable means of achieving
+deeper understanding. In historical scholarship, the
+ideal of objectivity is most compellingly embodied in
+the powerful argument—one that reveals by its every
+twist and turn its respectful appreciation of the
+alternative arguments it rejects. Such a text attains
+power precisely because its author has managed to
+suspend momentarily his or her own perceptions so as
+to anticipate and take into account objections and
+alternative constructions—not those of straw men, but
+those that truly issue from the rival’s position,
+understood as sensitively and stated as eloquently as
+the rival could desire. To mount a telling attack on a
+position, one must first inhabit it. Those so habituated
+to their customary intellectual abode that they cannot
+even explore others can never be persuasive to anyone
+but fellow habitués.
+Such arguments are often more faithful to the
+complexity of historical interpretation—more faithful
+even to the irreducible plurality of human perspectives—
+than texts that abjure position-taking altogether. The
+powerful argument is the highest fruit of the kind of
+thinking I would call objective, and in it neutrality
+
+(60)
+
+plays no part. Authentic objectivity bears no resemblance
+to the television newscaster’s mechanical gesture of
+allocating the same number of seconds to both sides of
+a question, editorially splitting the difference between
+them, irrespective of their perceived merits.
+
+22. Both passages are concerned with answering which one
+of the following questions?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+What are the most serious flaws found in recent
+historical scholarship?
+What must historians do in order to avoid bias
+in their scholarship?
+How did the ideal of objectivity first develop?
+Is the scholarship produced by relativist
+historians sound?
+Why do the prevailing interpretations of past
+events change from one era to the next?
+
+23. Both passages identify which one of the following as a
+requirement for historical research?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+the historian’s willingness to borrow methods of
+analysis from other disciplines when evaluating
+evidence
+the historian’s willingness to employ
+methodologies favored by proponents of
+competing views when evaluating evidence
+the historian’s willingness to relinquish favored
+interpretations in light of the discovery of facts
+inconsistent with them
+the historian’s willingness to answer in detail all
+possible objections that might be made against
+his or her interpretation
+the historian’s willingness to accord respectful
+consideration to rival interpretations
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+= = = =
+
+4
+
+4
+
+4
+
+24. The author of passage B and the kind of objective
+historian described in passage A would be most likely
+to disagree over whether
+(A)
+(B)
+(C)
+(D)
+(E)
+
+detachment aids the historian in achieving an
+objective view of past events
+an objective historical account can include a
+strong political commitment
+historians today are less objective than they
+were previously
+propaganda is an essential tool of historical
+scholarship
+historians of different eras have arrived at differing
+interpretations of the same historical events
+
+25. Which one of the following most accurately describes
+an attitude toward objectivity present in each passage?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Objectivity is a goal that few historians can
+claim to achieve.
+Objectivity is essential to the practice of
+historical scholarship.
+Objectivity cannot be achieved unless historians
+set aside political allegiances.
+Historians are not good judges of their own
+objectivity.
+Historians who value objectivity are becoming
+less common.
+
+4
+
+4
+
+-37-
+
+26. Both passages mention propaganda primarily in order to
+(A)
+(B)
+(C)
+(D)
+(E)
+
+refute a claim made by proponents of a rival
+approach to historical scholarship
+suggest that scholars in fields other than history
+tend to be more biased than historians
+point to a type of scholarship that has recently
+been discredited
+identify one extreme to which historians may
+tend
+draw contrasts with other kinds of persuasive
+writing
+
+27. The argument described in passage A and the argument
+made by the author of passage B are both advanced by
+(A)
+(B)
+
+(C)
+(D)
+(E)
+
+citing historical scholarship that fails to achieve
+objectivity
+showing how certain recent developments in
+historical scholarship have undermined the
+credibility of the profession
+summarizing opposing arguments in order to
+point out their flaws
+suggesting that historians should adopt standards
+used by professionals in certain other fields
+identifying what are seen as obstacles to
+achieving objectivity
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+4
+
+COMPUTING YOUR SCORE
+Directions:
+1. Use the Answer Key on the next page to check your
+answers.
+2. Use the Scoring Worksheet below to compute your
+raw score.
+3. Use the Score Conversion Chart to convert your
+raw score into the 120–180 scale.
+
+Scoring Worksheet
+1. Enter the number of questions you answered
+correctly in each section.
+Number
+Correct
+SECTION I.................
+SECTION II................
+SECTION III...............
+SECTION IV ..............
+2. Enter the sum here:
+This is your Raw Score.
+
+Conversion Chart
+For Converting Raw Score to the 120–180 LSAT
+Scaled Score
+LSAT Form 2LSN93
+Reported
+Score
+180
+179
+178
+177
+176
+175
+174
+173
+172
+171
+170
+169
+168
+167
+166
+165
+164
+163
+162
+161
+160
+159
+158
+157
+156
+155
+154
+153
+152
+151
+150
+149
+148
+147
+146
+145
+144
+143
+142
+141
+140
+139
+138
+137
+136
+135
+134
+133
+132
+131
+130
+129
+128
+127
+126
+125
+124
+123
+122
+121
+120
+
+Raw Score
+Lowest
+
+Highest
+
+100
+99
+98
+97
+—*
+96
+95
+94
+93
+92
+90
+89
+88
+86
+85
+83
+82
+80
+78
+77
+75
+73
+71
+69
+67
+66
+64
+62
+60
+58
+56
+54
+53
+51
+49
+47
+46
+44
+42
+41
+39
+38
+36
+35
+33
+32
+30
+29
+28
+27
+25
+24
+23
+22
+21
+20
+19
+18
+—*
+17
+0
+
+101
+99
+98
+97
+—*
+96
+95
+94
+93
+92
+91
+89
+88
+87
+85
+84
+82
+81
+79
+77
+76
+74
+72
+70
+68
+66
+65
+63
+61
+59
+57
+55
+53
+52
+50
+48
+46
+45
+43
+41
+40
+38
+37
+35
+34
+32
+31
+29
+28
+27
+26
+24
+23
+22
+21
+20
+19
+18
+—*
+17
+16
+
+*There is no raw score that will produce this scaled score for this form.
+
+43
+
+ANSWER KEY
+SECTION I
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+C
+B
+C
+D
+B
+A
+B
+
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+E
+D
+A
+D
+B
+D
+D
+
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+
+C
+D
+C
+E
+C
+B
+E
+
+22.
+23.
+24.
+25.
+
+B
+B
+E
+A
+
+C
+D
+
+SECTION II
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+E
+B
+A
+C
+E
+B
+D
+
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+C
+D
+A
+B
+E
+C
+E
+
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+
+A
+B
+B
+B
+C
+E
+A
+
+22.
+23.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+E
+D
+E
+A
+D
+D
+B
+
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+SECTION III
+B
+C
+A
+B
+A
+B
+B
+
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+
+E
+E
+D
+A
+C
+E
+B
+
+22. A
+23. C
+24. A
+25. A
+26. A
+
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+
+D
+C
+D
+A
+C
+B
+A
+
+22. B
+23. C
+24. B
+25. B
+26. D
+27. E
+
+SECTION IV
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+44
+
+A
+C
+E
+B
+A
+E
+C
+
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+B
+A
+C
+A
+C
+C
+B
+
+

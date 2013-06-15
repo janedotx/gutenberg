@@ -1,0 +1,3892 @@
+September 1995
+Full-Length LSAT
+
+1
+
+1
+
+1
+SECTION I
+Time—35 minutes
+24 Questions
+Directions: Each group of questions in this section is based on a set of conditions. In answering some of the questions, it may be
+useful to draw a rough diagram. Choose the response that most accurately and completely answers each question and blacken the
+corresponding space on your answer sheet.
+Questions 1-6
+Eight new students—R, S, T, V, W, X, Y, Z—are being
+divided among exactly three classes—class 1, class 2, and
+class 3. Classes 1 and 2 will gain three new students each;
+class 3 will gain two new students. The following
+restrictions apply:
+R must be added to class 1.
+S must be added to class 3.
+Neither S nor W can be added to the same class as Y.
+V cannot be added to the same class as Z.
+If T is added to class 1, Z must also be added to
+class 1.
+1.
+
+4.
+
+(A)
+(B)
+(C)
+(D)
+(E)
+5.
+
+1
+R, T, Y
+R, T, Z
+R, W, X
+R, X, Z
+R, X, Z
+
+2
+V, W, X
+S, V, Y
+V, Y, Z
+T, V, Y
+V, W, Y
+
+3
+S, Z
+W, X
+S, T
+S, W
+S, T
+
+6.
+
+Which one of the following is a complete and accurate
+list of classes any one of which could be the class to
+which V is added?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+3.
+
+class 1
+class 3
+class 1, class 3
+class 2, class 3
+class 1, class 2, class 3
+
+If X is added to class 1, which one of the following is a
+student who must be added to class 2?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+T
+V
+W
+Y
+Z
+
+V
+W
+X
+Y
+Z
+
+Which one of the following must be true?
+(A)
+(B)
+
+2.
+
+Y and Z
+W and Z
+V and Y
+V and W
+T and Z
+
+If T is added to class 3, which one of the following is a
+student who must be added to class 2?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Which one of the following is an acceptable assignment
+of students to the three classes?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+If X is added to class 3, each of the following is a pair
+of students who can be added to class 1 EXCEPT
+
+(C)
+(D)
+(E)
+
+If T and X are added to class 2, V is added
+to class 3.
+If V and W are added to class 1, T is added
+to class 3.
+If V and W are added to class 1, Z is added to
+class 3.
+If V and X are added to class 1, W is added
+to class 3.
+If Y and Z are added to class 2, X is added to
+class 2.
+
+GO ON TO THE NEXT PAGE.
+
+1
+
+1
+
+1
+Questions 7-12
+Four lions—F, G, H, J—and two tigers—K and M—will be
+assigned to exactly six stalls, one animal per stall. The stalls
+are arranged as follows:
+First Row: 1 2 3
+Second Row: 4 5 6
+The only stalls that face each other are stalls 1 and 4, stalls
+2 and 5, and stalls 3 and 6. The following conditions apply:
+The tigers’ stalls cannot face each other.
+A lion must be assigned to stall 1.
+H must be assigned to stall 6.
+J must be assigned to a stall numbered one higher
+than K’s stall.
+K cannot be assigned to the stall that faces H’s stall.
+7.
+
+Which one of the following must be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+8.
+
+(A)
+(B)
+(C)
+(D)
+(E)
+
+F’s stall is in the same row as J’s stall.
+F is assigned to a lower-numbered stall than
+G.
+G is assigned to a lower-numbered stall than
+M.
+G’s stall faces H’s stall.
+M’s stall is in the same row as G’s stall.
+
+11. If J is assigned to stall 3, which one of the following
+could be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+F is assigned to stall 2.
+F is assigned to stall 4.
+G is assigned to stall 1.
+G is assigned to stall 4.
+M is assigned to stall 5.
+
+12. Which one of the following must be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+A tiger is assigned to stall 2.
+A tiger is assigned to stall 4.
+A tiger is assigned to stall 5.
+A lion is assigned to stall 3.
+A lion is assigned to stall 4.
+
+Which one of the following could be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+9.
+
+F is assigned to an even-numbered stall.
+F is assigned to stall 1.
+J is assigned to stall 2 or else stall 3.
+J is assigned to stall 3 or else stall 4.
+K is assigned to stall 2 or else stall 4.
+
+10. If K’s stall is in the same row as H’s stall, which one of
+the following must be true?
+
+F’s stall is numbered one higher than J’s stall.
+H’s stall faces M’s stall.
+J is assigned to stall 4.
+K’s stall faces J’s stall.
+K’s stall is in a different row than J’s stall.
+
+Which one of the following must be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+A tiger is assigned to stall 2.
+A tiger is assigned to stall 5.
+K’s stall is in a different row from M’s stall.
+Each tiger is assigned to an even-numbered
+stall.
+Each lion is assigned to a stall that faces a
+tiger’s stall.
+
+GO ON TO THE NEXT PAGE.
+
+1
+
+1
+
+1
+Questions 13-18
+On an undeveloped street, a developer will simultaneously
+build four houses on one side, numbered consecutively
+1, 3, 5, and 7, and four houses on the opposite side,
+numbered consecutively 2, 4, 6, and 8. Houses 2, 4, 6, and 8
+will face houses 1, 3, 5, and 7, respectively. Each house will
+be exactly one of three styles—ranch, split-level, or
+Tudor—according to the following conditions:
+Adjacent houses are of different styles.
+No split-level house faces another split-level house.
+Every ranch house has at least one Tudor house
+adjacent to it.
+House 3 is a ranch house.
+House 6 is a split-level house.
+13. Any of the following could be a Tudor house EXCEPT
+house
+(A)
+(B)
+(C)
+(D)
+(E)
+
+1
+2
+4
+7
+8
+
+14. If there is one ranch house directly opposite another
+ranch house, which one of the following could be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+House 8 is a ranch house.
+House 7 is a split-level house.
+House 4 is a Tudor house.
+House 2 is a split-level house.
+House 1 is a ranch house.
+
+15. If house 4 is a Tudor house, then it could be true that
+house
+(A)
+(B)
+(C)
+(D)
+(E)
+
+1 is a Tudor house
+2 is a Tudor house
+5 is a ranch house
+7 is a Tudor house
+8 is a ranch house
+
+16. On the street, there could be exactly
+(A)
+(B)
+(C)
+(D)
+(E)
+
+one ranch house
+one Tudor house
+two Tudor houses
+four ranch houses
+ﬁve ranch houses
+
+17. If no house faces a house of the same style, then it must
+be true that house
+(A)
+(B)
+(C)
+(D)
+(E)
+
+1 is a split-level house
+1 is a Tudor house
+2 is a ranch house
+2 is a split-level house
+4 is a Tudor house
+
+18. If the condition requiring house 6 to be a split-level
+house is suspended but all other original conditions
+remain the same, then any of the following could be
+an accurate list of the styles of houses 2, 4, 6, and 8,
+respectively, EXCEPT:
+(A)
+(B)
+(C)
+(D)
+(E)
+
+ranch, split-level, ranch, Tudor
+split-level, ranch, Tudor, split-level
+split-level, Tudor, ranch, split-level
+Tudor, ranch, Tudor, split-level
+Tudor, split-level, ranch, Tudor
+
+GO ON TO THE NEXT PAGE.
+
+1
+
+1
+
+1
+Questions 19-24
+
+21. Which one of the following could be true after exactly
+two rounds of matches have been played?
+
+Within a tennis league each of ﬁve teams occupies one of
+ﬁve positions, numbered 1 through 5 in order of rank, with
+number 1 as the highest position. The teams are initially
+in the order R, J, S, M, L, with R in position 1. Teams
+change positions only when a lower-positioned team defeats
+a higher-positioned team. The rules are as follows:
+Matches are played alternately in odd-position rounds
+and in even-position rounds.
+In an odd-position round, teams in positions 3 and 5
+play against teams positioned immediately above
+them.
+In an even-position round, teams in positions 2 and 4
+play against teams positioned immediately above
+them.
+When a lower-positioned team defeats a
+higher-positioned team, the two teams switch
+positions after the round is completed.
+19. Which one of the following could be the order of
+teams, from position 1 through position 5 respectively,
+after exactly one round of even-position matches if no
+odd-position round has yet been played?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+J, R, M, L, S
+J, R, S, L, M
+R, J, M, L, S
+R, J, M, S, L
+R, S, J, L, M
+
+20. If exactly two rounds of matches have been played,
+beginning with an odd-position round, and if the
+lower-positioned teams have won every match in those
+two rounds, then each of the following must be true
+EXCEPT:
+(A)
+(B)
+(C)
+(D)
+(E)
+
+L is one position higher than J.
+R is one position higher than L.
+S is one position higher than R.
+J is in position 4.
+M is in position 3.
+
+(A)
+(B)
+(C)
+(D)
+(E)
+
+J has won two matches.
+L has lost two matches.
+R has won two matches.
+L’s only match was played against J.
+M played against S in two matches.
+
+22. If after exactly three rounds of matches M is in position
+4, and J and L have won all of their matches, then
+which one of the following can be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+J is in position 2.
+J is in position 3.
+L is in position 2.
+R is in position 1.
+S is in position 3.
+
+23. If after exactly three rounds M has won three matches
+and the rankings of the other four teams relative to each
+other remain the same, then which one of the following
+must be in position 3?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+J
+L
+M
+R
+S
+
+24. If after exactly three rounds the teams, in order from
+ﬁrst to ﬁfth position, are R, J, L, S, and M, then which
+one of the following could be the order, from ﬁrst to
+ﬁfth position, of the teams after the second round?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+J, R, M, S, L
+J, L, S, M, R
+R, J, S, L, M
+R, L, M, S, J
+R, M, L, S, J
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+2
+
+2
+
+2
+
+2 2
+SECTION II
+Time—35 minutes
+24 Questions
+
+Directions: The questions in this section are based on the reasoning contained in brief statements or passages. For some questions,
+more than one of the choices could conceivably answer the question. However, you are to choose the best answer; that is, the response
+that most accurately and completely answers the question. You should not make assumptions that are by commonsense standards
+implausible, superﬂuous, or incompatible with the passage. After you have chosen the best answer, blacken the corresponding space
+on your answer sheet.
+1.
+
+The city’s center for disease control reports that the
+rabies epidemic is more serious now than it was two
+years ago: two years ago less than 25 percent of the
+local raccoon population was infected, whereas today
+the infection has spread to more than 50 percent of the
+raccoon population. However, the newspaper reports
+that whereas two years ago 32 cases of rabid raccoons
+were conﬁrmed during a 12-month period, in the
+past 12 months only 18 cases of rabid raccoons were
+conﬁrmed.
+Which one of the following, if true, most helps to
+resolve the apparent discrepancy between the two
+reports?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+The number of cases of rabies in wild animals
+other than raccoons has increased in the past 12
+months.
+A signiﬁcant proportion of the raccoon
+population succumbed to rabies in the year
+before last.
+The symptoms of distemper, another disease to
+which raccoons are susceptible, are virtually
+identical to those of rabies.
+Since the outbreak of the epidemic, raccoons,
+which are normally nocturnal, have increasingly
+been seen during daylight hours.
+The number of conﬁrmed cases of rabid raccoons
+in neighboring cities has also decreased over the
+past year.
+
+2.
+
+Recently, reviewers of patent applications decided
+against granting a patent to a university for a genetically
+engineered mouse developed for laboratory use in
+studying cancer. The reviewers argued that the mouse
+was a new variety of animal and that rules governing
+the granting of patents speciﬁcally disallow patents for
+new animal varieties.
+Which one of the following, if true, most weakens
+the patent reviewers’ argument?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+The restrictions the patent reviewers cited
+pertain only to domesticated farm animals.
+The university’s application for a patent for the
+genetically engineered mouse was the ﬁrst such
+patent application made by the university.
+The patent reviewers had reached the same
+decision on all previous patent requests for new
+animal varieties.
+The patent reviewers had in the past approved
+patents for genetically engineered plant
+varieties.
+The patent reviewers had previously decided
+against granting patents for new animal varieties
+that were developed through conventional
+breeding programs rather than through genetic
+engineering.
+
+GO ON TO THE NEXT PAGE.
+
+2
+
+2
+Questions 3-4
+
+5.
+
+Although water in deep aquifers does not contain
+disease-causing bacteria, when public water supplies are
+drawn from deep aquifers, chlorine is often added to the
+water as a disinfectant because contamination can occur as
+a result of ﬂaws in pipes or storage tanks. Of 50
+municipalities that all pumped water from the same deep
+aquifer, 30 chlorinated their water and 20 did not. The
+water in all of the municipalities met the regional
+government’s standards for cleanliness, yet the water
+supplied by the 20 municipalities that did not chlorinate had
+less bacterial contamination than the water supplied by the
+municipalities that added chlorine.
+3.
+
+(B)
+(C)
+(D)
+(E)
+4.
+
+A municipality’s initial decision whether or
+not to use chlorine is based on the amount of
+bacterial contamination in the water source.
+Water in deep aquifers does not contain any
+bacteria of any kind.
+Where accessible, deep aquifers are the best
+choice as a source for a municipal water supply.
+The regional government’s standards allow some
+bacteria in municipal water supplies.
+Chlorine is the least effective disinfecting agent.
+
+Which one of the following, if true, most helps explain
+the difference in bacterial contamination in the two
+groups of municipalities?
+(A)
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Chlorine is considered by some experts to be
+dangerous to human health, even in the small
+concentrations used in municipal water supplies.
+When municipalities decide not to chlorinate
+their water supplies, it is usually because their
+citizens have voiced objections to the taste and
+smell of chlorine.
+The municipalities that did not add chlorine to
+their water supplies also did not add any of the
+other available water disinfectants, which are
+more expensive than chlorine.
+Other agents commonly added to public
+water supplies, such as ﬂuoride and sodium
+hydroxide, were not used by any of the 50
+municipalities.
+Municipalities that do not chlorinate their water
+supplies are subject to stricter regulation by
+the regional government in regard to pipes and
+water tanks than are municipalities that use
+chlorine.
+
+The population of songbirds throughout England has
+decreased in recent years. Many people explain this
+decrease as the result of an increase during the same
+period in the population of magpies, which eat the eggs
+and chicks of songbirds.
+Which one of the following, if true, argues most
+strongly against the explanation reported in the
+passage?
+(A)
+(B)
+
+Which one of the following can properly be concluded
+from the information given above?
+(A)
+
+2
+
+2 2
+
+(C)
+
+(D)
+
+(E)
+
+6.
+
+Ofﬁcial records of the population of birds in
+England have been kept for only the past 30
+years.
+The number of eggs laid yearly by a female
+songbird varies widely according to the
+songbird’s species.
+Although the overall population of magpies has
+increased, in most areas of England in which the
+songbird population has decreased, the number
+of magpies has remained stable.
+The population of magpies has increased because
+farmers no longer shoot or trap magpies to
+any great extent, though farmers still consider
+magpies to be pests.
+Although magpies eat the eggs and chicks of
+songbirds, magpies’ diets consist of a wide
+variety of other foods as well.
+
+The introduction of symbols for numbers is an event
+lost in prehistory, but the earliest known number
+symbols, in the form of simple grooves and scratches
+on bones and stones, date back 20,000 years or more.
+Nevertheless, since it was not until 5,500 years ago that
+systematic methods for writing numerals were invented,
+it was only then that any sort of computation became
+possible.
+Which one of the following is an assumption on which
+the argument relies?
+(A)
+(B)
+
+(C)
+(D)
+(E)
+
+Grooves and scratches found on bones and stones
+were all made by people, and none resulted
+from natural processes.
+Some kinds of surfaces upon which numeric
+symbols could have been made in the period
+before 5,500 years ago were not used for that
+purpose.
+Grooves and scratches inscribed on bones and
+stones do not date back to the time of the
+earliest people.
+Computation of any sort required a systematic
+method for writing numerals.
+Systematic methods for writing numerals were
+invented only because the need for computation
+arose.
+
+GO ON TO THE NEXT PAGE.
+
+2
+
+2
+7.
+
+Politician: Now that we are ﬁnally cleaning up the
+industrial pollution in the bay, we must start
+making the bay more accessible to the public for
+recreational purposes.
+Reporter: But if we increase public access to the bay,
+it will soon become polluted again.
+Politician: Not true. The public did not have access to
+the bay, and it got polluted. Therefore, if and when
+the public is given access to the bay, it will not get
+polluted.
+Which one of the following most closely parallels the
+ﬂawed pattern of reasoning in the politician’s reply to the
+reporter?
+(A)
+
+(B)
+
+(C)
+
+(D)
+(E)
+
+8.
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+(E)
+
+If there had been a full moon last night, the tide
+would be higher than usual today. Since the tide
+is no higher than usual, there must not have been
+a full moon last night.
+The detective said that whoever stole the money
+would be spending it conspicuously by now.
+Jones is spending money conspicuously, so he
+must be the thief.
+When prisoners convicted of especially violent
+crimes were kept in solitary conﬁnement,
+violence in the prisons increased. Therefore,
+violence in the prisons will not increase if
+such prisoners are allowed to mix with fellow
+prisoners.
+To get a driver’s license, one must pass a written
+test. Smith passed the written test, so she must
+have gotten a driver’s license.
+In order to like abstract art, you have to
+understand it. Therefore, in order to understand
+abstract art, you have to like it.
+Because learned patterns of behavior, such as
+the association of a green light with “go” or the
+expectation that switches will ﬂip up for “on,”
+become deeply ingrained, designers should make
+allowances for that fact, in order not to produce
+machines that are inefﬁcient or dangerous. In
+which one of the following situations is the
+principle expressed most clearly violated?
+Manufacturers have refused to change the standard
+order of letters on the typewriter keyboard even
+though some people who have never learned to
+type ﬁnd this arrangement of letters bewildering.
+Government regulations require that crucial
+instruments in airplane cockpits be placed
+in exactly the same array in all commercial
+aircraft.
+Automobile manufacturers generally design for all
+of their automobiles a square or oblong ignition
+key and a round or oval luggage compartment
+key.
+The only trafﬁc signs that are triangular in shape
+are “yield” signs.
+On some tape recorders the “start” button is red
+and the “stop” button is yellow.
+
+2
+
+2 2
+9.
+
+From 1973 to 1989 total energy use in this country
+increased less than 10 percent. However, the use of
+electrical energy in this country during this same period
+grew by more than 50 percent, as did the gross national
+product—the total value of all goods and services
+produced in the nation.
+If the statements above are true, then which one of the
+following must also be true?
+(A)
+(B)
+(C)
+(D)
+
+(E)
+
+Most of the energy used in this country in 1989
+was electrical energy.
+From 1973 to 1989 there was a decline in the
+use of energy other than electrical energy in this
+country.
+From 1973 to 1989 there was an increase in the
+proportion of energy use in this country that
+consisted of electrical energy use.
+In 1989 electrical energy constituted a larger
+proportion of the energy used to produce the
+gross national product than did any other form
+of energy.
+In 1973 the electrical energy that was produced
+constituted a smaller proportion of the gross
+national product than did all other forms of
+energy combined.
+
+10. A fundamental illusion in robotics is the belief that
+improvements in robots will liberate humanity from
+“hazardous and demeaning work.” Engineers are
+designing only those types of robots that can be
+properly maintained with the least expensive, least
+skilled human labor possible. Therefore, robots will not
+eliminate demeaning work
+workonly substitute one type of
+demeaning work for another.
+The reasoning in the argument is most vulnerable to the
+criticism that it
+(A)
+
+(B)
+(C)
+(D)
+
+(E)
+
+ignores the consideration that in a competitive
+business environment some jobs might
+be eliminated if robots are not used in the
+manufacturing process
+assumes what it sets out to prove, that robots
+create demeaning work
+does not specify whether or not the engineers
+who design robots consider their work
+demeaning
+attempts to support its conclusion by an appeal to
+the emotion of fear, which is often experienced
+by people faced with the prospect of losing their
+jobs to robots
+fails to address the possibility that the amount of
+demeaning work eliminated by robots might be
+signiﬁcantly greater than the amount they create
+
+GO ON TO THE NEXT PAGE.
+
+2
+
+2
+11. If the needle on an industrial sewing machine becomes
+badly worn, the article being sewn can be ruined. In
+traditional apparel factories, the people who operate the
+sewing machines monitor the needles and replace those
+that begin to wear out. Industrial sewing operations
+are becoming increasingly automated, however, and
+it would be inefﬁcient for a factory to hire people for
+the sole purpose of monitoring needles. Therefore a
+sophisticated new acoustic device that detects wear in
+sewing machine needles is expected to become standard
+equipment in the automated apparel factories of the
+future.
+Which one of the following is most strongly supported
+by the information above?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+In automated apparel factories, items will be
+ruined by faulty needles less frequently than
+happens in traditional apparel factories.
+In the automated apparel factories of the future,
+each employee will perform only one type of
+task.
+Traditional apparel factories do not use any
+automated equipment.
+The needles of industrial sewing machines wear
+out at unpredictable rates.
+As sewing machine needles become worn, the
+noise they make becomes increasingly loud.
+
+2
+
+2 2
+Questions 12-13
+Alexander: The chemical waste dump outside our town
+should be cleaned up immediately. Admittedly, it will
+be very costly to convert that site into woodland, but
+we have a pressing obligation to redress the harm we
+have done to local forests and wildlife.
+Teresa: But our town’s ﬁrst priority is the health of
+its people. So even if putting the dump there was
+environmentally disastrous, we should not spend
+our resources on correcting it unless it presents a
+signiﬁcant health hazard to people. If it does, then we
+only need to remove that hazard.
+12. Teresa’s statement most closely conforms to which
+one of the following principles?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Environmental destruction should be redressed
+only if it is in the economic interest of the
+community to do so.
+Resources should be allocated only to satisfy
+goals that have the highest priority.
+No expense should be spared in protecting the
+community’s health.
+Environmental hazards that pose slight health
+risks to people should be rectiﬁed if the
+technology is available to do so.
+It is the community as a whole that should
+evaluate the importance of eliminating various
+perceived threats to public health.
+
+13. Which one of the following is the point at issue between
+Alexander and Teresa?
+(A)
+(B)
+(C)
+(D)
+
+(E)
+
+whether the maintenance of a chemical waste
+dump inﬂicts signiﬁcant damage on forests and
+wildlife
+whether it is extremely costly to clean up a
+chemical waste dump in order to replace it by a
+woodland
+whether the public should be consulted in
+determining the public health risk posed by a
+chemical waste dump
+whether the town has an obligation to redress
+damage to local forests and wildlife if that
+damage poses no signiﬁcant health hazard to
+people
+whether destroying forests and wildlife in order
+to establish a chemical waste dump amounts to
+an environmental disaster
+
+GO ON TO THE NEXT PAGE.
+
+2
+
+2
+14. In 1980, Country A had a per capita gross domestic
+product (GDP) that was $5,000 higher than that of
+the European Economic Community. By 1990, the
+difference, when adjusted for inﬂation, had increased to
+$6,000. Since a rising per capita GDP indicates a rising
+average standard of living, the average standard of
+living in Country A must have risen between 1980 and
+1990.
+Which one of the following is an assumption on which
+the argument depends?
+(A)
+(B)
+(C)
+
+(D)
+(E)
+
+Between 1980 and 1990, Country A and the
+European Economic Community experienced
+the same percentage increase in population.
+Between 1980 and 1990, the average standard of
+living in the European Economic Community
+fell.
+Some member countries of the European
+Economic Community had, during the 1980s, a
+higher average standard of living than Country
+A.
+The per capita GDP of the European Economic
+Community was not lower by more than $1,000
+in 1990 than it had been in 1980.
+In 1990, no member country of the European
+Economic Community had a per capita GDP
+higher than that of Country A.
+
+15. Municipal ofﬁcials originally estimated that it would be
+six months before municipal road crews could complete
+repaving a stretch of road. The ofﬁcials presumed
+that private contractors could not ﬁnish any sooner.
+However, when the job was assigned to a private
+contractor, it was completed in just 28 days.
+Which one of the following, if true, does most to
+resolve the discrepancy between the time estimated
+for completion of the repaving job, and the actual time
+taken by the private contractor?
+(A)
+(B)
+
+(C)
+(D)
+(E)
+
+Road repaving work can only be done in the
+summer months of June, July, and August.
+The labor union contract for road crews
+employed by both municipal agencies and
+private contractors stipulates that employees can
+work only eight hours a day, ﬁve days a week,
+before being paid overtime.
+Many road-crew workers for private contractors
+have previously worked for municipal road
+crews, and vice versa.
+Private contractors typically assign 25 workers to
+each road-repaving job site, whereas the number
+assigned to municipal road crews is usually 30.
+Municipal agencies must conduct a lengthy
+bidding process to procure supplies after
+repaving work is ordered and before they can
+actually start work, whereas private contractors
+can obtain supplies readily as needed.
+
+2
+
+2 2
+16. Researchers in South Australia estimate changes in
+shark populations inhabiting local waters by monitoring
+what is termed the “catch per unit effort” (CPUE). The
+CPUE for any species of shark is the number of those
+sharks that commercial shark-ﬁshing boats catch per
+hour for each kilometer of gill net set out in the water.
+Since 1973 the CPUE for a particular species of shark
+has remained fairly constant. Therefore, the population
+of that species in the waters around South Australia
+must be at approximately its 1973 level.
+Which one of the following, if true, most seriously
+weakens the argument?
+(A)
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+The waters around South Australia are the
+only area in the world where that particular
+species of shark is found.
+The sharks that are the most proﬁtable to catch
+are those that tend to remain in the same area of
+ocean year after year and not migrate far from
+where they were born.
+A signiﬁcant threat to shark populations,
+in addition to commercial shark ﬁshing, is
+“incidental mortality” that results from catching
+sharks in nets intended for other ﬁsh.
+Most of the quotas designed to protect shark
+populations limit the tonnage of sharks that
+can be taken and not the number of individual
+sharks.
+Since 1980 commercial shark-ﬁshing boats
+have used sophisticated electronic equipment
+that enables them to locate sharks with greater
+accuracy.
+
+GO ON TO THE NEXT PAGE.
+
+2
+
+2
+Questions 17-18
+Winston: The Public Transportation Authority (PTA)
+cannot fulﬁll its mandate to operate without a budget
+deﬁcit unless it eliminates service during late-night
+periods of low ridership. Since the fares collected
+during these periods are less than the cost of providing
+the service, these cuts would reduce the deﬁcit and
+should be made. Transit law prohibits unauthorized
+fare increases, and fare-increase authorization would
+take two years.
+Ping: Such service cuts might cost the PTA more in lost
+fares than they would save in costs, for the PTA would
+lose those riders who leave home during the day but
+must return late at night. Thus the PTA would lose two
+fares, while realizing cost savings for only one leg of
+such trips.
+
+19. The Volunteers for Literacy Program would beneﬁt if
+Dolores takes Victor’s place as director, since Dolores
+is far more skillful than Victor is at securing the kind
+of ﬁnancial support the program needs and Dolores
+does not have Victor’s propensity for alienating the
+program’s most dedicated volunteers.
+The pattern of reasoning in the argument above is most
+closely paralleled in which one of the following?
+(A)
+
+(B)
+
+17. The relationship of Ping’s response to Winston’s
+argument is that Ping’s response
+(A)
+(B)
+(C)
+(D)
+(E)
+
+carefully redeﬁnes a term used in Winston’s
+argument
+questions Winston’s proposal by raising
+considerations not addressed by Winston
+supplies a premise that could have been used as
+part of the support for Winston’s argument
+introduces detailed statistical evidence that is
+more persuasive than that offered by Winston
+proposes a solution to the PTA’s dilemma by
+contradicting Winston’s conclusion
+
+18. Which one of the following, if true, most strongly
+supports Ping’s conclusion?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Over 23 percent of the round trips made by PTA
+riders are either initiated or else completed
+during late-night periods.
+Reliable survey results show that over 43 percent
+of the PTA’s riders oppose any cut in PTA
+services.
+The last time the PTA petitioned for a 15 percent
+fare increase, the petition was denied.
+The PTA’s budget deﬁcit is 40 percent larger this
+year than it was last year.
+The PTA’s bus drivers recently won a new
+contract that guarantees them a signiﬁcant cash
+bonus each time they work the late-night shifts.
+
+2
+
+2 2
+
+(C)
+
+(D)
+
+(E)
+
+It would be more convenient for Dominique to
+take a bus to school than to take the subway,
+since the bus stops closer to her house than does
+the subway and, unlike the subway, the bus goes
+directly to the school.
+Joshua’s interest would be better served by
+taking the bus to get to his parent’s house rather
+than by taking an airplane, since his primary
+concern is to travel as cheaply as possible and
+taking the bus is less expensive than going by
+airplane.
+Belinda will get to the concert more quickly
+by subway than by taxi, since the concert
+takes place on a Friday evening and on
+Friday evenings trafﬁc near the concert hall is
+exceptionally heavy.
+Anita would beneﬁt ﬁnancially by taking the
+train to work rather than driving her car, since
+when she drives she has to pay parking fees and
+the daily fee for parking a car is higher than a
+round-trip train ticket.
+It would be to Fred’s advantage to exchange his
+bus tickets for train tickets, since he needs to
+arrive at his meeting before any of the other
+participants and if he goes by bus at least one of
+the other participants will arrive ﬁrst.
+
+GO ON TO THE NEXT PAGE.
+
+2
+
+2
+20. Students from outside the province of Markland, who
+in any given academic year pay twice as much tuition
+each as do students from Markland, had traditionally
+accounted for at least two-thirds of the enrollment
+at Central Markland College. Over the past 10 years
+academic standards at the college have risen, and the
+proportion of students who are not Marklanders has
+dropped to around 40 percent.
+Which one of the following can be properly inferred
+from the statements above?
+(A)
+
+(B)
+
+(C)
+(D)
+
+(E)
+
+If it had not been for the high tuition paid by
+students from outside Markland, the college
+could not have improved its academic standards
+over the past 10 years.
+If academic standards had not risen over the past
+10 years, students who are not Marklanders
+would still account for at least two-thirds of the
+college’s enrollment.
+Over the past 10 years, the number of students
+from Markland increased and the number of
+students from outside Markland decreased.
+Over the past 10 years, academic standards at
+Central Markland College have risen by more
+than academic standards at any other college in
+Markland.
+If the college’s per capita revenue from tuition
+has remained the same, tuition fees have
+increased over the past 10 years.
+
+21. Several years ago, as a measure to reduce the
+population of gypsy moths, which depend on oak
+leaves for food, entomologists introduced into many
+oak forests a species of fungus that is poisonous to
+gypsy moth caterpillars. Since then, the population
+of both caterpillars and adult moths has signiﬁcantly
+declined in those areas. Entomologists have concluded
+that the decline is attributable to the presence of the
+poisonous fungus.
+Which one of the following, if true, most strongly
+supports the conclusion drawn by the entomologists?
+(A)
+(B)
+(C)
+
+(D)
+(E)
+
+A strain of gypsy moth whose caterpillars are
+unaffected by the fungus has increased its share
+of the total gypsy moth population.
+The fungus that was introduced to control the
+gypsy moth population is poisonous to few
+insect species other than the gypsy moth.
+An increase in numbers of both gypsy moth
+caterpillars and gypsy moth adults followed a
+drop in the number of some of the species that
+prey on the moths.
+In the past several years, air pollution and acid
+rain have been responsible for a substantial
+decline in oak tree populations.
+The current decline in the gypsy moth population
+in forests where the fungus was introduced is no
+greater than a decline that occurred concurrently
+in other forests.
+
+2
+
+2 2
+22. Director of personnel: Ms. Tours has formally
+requested a salary adjustment on the grounds that
+she was denied merit raises to which she was
+entitled. Since such grounds provide a possible
+basis for adjustments, an ofﬁcial response is
+required. Ms. Tours presents compelling evidence
+that her job performance has been both excellent
+in itself and markedly superior to that of others in
+her department who were awarded merit raises.
+Her complaint that she was treated unfairly thus
+appears justiﬁed. Nevertheless, her request should
+be denied. To raise Ms. Tours’s salary because of
+her complaint would jeopardize the integrity of
+the ﬁrm’s merit-based reward system by sending
+the message that employees can get their salaries
+raised if they just complain enough.
+The personnel director’s reasoning is most vulnerable to
+criticism on the grounds that it
+(A)
+(B)
+(C)
+(D)
+(E)
+
+fails to consider the possibility that Ms. Tours’s
+complaint could be handled on an unofﬁcial
+basis
+attempts to undermine the persuasiveness of Ms.
+Tours’s evidence by characterizing it as “mere
+complaining”
+sidesteps the issue of whether superior job
+performance is a suitable basis for awarding
+salary increases
+ignores the possibility that some of the people
+who did receive merit increases were not
+entitled to them
+overlooks the implications for the integrity of the
+ﬁrm’s merit-based reward system of denying
+Ms. Tour’ s request
+
+GO ON TO THE NEXT PAGE.
+
+2
+
+2
+23. S:
+
+2 2
+
+People who are old enough to ﬁght for their
+country are old enough to vote for the people
+who make decisions about war and peace. This
+government clearly regards 17-year-olds as old
+enough to ﬁght, so it should acknowledge their
+right to vote.
+
+T: Your argument is a good one only to the extent
+that ﬁghting and voting are the same kind of
+activity. Fighting well requires strength,
+muscular coordination, and in a modern army,
+instant and automatic response to orders.
+Performed responsibly, voting, unlike ﬁghting,
+is essentially a deliberative activity requiring
+reasoning power and knowledge of both history
+and human nature.
+T responds to S’s argument by
+(A)
+(B)
+(C)
+(D)
+(E)
+
+citing evidence overlooked by S that would have
+supported S’s conclusion
+calling into question S’s understanding of the
+concept of rights
+showing that S has ignored the distinction
+between having a right to do something and
+having an obligation to do that thing
+challenging the truth of a claim on which S’s
+conclusion is based
+arguing for a conclusion opposite to the one
+drawn by S
+
+24. The role of the Uplandian supreme court is to protect
+all human rights against abuses of government power.
+Since the constitution of Uplandia is not explicit about
+all human rights, the supreme court must sometimes
+resort to principles outside the explicit provisions of
+the constitution in justifying its decisions. However,
+human rights will be subject to the whim of whoever
+holds judicial power unless the supreme court is
+bound to adhere to a single objective standard, namely,
+the constitution. Therefore, nothing but the explicit
+provisions of the constitution can be used to justify
+the court’s decisions. Since these conclusions are
+inconsistent with each other, it cannot be true that the
+role of the Uplandian supreme court is to protect all
+human rights against abuses of government power.
+The reasoning that leads to the conclusion that the ﬁrst
+sentence in the passage is false is ﬂawed because the
+argument
+(A)
+(B)
+(C)
+(D)
+(E)
+
+ignores data that offer reasonable support for a
+general claim and focuses on a single example
+that argues against that claim
+seeks to defend a view on the grounds that the
+view is widely held and that decisions based on
+that view are often accepted as correct
+rejects a claim as false on the grounds that those
+who make that claim could proﬁt if that claim is
+accepted by others
+makes an unwarranted assumption that what is
+true of each member of a group taken separately
+is also true of the group as a whole
+concludes that a particular premise is false when
+it is equally possible for that premise to be true
+and some other premise false
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+2
+
+3
+
+3
+
+3
+
+3
+
+SECTION III
+Time—35 minutes
+26 Questions
+Directions: The questions in this section are based on the reasoning contained in brief statements or passages. For some questions,
+more than one of the choices could conceivably answer the question. However, you are to choose the best answer; that is, the response
+that most accurately and completely answers the question. You should not make assumptions that are by commonsense standards
+implausible, superﬂuous, or incompatible with the passage. After you have chosen the best answer, blacken the corresponding space
+on your answer sheet.
+1.
+
+The painted spider spins webs that are much stickier
+than the webs spun by the other species of spiders that
+share the same habitat. Stickier webs are more efﬁcient
+at trapping insects that ﬂy into them. Spiders prey
+on insects by trapping them in their webs; therefore,
+it can be concluded that the painted spider is a more
+successful predator than its competitors.
+Which one of the following, if true, most seriously
+weakens the argument?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Not all of the species of insects living in the
+painted spider’s habitat are ﬂying insects.
+Butterﬂies and moths, which can shed scales, are
+especially unlikely to be trapped by spider webs
+that are not very sticky.
+Although the painted spider’s venom does not
+kill insects quickly, it paralyzes them almost
+instantaneously.
+Stickier webs reﬂect more light, and so are more
+visible to insects, than are less-sticky webs.
+The webs spun by the painted spider are no
+larger than the webs spun by the other species
+of spiders in the same habitat.
+
+2.
+
+Despite the best efforts of astronomers, no one has yet
+succeeded in exchanging messages with intelligent
+life on other planets or in other solar systems. In fact,
+no one has even managed to prove that any kind of
+extraterrestrial life exists. Thus, there is clearly no
+intelligent life anywhere but on Earth.
+The argument’s reasoning is ﬂawed because the
+argument
+(A)
+(B)
+(C)
+(D)
+(E)
+
+fails to consider that there might be
+extraterrestrial forms of intelligence that are not
+living beings
+confuses an absence of evidence for a hypothesis
+with the existence of evidence against the
+hypothesis
+interprets a disagreement over a scientiﬁc theory
+as a disproof of that theory
+makes an inference that relies on the vagueness
+of the term “life”
+relies on a weak analogy rather than on evidence
+to draw a conclusion
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+Questions 3-4
+
+3
+
+3
+5.
+
+Bart: A mathematical problem that deﬁed solution
+for hundreds of years has ﬁnally yielded to
+a supercomputer. The process by which the
+supercomputer derived the result is so complex,
+however, that no one can fully comprehend it.
+Consequently, the result is unacceptable.
+Anne: In scientiﬁc research, if the results of a test can
+be replicated in other tests, the results are acceptable
+even though the way they were derived might not be
+fully understood. Therefore, if a mathematical result
+derived by a supercomputer can be reproduced by
+other supercomputers following the same procedure, it
+is acceptable.
+3.
+
+It is commonly held among marketing experts that in
+a nonexpanding market a company’s best strategy is to
+go after a bigger share of the market and that the best
+way to do this is to run comparative advertisements that
+emphasize weaknesses in the products of rivals. In the
+stagnant market for food oil, soybean-oil and palm-oil
+producers did wage a two-year battle with comparative
+advertisements about the deleterious effect on health of
+each other’s products. These campaigns, however, had
+little effect on respective market shares; rather, they
+stopped many people from buying any edible oils at all.
+The statements above most strongly support the
+conclusion that comparative advertisements
+(A)
+
+Bart’s argument requires which one of the following
+assumptions?
+
+(B)
+
+(A)
+
+(C)
+
+(B)
+
+(C)
+(D)
+(E)
+
+The mathematical result in question is
+unacceptable because it was derived with the
+use of a supercomputer.
+For the mathematical result in question to be
+acceptable, there must be someone who can
+fully comprehend the process by which it was
+derived.
+To be acceptable, the mathematical result
+in question must be reproduced on another
+supercomputer.
+Making the mathematical result in question less
+complex would guarantee its acceptability.
+The supercomputer cannot derive an acceptable
+solution to the mathematical problem in
+question.
+
+(D)
+(E)
+6.
+
+Recent unexpectedly heavy rainfalls in the metropolitan
+area have ﬁlled the reservoirs and streams; water
+rationing, therefore, will not be necessary this summer.
+Which one of the following, if true, most undermines
+the author’s prediction?
+(A)
+(B)
+
+4.
+
+The exchange between Bart and Anne most strongly
+supports the view that they disagree as to
+(A)
+(B)
+
+(C)
+(D)
+(E)
+
+whether a scientiﬁc result that has not been
+replicated can properly be accepted
+whether the result that a supercomputer derives
+for a mathematical problem must be replicated
+on another supercomputer before it can be
+accepted
+the criterion to be used for accepting a
+mathematical result derived by a supercomputer
+the level of complexity of the process to which
+Bart refers in his statements
+the relative complexity of mathematical
+problems as compared to scientiﬁc problems
+
+increase a company’s market share in all cases
+in which that company’s products are clearly
+superior to the products of rivals
+should not be used in a market that is expanding
+or likely to expand
+should under no circumstances be used as a
+retaliatory measure
+carry the risk of causing a contraction of the
+market at which they are aimed
+yield no long-term gains unless consumers can
+easily verify the claims made
+
+(C)
+
+(D)
+(E)
+
+Water rationing was imposed in the city in three
+of the last ﬁve years.
+A small part of the city’s water supply is
+obtained from deep underground water systems
+that are not reached by rainwater.
+The water company’s capacity to pump water to
+customers has not kept up with the increased
+demand created by population growth in the
+metropolitan area.
+The long-range weather forecast predicts
+lower-than-average temperatures for this
+summer.
+In most years the city receives less total
+precipitation in the summer than it receives in
+any other season.
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+7.
+
+John:
+
+In 80 percent of car accidents, the driver at fault
+was within ﬁve miles of home, so people evidently
+drive less safely near home than they do on long
+trips.
+
+Judy:
+
+But people do 80 percent of their driving within
+ﬁve miles of home.
+
+How is Judy’s response related to John’s argument?
+(A)
+(B)
+(C)
+(D)
+(E)
+8.
+
+It shows that the evidence that John presents, by
+itself, is not enough to prove his claim.
+It restates the evidence that John presents in
+different terms.
+It gives additional evidence that is needed by
+John to support his conclusion.
+It calls into question John’s assumption that
+whenever people drive more than ﬁve miles
+from home they are going on a long trip.
+It suggests that John’s conclusion is merely a
+restatement of his argument’s premise.
+
+Reasonable people adapt themselves to the world;
+unreasonable people persist in trying to adapt the world
+to themselves. Therefore, all progress depends on
+unreasonable people.
+
+3
+
+3
+9.
+
+Theater critic: The theater is in a dismal state.
+Audiences are sparse and revenue is down.
+Without the audience and the revenue, the talented
+and creative people who are the lifeblood of the
+theater are abandoning it. No wonder standards
+are deteriorating.
+Producer: It’s not true that the theater is in decline.
+Don’t you realize that your comments constitute
+a self-fulﬁlling prophecy? By publishing these
+opinions, you yourself are discouraging new
+audiences from emerging and new talent from
+joining the theater.
+Which one of the following is a questionable technique
+employed by the producer in responding to the critic?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+focusing on the effects of the critic’s evaluation
+rather than on its content
+accusing the critic of relying solely on opinion
+unsupported by factual evidence
+challenging the motives behind the critic’s
+remarks rather than the remarks themselves
+relying on emphasis rather than on argument
+invoking authority in order to intimidate the
+critic
+
+If all of the statements in the passage above are true,
+which one of the following statements must also be
+true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Reasonable people and unreasonable people are
+incompatible.
+If there are only reasonable people, there cannot
+be progress.
+If there are unreasonable people, there will be
+progress.
+Some unreasonable people are unable to bring
+about progress.
+Unreasonable people are more persistent than
+reasonable people.
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+10. Michelangelo’s sixteenth-century Sistine Chapel
+paintings are currently being restored. A goal of the
+restorers is to uncover Michelangelo’s original work,
+and so additions made to Michelangelo’s paintings by
+later artists are being removed. However, the restorers
+have decided to make one exception: to leave intact
+additions that were painted by da Volterra.
+Which one of the following, if true, most helps to
+reconcile the restorers’ decision with the goal stated in
+the passage?
+(A)
+(B)
+
+(C)
+(D)
+
+(E)
+
+The restorers believe that da Volterra stripped
+away all previous layers of paint before he
+painted his own additions to the Sistine Chapel.
+Because da Volterra used a type of pigment that
+is especially sensitive to light, the additions to
+the Sistine Chapel that da Volterra painted have
+relatively muted colors.
+Da Volterra’s additions were painted in a
+style that was similar to the style used by
+Michelangelo.
+Michelangelo is famous primarily for his
+sculptures and only secondarily for his
+paintings, whereas da Volterra is known
+exclusively for his paintings.
+Da Volterra’s work is considered by certain art
+historians to be just as valuable as the work of
+some of the other artists who painted additions
+to Michelangelo’s work.
+
+3
+
+3
+11. A controversial program rewards prison inmates who
+behave particularly well in prison by giving them
+the chance to receive free cosmetic plastic surgery
+performed by medical students. The program is
+obviously morally questionable, both in its assumptions
+about what inmates might want and in its use of the
+prison population to train future surgeons. Putting these
+moral issues aside, however, the surgery clearly has a
+powerful rehabilitative effect, as is shown by the fact
+that, among recipients of the surgery, the proportion
+who are convicted of new crimes committed after
+release is only half that for the prison population as a
+whole.
+A ﬂaw in the reasoning of the passage is that it
+(A)
+(B)
+(C)
+(D)
+(E)
+
+allows moral issues to be a consideration in
+presenting evidence about matters of fact
+dismisses moral considerations on the grounds
+that only matters of fact are relevant
+labels the program as “controversial” instead
+of discussing the issues that give rise to
+controversy
+asserts that the rehabilitation of criminals is not a
+moral issue
+relies on evidence drawn from a sample that
+there is reason to believe is unrepresentative
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+12. The retina scanner, a machine that scans the web of tiny
+blood vessels in the retina, stores information about the
+pattern formed by the blood vessels. This information
+allows it to recognize any pattern it has previously
+scanned. No two eyes have identical patterns of blood
+vessels in the retina. A retina scanner can therefore be
+used successfully to determine for any person whether
+it has ever scanned a retina of that person before.
+The reasoning in the argument depends upon assuming
+that
+(A)
+
+(B)
+(C)
+(D)
+(E)
+
+diseases of the human eye do not alter the
+pattern of blood vessels in the retina in ways
+that would make the pattern unrecognizable to
+the retina scanner
+no person has a different pattern of blood vessels
+in the retina of the left eye than in the retina of
+the right eye
+there are enough retina scanners to store
+information about every person’s retinas
+the number of blood vessels in the human retina
+is invariant, although the patterns they form
+differ from person to person
+there is no person whose retinas have been
+scanned by two or more different retina
+scanners
+
+3
+
+3
+13. There are just two ways a moon could have been
+formed from the planet around which it travels: either
+part of the planet’s outer shell spun off into orbit
+around the planet or else a large object, such as a
+comet or meteoroid, struck the planet so violently that
+it dislodged a mass of material from inside the planet.
+Earth’s moon consists primarily of materials different
+from those of the Earth’s outer shell.
+If the statements above are true, which one of the
+following, if also true, would most help to justify
+drawing the conclusion that Earth’s moon was not
+formed from a piece of the Earth?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+The moons of some planets in Earth’s solar
+system were not formed primarily from the
+planets’ outer shells.
+Earth’s moon consists primarily of elements that
+differ from those inside the Earth.
+Earth’s gravity cannot have trapped a meteoroid
+and pulled it into its orbit as the Moon.
+The craters on the surface of Earth’s moon show
+that it has been struck by many thousands of
+large meteoroids.
+Comets and large meteoroids normally move at
+very high speeds.
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+14. Caffeine can kill or inhibit the growth of the larvae
+of several species of insects. One recent experiment
+showed that tobacco hornworm larvae die when they
+ingest a preparation that consists, in part, of ﬁnely
+powdered tea leaves, which contain caffeine. This
+result is evidence for the hypothesis that the presence
+of non-negligible quantities of caffeine in various parts
+of many diverse species of plants is not accidental but
+evolved as a defense for those plants.
+The argument assumes that
+(A)
+(B)
+
+(C)
+
+(D)
+(E)
+
+caffeine-producing plants are an important raw
+material in the manufacture of commercial
+insecticides
+caffeine is stored in leaves and other parts of
+caffeine-producing plants in concentrations
+roughly equal to the caffeine concentration of
+the preparation fed to the tobacco hornworm
+larvae
+caffeine-producing plants grow wherever insect
+larvae pose a major threat to indigenous plants
+or once posed a major threat to the ancestors of
+those plants
+the tobacco plant is among the plant species that
+produce caffeine for their own defense
+caffeine-producing plants or their ancestors have
+at some time been subject to being fed upon by
+creatures sensitive to caffeine
+
+15. The only plants in the garden were tulips, but they were
+tall tulips. So the only plants in the garden were tall
+plants.
+Which one of the following exhibits faulty reasoning
+most similar to the faulty reasoning in the argument
+above?
+(A)
+(B)
+
+(C)
+
+(D)
+(E)
+
+The only dogs in the show were poodles, and
+they were all black poodles. So all the dogs in
+the show were black.
+All the buildings on the block were tall. The only
+buildings on the block were ofﬁce buildings and
+residential towers. So all the ofﬁce buildings on
+the block were tall buildings.
+All the primates in the zoo were gorillas. The
+only gorillas in the zoo were small gorillas.
+Thus the only primates in the zoo were small
+primates.
+The only fruit in the kitchen was pears, but the
+pears were not ripe. Thus none of the fruit in the
+kitchen was ripe.
+All the grand pianos here are large. All the grand
+pianos here are heavy. Thus everything large is
+heavy.
+
+3
+
+3
+16. Scientiﬁc research will be properly channeled whenever
+those who decide which research to fund give due
+weight to the scientiﬁc merits of all proposed research.
+But when government agencies control these funding
+decisions, political considerations play a major role
+in determining which research will be funded, and
+whenever political considerations play such a role,
+the inevitable result is that scientiﬁc research is not
+properly channeled.
+Which one of the following can be properly inferred
+from the statements above?
+(A)
+(B)
+(C)
+
+(D)
+
+(E)
+
+There is no proper role for political
+considerations to play in determining who will
+decide which scientiﬁc research to fund.
+It is inevitable that considerations of scientiﬁc
+merit will be neglected in decisions regarding
+the funding of scientiﬁc research.
+Giving political considerations a major role in
+determining which scientiﬁc research to fund is
+incompatible with giving proper weight to the
+scientiﬁc merits of proposed research.
+When scientiﬁc research is not properly
+channeled, governments tend to step in and
+take control of the process of choosing which
+research to fund.
+If a government does not control investment in
+basic scientiﬁc research, political consideration
+will inevitably be neglected in deciding which
+research to fund.
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+17. A new silencing device for domestic appliances
+operates by producing sound waves that cancel out the
+sound waves produced by the appliance. The device,
+unlike conventional silencers, actively eliminates the
+noise the appliance makes, and for that reason vacuum
+cleaners designed to incorporate the new device will
+operate with much lower electricity consumption than
+conventional vacuum cleaners.
+Which one of the following, if true, most helps to
+explain why the new silencing device will make lower
+electricity consumption possible?
+(A)
+(B)
+(C)
+(D)
+
+(E)
+
+Designers of vacuum cleaner motors typically
+have to compromise the motors’ efﬁciency in
+order to reduce noise production.
+The device runs on electricity drawn from the
+appliance’s main power supply.
+Conventional vacuum cleaners often use
+spinning brushes to loosen dirt in addition to
+using suction to remove dirt.
+Governmental standards for such domestic
+appliances as vacuum cleaners allow higher
+electricity consumption when vacuum cleaners
+are quieter.
+The need to incorporate silencers in conventional
+vacuum cleaners makes them heavier and less
+mobile than they might otherwise be.
+
+3
+
+3
+18. Because dinosaurs were reptiles, scientists once
+assumed that, like all reptiles alive today, dinosaurs
+were cold-blooded. The recent discovery of dinosaur
+fossils in the northern arctic, however, has led a number
+of researchers to conclude that at least some dinosaurs
+might have been warm-blooded. These researchers
+point out that only warm-blooded animals could have
+withstood the frigid temperatures that are characteristic
+of arctic winters, whereas cold-blooded animals would
+have frozen to death in the extreme cold.
+Which one of the following, if true, weakens the
+researchers’ argument?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Today’s reptiles are generally conﬁned to regions
+of temperate or even tropical climates.
+The fossils show the arctic dinosaurs to have
+been substantially smaller than other known
+species of dinosaurs.
+The arctic dinosaur fossils were found alongside
+fossils of plants known for their ability to
+withstand extremely cold temperatures.
+The number of fossils found together indicates
+herds of dinosaurs so large that they would need
+to migrate to ﬁnd a continual food supply.
+Experts on prehistoric climatic conditions believe
+that winter temperatures in the prehistoric
+northern arctic were not signiﬁcantly different
+from what they are today.
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+Questions 19-20
+Maria: Calling any state totalitarian is misleading: it
+implies total state control of all aspects of life. The real
+world contains no political entity exercising literally
+total control over even one such aspect. This is because
+any system of control is inefﬁcient, and, therefore, its
+degree of control is partial.
+James: A one-party state that has tried to exercise control
+over most aspects of a society and that has, broadly
+speaking, managed to do so is totalitarian. Such a
+system’s practical inefﬁciencies do not limit the
+aptness of the term, which does not describe a state’s
+actual degree of control as much as it describes the
+nature of a state’s ambitions.
+19. Which one of the following most accurately expresses
+Maria’s main conclusion?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+No state can be called totalitarian without
+inviting a mistaken belief.
+To be totalitarian, a state must totally control
+society.
+The degree of control exercised by a state is
+necessarily partial.
+No existing state currently has even one aspect of
+society under total control.
+Systems of control are inevitably inefﬁcient.
+
+20. James responds to Maria’s argument by
+(A)
+(B)
+(C)
+(D)
+(E)
+
+pointing out a logical inconsistency between
+two statements she makes in support of her
+argument
+offering an alternative explanation for political
+conditions she mentions
+rejecting some of the evidence she presents
+without challenging what she infers from it
+disputing the conditions under which a key term
+of her argument can be appropriately applied
+demonstrating that her own premises lead to a
+conclusion different from hers
+
+3
+
+3
+21. The similarity between ichthyosaurs and ﬁsh is an
+example of convergence, a process by which different
+classes of organisms adapt to the same environment by
+independently developing one or more similar external
+body features. Ichthyosaurs were marine reptiles and
+thus do not belong to the same class of organisms as
+ﬁsh. However, ichthyosaurs adapted to their marine
+environment by converging on external body features
+similar to those of ﬁsh. Most strikingly, ichthyosaurs,
+like ﬁsh, had ﬁns.
+If the statements above are true, which one of the
+following is an inference that can be properly drawn on
+the basis of them?
+(A)
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+The members of a single class of organisms that
+inhabit the same environment must be identical
+in all their external body features.
+The members of a single class of organisms
+must exhibit one or more similar external body
+features that differentiate that class from all
+other classes of organisms.
+It is only as a result of adaptation to similar
+environments that one class of organisms
+develops external body features similar to those
+of another class of organisms.
+An organism does not necessarily belong to a
+class simply because the organism has one or
+more external body features similar to those of
+members of that class.
+Whenever two classes of organisms share the
+same environment, members of one class
+will differ from members of the other class in
+several external body features.
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+22. Further evidence bearing on Jamison’s activities
+must have come to light. On the basis of previously
+available evidence alone, it would have been impossible
+to prove that Jamison was a party to the fraud, and
+Jamison’s active involvement in the fraud has now been
+deﬁnitively established.
+The pattern of reasoning exhibited in the argument
+above most closely parallels that exhibited in which one
+of the following?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Smith must not have purchased his house within
+the last year. He is listed as the owner of that
+house on the old list of property owners, and
+anyone on the old list could not have purchased
+his or her property within the last year.
+Turner must not have taken her usual train to
+Nantes today. Had she done so, she could not
+have been in Nantes until this afternoon, but she
+was seen having coffee in Nantes at 11 o’clock
+this morning.
+Norris must have lied when she said that she had
+not authorized the investigation. There is no
+doubt that she did authorize it, and authorizing
+an investigation is not something anyone is
+likely to have forgotten.
+Waugh must have known that last night’s class
+was canceled. Waugh was in the library
+yesterday, and it would have been impossible
+for anyone in the library not to have seen the
+cancellation notices.
+LaForte must have deeply resented being passed
+over for promotion. He maintains otherwise,
+but only someone who felt badly treated would
+have made the kind of remark LaForte made at
+yesterday’s meeting.
+
+3
+
+3
+23. Reporting on a civil war, a journalist encountered
+evidence that refugees were starving because the
+government would not permit food shipments to
+a rebel-held area. Government censors deleted all
+mention of the government’s role in the starvation from
+the journalist’s report, which had not implicated either
+nature or the rebels in the starvation. The journalist
+concluded that it was ethically permissible to ﬁle
+the censored report, because the journalist’s news
+agency would precede it with the notice “Cleared by
+government censors.”
+Which one of the following ethical criteria, if valid,
+would serve to support the journalist’s conclusion while
+placing the least constraint on the ﬂow of reported
+information?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+It is ethical in general to report known facts but
+unethical to do so while omitting other known
+facts if the omitted facts would substantially
+alter an impression of a person or institution
+that would be congruent with the reported facts.
+In a situation of conﬂict, it is ethical to report
+known facts and unethical to fail to report
+known facts that would tend to exonerate one
+party to the conﬂict.
+In a situation of censorship, it is unethical to
+make any report if the government represented
+by the censor deletes from the report material
+unfavorable to that government.
+It is ethical in general to report known facts
+but unethical to make a report in a situation of
+censorship if relevant facts have been deleted by
+the censor, unless the recipient of the report is
+warned that censorship existed.
+Although it is ethical in general to report known
+facts, it is unethical to make a report from
+which a censor has deleted relevant facts, unless
+the recipient of the report is warned that there
+was censorship and the reported facts do not by
+themselves give a misleading impression.
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+
+3
+
+24. A birth is more likely to be difﬁcult when the mother is
+over the age of 40 than when she is younger. Regardless
+of the mother’s age, a person whose birth was difﬁcult
+is more likely to be ambidextrous than is a person
+whose birth was not difﬁcult. Since other causes of
+ambidexterity are not related to the mother’s age, there
+must be more ambidextrous people who were born to
+women over 40 than there are ambidextrous people who
+were born to younger women.
+The argument is most vulnerable to which one of
+the following criticisms?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+It assumes what it sets out to establish.
+It overlooks the possibility that fewer children
+are born to women over 40 than to women
+under 40.
+It fails to specify what percentage of people in
+the population as a whole are ambidextrous.
+It does not state how old a child must be before
+its handedness can be determined.
+It neglects to explain how difﬁculties during birth
+can result in a child’s ambidexterity.
+
+3
+Questions 25-26
+The government has no right to tax earnings from labor.
+Taxation of this kind requires the laborer to devote a certain
+percentage of hours worked to earning money for the
+government. Thus, such taxation forces the laborer to
+work, in part, for another’s purpose. Since involuntary
+servitude can be deﬁned as forced work for another’s
+purpose, just as involuntary servitude is pernicious, so is
+taxing earnings from labor.
+25. The argument uses which one of the following
+argumentative techniques?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+deriving a general principle about the rights of
+individuals from a judgment concerning the
+obligations of governments
+inferring what will be the case merely from a
+description of what once was the case
+inferring that since two institutions are similar in
+one respect, they are similar in another respect
+citing the authority of an economic theory in
+order to justify a moral principle
+presupposing the inevitability of a hierarchical
+class system in order to oppose a given
+economic practice
+
+26. Which one of the following is an error of reasoning
+committed by the argument?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+It ignores a difference in how the idea of forced
+work for another’s purpose applies to the two
+cases.
+It does not take into account the fact that labor is
+taxed at different rates depending on income.
+It mistakenly assumes that all work is taxed.
+It ignores the fact that the government also taxes
+income from investment.
+It treats deﬁnitions as if they were matters of
+subjective opinion rather than objective facts
+about language.
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+3
+
+4
+
+4
+
+4
+
+4
+
+4
+
+SECTION IV
+Time—35 minutes
+27 Questions
+Directions: Each passage in this section is followed by a group of questions to be answered on the basis of what is stated or
+implied in the passage. For some of the questions, more than one of the choices could conceivably answer the question. However,
+you are to choose the best answer; that is, the response that most accurately and completely answers the question, and blacken the
+corresponding space on your answer sheet.
+
+(5)
+
+(10)
+
+(15)
+
+(20)
+
+(25)
+
+(30)
+
+(35)
+
+(40)
+
+(45)
+
+Three kinds of study have been performed on
+Byron. There is the biographical study—the very
+valuable examination of Byron’s psychology and the
+events in his life; Escarpit’s 1958 work is an example
+of this kind of study, and biographers to this day
+continue to speculate about Byron’s life. Equally
+valuable is the study of Byron as a ﬁgure important
+in the history of ideas; Russell and Praz have
+written studies of this kind. Finally, there are
+studies that primarily consider Byron’s poetry. Such
+literary studies are valuable, however, only when
+they avoid concentrating solely on analyzing the
+verbal shadings of Byron’s poetry to the exclusion of
+any discussion of biographical considerations. A
+study with such a concentration would be of
+questionable value because Byron’s poetry, for the
+most part, is simply not a poetry of subtle verbal
+meanings. Rather, on the whole, Byron’s poems
+record the emotional pressure of certain moments
+in his life. I believe we cannot often read a poem of
+Byron’s, as we often can one of Shakespeare’s,
+without wondering what events or circumstances in
+his life prompted him to write it.
+No doubt the fact that most of Byron’s poems
+cannot be convincingly read as subtle verbal
+creations indicates that Byron is not a “great” poet.
+It must be admitted too that Byron’s literary
+craftsmanship is irregular and often his
+temperament disrupts even his lax literary method
+(although the result, an absence of method, has a
+signiﬁcant purpose: it functions as a rebuke to a
+cosmos that Byron feels he cannot understand). If
+Byron is not a “great” poet, his poetry is
+nonetheless of extraordinary interest to us because
+of the pleasure it gives us. Our main pleasure in
+reading Byron’s poetry is the contact with a singular
+personality. Reading his work gives us
+illumination—self-understanding—after we have
+seen our weaknesses and aspirations mirrored in
+the personality we usually ﬁnd in the poems.
+Anyone who thinks that this kind of illumination is
+not a genuine reason for reading a poet should
+think carefully about why we read Donne’s sonnets.
+It is Byron and Byron’s idea of himself that hold
+his work together (and that enthralled earlynineteenth-century Europe). Different characters
+speak in his poems, but ﬁnally it is usually he
+himself who is speaking: a far cry from the
+impersonal poet Keats. Byron’s poetry alludes to
+
+(50)
+
+(55)
+1.
+
+Greek and Roman myth in the context of
+contemporary affairs, but his work remains
+generally of a piece because of his close presence in
+the poetry. In sum, the poetry is a shrewd personal
+performance, and to shut out Byron the
+man is to fabricate a work of pseudocriticism.
+Which one of the following titles best expresses the
+main idea of the passage?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+2.
+
+An Absence of Method: Why Byron Is Not a
+“Great” Poet
+Byron: The Recurring Presence in Byron’s
+Poetry
+Personality and Poetry: The Biographical
+Dimension of Nineteenth-Century Poetry
+Byron’s Poetry: Its Inﬂuence on the Imagination
+of Early-Nineteenth-Century Europe
+Verbal Shadings: The Fatal Flaw of
+Twentieth-Century Literary Criticism
+
+The author’s mention of Russell and Praz serves
+primarily to
+(A)
+(B)
+(C)
+(D)
+(E)
+
+differentiate them from one another
+contrast their conclusions about Byron with
+those of Escarpit
+point out the writers whose studies suggest a new
+direction for Byron scholarship
+provide examples of writers who have written
+one kind of study of Byron
+give credit to the writers who have composed the
+best studies of Byron
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4
+
+4
+3.
+
+Which one of the following would the author most
+likely consider to be a valuable study of Byron?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+4.
+
+(B)
+(C)
+(D)
+(E)
+
+A generalization is made and then gradually
+refuted.
+A number of theories are discussed and then the
+author chooses the most convincing one.
+Several categories are mentioned and then one
+category is discussed in some detail.
+A historical trend is delineated and then
+a prediction about the future of the trend is
+offered.
+A classiﬁcation is made and then a rival
+classiﬁcation is substituted in its place.
+
+The author mentions that “Byron’s literary
+craftsmanship is irregular” (lines 27-28) most probably
+in order to
+(A)
+(B)
+(C)
+(D)
+(E)
+
+4
+6.
+
+a study that compared Byron’s poetic style with
+Keats’ poetic style
+a study that argued that Byron’s thought ought
+not to be analyzed in terms of its importance in
+the history of ideas
+a study that sought to identify the emotions felt
+by Byron at a particular time in his life
+a study in which a literary critic argues that the
+language of Byron’s poetry was more subtle
+than that of Keats’ poetry
+a study in which a literary critic drew on
+experiences from his or her own life
+
+Which one of the following statements best describes
+the organization of the ﬁrst paragraph of the passage?
+(A)
+
+5.
+
+4
+
+contrast Byron’s poetic skill with that of
+Shakespeare
+dismiss craftsmanship as a standard by which to
+judge poets
+offer another reason why Byron is not a “great”
+poet
+point out a negative consequence of Byron’s
+belief that the cosmos is incomprehensible
+indicate the most-often-cited explanation of why
+Byron’s poetry lacks subtle verbal nuances
+
+According to the author, Shakespeare’s poems differ
+from Byron’s in that Shakespeare’s poems
+(A)
+(B)
+(C)
+(D)
+(E)
+
+7.
+
+have elicited a wider variety of responses from
+both literary critics and biographers
+are on the whole less susceptible to being read as
+subtle verbal creations
+do not grow out of, or are not motivated by,
+actual events or circumstances in the poet’s life
+provide the attentive reader with a greater degree
+of illumination concerning his or her own
+weaknesses and aspirations
+can often be read without the reader’s being
+curious about what biographical factors
+motivated the poet to write them
+
+The author indicates which one of the following about
+biographers’ speculation concerning Byron’s life?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+8.
+
+4
+
+Such speculation began in earnest with Escarpit’s
+study.
+Such speculation continues today.
+Such speculation is less important than
+consideration of Byron’s poetry.
+Such speculation has not given us a satisfactory
+sense of Byron’s life.
+Such speculation has been carried out despite the
+objections of literary critics.
+
+The passage supplies speciﬁc information that provides
+a deﬁnitive answer to which one of the following
+questions?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+What does the author consider to be the primary
+enjoyment derived from reading Byron?
+Who among literary critics has primarily studied
+Byron’s poems?
+Which moments in Byron’s life exerted the
+greatest pressure on his poetry?
+Has Byron ever been considered to be a “great”
+poet?
+Did Byron exert an inﬂuence on Europeans in the
+latter part of the nineteenth century?
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4
+
+4
+(5)
+
+(10)
+
+(15)
+
+(20)
+
+(25)
+
+(30)
+
+(35)
+
+(40)
+
+(45)
+
+(50)
+
+(55)
+
+4
+
+The United States Supreme Court has not
+always resolved legal issues of concern to Native
+Americans in a manner that has pleased the Indian
+nations. Many of the Court’s decisions have been
+products of political compromise that looked more
+to the temper of the times than to enduring principles
+of law. But accommodation is part of the judicial
+system in the United States, and judicial decisions
+must be assessed with this fact in mind.
+Despite the “accommodating” nature of the
+judicial system, it is worth noting that the power of
+the Supreme Court has been exercised in a manner
+that has usually been beneﬁcial to Native
+Americans, at least on minor issues, and has not
+been wholly detrimental on the larger, more
+important issues. Certainly there have been
+decisions that cast doubt on the validity of this
+assertion. Some critics point to the patronizing tone
+of many Court opinions and the apparent rejection
+of Native American values as important points to
+consider when reviewing a case. However, the
+validity of the assertion can be illustrated by
+reference to two important contributions that have
+resulted from the exercise of judicial power.
+First, the Court has created rules of judicial
+construction that, in general, favor the rights of
+Native American litigants. The Court’s attitude has
+been conditioned by recognition of the distinct
+disadvantages Native Americans faced when
+dealing with settlers in the past. Treaties were
+inevitably written in English for the beneﬁt of their
+authors, whereas tribal leaders were accustomed to
+making treaties without any written account, on the
+strength of mutual promises sealed by religious
+commitment and individual integrity. The written
+treaties were often broken, and Native Americans
+were confronted with fraud and political and
+military aggression. The Court recognizes that past
+unfairness to Native Americans cannot be sanctioned
+by the force of law. Therefore, ambiguities in treaties
+are to be interpreted in favor of the Native American
+claimants, treaties are to be interpreted as the Native
+Americans would have understood them, and, under
+the reserved rights doctrine, treaties reserve to Native
+Americans all rights that have not been speciﬁcally
+granted away in other treaties.
+A second achievement of the judicial system is
+the protection that has been provided against
+encroachment by the states into tribal affairs.
+Federal judges are not inclined to view favorably
+efforts to extend states’ powers and jurisdictions
+because of the direct threat that such expansion poses
+to the exercise of federal powers. In the absence of a
+federal statute directly and clearly allocating a function
+to the states, federal judges are inclined to reserve for
+the federal government—and the tribal governments
+under its charge—all those powers and rights they can
+be said to have possessed historically.
+
+4
+9.
+
+4
+
+According to the passage, one reason why the United
+States Supreme Court “has not always resolved legal
+issues of concern to Native Americans in a manner that
+has pleased the Indian nations” (lines 1-4) is that
+(A)
+(B)
+
+(C)
+(D)
+(E)
+
+Native Americans have been prevented from
+presenting their concerns persuasively
+the Court has failed to recognize that the Indian
+nations’ concerns are different from those
+of other groups or from those of the federal
+government
+the Court has been reluctant to curtail the powers
+of the federal government
+Native Americans faced distinct disadvantages in
+dealing with settlers in the past
+the Court has made political compromises in
+deciding some cases
+
+10. It can be inferred that the objections raised by the critics
+mentioned in line 18 would be most clearly answered
+by a United States Supreme Court decision that
+(A)
+(B)
+(C)
+(D)
+(E)
+
+demonstrated respect for Native Americans
+and the principles and qualities they consider
+important
+protected the rights of the states in conﬂicts with
+the federal government
+demonstrated recognition of the unfair treatment
+Native Americans received in the past
+reﬂected consideration of the hardships suffered
+by Native Americans because of unfair treaties
+prevented repetition of inequities experienced by
+Native Americans in the past
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4
+
+4
+
+4
+
+11. It can be inferred that the author calls the judicial
+system of the United States “accommodating”
+(line 10) primarily in order to
+(A)
+(B)
+(C)
+(D)
+(E)
+
+suggest that the decisions of the United States
+Supreme Court have been less favorable to
+Native Americans than most people believe
+suggest that the United States Supreme Court
+should be more supportive of the goals of
+Native Americans
+suggest a reason why the decisions of the United
+States Supreme Court have not always favored
+Native Americans
+indicate that the United States Supreme Court
+has made creditable efforts to recognize the
+values of Native Americans
+indicate that the United States Supreme Court
+attempts to be fair to all parties to a case
+
+12. The author’s attitude toward the United States Supreme
+Court’s resolution of legal issues of concern to Native
+Americans can best be described as one of
+(A)
+(B)
+(C)
+(D)
+(E)
+
+wholehearted endorsement
+restrained appreciation
+detached objectivity
+cautious opposition
+suppressed exasperation
+
+13. It can be inferred that the author believes that the
+extension of the states’ powers and jurisdictions with
+respect to Native American affairs would be
+(A)
+(B)
+(C)
+(D)
+(E)
+
+possible only with the consent of the Indian
+nations
+favorably viewed by the United States Supreme
+Court
+in the best interests of both state and federal
+governments
+detrimental to the interests of Native
+Americans
+discouraged by most federal judges in spite of
+legal precedents supporting the extension
+
+4
+
+4
+
+14. The author’s primary purpose is to
+(A)
+(B)
+(C)
+(D)
+(E)
+
+contrast opposing views
+reevaluate traditional beliefs
+reconcile divergent opinions
+assess the claims made by disputants
+provide evidence to support a contention
+
+15. It can be inferred that the author believes the United
+States Supreme Court’s treatment of Native Americans
+to have been
+(A)
+(B)
+(C)
+(D)
+(E)
+
+irreproachable on legal grounds
+reasonably supportive in most situations
+guided by enduring principles of law
+misguided but generally harmless
+harmful only in a few minor cases
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4
+
+4
+(5)
+
+(10)
+
+(15)
+
+(20)
+
+(25)
+
+(30)
+
+(35)
+
+(40)
+
+(45)
+
+(50)
+
+(55)
+
+4
+
+When catastrophe strikes, analysts typically
+blame some combination of powerful mechanisms.
+An earthquake is traced to an immense instability
+along a fault line; a stock market crash is blamed on
+the destabilizing effect of computer trading. These
+explanations may well be correct. But systems as
+large and complicated as the Earth’s crust or the
+stock market can break down not only under the
+force of a mighty blow but also at the drop of a pin.
+In a large interactive system, a minor event can start
+a chain reaction that leads to a catastrophe.
+Traditionally, investigators have analyzed large
+interactive systems in the same way they analyze
+small orderly systems, mainly because the methods
+developed for small systems have proved so
+successful. They believed they could predict the
+behavior of a large interactive system by studying its
+elements separately and by analyzing its component
+mechanisms individually. For lack of better
+theory, they assumed that in large interactive systems
+the response to a disturbance is proportional to that
+disturbance.
+During the past few decades, however, it has
+become increasingly apparent that many large
+complicated systems do not yield to traditional
+analysis. Consequently, theorists have proposed a
+“theory of self-organized criticality”: many large
+interactive systems evolve naturally to a critical
+state in which a minor event starts a chain reaction
+that can affect any number of elements in the
+system. Although such systems produce more minor
+events than catastrophes, the mechanism that leads
+to minor events is the same one that leads to major
+events.
+A deceptively simple system serves as a
+paradigm for self-organized criticality: a pile of
+sand. As sand is poured one grain at a time onto a
+ﬂat disk, the grains at ﬁrst stay close to the position
+where they land. Soon they rest on top of one
+another, creating a pile that has a gentle slope. Now
+and then, when the slope becomes too steep, the
+grains slide down, causing a small avalanche. The
+system reaches its critical state when the amount of
+sand added is balanced, on average, by the amount
+falling off the edge of the disk.
+Now when a grain of sand is added, it can start
+an avalanche of any size, including a “catastrophic”
+event. Most of the time the grain will fall so that no
+avalanche occurs. By studying a speciﬁc area of the
+pile, one can even predict whether avalanches will
+occur there in the near future. To such a local
+observer, however, large avalanches would remain
+unpredictable because they are a consequence of
+the total history of the entire pile. No matter what
+the local dynamics are, catastrophic avalanches
+would persist at a relative frequency that cannot be
+altered. Criticality is a global property of the sandpile.
+
+4
+
+4
+
+16. The passage provides support for all of the following
+generalizations about large interactive systems
+EXCEPT:
+(A)
+(B)
+(C)
+(D)
+(E)
+
+They can evolve to a critical state.
+They do not always yield to traditional analysis.
+They make it impossible for observers to make
+any predictions about them.
+They are subject to the effects of chain reactions.
+They are subject to more minor events than
+major events.
+
+17. According to the passage, the criticality of a sandpile is
+determined by the
+(A)
+(B)
+(C)
+(D)
+(E)
+
+size of the grains of sand added to the sandpile
+number of grains of sand the sandpile contains
+rate at which sand is added to the sandpile
+shape of the surface on which the sandpile rests
+balance between the amount of sand added to
+and the amount lost from the sandpile
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4
+
+4
+
+4
+
+18. It can be inferred from the passage that the theory
+employed by the investigators mentioned in the second
+paragraph would lead one to predict that which one of
+the following would result from the addition of a grain
+of sand to a sandpile?
+(A)
+(B)
+(C)
+(D)
+
+(E)
+
+The grain of sand would never cause anything
+more than a minor disturbance.
+The grain of sand would usually cause a minor
+disturbance, but would occasionally cause a
+small avalanche.
+The grain of sand would usually cause either
+a minor disturbance or a small avalanche, but
+would occasionally cause a catastrophic event.
+The grain of sand would usually cause a
+catastrophic event, but would occasionally
+cause only a small avalanche or an even more
+minor disturbance.
+The grain of sand would invariably cause a
+catastrophic event.
+
+4
+
+20. Which one of the following is most analogous to the
+method of analysis employed by the investigators
+mentioned in the second paragraph?
+(A)
+(B)
+
+(C)
+(D)
+
+(E)
+
+19. Which one of the following best describes the
+organization of the passage?
+(A)
+
+(B)
+(C)
+(D)
+(E)
+
+A traditional procedure is described and its
+application to common situations is endorsed;
+its shortcomings in certain rare but critical
+circumstances are then revealed.
+A common misconception is elaborated and its
+consequences are described; a detailed example
+of one of these consequences is then given.
+A general principle is stated and supported by
+several examples; an exception to the rule is
+then considered and its importance evaluated.
+A number of seemingly unrelated events are
+categorized; the underlying processes that
+connect them are then detailed.
+A traditional method of analysis is discussed
+and the reasons for its adoption are explained;
+an alternative is then described and clariﬁed by
+means of an example.
+
+4
+A pollster gathers a sample of voter preferences
+and on the basis of this information makes a
+prediction about the outcome of an election.
+A historian examines the surviving documents
+detailing the history of a movement and from
+these documents reconstructs a chronology of
+the events that initiated the movement.
+A meteorologist measures the rainfall over a
+certain period of the year and from this data
+calculates the total annual rainfall for the region.
+A biologist observes the behavior of one
+species of insect and from these observations
+generalizes about the behavior of insects as a
+class.
+An engineer analyzes the stability of each
+structural element of a bridge and from these
+analyses draws a conclusion about the structural
+soundness of the bridge.
+
+21. In the passage, the author is primarily concerned with
+(A)
+(B)
+(C)
+(D)
+(E)
+
+arguing against the abandonment of a traditional
+approach
+describing the evolution of a radical theory
+reconciling conﬂicting points of view
+illustrating the superiority of a new theoretical
+approach
+advocating the reconsideration of an
+unfashionable explanation
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4
+
+4
+(5)
+
+(10)
+
+(15)
+
+(20)
+
+(25)
+
+(30)
+
+(35)
+
+(40)
+
+(45)
+
+(50)
+
+(55)
+
+4
+
+Historians have long accepted the notion that
+women of English descent who lived in the English
+colonies of North America during the seventeenth
+and eighteenth centuries were better off than either
+the contemporary women in England or the
+colonists’ own nineteenth-century daughters and
+granddaughters. The “golden age” theory
+originated in the 1920s with the work of Elizabeth
+Dexter, who argued that there were relatively few
+women among the colonists, and that all
+hands—male and female—were needed to sustain
+the growing settlements. Rigid sex-role distinctions
+could not exist under such circumstances; female
+colonists could accordingly engage in whatever
+occupations they wished, encountering few legal or
+social constraints if they sought employment outside
+the home. The surplus of male colonists also gave
+women crucial bargaining power in the marriage
+market, since women’s contributions were vital to
+the survival of colonial households.
+Dexter’s portrait of female colonists living under
+conditions of rough equality with their male
+counterparts was eventually incorporated into
+studies of nineteenth-century middle-class women.
+The contrast between the self-sufﬁcient colonial
+woman and the oppressed nineteenth-century
+woman, conﬁned to her home by stultifying
+ideologies of domesticity and by the fact that
+industrialization eliminated employment
+opportunities for middle-class women, gained an
+extraordinarily tenacious hold on historians. Even
+scholars who have questioned the “golden age”
+view of colonial women’s status have continued to
+accept the paradigm of a nineteenth-century
+decline from a more desirable past. For example,
+Joan Hoff-Wilson asserted that there was no “golden
+age” and yet emphasized that the nineteenth century
+brought “increased loss of function and authentic
+status for” middle-class women.
+Recent publications about colonial women have
+exposed the concept of a decline in status as
+simplistic and unsophisticated, a theory that based
+its assessment of colonial women’s status solely on
+one factor (their economic function in society) and
+assumed all too readily that a relatively simple
+social system automatically brought higher standing
+to colonial women. The new scholarship presents a
+far more complicated picture, one in which
+deﬁnitions of gender roles, the colonial economy,
+demographic patterns, religion, the law, and
+household organization all contributed to deﬁning
+the circumstances of colonial women’s lives. Indeed,
+the primary concern of modern scholarship is not to
+generalize about women’s status but to identify the
+speciﬁc changes and continuities in women’s lives
+during the colonial period. For example, whereas
+earlier historians suggested that there was little
+change for colonial women before 1800, the new
+
+4
+(60)
+
+(65)
+
+4
+
+scholarship suggests that a three-part chronological
+division more accurately reﬂects colonial women’s
+experiences. First was the initial period of English
+colonization (from the 1620s to about 1660); then a
+period during which patterns of family and
+community were challenged and reshaped (roughly
+from 1660 to 1750); and ﬁnally the era of revolution
+(approximately 1750 to 1815), which brought other
+chances to women’s lives.
+
+22. Which one of the following best expresses the main
+idea of the passage?
+(A)
+(B)
+
+(C)
+(D)
+(E)
+
+An earlier theory about the status of middle-class
+women in the nineteenth century has been
+supported by recent scholarship.
+Recent studies of middle-class
+nineteenth-century women have altered an
+earlier theory about the status of colonial
+women.
+Recent scholarship has exposed an earlier theory
+about the status of colonial women as too
+narrowly based and oversimpliﬁed.
+An earlier theory about colonial women
+has greatly inﬂuenced recent studies on
+middle-class women in the nineteenth century.
+An earlier study of middle-class women was
+based on insufﬁcient research on the status of
+women in the nineteenth century.
+
+23. The author discusses Hoff-Wilson primarily in order to
+(A)
+(B)
+(C)
+(D)
+(E)
+
+describe how Dexter’s theory was refuted by
+historians of nineteenth-century North America
+describe how the theory of middle-class women’s
+nineteenth-century decline in status was
+developed
+describe an important inﬂuence on recent
+scholarship about the colonial period
+demonstrate the persistent inﬂuence of the
+“golden age” theory
+provide an example of current research on the
+colonial period
+
+24. It can be inferred from the passage that the author
+would be most likely to describe the views of the
+scholars mentioned in line 32 as
+(A)
+(B)
+(C)
+(D)
+(E)
+
+unassailable
+innovative
+paradoxical
+overly sophisticated
+without merit
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4
+
+4
+
+4
+
+4
+
+25. It can be inferred from the passage that, in proposing
+the “three-part chronological division” (lines 60-61),
+scholars recognized which one of the following?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+The circumstances of colonial women’s lives
+were deﬁned by a broad variety of social and
+economic factors.
+Women’s lives in the English colonies of North
+America were similar to women’s lives in
+seventeenth- and eighteenth-century England.
+Colonial women’s status was adversely affected
+when patterns of family and community were
+established in the late seventeenth century.
+Colonial women’s status should be assessed
+primarily on the basis of their economic
+function in society.
+Colonial women’s status was low when the
+colonies were settled but changed signiﬁcantly
+during the era of revolution.
+
+4
+
+27. Practitioners of the new scholarship discussed in the last
+paragraph would be most likely to agree with which one
+of the following statements about Dexter’s argument?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+It makes the assumption that women’s status is
+determined primarily by their political power in
+society.
+It makes the assumption that a less complex
+social system necessarily confers higher status
+on women.
+It is based on inadequate research on women’s
+economic role in the colonies.
+It places too much emphasis on the way
+deﬁnitions of gender roles affected women
+colonists in the colonial period.
+It accurately describes the way women’s status
+declined in the nineteenth century.
+
+26. According to the author, the publications about colonial
+women mentioned in the third paragraph had which one
+of the following effects?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+They undermined Dexter’s argument on the
+status of women colonists during the colonial
+period.
+They revealed the tenacity of the “golden age”
+theory in American history.
+They provided support for historians, such as
+Hoff-Wilson, who study the nineteenth century.
+They established that women’s status did not
+change signiﬁcantly from the colonial period to
+the nineteenth century.
+They provided support for earlier theories about
+women colonists in the English colonies of
+North America.
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+4
+
+Computing Your Score
+
+Directions:
+1. Use the Answer Key on the next page to check your
+answers.
+2. Use the Scoring Worksheet below to compute your
+raw score.
+3. Use the Score Conversion Chart to convert your
+raw score into the 120-180 scale.
+Scoring Worksheet
+1. Enter the number of questions you answered
+correctly in each section.
+Number
+Correct
+SECTION I. .
+SECTION II .
+SECTION III.
+SECTION IV.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+2. Enter the sum here:
+
+This is your Raw Score.
+
+Conversion Chart:
+For Converting Raw Score to the 120-180 LSAT
+Scaled Score
+LSAT Form 4LSS25
+Reported
+Score
+180
+179
+178
+177
+176
+175
+174
+173
+172
+171
+170
+169
+168
+167
+166
+165
+164
+163
+162
+161
+160
+159
+158
+157
+156
+155
+154
+153
+152
+151
+150
+149
+148
+147
+146
+145
+144
+143
+142
+141
+140
+139
+138
+137
+136
+135
+134
+133
+132
+131
+130
+129
+128
+127
+126
+125
+124
+123
+122
+121
+120
+
+Lowest
+98
+97
+96
+95
+94
+93
+92
+90
+89
+88
+87
+86
+84
+83
+82
+80
+79
+77
+76
+74
+73
+71
+69
+68
+66
+65
+63
+61
+60
+58
+56
+55
+53
+51
+50
+48
+46
+45
+43
+42
+40
+39
+37
+36
+34
+33
+31
+30
+29
+27
+26
+25
+24
+23
+22
+21
+20
+18
+17
+_*
+0
+
+Raw Score
+
+Highest
+101
+97
+96
+95
+94
+93
+92
+91
+89
+88
+87
+86
+85
+83
+82
+81
+79
+78
+76
+75
+73
+72
+70
+68
+67
+65
+64
+62
+60
+59
+57
+55
+54
+52
+50
+49
+47
+45
+44
+42
+41
+39
+38
+36
+35
+33
+32
+30
+29
+28
+26
+25
+24
+23
+22
+21
+20
+19
+17
+_*
+16
+
+*There is no raw score that will produce this scaled score for this form.
+
+Answer Key
+
+SECTION I
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+D
+E
+A
+E
+C
+D
+E
+
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+B
+C
+E
+C
+B
+D
+B
+
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+
+A
+A
+E
+A
+D
+E
+A
+
+22.
+23.
+24.
+
+C
+A
+C
+
+E
+E
+B
+A
+A
+E
+A
+
+22.
+23.
+24.
+
+E
+D
+E
+
+C
+C
+A
+D
+A
+D
+D
+
+22.
+23.
+24.
+25.
+26.
+
+B
+D
+B
+C
+A
+
+B
+C
+E
+A
+E
+E
+D
+
+22.
+23.
+24.
+25.
+26.
+27.
+
+C
+D
+C
+A
+A
+B
+
+SECTION II
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+B
+A
+D
+E
+C
+D
+C
+
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+E
+C
+E
+D
+B
+D
+D
+
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+
+SECTION III
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+D
+B
+B
+C
+D
+C
+A
+
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+B
+A
+A
+E
+A
+B
+E
+
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+
+SECTION IV
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+B
+D
+C
+C
+C
+E
+B
+
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+A
+E
+A
+C
+B
+D
+E
+
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+
+

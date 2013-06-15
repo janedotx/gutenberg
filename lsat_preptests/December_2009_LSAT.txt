@@ -1,0 +1,4569 @@
+December 2009
+Full-Length LSAT
+
+A
+
+A
+
+-4-
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+Time—35 minutes
+23 Questions
+Directions: Each group of questions in this section is based on a set of conditions. In answering some of the questions, it may be
+useful to draw a rough diagram. Choose the response that most accurately and completely answers each question and blacken
+the corresponding space on your answer sheet.
+Questions 1–5
+A law firm has seven departments—family law, health law,
+injury law, labor law, probate, securities, and tax law. The
+firm is to occupy a building with three floors—the bottom
+floor, the middle floor, and the top floor. Each floor can
+accommodate up to four departments, and no department is to
+be on more than one floor. Assignment of departments to
+floors is subject to the following constraints:
+Probate must be on the same floor as tax law.
+Health law must be on the floor immediately above injury
+law.
+Labor law must occupy an entire floor by itself.
+
+3. Which one of the following CANNOT be the assignment
+for any of the floors?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+4. If family law is assigned to the same floor as securities,
+which one of the following could be true?
+(A)
+(B)
+
+1. Which one of the following could be the assignment of
+departments to floors?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+top floor: labor law
+middle floor: injury law, probate, tax law
+bottom floor: family law, health law, securities
+top floor: family law, health law, probate
+middle floor: injury law, securities, tax law
+bottom floor: labor law
+top floor: health law, probate, tax law
+middle floor: family law, injury law, securities
+bottom floor: labor law
+top floor: health law, probate, tax law
+middle floor: injury law, securities
+bottom floor: family law, labor law
+top floor: family law, health law, probate, tax law
+middle floor: labor law
+bottom floor: injury law, securities
+
+(C)
+(D)
+(E)
+
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Family law is assigned to the middle floor.
+Health law is assigned to the middle floor.
+Labor law is assigned to the top floor.
+Securities is assigned to the bottom floor.
+Tax law is assigned to the top floor.
+
+Exactly one department is assigned to the
+middle floor.
+Exactly four departments are assigned to the
+middle floor.
+Exactly two departments are assigned to the
+bottom floor.
+Exactly three departments are assigned to the
+bottom floor.
+Exactly four departments are assigned to the
+bottom floor.
+
+5. If probate is assigned to the middle floor along with
+exactly two other departments, then which one of the
+following must be true?
+(A)
+(B)
+(C)
+(D)
+
+2. If injury law and probate are both assigned to the middle
+floor, which one of the following could be true?
+
+family law, health law, probate, and tax law
+family law, injury law, probate, and tax law
+family law, probate, securities, and tax law
+health law, probate, securities, and tax law
+injury law, probate, securities, and tax law
+
+(E)
+
+Family law is assigned to
+above health law.
+Family law is assigned to
+below labor law.
+Family law is assigned to
+securities.
+Probate is assigned to the
+law.
+Probate is assigned to the
+law.
+
+the floor immediately
+the floor immediately
+the same floor as
+same floor as health
+same floor as injury
+
+GO ON TO THE NEXT PAGE.
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+Questions 6–10
+A museum curator is arranging seven photographs—Fence,
+Gardenias, Hibiscus, Irises, Katydid, Lotus, and Magnolia—
+on a gallery wall in accordance with the photographer’s
+requirements. The photographs are to be hung along the wall
+in a row, in seven positions sequentially numbered from first
+to seventh. The photographer’s requirements are as follows:
+Gardenias must be immediately before Katydid.
+Hibiscus must be somewhere before Katydid but cannot
+be the first photograph.
+Irises and Lotus must be next to one another.
+Magnolia must be one of the first three photographs.
+Fence must be either first or seventh.
+6. Which one of the following could be the positions,
+from first to seventh, in which the photographs are
+hung?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Fence, Hibiscus, Gardenias, Magnolia, Katydid,
+Irises, Lotus
+Hibiscus, Magnolia, Gardenias, Katydid, Irises,
+Lotus, Fence
+Irises, Lotus, Magnolia, Hibiscus, Gardenias,
+Katydid, Fence
+Lotus, Magnolia, Irises, Hibiscus, Gardenias,
+Katydid, Fence
+Magnolia, Fence, Hibiscus, Gardenias, Katydid,
+Lotus, Irises
+
+7. If Irises is immediately before Gardenias, which one of
+the following could be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Gardenias is fourth.
+Hibiscus is fourth.
+Irises is third.
+Lotus is second.
+Magnolia is third.
+
+A
+
+A
+
+A
+
+A
+
+-5-
+
+8. Where each photograph is hung is fully determined if
+which one of the following is true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Gardenias is fourth.
+Hibiscus is second.
+Irises is second.
+Lotus is first.
+Magnolia is third.
+
+9. If Magnolia is second, which one of the following
+CANNOT be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Hibiscus is third.
+Hibiscus is fourth.
+Hibiscus is fifth.
+Gardenias is fourth.
+Gardenias is sixth.
+
+10. Which one of the following, if substituted for the
+condition that Hibiscus must be hung somewhere
+before Katydid but cannot be the first photograph,
+would have the same effect in determining the
+arrangement of the photographs?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+If Fence is seventh, Hibiscus is second.
+Gardenias is somewhere after Hibiscus, and
+either Fence or Magnolia is first.
+Hibiscus must be somewhere between the first
+and sixth photographs.
+Unless Hibiscus is second, it must be
+somewhere between Magnolia and Gardenias.
+Katydid is somewhere after Hibiscus, which
+must be somewhere after Fence.
+
+GO ON TO THE NEXT PAGE.
+
+A
+
+A
+
+A
+
+-6-
+
+A
+
+A
+
+A
+
+Questions 11–16
+Alicia will take exactly four courses this semester. She must
+choose from the following seven courses—Geography,
+Japanese, Macroeconomics, Psychology, Russian, Statistics
+(which is offered twice, once each on Tuesdays at 9 A.M. and
+3 P.M.), and World History. No one is allowed to take any
+course more than once per semester. Because of university
+requirements and time conflicts, the following restrictions
+apply to Alicia’s choices:
+She must take Japanese if she does not take Russian.
+She cannot take Japanese if she takes Macroeconomics.
+She cannot take World History if she takes Statistics at
+9 A.M.
+She must take Statistics at 9 A.M. if she takes
+Psychology.
+She must take either Geography or World History but
+cannot take both.
+11. Which one of the following could be the list of the
+four courses Alicia takes?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Geography, Japanese, Psychology, Russian
+Geography, Macroeconomics, Psychology,
+Statistics
+Geography, Japanese, Macroeconomics,
+Russian
+Geography, Psychology, Russian, Statistics
+Macroeconomics, Psychology, Russian,
+Statistics
+
+12. Which one of the following could be an accurate list of
+three of the courses Alicia takes?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Geography, Statistics, World History
+Japanese, Macroeconomics, Statistics
+Japanese, Psychology, World History
+Psychology, Russian, World History
+Russian, Statistics, World History
+
+A
+
+A
+
+A
+
+A
+
+13. Which courses Alicia takes is fully determined if she
+takes Russian and which one of the following?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+World History
+Statistics
+Psychology
+Macroeconomics
+Japanese
+
+14. Alicia could take Statistics at either of the available
+times if she takes which one of the following pairs of
+courses?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Geography and Japanese
+Geography and Psychology
+Japanese and World History
+Psychology and Russian
+Russian and World History
+
+15. If Alicia takes Statistics at 3 P.M. and Geography, then
+which one of the following courses must she also take?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Japanese
+Macroeconomics
+Psychology
+Russian
+World History
+
+16. Suppose that Alicia must take Statistics if she takes
+Psychology, but rather than being restricted to taking
+Statistics at 9 A.M. she can take it at either 9 A.M. or at
+3 P.M. If all the other restrictions remain the same, then
+which one of the following could be the list of the four
+courses Alicia takes?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Psychology, Russian, Statistics, World History
+Macroeconomics, Psychology, Statistics, World
+History
+Macroeconomics, Psychology, Russian, World
+History
+Geography, Psychology, Russian, World History
+Geography, Macroeconomics, Russian, World
+History
+
+GO ON TO THE NEXT PAGE.
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+Questions 17–23
+
+17. Which one of the following lists the cities in an order in
+which they could be used for the meetings, from the first
+year through the sixth?
+
+(B)
+(C)
+(D)
+(E)
+
+Toronto, Vancouver, Washington, Montreal,
+Los Angeles, New York
+Vancouver, Washington, Montreal, Los Angeles,
+New York, Toronto
+Vancouver, Washington, Toronto, New York,
+Los Angeles, Montreal
+Washington, Montreal, Vancouver, New York,
+Toronto, Los Angeles
+Washington, Vancouver, New York, Toronto,
+Los Angeles, Montreal
+
+18. Which one of the following must be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+A
+
+A
+
+A
+
+-7-
+
+19. There is exactly one possible order in which the cities
+are used if which one of the following is true?
+
+An organization will hold its first six annual meetings in
+exactly six cities—Los Angeles, Montreal, New York,
+Toronto, Vancouver, and Washington—using each city only
+once. The following conditions govern the order in which the
+cities are used:
+Los Angeles must be used in some year after the year in
+which Toronto is used.
+Vancouver must be used either immediately before or
+immediately after Washington.
+The meeting in Toronto must be separated from the
+meeting in Montreal by meetings in exactly two other
+cities.
+The meeting in Vancouver must be separated from the
+meeting in Los Angeles by meetings in exactly two other
+cities.
+
+(A)
+
+A
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Los Angeles is used in the fifth year.
+Montreal is used in the sixth year.
+New York is used in the fifth year.
+Vancouver is used in the first year.
+Washington is used in the second year.
+
+20. Which one of the following is a complete and accurate
+list of the years in which Washington could be used?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+1,
+2,
+2,
+1,
+1,
+
+3,
+3,
+3,
+2,
+2,
+
+5
+4,
+4,
+4,
+3,
+
+5
+6
+6
+4, 5, 6
+
+21. If Montreal is used in the first year, which one of the
+following CANNOT be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Washington is used in the third year.
+Vancouver is used in the third year.
+Toronto is used in the fourth year.
+New York is used in the fifth year.
+Los Angeles is used in the third year.
+
+22. Which one of the following could be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Los Angeles is used in the first year.
+New York is used in the second year.
+Montreal is used in the third year.
+Vancouver is used in the fourth year.
+Toronto is used in the sixth year.
+
+23. Which one of the following must be false?
+
+Toronto is used in the first year.
+Montreal is used in the fourth year.
+Toronto is used at some time before Montreal is
+used.
+New York is used either immediately before or
+immediately after Vancouver.
+The meeting in New York is separated from the
+meeting in Washington by meetings in exactly
+two other cities.
+
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Los Angeles is used either immediately before or
+immediately after New York.
+Los Angeles is used either immediately before or
+immediately after Washington.
+New York is used either immediately before or
+immediately after Toronto.
+Toronto is used either immediately before or
+immediately after Vancouver.
+Toronto is used either immediately before or
+immediately after Washington.
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+A
+
+B
+
+B
+
+-8-
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+Time—35 minutes
+26 Questions
+Directions: The questions in this section are based on the reasoning contained in brief statements or passages. For some
+questions, more than one of the choices could conceivably answer the question. However, you are to choose the best answer; that
+is, the response that most accurately and completely answers the question. You should not make assumptions that are by
+commonsense standards implausible, superfluous, or incompatible with the passage. After you have chosen the best answer,
+blacken the corresponding space on your answer sheet.
+1. On the Caribbean island of Guadeloupe, a researcher
+examined 35 patients with atypical Parkinson’s disease and
+compared their eating habits to those of 65 healthy adults.
+She found that all of the patients with atypical Parkinson’s
+regularly ate the tropical fruits soursop, custard apple, and
+pomme cannelle, whereas only 10 of the healthy adults
+regularly ate these fruits. From this, she concluded that
+eating these fruits causes atypical Parkinson’s.
+Which one of the following, if true, most strengthens
+the researcher’s reasoning?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+For many of the atypical Parkinson’s patients, their
+symptoms stopped getting worse, and in some
+cases actually abated, when they stopped eating
+soursop, custard apple, and pomme cannelle.
+Of the healthy adults who did not regularly eat
+soursop, custard apple, and pomme cannelle,
+most had eaten each of these fruits on at least
+one occasion.
+In areas other than Guadeloupe, many people
+who have never eaten soursop, custard apple,
+and pomme cannelle have contracted atypical
+Parkinson’s.
+The 10 healthy adults who regularly ate
+soursop, custard apple, and pomme cannelle
+ate significantly greater quantities of these
+fruits, on average, than did the 35 atypical
+Parkinson’s patients.
+Soursop, custard apple, and pomme cannelle
+contain essential vitamins not contained in any
+other food that is commonly eaten by residents
+of Guadeloupe.
+
+2. Price: A corporation’s primary responsibility is to its
+shareholders. They are its most important
+constituency because they take the greatest risks. If
+the corporation goes bankrupt, they lose their
+investment.
+Albrecht: Shareholders typically have diversified
+investment portfolios. For employees, however,
+the well-being of the corporation for which they
+have chosen to work represents their very
+livelihood. The corporation’s primary
+responsibility should be to them.
+On the basis of their statements, Price and Albrecht are
+committed to disagreeing about whether
+(A)
+(B)
+(C)
+
+(D)
+
+(E)
+
+corporations have a responsibility to their
+shareholders
+corporations are responsible for the welfare of
+their employees
+means should be provided for a corporation’s
+investors to recoup their losses if the
+corporation goes bankrupt
+a corporation’s shareholders have more at stake
+than anyone else does in the corporation’s
+success or failure
+the livelihood of some of the shareholders
+depends on the corporation’s success
+
+GO ON TO THE NEXT PAGE.
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+3. Despite the enormous number of transactions processed
+daily by banks nowadays, if a customer’s bank account
+is accidentally credited with a large sum of money, it is
+extremely unlikely that the error will not be detected by
+the bank’s internal audit procedures.
+Which one of the following, if true, most strongly
+supports the claim above?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Banks initially process all transactions using
+one set of computer programs, but then use a
+different set of programs to double-check large
+transactions.
+Recent changes in banking standards require
+that customers present identification both when
+making deposits into their accounts and when
+making withdrawals from their accounts.
+Banks are required by law to send each
+customer a monthly statement detailing every
+transaction of the previous month.
+The average ratio of bank auditors to customer
+accounts has slowly increased over the past
+100 years.
+The development of sophisticated security
+software has rendered bank computers nearly
+impervious to tampering by computer hackers.
+
+4. Scientist: While studying centuries-old Antarctic ice
+deposits, I found that several years of relatively
+severe atmospheric pollution in the 1500s
+coincided with a period of relatively high global
+temperatures. So it is clear in this case that
+atmospheric pollution did cause global
+temperatures to rise.
+
+B
+
+(A)
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+(E)
+
+The cookie company has recently dropped
+alphahydroxy acids from its cookie ingredients.
+Not all chemicals that are part of the
+manufacturing process are ingredients of the
+cookies.
+The label was printed before the cookie
+company decided to switch from sugarcane
+alphahydroxy acids to synthesized ones.
+Many other foods advertising all natural
+ingredients also contain some ingredients that
+are chemically synthesized.
+All substances except those that do not occur
+naturally in any source are considered natural.
+
+The reasoning above is flawed in that it
+
+(B)
+
+(D)
+
+-9-
+
+6. Although Jaaks is a respected historian, her negative
+review of Yancey’s new book on the history of coastal
+fisheries in the region rests on a mistake. Jaaks’s review
+argues that the book inaccurately portrays the lives of
+fishery workers. However, Yancey used the same
+research methods in this book as in her other histories,
+which have been very popular. This book is also very
+popular in local bookstores.
+
+(A)
+
+(C)
+
+B
+
+Which one of the following, if true, would most
+strengthen Sabina’s argument?
+
+(A)
+
+(B)
+
+B
+
+5. Gilbert: This food label is mistaken. It says that these
+cookies contain only natural ingredients, but they
+contain alphahydroxy acids that are chemically
+synthesized by the cookie company at their plant.
+Sabina: The label is not mistaken. After all,
+alphahydroxy acids also are found occurring
+naturally in sugarcane.
+
+The reasoning in the scientist’s argument is most
+vulnerable to criticism on the grounds that the argument
+presumes, without providing justification, that a
+rise in global temperatures is harmful
+draws a general conclusion based on a sample
+that is likely to be unrepresentative
+inappropriately generalizes from facts about a
+specific period of time to a universal claim
+takes for granted that the method used for
+gathering data was reliable
+infers, merely from a claim that two phenomena
+are associated, that one phenomenon causes the
+other
+
+B
+
+(C)
+(D)
+(E)
+
+relies on the word of a scholar who is
+unqualified in the area in question
+attacks the person making the claim at issue
+rather than addressing the claim
+takes for granted that the popularity of a book
+is evidence of its accuracy
+bases a general conclusion on a sample that is
+likely to be unrepresentative
+presumes, without providing justification, that
+the methods used by Yancey are the only
+methods that would produce accurate results
+
+GO ON TO THE NEXT PAGE.
+
+B
+
+B
+
+B
+
+-10-
+
+B
+
+B
+
+B
+
+7. Columnist: It has been noted that attending a live
+musical performance is a richer experience than is
+listening to recorded music. Some say that this is
+merely because we do not see the performers
+when we listen to recorded music. However, there
+must be some other reason, for there is relatively
+little difference between listening to someone
+read a story over the radio and listening to
+someone in the same room read a story.
+Which one of the following most accurately expresses
+the role played in the argument by the observation that
+attending a live musical performance is a richer
+experience than is listening to recorded music?
+(A)
+(B)
+
+(C)
+(D)
+(E)
+
+It is what the columnist’s argument purports to
+show.
+It is the reason given for the claim that the
+columnist’s argument is attempting to
+undermine.
+It is what the columnist’s argument purports to
+explain.
+It is what the columnist’s argument purports to
+refute.
+It is what the position that the columnist tries to
+undermine is purported to explain.
+
+B
+
+(B)
+(C)
+(D)
+
+(E)
+
+fails to produce statistical evidence supporting
+the dairy farmers’ claims
+fails to consider alternative explanations of the
+decline in sales of ice cream
+relies solely on the testimony of individuals
+who are likely to be biased
+presumes, without providing justification, that
+ice cream is a better source of calcium than is
+cheddar cheese
+presumes, without providing justification, that
+people who eat cheddar cheese never eat ice
+cream
+
+B
+
+Which one of the following arguments displays a flawed
+pattern of reasoning most similar to that in the argument
+above?
+(A)
+
+(B)
+
+(C)
+
+(E)
+
+The reasoning above is most vulnerable to criticism on
+the grounds that it
+(A)
+
+B
+
+9. No member of the Richardson Theater Group is both a
+performer and an administrator. Since Leon and Marta
+are both members of the Richardson Theater Group but
+neither is an administrator, it follows that both are
+performers.
+
+(D)
+8. Though ice cream is an excellent source of calcium,
+dairy farmers report that during the past ten years there
+has been a sharp decline in ice cream sales. And during
+the same period, sales of cheddar cheese have nearly
+doubled. Therefore, more and more people must be
+choosing to increase their intake of calcium by eating
+cheddar cheese rather than ice cream.
+
+B
+
+Not all of the employees of the Tedenco
+Company are salaried employees of that
+company. Since Mr. López and Ms. Allen are
+both salaried employees of the Tedenco
+Company, it follows that they are not the only
+employees of the Tedenco Company.
+No employee of the Tedenco Company is both
+an accountant and a corporate attorney. Since
+Ms. Walsh is both an accountant and a
+corporate attorney, it follows that she is not an
+employee of the Tedenco Company.
+No company can have its headquarters in both
+Canada and Mexico. Since neither the Dumone
+Company nor the Tedenco Company has its
+headquarters in Mexico, it follows that both
+have their headquarters in Canada.
+No corporate attorney represents both the
+Dumone Company and the Tedenco Company.
+Since Ms. Tseung is a corporate attorney who
+represents the Dumone Company, it follows
+that she does not also represent the Tedenco
+Company.
+No member of the board of directors of the
+Dumone Company is also a member of the
+board of directors of the Tedenco Company.
+Since neither company has fewer than five
+board members, it follows that both boards
+together include at least ten members.
+
+10. Chemical fertilizers not only create potential health
+hazards, they also destroy earthworms, which are highly
+beneficial to soil. For this reason alone the use of
+chemical fertilizers should be avoided. The castings
+earthworms leave behind are much richer than the soil
+they ingest, thus making a garden rich in earthworms
+much more fertile than a garden without them.
+Which one of the following most accurately expresses
+the main conclusion of the argument?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Earthworms are highly beneficial to soil.
+Chemical fertilizers destroy earthworms.
+The castings that earthworms leave behind are
+much richer than the soil they ingest.
+The use of chemical fertilizers should be
+avoided.
+A garden rich in earthworms is much more
+fertile than a garden that is devoid of
+earthworms.
+
+GO ON TO THE NEXT PAGE.
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+11. Medical research has established that the Beta Diet is
+healthier than a more conventional diet. But on average,
+people who have followed the Beta Diet for several
+decades are much more likely to be in poor health than
+are people whose diet is more conventional.
+Which one of the following, if true, most helps to
+resolve the apparent conflict between the two statements
+above?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+On average, people who have followed the Beta
+Diet for their entire lives are much more likely
+to have a variety of healthful habits than are
+people whose diet is more conventional.
+The Beta Diet is used primarily as a treatment
+for a condition that adversely affects overall
+health.
+People of average health who switch from a
+conventional diet to the Beta Diet generally
+find that their health improves substantially as
+a result.
+The Beta Diet provides dramatic health benefits
+for some people but only minor benefits for
+others.
+Recent research has shown that a diet high in
+fruits, vegetables, and skim milk is even
+healthier than the Beta Diet.
+
+12. A theoretical framework facilitates conceptual
+organization of material and fruitful expansions of
+research. Many historians argue that historical analysis
+is therefore done best within a theoretical framework.
+But the past is too complex for all of its main trends to
+be captured within a theoretical framework.
+Therefore, _______.
+Which one of the following most logically completes
+the argument?
+(A)
+
+(B)
+(C)
+
+(D)
+
+(E)
+
+there is no benefit ever to be gained in
+recommending to historians that they place
+their work within a theoretical framework
+theoretical frameworks are less useful in history
+than they are in any other discipline
+even the best historical analysis done within a
+theoretical framework fails to capture all of
+history’s main trends
+the value of theoretical work in extending
+research has been emphasized by historians
+who recommend doing historical analysis
+within a theoretical framework
+there is no difference between historical
+analysis that is placed within a theoretical
+framework and historical analysis that is not
+
+B
+
+B
+
+B
+
+B
+
+-11-
+
+13. Bethany: Psychologists have discovered a technique for
+replacing one’s nightmares with pleasant dreams,
+and have successfully taught it to adults suffering
+from chronic nightmares. Studies have found that
+nightmare-prone children are especially likely to
+suffer from nightmares as adults. Thus,
+psychologists should direct efforts toward
+identifying nightmare-prone children so that these
+children can be taught the technique for replacing
+their nightmares with pleasant dreams.
+Which one of the following principles, if valid, most
+helps to justify drawing the conclusion in Bethany’s
+argument?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Psychologists should make an effort to
+determine why certain children are especially
+prone to nightmares while other children are
+not.
+Any psychological technique that can be
+successfully taught to a child can also be
+successfully taught to an adult.
+Psychologists should do everything they can to
+minimize the number of adults troubled by
+chronic nightmares.
+Identifying nightmare-prone children is
+generally more difficult than teaching adults
+the technique for replacing nightmares with
+pleasant dreams.
+Psychologists should not teach the technique for
+replacing nightmares with pleasant dreams to
+children who are unlikely to suffer from
+nightmares as adults.
+
+14. At one sitting, a typical doughnut eater consumes
+4 doughnuts containing a total of 680 calories and
+40 grams of fat. The typical bagel eater consumes exactly
+one bagel, at 500 calories and one or two grams of fat
+per sitting, though the addition of spreads can raise
+calorie and fat content to the four-doughnut range. Thus,
+as far as total calorie content is concerned, there is very
+little difference between what a typical doughnut eater
+and a typical bagel eater each consumes at one sitting.
+The argument depends on assuming which one of the
+following?
+(A)
+
+(B)
+(C)
+(D)
+
+(E)
+
+The calories and fat in bagels have the same
+health impact on bagel eaters as the calories
+and fat in doughnuts have on doughnut eaters.
+Most bagel eaters are not fully aware of the
+calorie and fat content of a bagel.
+Eating bagels instead of eating doughnuts
+provides no real health benefit.
+The typical doughnut eater does not add to
+doughnuts any substances that increase the
+total caloric intake.
+Most typical doughnut eaters are not also bagel
+eaters.
+
+GO ON TO THE NEXT PAGE.
+
+B
+
+B
+
+B
+
+-12-
+
+B
+
+B
+
+B
+
+15. Bowers: A few theorists hold the extreme view that
+society could flourish in a condition of anarchy, the
+absence of government. Some of these theorists
+have even produced interesting arguments to
+support that position. One writer, for example,
+contends that anarchy is laissez-faire capitalism
+taken to its logical extreme. But these theorists’
+views ignore the fundamental principle of social
+philosophy—that an acceptable social philosophy
+must promote peace and order. Any social
+philosophy that countenances chaos, i.e., anarchy,
+accordingly deserves no further attention.
+The reasoning in Bowers’s argument is most vulnerable
+to criticism on the grounds that
+(A)
+(B)
+
+(C)
+(D)
+
+(E)
+
+the meaning of a key term shifts illicitly during
+the course of the argument
+the argument fails to show that laissez-faire
+capitalism deserves to be rejected as a social
+philosophy
+the truth or falsity of a view is not determined
+by the number of people who accept it as true
+the argument presumes, without providing
+justification, that any peaceful society will
+flourish
+it is unreasonable to reject a view merely
+because it can be described as extreme
+
+16. All poets, aside from those who write only epigrams,
+have wit. All lyrical composers are poets. Azriel does
+not write epigrams, though he is a lyrical composer. So
+Azriel has wit.
+
+B
+
+(A)
+(B)
+(C)
+
+(D)
+(E)
+
+The statement that human food-producing capacity has
+increased more rapidly than human population plays
+which one of the following roles in the argument?
+
+(B)
+
+(D)
+
+(E)
+
+A teacher cannot be effective unless he or she
+retains the respect of students.
+Students respect honesty above all else.
+Students’ respect for a teacher is independent of
+the amount of knowledge they attribute to that
+teacher.
+Teachers are able to tell when students respect
+them.
+Students lose respect for teachers whenever they
+sense that the teachers are trying to hide their
+ignorance.
+
+18. Contrary to Malthus’s arguments, human food-producing
+capacity has increased more rapidly than human
+population. Yet, agricultural advances often compromise
+biological diversity. Therefore, Malthus’s prediction that
+insufficient food will doom humanity to war, pestilence,
+and famine will likely be proven correct in the future,
+because a lack of biodiversity will eventually erode our
+capacity to produce food.
+
+(A)
+
+(C)
+
+B
+
+The conclusion is properly drawn if which one of the
+following is assumed?
+
+(A)
+
+(B)
+
+B
+
+17. Teachers should not do anything to cause their students
+to lose respect for them. And students can sense when
+someone is trying to hide his or her ignorance.
+Therefore, a teacher who does not know the answer to a
+question a student has asked should not pretend to know
+the answer.
+
+The pattern of reasoning in which one of the following
+is most similar to that in the argument above?
+All squeeze toys, except those designed for cats,
+are safe for infants. All squeeze toys are sold
+prewrapped. This item is not designed for cats,
+and it is sold prewrapped. So it must be safe
+for infants.
+Aside from the dogcatcher and the police chief,
+all of the politicians in town are lawyers. All
+of the politicians in town have websites. Sal is
+a politician in town, but is neither the
+dogcatcher nor the police chief. Since Sal is a
+politician in town he must have a website.
+All visas are assigned by this office, except for
+those that are issued through diplomatic
+channels. All visit permits are visas. Thus, the
+visit permit in Will’s passport was assigned
+through diplomatic channels.
+All of this store’s winter garments are on sale,
+except for the designer clothes. None of the shirts
+in this store are designer clothes. This shirt,
+therefore, since it is on sale, is a winter garment.
+All residential buildings are subject to the
+original fire code, except for those built last
+year. All townhouses are residential buildings.
+Bloom House was not built last year, and it is
+a townhouse, so it is subject to the original fire
+code.
+
+B
+
+(C)
+(D)
+(E)
+
+It is a hypothesis the argument provides reasons
+for believing to be presently false.
+It is a part of the evidence used in the argument
+to support the conclusion that a well-known
+view is misguided.
+It is an observation that the argument suggests
+actually supports Malthus’s position.
+It is a general fact that the argument offers
+reason to believe will eventually change.
+It is a hypothesis that, according to the
+argument, is accepted on the basis of
+inadequate evidence.
+
+GO ON TO THE NEXT PAGE.
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+19. At a gathering at which bankers, athletes, and lawyers
+are present, all of the bankers are athletes and none of
+the lawyers are bankers.
+If the statements above are true, which one of the
+following statements must also be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+All of the athletes are bankers.
+Some of the lawyers are not athletes.
+Some of the athletes are not lawyers.
+All of the bankers are lawyers.
+None of the lawyers are athletes.
+
+20. Quality control investigator: Upon testing samples of
+products from our supplier that were sent by our
+field inspectors from various manufacturing
+locations, our laboratory discovered that over
+20 percent of the samples were defective. Since our
+supplier is contractually required to limit the rate
+of defects among items it manufactures for us to
+below 5 percent, it has violated its contract with us.
+The reasoning in the quality control investigator’s
+argument is flawed in that the argument
+(A)
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+bases its conclusion on too small a sample of
+items tested by the laboratory
+presumes, without providing justification, that
+the field inspectors were just as likely to
+choose a defective item for testing as they
+were to choose a nondefective item
+overlooks the possibility that a few of the
+manufacturing sites are responsible for most of
+the defective items
+overlooks the possibility that the field inspectors
+tend to choose items for testing that they
+suspect are defective
+presumes, without providing justification, that
+the field inspectors made an equal number of
+visits to each of the various manufacturing
+sites of the supplier
+
+B
+
+B
+
+B
+
+B
+
+-13-
+
+21. Essayist: When the first prehistoric migrations of
+humans from Asia to North America took place,
+the small bands of new arrivals encountered many
+species of animals that would be extinct only
+2,000 years later. Since it is implausible that
+hunting by these small bands of humans could
+have had such an effect, and since disease-causing
+microorganisms not native to North America were
+undoubtedly borne by the new arrivals as well as
+by the animals that followed them, these
+microorganisms were probably the crucial factor
+that accounts for the extinctions.
+Which one of the following, if true, most weakens the
+essayist’s argument?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Animals weakened by disease are not only less
+able to avoid hunters but are also less able to
+avoid their other predators.
+Human beings generally have a substantial
+degree of biological immunity to the diseases
+carried by other species.
+Very few species of North American animals
+not hunted by the new arrivals from Asia were
+extinct 2,000 years after the first migrations.
+Individual humans and animals can carry a
+disease-causing microorganism without
+themselves suffering from the disease.
+Some species of North American animals
+became extinct more than 2,000 years after the
+arrival in North America of the first prehistoric
+human migrants from Asia.
+
+22. A recent study confirms that nutritious breakfasts make
+workers more productive. For one month, workers at
+Plant A received free nutritious breakfasts every day
+before work, while workers in Plant B did not. The
+productivity of Plant A’s workers increased, while that
+of Plant B’s workers did not.
+Which one of the following, if true, most strengthens
+the argument?
+(A)
+(B)
+(C)
+(D)
+
+(E)
+
+Few workers in Plant B consumed nutritious
+breakfasts during the month of the study.
+Workers in the study from Plant A and Plant B
+started work at the same time of day.
+During the month before the study, workers at
+Plant A and Plant B were equally productive.
+Workers from Plant A took fewer vacation days
+per capita during the month than did workers
+from Plant B.
+Workers in Plant B were more productive
+during the month of the study than were
+workers from Plant A.
+
+GO ON TO THE NEXT PAGE.
+
+B
+
+B
+
+B
+
+-14-
+
+B
+
+B
+
+B
+
+23. This year a flood devastated a small river town.
+Hollyville, also a river town, responded with an
+outpouring of aid in which a majority of its residents
+participated, a proportion that far surpassed that of a few
+years ago when Hollyville sent aid to victims of a
+highly publicized earthquake. This year’s circumstances
+were a reversal of last year’s, when Hollyville itself was
+the scene of a deadly tornado and so the recipient rather
+than the supplier of emergency aid.
+The situation described above most closely conforms to
+which one of the following generalizations?
+(A)
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+People are more likely to aid people they know
+than they are to aid strangers.
+Those who have received aid are more likely to
+be in favor of government relief programs than
+are those who have not.
+The amount of aid that victims of a disaster
+receive is unrelated to the extent to which the
+disaster is publicized.
+Once a disaster has struck them, people are
+more likely to aid others in need than they
+were before the disaster.
+People are more likely to aid those who have
+experienced a hardship similar to one they
+themselves have experienced than to aid those
+who have experienced a dissimilar hardship.
+
+B
+
+B
+
+B
+
+B
+
+24. Market analyst: According to my research, 59 percent of
+consumers anticipate paying off their credit card
+balances in full before interest charges start to
+accrue, intending to use the cards only to avoid
+carrying cash and writing checks. This research
+also suggests that in trying to win business from
+their competitors, credit card companies tend to
+concentrate on improving the services their
+customers are the most interested in. Therefore,
+my research would lead us to expect that _______.
+Which one of the following most logically completes
+the market analyst’s argument?
+(A)
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+most consumers would be indifferent about
+which company’s credit card they use
+credit card companies would not make the
+interest rates they charge on cards the main
+selling point
+most consumers would prefer paying interest on
+credit card debts over borrowing money from
+banks
+most consumers would ignore the length of time
+a credit card company allows to pay the
+balance due before interest accrues
+the most intense competition among credit card
+companies would be over the number of places
+that they can get to accept their credit card
+
+GO ON TO THE NEXT PAGE.
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+25. About 3 billion years ago, the Sun was only 80 percent
+as luminous as it is currently. Such conditions today
+would result in the freezing of Earth’s oceans, but
+geological evidence shows that water rather than ice filled
+the oceans at that time. Heat is trapped within Earth’s
+atmosphere through the presence of carbon dioxide,
+which, like methane, is a “greenhouse gas.” Only if the
+level of greenhouse gases were higher 3 billion years ago
+than it is today would Earth have retained enough heat to
+keep the oceans from freezing. It is likely, therefore, that
+the level of carbon dioxide in the atmosphere was
+significantly higher then than it is today.
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Sufficient heat to keep the oceans liquid
+3 billion years ago could not have been
+generated through geological processes such as
+volcanic activity.
+Geological studies indicate that there is much
+less methane in Earth’s atmosphere today than
+there was 3 billion years ago.
+Geological evidence indicates that the oceans
+contained greater amounts of dissolved
+minerals 3 billion years ago, but not enough to
+alter their freezing points significantly.
+The increase in the Sun’s luminosity over the
+past 3 billion years roughly coincided with an
+increasing complexity of life forms on Earth.
+Because the distance from Earth to the Sun has
+not changed significantly over the last 3 billion
+years, the increase in the Sun’s luminosity has
+resulted in more radiation reaching Earth.
+
+B
+
+B
+
+B
+
+-15-
+
+26. Commentator: For a free market to function properly,
+each prospective buyer of an item must be able to
+contact a large number of independent
+prospective sellers and compare the prices
+charged for the item to what the item is worth.
+Thus, despite advertised prices and written
+estimates available from many of its individual
+businesses, the auto repair industry does not
+constitute a properly functioning free market.
+The conclusion of the commentator’s argument follows
+logically if which one of the following is assumed?
+(A)
+
+Which one of the following, if true, weakens the
+argument?
+(A)
+
+B
+
+(B)
+(C)
+(D)
+(E)
+
+People do not usually shop for auto repairs but
+instead take their autos to their regular repair
+shop out of habit.
+Some persons who are shopping for auto repairs
+cannot determine what these repairs are worth.
+Not all auto repair shops give customers written
+estimates.
+Many auto repair shops charge more for auto
+repairs than these repairs are worth.
+Because it is not regulated, the auto repair
+industry does not have standardized prices.
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+B
+
+C
+
+C
+
+-16-
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Time—35 minutes
+25 Questions
+Directions: The questions in this section are based on the reasoning contained in brief statements or passages. For some
+questions, more than one of the choices could conceivably answer the question. However, you are to choose the best answer; that
+is, the response that most accurately and completely answers the question. You should not make assumptions that are by
+commonsense standards implausible, superfluous, or incompatible with the passage. After you have chosen the best answer,
+blacken the corresponding space on your answer sheet.
+1. New technologies that promise to extend life and
+decrease pain involve innovations that require extensive
+scientific research. Therefore, investment in such
+technologies is very risky, because innovations requiring
+extensive scientific research also require large amounts
+of capital but are unlikely to provide any financial
+return. Nonetheless, some people are willing to invest in
+these new technologies.
+Which one of the following, if true, most helps to
+explain why some people are willing to invest in new
+technologies that promise to extend life and decrease pain?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+When investments in new technologies that
+promise to extend life and decrease pain do
+provide financial return, they generally return
+many times the original investment, which is
+much more than the return on safer investments.
+A large variety of new technologies that
+promise to extend life and decrease pain have
+been developed in the last decade.
+The development of certain new technologies
+other than those that promise to extend life and
+decrease pain is also very risky, because these
+technologies require large amounts of capital
+but are unlikely to provide any financial return.
+Some investments that initially seem likely to
+provide reasonably large financial return
+ultimately provide no financial return.
+The scientific research necessary to develop
+new technologies that promise to extend life
+and decrease pain sometimes leads to no
+greater understanding of the natural world.
+
+2. A university psychology department received a large
+donation from a textbook company after agreeing to use
+one of the company’s books for a large introductory
+course. The department chair admitted that the
+department would not have received the donation if it
+used another company’s textbook, but insisted that the
+book was chosen solely for academic reasons. As proof,
+she noted that the department’s textbook committee had
+given that textbook its highest rating.
+Which one of the following, if true, most weakens the
+case for the department chair’s position?
+(A)
+
+(B)
+
+(C)
+
+(D)
+(E)
+
+The members of the textbook committee were
+favorably influenced toward the textbook by
+the prospect of their department receiving a
+large donation.
+The department has a long-standing policy of
+using only textbooks that receive the
+committee’s highest rating.
+In the previous year, a different textbook from
+the same company was used in the
+introductory course.
+The department chair is one of the members of
+the textbook committee.
+The textbook company does not routinely make
+donations to academic departments that use its
+books.
+
+GO ON TO THE NEXT PAGE.
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+3. Hemoglobin, a substance in human blood, transports
+oxygen from the lungs to the rest of the body. With
+each oxygen molecule it picks up, a hemoglobin
+molecule becomes more effective at picking up
+additional oxygen molecules until its maximum capacity
+of four oxygen molecules is reached. Grabbing an
+oxygen molecule changes the shape of the hemoglobin
+molecule, each time causing it literally to open itself to
+receive more oxygen.
+Which one of the following is most strongly supported
+by the information above?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+A hemoglobin molecule that has picked up three
+oxygen molecules will probably acquire a
+fourth oxygen molecule.
+The only factor determining how effective a
+hemoglobin molecule is at picking up oxygen
+molecules is how open the shape of that
+hemoglobin molecule is.
+A hemoglobin molecule that has picked up three
+oxygen molecules will be more effective at
+picking up another oxygen molecule than will
+a hemoglobin molecule that has picked up only
+one oxygen molecule.
+A hemoglobin molecule that has picked up four
+oxygen molecules will have the same shape as
+a hemoglobin molecule that has not picked up
+any oxygen molecules.
+Each hemoglobin molecule in human blood
+picks up between one and four oxygen
+molecules in or near the lungs and transports
+them to some other part of the body.
+
+4. On a short trip a driver is more likely to have an
+accident if there is a passenger in the car, presumably
+because passengers distract drivers. However, on a long
+trip a driver is more likely to have an accident if the
+driver is alone.
+Which one of the following, if true, most helps to
+explain the facts described above?
+(A)
+(B)
+(C)
+
+(D)
+
+(E)
+
+People are much more likely to drive alone on
+short trips than on long trips.
+Good drivers tend to take more long trips than
+bad drivers.
+The longer a car trip is, the more likely a
+passenger is to help the driver maintain
+alertness.
+On a long trip the likelihood of an accident
+does not increase with each additional
+passenger.
+Most drivers take far more short trips than long
+trips.
+
+C
+
+C
+
+C
+
+C
+
+-17-
+
+5. Challenger: The mayor claims she has vindicated those
+who supported her in the last election by fulfilling
+her promise to increase employment opportunities
+in our city, citing the 8 percent increase in the
+number of jobs in the city since she took office.
+But during her administration, the national
+government relocated an office to our city,
+bringing along nearly the entire staff from the
+outside. The 8 percent increase merely represents
+the jobs held by these newcomers.
+Mayor: Clearly my opponent does not dispute the
+employment statistics. The unemployed voters in
+this city want jobs. The 8 percent increase in the
+number of jobs during my term exceeds that of
+any of my predecessors.
+As a response to the challenger, the mayor’s answer is
+flawed in that it
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+takes for granted that those who supported the
+mayor in the last election believed job
+availability to be a significant city issue
+does not consider whether the number of
+unemployed persons within the city represents
+more than 8 percent of the eligible voters
+fails to address the challenger’s objection that
+the 8 percent increase did not result in an
+increase in job availability for those who lived
+in the city at the time of the last election
+ignores the challenger’s contention that the
+influx of newcomers during the mayor’s
+administration has increased the size of the
+voting public and altered its priorities
+explicitly attributes to the challenger beliefs that
+the challenger has neither asserted nor implied
+
+GO ON TO THE NEXT PAGE.
+
+C
+
+C
+
+C
+
+-18-
+
+C
+
+C
+
+C
+
+6. A recent magazine editorial criticizes psychologists for
+not attempting to establish the order in which different
+areas of the brain are activated during a cognitive task
+such as imagining the face of a friend. However, the
+editorial is unfair because there is currently no
+technology that can detect the order of activation of
+brain areas.
+Which one of the following most closely conforms to
+the principle to which the reasoning in the passage
+conforms?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Construction companies have been unfairly
+criticized for using fewer layers of heating
+insulation in new houses than the number of
+layers used in previous years. Recent
+technology has made insulation more efficient,
+so fewer layers are required.
+Utility companies have been unfairly criticized
+for not using nuclear fusion to meet the
+nation’s electricity needs. There is no way to
+harness fusion that could produce enough
+electricity to supply even one small town.
+The food industry has been unfairly criticized
+for attempting to preserve food longer by
+treating it with radiation. If food remained
+edible for longer, the cost of food would
+decrease substantially.
+The school system has been unfairly criticized
+for not making familiarity with computer
+technology a requirement. Computer studies
+could not be added to the curriculum without
+sacrificing some other subject.
+CEOs of large companies have been unfairly
+criticized for not always using their knowledge
+of economic theory to run their companies.
+Economic theory is sometimes irrelevant to
+making wise corporate decisions.
+
+7. Although most people know what their bad habits are
+and want to rid themselves of them, a majority of these
+people find it very difficult to do so. This is because
+cessation of habitual behavior is immediately and
+vividly painful, while whatever benefit is to be gained
+by the absence of the habit is perceived only dimly
+because it is remote.
+
+C
+
+C
+
+C
+
+C
+
+8. The more modern archaeologists learn about Mayan
+civilization, the better they understand its intellectual
+achievements. Not only were numerous scientific
+observations and predictions made by Mayan
+astronomers, but the people in general seem to have had
+a strong grasp of sophisticated mathematical concepts.
+We know this from the fact that the writings of the
+Mayan religious scribes exhibit a high degree of
+mathematical competence.
+The argument’s reasoning is most vulnerable to criticism
+on the grounds that the argument
+(A)
+(B)
+(C)
+(D)
+(E)
+
+fails to provide an adequate definition of the
+term “intellectual achievement”
+bases a generalization on a sample that is likely
+to be unrepresentative
+overlooks the impressive achievements of other
+past civilizations
+relies on two different senses of the term
+“scientific”
+takes a mere correlation to be evidence of a
+causal relationship
+
+9. Manager: There is no good reason to suppose that
+promoting creativity is a proper goal of an
+employee training program. Many jobs require
+little or no creativity and, in those positions, using
+creativity is more likely to be disruptive than
+innovative. Furthermore, even if creativity were
+in demand, there is no evidence that it can be
+taught.
+Which one of the following most accurately expresses
+the main conclusion drawn in the manager’s argument?
+(A)
+(B)
+(C)
+(D)
+
+(E)
+
+Using creativity in jobs that require little or no
+creativity can be disruptive.
+Employee training programs are not able to
+teach employees creativity.
+Many jobs require little or no creativity.
+There is no good reason to suppose that
+employee training programs should promote
+creativity.
+Creativity is in demand, but there is no
+evidence that it can be taught.
+
+The information above most strongly supports the
+statement that the people who are most successful at
+ending their bad habits are those who
+(A)
+(B)
+(C)
+(D)
+(E)
+
+can vividly imagine remote but attainable
+benefit
+can vividly imagine their present pain being felt
+in the future
+have succeeded in the past at modifying their
+behavior
+are relatively unaware of their own behavioral
+characteristics
+can vividly remember the pain caused them in
+the past by their bad habits
+
+GO ON TO THE NEXT PAGE.
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+10. Producer: It has been argued that, while the government
+should not censor television shows, the public
+should boycott the advertisers of shows that
+promote violence and erode our country’s values.
+But this would be censorship nonetheless, for if
+the public boycotted the advertisers, then they
+would cancel their advertisements, causing some
+shows to go off the air; the result would be a
+restriction of the shows that the public can watch.
+The producer’s conclusion is properly inferred if which
+one of the following is assumed?
+(A)
+
+(B)
+
+(C)
+(D)
+
+(E)
+
+If there is neither government censorship nor
+boycotting of advertisers, there will be no
+restriction of the television shows that the
+public can watch.
+Public boycotts could force some shows off the
+air even though the shows neither promote
+violence nor erode values.
+For any television show that promotes violence
+and erodes values, there will be an audience.
+There is widespread public agreement about
+which television shows promote violence and
+erode values.
+Any action that leads to a restriction of what
+the public can view is censorship.
+
+11. Predictions that printed books will soon be replaced by
+books in electronic formats such as CD-ROM are
+exaggerated. While research libraries may find an
+electronic format more convenient for scholars and
+scientists, bookstores and public libraries will stock
+books in the format desired by the general public, which
+will be something other than an electronic format.
+Which one of the following, if true, most strengthens
+the argument?
+(A)
+
+(B)
+
+(C)
+(D)
+
+(E)
+
+Scholars and scientists find an electronic format
+for books the most convenient one for quick
+searching and cross-referencing.
+Publishers will continue to print books in the
+format stocked by bookstores and public
+libraries.
+Scholars and scientists do not usually conduct
+their research in public libraries.
+At some bookstores and libraries, the popularity
+of books on tape and of videos is beginning to
+rival that of printed books.
+Some members of the general public prefer to
+purchase books in an electronic format rather
+than borrow them from the library.
+
+C
+
+C
+
+C
+
+C
+
+-19-
+
+12. To cut costs, a high school modified its air-conditioning
+system to increase its efficiency. The modified system,
+however, caused the humidity in the school air to
+decrease by 18 percent. Twenty-four hours after the
+decrease in air humidity, a 25 percent increase in the
+number of visits to the school nurse was reported. This
+shows that a decrease in humidity can make people ill.
+The argument depends on assuming which one of the
+following?
+(A)
+
+(B)
+(C)
+(D)
+
+(E)
+
+At least some of the visits to the school nurse
+after the system was modified were due to
+illness.
+Most of the students at the high school suffered
+from the decrease in air humidity.
+It takes 24 hours after a person is infected with
+a virus for that person to exhibit symptoms.
+A decrease of 18 percent in air humidity causes
+an increase of 25 percent in one’s probability
+of becoming ill.
+Modifying the air-conditioning system proved to
+be an ineffective way to cut costs.
+
+13. A recent study of 10,000 people who were involved in
+automobile accidents found that a low percentage of
+those driving large automobiles at the time of their
+accidents were injured, but a high percentage of those
+who were driving small automobiles at the time of their
+accidents were injured. Thus, one is less likely to be
+injured in an automobile accident if one drives a large
+car rather than a small car.
+Which one of the following, if true, most seriously
+weakens the argument?
+(A)
+(B)
+(C)
+
+(D)
+
+(E)
+
+Most of the accidents analyzed in the study
+occurred in areas with very high speed limits.
+Most people who own small cars also drive
+large cars on occasion.
+Half of the study participants drove
+medium-sized cars at the time of their
+accidents.
+A large automobile is far more likely to be
+involved in an accident than is a small
+automobile.
+Only a small percentage of those people
+involved in an automobile accident are injured
+as a result.
+
+GO ON TO THE NEXT PAGE.
+
+C
+
+C
+
+C
+
+-20-
+
+C
+
+C
+
+C
+
+14. Economist: A country’s trade deficit may indicate
+weakness in its economy, but it does not in itself
+weaken that economy. So restricting imports to
+reduce a trade deficit would be like sticking a
+thermometer into a glass of cold water in the hope
+of bringing down a patient’s feverish temperature.
+The economist’s argument employs which one of the
+following techniques?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+claiming that a crucial assumption entails a
+falsehood
+demonstrating that an analogy explicitly used to
+establish a certain conclusion is faulty
+appealing to an analogy in order to indicate the
+futility of a course of action
+calling into question the authority on the basis
+of which a claim is made
+showing that a recommended course of action
+would have disastrous consequences
+
+15. There are circumstances in which it is not immoral to
+make certain threats, and there are circumstances in
+which it is not immoral to ask for money or some other
+favor. Therefore, there are circumstances in which it is
+not immoral to ask for money or a favor while making a
+threat.
+Which one of the following exhibits a flawed pattern of
+reasoning most similar to that in the argument above?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+There are many business events for which
+casual dress is appropriate, and there are many
+social events for which casual dress is
+appropriate; therefore, if an occasion is neither
+a business event nor a social event, casual
+dress is not likely to be appropriate.
+It is usually easy to move a piano after you
+have convinced five people to help you,
+provided that you do not need to take it up or
+down stairs. Therefore, it is usually easy to
+move a piano.
+It is healthful to take drug A for a headache,
+and it is healthful to take drug B for a
+headache; therefore, it is healthful to take
+drug A together with drug B for a headache.
+Heavy trucks are generally operated in a safe
+manner, but the ability to drive a truck safely
+can be impaired by certain prescription drugs.
+Therefore, heavy trucks cannot be operated
+safely while the driver is under the effect of a
+prescription drug.
+The mountain roads are treacherous after it
+rains, and the mountain streams are full after a
+rain. So, if the roads in the mountains are
+treacherous, and the mountain streams are full,
+it surely has rained recently.
+
+C
+
+C
+
+C
+
+C
+
+16. A common genetic mutation that lowers levels of the
+enzyme cathepsin C severely reduces a person’s ability
+to ward off periodontitis, or gum disease. The enzyme
+triggers immunological reactions that destroy diseased
+cells and eliminate infections in the mouth. But
+researchers are developing ways to restore the enzyme
+to normal levels. Once that happens, we will be able to
+eliminate periodontitis.
+Which one of the following is an assumption on which
+the argument depends?
+(A)
+(B)
+(C)
+(D)
+
+(E)
+
+Restoring cathepsin C to normal levels is the
+only way to eliminate periodontitis.
+Genetic mutation is the only cause of lowered
+levels of cathepsin C.
+Researchers will soon succeed in finding means
+of restoring cathepsin C to normal levels.
+Persons who do not have the genetic mutation
+that lowers levels of cathepsin C do not get
+gum disease.
+A person whose cathepsin C level has been
+restored to normal will not suffer from
+periodontitis.
+
+17. A recent study of major motion pictures revealed that
+the vast majority of their plots were simply variations
+on plots that had been used many times before. Despite
+this fact, many people enjoy seeing several new movies
+each year.
+Each of the following, if true, would contribute to an
+explanation of the apparent discrepancy in the
+information above EXCEPT:
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Movies based on standard plots are more likely
+to be financially successful than are ones based
+on original plots.
+If the details of their stories are sufficiently
+different, two movies with the same basic plot
+will be perceived by moviegoers as having
+different plots.
+Because of the large number of movies
+produced each year, the odds of a person
+seeing two movies with the same general plot
+structure in a five-year period are fairly low.
+A certain aesthetic pleasure is derived from
+seeing several movies that develop the same
+plot in slightly different ways.
+Although most modern movie plots have been
+used before, most of those previous uses
+occurred during the 1940s and 1950s.
+
+GO ON TO THE NEXT PAGE.
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+18. Those who claim that governments should not continue
+to devote resources to space exploration are wrong.
+Although most people’s lives are relatively unaffected
+by the direct consequences of space exploration, many
+modern technologies that have a tremendous impact on
+daily life—e.g., fiber optics, computers, and lasers—are
+unexpected consequences of it. Society might have
+missed the benefits of these technologies if governments
+had not devoted resources to space exploration.
+Which one of the following most accurately expresses
+the principle underlying the argument above?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Governments should not be prevented from
+allocating resources to projects whose intended
+consequences do not directly benefit most
+people.
+One can never underestimate the beneficial
+consequences of government support of
+ambitious technological undertakings.
+The less practical the goal of a
+government-supported project, the more
+unexpected the consequences of that project.
+Governments should continue to support those
+projects that have, in the past, produced
+unintended benefits.
+In attempting to advance the welfare of society,
+governments should continue to dedicate
+resources to ambitious technological
+undertakings.
+
+19. If understanding a word always involves knowing its
+dictionary definition, then understanding a word requires
+understanding the words that occur in that definition.
+But clearly there are people—for example, all babies—
+who do not know the dictionary definitions of some of
+the words they utter.
+Which one of the following statements follows logically
+from the statements above?
+(A)
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Some babies utter individual words that they do
+not understand.
+Any number of people can understand some
+words without knowing their dictionary
+definitions.
+If some words can be understood without
+knowing their dictionary definitions, then
+babies understand some words.
+If it is possible to understand a word without
+knowing its dictionary definition, then it is
+possible to understand a word without having
+to understand any other word.
+If some babies understand all the words they
+utter, then understanding a word does not
+always involve knowing its dictionary
+definition.
+
+C
+
+C
+
+C
+
+C
+
+-21-
+
+20. The peppered moth avoids predators by blending into its
+background, typically the bark of trees. In the late
+nineteenth century, those peppered moths with the
+lightest pigmentation had the greatest contrast with their
+backgrounds, and therefore were the most likely to be
+seen and eaten by predators. It follows, then, that the
+darkest peppered moths were the least likely to be seen
+and eaten.
+Which one of the following most accurately describes a
+flaw in the reasoning of the argument?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+The argument overlooks the possibility that
+light peppered moths had more predators than
+dark peppered moths.
+The argument takes for granted that peppered
+moths are able to control the degree to which
+they blend into their backgrounds.
+The argument presumes, without providing
+justification, that all peppered moths with the
+same coloring had the same likelihood of
+being seen and eaten by a predator.
+The argument overlooks the possibility that
+there were peppered moths of intermediate
+color that contrasted less with their backgrounds
+than the darkest peppered moths did.
+The argument presumes, without providing
+justification, that the only defense mechanism
+available to peppered moths was to blend into
+their backgrounds.
+
+GO ON TO THE NEXT PAGE.
+
+C
+
+C
+
+C
+
+-22-
+
+C
+
+C
+
+C
+
+21. Historian: The standard “QWERTY” configuration of
+the keys on typewriters and computer keyboards
+was originally designed to be awkward and limit
+typing speed. This was because early typewriters
+would jam frequently if adjacent keys were struck
+in quick succession. Experiments have shown that
+keyboard configurations more efficient than
+QWERTY can double typing speed while
+tremendously reducing typing effort. However,
+the expense and inconvenience of switching to a
+new keyboard configuration prevent any
+configuration other than QWERTY from attaining
+widespread use.
+
+C
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Most people who have tried typing with
+non-QWERTY keyboards have typed
+significantly more quickly using those
+keyboards than they usually have done using
+QWERTY keyboards.
+Early QWERTY typewriters were less likely to
+jam than were at least some more recent
+typewriters if adjacent keys were struck in
+quick succession.
+If the designers of early typewriters had
+foreseen the possibility that technology would
+make it possible for adjacent keyboard keys to
+be struck in rapid succession without jamming,
+then they would not have proposed the
+QWERTY configuration.
+The benefit to society that would result from
+switching to a keyboard configuration other
+than QWERTY is significantly greater than the
+overall cost of such a switch.
+If the keyboard had been designed for
+computers, then it would not have been
+designed to limit typing speed.
+
+C
+
+C
+
+22. Since anyone who makes an agreement has an
+obligation to fulfill the terms of that agreement, it
+follows that anyone who is obligated to perform an
+action has agreed to perform that action. Hence, saying
+that one has a legal obligation to perform a given action
+is the same as saying that one is required to fulfill one’s
+agreement to perform that action.
+Which one of the following statements most accurately
+characterizes the argument’s reasoning flaws?
+(A)
+
+Which one of the following is most strongly supported
+by the historian’s statements?
+(A)
+
+C
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+The argument fails to make a crucial distinction
+between an action one is legally obligated to
+perform and an action with good
+consequences, and it takes for granted that
+everything true of legal obligations is true of
+obligations generally.
+The argument takes for granted that there are
+obligations other than those resulting from
+agreements made, and it fails to consider the
+possibility that actions that uphold agreements
+made are sometimes performed for reasons
+other than to uphold those agreements.
+The argument contains a premise that is
+logically equivalent to its conclusion, and it
+takes for granted that there are only certain
+actions that one should agree to perform.
+The argument treats a condition that is sufficient
+to make something an obligation as also a
+requirement for something to be an obligation,
+and it takes for granted that any obligation to
+perform an action is a legal obligation.
+The argument rests on an ambiguous use of the
+term “action,” and it fails to consider the
+possibility that people are sometimes unwilling
+to perform actions that they have agreed to
+perform.
+
+23. To predict that a device will be invented, one must
+develop a conception of the device that includes some
+details at least about how it will function and the
+consequences of its use. But clearly, then, the notion of
+predicting an invention is self-contradictory, for
+inventing means developing a detailed conception, and
+one cannot predict what has already taken place.
+Which one of the following most accurately describes
+the technique of reasoning employed by the argument?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+constructing a counterexample to a general
+hypothesis about the future
+appealing to definitions to infer the
+impossibility of a kind of occurrence
+countering a hypothesis by indicating the
+falsehood of the implications of that hypothesis
+pointing out how a problem is widely thought
+to be scientific yet is really conceptual
+attempting to show that predicting any event
+implies that it has in fact already taken place
+
+GO ON TO THE NEXT PAGE.
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+24. Eighteenth-century European aesthetics was reasonably
+successful in providing an understanding of all art,
+including early abstract art, until the 1960s, when artists
+self-consciously rebelled against earlier notions of art.
+Since the work of these rebellious artists is quite
+beautiful but outside the bounds of the aesthetic theory
+then current, there can be no complete theory of
+aesthetics.
+The reasoning above is most vulnerable to criticism in
+that it
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+takes for granted that it is more important for a
+complete aesthetic theory to account for the
+beauty of traditional art than for it to account
+for the beauty of self-consciously rebellious art
+presumes, without providing justification, that
+artists’ rebellion in the 1960s against earlier
+notions of art was not guided by their
+knowledge of eighteenth-century European
+aesthetic theory
+presumes, without providing justification, that
+an aesthetic theory developed in one part of
+the world cannot be applied in another
+presumes, without providing justification, that
+art from the 1960s is the only art that cannot
+be adequately addressed by eighteenth-century
+European aesthetics
+presumes, without providing justification, that
+eighteenth-century European aesthetics is as
+encompassing as an aesthetic theory can be
+
+C
+
+C
+
+C
+
+C
+
+-23-
+
+25. Science writer: All scientists have beliefs and values
+that might slant their interpretations of the data
+from which they draw their conclusions.
+However, serious scientific papers are carefully
+reviewed by many other scientists before
+publication. These reviewers are likely to notice
+and object to biases that they do not share. Thus,
+any slanted interpretations of scientific data will
+generally have been removed before publication.
+Which one of the following is an assumption required
+by the science writer’s argument?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+The scientists reviewing serious scientific
+papers for publication do not always have
+biases likely to slant their interpretations of the
+data in those papers.
+In general, biases that slant interpretations of
+data in serious scientific papers being reviewed
+for publication are not shared among all
+scientists.
+Biases that are present in published scientific
+papers and shared by most scientists, including
+those who review the papers, are unlikely to
+impair the scientific value of those papers.
+The interpretation of data is the only part of a
+serious scientific paper that is sometimes
+slanted by the beliefs and values of scientists.
+Slanted interpretations of data in a scientific
+paper can be removed only through careful
+review by scientists who do not share the
+biases of the author or authors of the paper.
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+C
+
+D
+
+-24-
+
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+
+Time—35 minutes
+27 Questions
+Directions: Each set of questions in this section is based on a single passage or a pair of passages. The questions are to be
+answered on the basis of what is stated or implied in the passage or pair of passages. For some of the questions, more than one
+of the choices could conceivably answer the question. However, you are to choose the best answer; that is, the response that
+most accurately and completely answers the question, and blacken the corresponding space on your answer sheet.
+
+(5)
+
+(10)
+
+(15)
+
+(20)
+
+(25)
+
+(30)
+
+(35)
+
+(40)
+
+(45)
+
+Passage A
+Recent studies have shown that sophisticated
+computer models of the oceans and atmosphere are
+capable of simulating large-scale climate trends with
+remarkable accuracy. But these models make use of
+large numbers of variables, many of which have wide
+ranges of possible values. Because even small
+differences in those values can have a significant
+impact on what the simulations predict, it is important
+to determine the impact when values differ even
+slightly.
+Since the interactions between the many variables
+in climate simulations are highly complex, there is no
+alternative to a “brute force” exploration of all
+possible combinations of their values if predictions
+are to be reliable. This method requires very large
+numbers of calculations and simulation runs. For
+example, exhaustive examination of five values for
+each of only nine variables would require 2 million
+calculation-intensive simulation runs. Currently
+available individual computers are completely
+inadequate for such a task.
+However, the continuing increase in computing
+capacity of the average desktop computer means that
+climate simulations can now be run on privately
+owned desktop machines connected to one another
+via the Internet. The calculations are divided among
+the individual desktop computers, which work
+simultaneously on their share of the overall problem.
+Some public resource computing projects of this kind
+have already been successful, although only when
+they captured the public’s interest sufficiently to
+secure widespread participation.
+Passage B
+Researchers are now learning that many problems
+in nature, human society, science, and engineering are
+naturally “parallel”; that is, that they can be
+effectively solved by using methods that work
+simultaneously in parallel. These problems share the
+common characteristic of involving a large number of
+similar elements such as molecules, animals, even
+people, whose individual actions are governed by
+simple rules but, taken collectively, function as a
+highly complex system.
+An example is the method used by ants to forage
+for food. As Lewis Thomas observed, a solitary ant is
+little more than a few neurons strung together by
+fibers. Its behavior follows a few simple rules. But
+when one sees a dense mass of thousands of ants,
+crowded together around their anthill retrieving food
+or repelling an intruder, a more complex picture
+
+(50)
+
+(55)
+
+(60)
+
+(65)
+
+emerges; it is as if the whole is thinking, planning,
+calculating. It is an intelligence, a kind of live
+computer, with crawling bits for wits.
+We are now living through a great paradigm shift
+in the field of computing, a shift from sequential
+computing (performing one calculation at a time) to
+massive parallel computing, which employs
+thousands of computers working simultaneously to
+solve one computation-intensive problem. Since many
+computation-intensive problems are inherently
+parallel, it only makes sense to use a computing
+model that exploits that parallelism. A computing
+model that resembles the inherently parallel problem
+it is trying to solve will perform best. The old
+paradigm, in contrast, is subject to the speed limits
+imposed by purely sequential computing.
+
+1. Which one of the following most accurately expresses
+the main point of passage B?
+(A)
+(B)
+(C)
+
+(D)
+
+(E)
+
+Many difficult problems in computing are
+naturally parallel.
+Sequential computing is no longer useful
+because of the speed limits it imposes.
+There is currently a paradigm shift occurring in
+the field of computing toward parallel
+computing.
+Complex biological and social systems are the
+next frontier in the field of computer
+simulation.
+Inherently parallel computing problems are best
+solved by means of computers modeled on the
+human mind.
+
+2. The large-scale climate trends discussed in passage A
+are most analogous to which one of the following
+elements in passage B?
+(A)
+
+(B)
+(C)
+(D)
+(E)
+
+the thousands of computers working
+simultaneously to solve a calculation-intensive
+problem
+the simple rules that shape the behavior of a
+single ant
+the highly complex behavior of a dense mass of
+thousands of ants
+the paradigm shift from sequential to parallel
+computing
+the speed limits imposed by computing purely
+sequentially
+
+GO ON TO THE NEXT PAGE.
+
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+
+3. It can be inferred that the authors of the two passages
+would be most likely to agree on which one of the
+following statements concerning computing systems?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Massive, parallel computing systems are able to
+solve complex computation-intensive problems
+without having to resort to “brute force.”
+Computer models are not capable of simulating
+the behavior of very large biological
+populations such as insect colonies.
+Parallel computing systems that link privately
+owned desktop computers via the Internet are
+not feasible because they rely too heavily on
+public participation.
+Currently available computers are not
+well-suited to running simulations, even if the
+simulated problems are relatively simple.
+Parallel computing systems employing multiple
+computers are the best means for simulating
+large-scale climate trends.
+
+4. The author of passage A mentions public participation
+(lines 30–32) primarily in order to
+(A)
+(B)
+(C)
+(D)
+
+(E)
+
+encourage public engagement in the sort of
+computing model discussed in the passage
+identify a factor affecting the feasibility of the
+computing model advocated in the passage
+indicate that government support of large-scale
+computing efforts is needed
+demonstrate that adequate support for the type
+of approach described in the passage already
+exists
+suggest that a computing model like that
+proposed in the passage is infeasible because
+of forces beyond the designers’ control
+
+5. Passage B relates to passage A in which one of the
+following ways?
+(A)
+(B)
+
+(C)
+(D)
+
+(E)
+
+The argument in passage B has little bearing on
+the issues discussed in passage A.
+The explanation offered in passage B shows
+why the plan proposed in passage A is unlikely
+to be implemented.
+The ideas advanced in passage B provide a
+rationale for the solution proposed in passage A.
+The example given in passage B illustrates the
+need for the “brute force” exploration
+mentioned in passage A.
+The discussion in passage B conflicts with the
+assumptions about individual computers made
+in passage A.
+
+D
+
+D
+
+D
+
+D
+
+-25-
+
+6. The passages share which one of the following as their
+primary purpose?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+to show that the traditional paradigm in
+computing is ineffective for many common
+computing tasks
+to argue that a new approach to computing is an
+effective way to solve a difficult type of
+problem
+to convince skeptics of the usefulness of
+desktop computers for calculation-intensive
+problems
+to demonstrate that a new computing paradigm
+has supplanted the traditional paradigm for
+most large-scale computing problems
+to describe complex and as yet unsolved
+problems that have recently arisen in
+computing
+
+7. In calling a population of ants “an intelligence, a kind
+of live computer” (lines 51–52) the author of passage B
+most likely means that
+(A)
+(B)
+(C)
+
+(D)
+
+(E)
+
+the behavior of the colony of ants functions as a
+complex, organized whole
+the paradigm shift taking place in computing
+was inspired by observations of living systems
+computers are agglomerations of elements that
+can be viewed as being alive in a metaphorical
+sense
+computer simulations can simulate the behavior
+of large biological populations with great
+accuracy
+the simple rules that govern the behavior of
+individual ants have been adapted for use in
+computer simulations
+
+8. The author of passage B would be most likely to agree
+with which one of the following statements regarding
+the computing system proposed in the last paragraph of
+passage A?
+(A)
+(B)
+(C)
+
+(D)
+(E)
+
+It would be a kind of live computer.
+It would be completely inadequate for
+simulating large-scale climate trends.
+It would impose strict limitations on the number
+of variables that could be used in any
+simulation it runs.
+It would be likely to secure widespread public
+participation.
+It would solve calculation-intensive problems
+faster than a traditional sequential computer
+would.
+
+GO ON TO THE NEXT PAGE.
+
+D
+
+D
+
+-26-
+
+(5)
+
+(10)
+
+(15)
+
+(20)
+
+(25)
+
+(30)
+
+(35)
+
+(40)
+
+(45)
+
+(50)
+
+(55)
+
+D
+
+D
+
+D
+
+D
+
+A proficiency in understanding, applying, and even
+formulating statutes—the actual texts of laws enacted
+by legislative bodies—is a vital aspect of the practice
+of law, but statutory law is often given too little
+attention by law schools. Much of legal education, with
+its focus on judicial decisions and analysis of cases,
+can give a law student the impression that the practice
+of law consists mainly in analyzing past cases to
+determine their relevance to a client’s situation and
+arriving at a speculative interpretation of the law
+relevant to the client’s legal problem.
+Lawyers discover fairly soon, however, that much
+of their practice does not depend on the kind of
+painstaking analysis of cases that is performed in law
+school. For example, a lawyer representing the owner
+of a business can often find an explicit answer as to
+what the client should do about a certain tax-related
+issue by consulting the relevant statutes. In such a case
+the facts are clear and the statutes’ relation to them
+transparent, so that the client’s question can be
+answered by direct reference to the wording of the
+statutes. But statutes’ meanings and their applicability
+to relevant situations are not always so obvious, and
+that is one reason that the ability to interpret them
+accurately is an essential skill for law students to learn.
+Another skill that teaching statutory law would
+improve is synthesis. Law professors work hard at
+developing their students’ ability to analyze individual
+cases, but in so doing they favor the ability to apply the
+law in particular cases over the ability to understand
+the interrelations among laws. In contrast, the study of
+all the statutes of a legal system in a certain small area
+of the law would enable the student to see how these
+laws form a coherent whole. Students would then be
+able to apply this ability to synthesize in other areas of
+statutory law that they encounter in their study or
+practice. This is especially important because most
+students intend to specialize in a chosen area, or areas,
+of the law.
+One possible argument against including training in
+statutory law as a standard part of law school curricula
+is that many statutes vary from region to region within
+a nation, so that the mastery of a set of statutes would
+usually not be generally applicable. There is some truth
+to this objection; law schools that currently provide
+some training in statutes generally intend it as a
+preparation for practice in their particular region, but
+for schools that are nationally oriented, this could seem
+to be an inappropriate investment of time and
+resources. But while the knowledge of a particular
+region’s statutory law is not generally transferable to
+other regions, the skills acquired in mastering a
+particular set of statutes are, making the study of
+statutory law an important undertaking even for law
+schools with a national orientation.
+
+D
+
+D
+
+D
+
+D
+
+9. Which one of the following most accurately expresses
+the main point of the passage?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+In spite of the reservations that nationally
+oriented law schools can be expected to have,
+law schools can serve the overall needs of law
+students better by implementing a standard
+national curriculum in statutory law.
+Since the skills promoted by the study of
+statutory law are ultimately more important than
+those promoted by case analysis, the relative
+emphasis that law schools place on these two
+areas should be reversed.
+Although statutes typically vary from region to
+region, law schools should provide training in
+statutory law in order to develop students’
+ability to synthesize legal information and
+interpret individual statutes.
+In the theoretical world of law school training, as
+opposed to the actual practice of law, a
+proficiency in case law is often one of the most
+important assets that students can have.
+Law schools generally are deficient in their
+attention to statutory law training and therefore
+fail to impart the skills necessary for the analysis
+of legal information.
+
+10. Which one of the following is cited in the passage as a
+reason that might be given for not including statutory
+law training in law school curricula?
+(A)
+
+(B)
+
+(C)
+
+(D)
+(E)
+
+Such training would divert resources away from
+the far more important development of the
+ability to analyze cases.
+Such training is not essentially different from
+what is already provided in the core areas of law
+school education.
+The goals of such training can better be achieved
+by other means, most of which are more directly
+related to the actual practice of law.
+Such training would be irrelevant for those
+students who do not plan to specialize.
+The lack of geographic uniformity among
+statutory laws makes expertise in the statutes of
+any particular region generally nontransferable.
+
+GO ON TO THE NEXT PAGE.
+
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+
+11. Which one of the following would, if true, most weaken
+the author’s argument as expressed in the passage?
+(A)
+
+(B)
+
+(C)
+
+(D)
+(E)
+
+Many law school administrators recommend the
+inclusion of statutory law training in the
+curricula of their schools.
+Most lawyers easily and quickly develop
+proficiency in statutory law through their work
+experiences after law school.
+Most lawyers do not practice law in the same
+geographic area in which they attended law
+school.
+The curricula of many regionally oriented law
+schools rely primarily on analysis of cases.
+Most lawyers who have undergone training in
+statutory law are thoroughly familiar with only a
+narrow range of statutes.
+
+D
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(B)
+
+(C)
+
+(D)
+(E)
+
+identify and describe one of the benefits that the
+author says would result from the change that is
+advocated in the passage
+indicate that law schools currently value certain
+other skills over this skill and explain why this
+is so
+argue for the greater importance of this skill as
+compared with certain others that are discussed
+earlier in the passage
+explain why this skill is necessary for the study of
+statutory law
+provide an example of the type of problem
+typically encountered in the practice of law
+
+(E)
+
+(A)
+
+(B)
+
+(C)
+(D)
+
+(E)
+
+What are some ways in which synthetic skills are
+strengthened or encouraged through the analysis
+of cases and judicial decisions?
+In which areas of legal practice is a proficiency in
+case analysis more valuable than a proficiency in
+statutory law?
+What skills are common to the study of both
+statutory law and judicial decisions?
+What are some objections that have been raised
+against including the study of statutes in
+regionally oriented law schools?
+What is the primary focus of the curriculum
+currently offered in most law schools?
+
+D
+
+-27-
+
+While nationally oriented law schools have been
+deficient in statutory law training, most
+regionally oriented law schools have been
+equally deficient in the teaching of case law.
+Training in statutory law would help lawyers
+resolve legal questions for which the answers are
+not immediately apparent in the relevant
+statutes.
+Lawyers who are trained in statutory law
+typically also develop a higher level of
+efficiency in manipulating details of past cases
+as compared with lawyers who are not trained in
+this way.
+Courses in statutory law are less effective if they
+focus specifically on the statutes of a particular
+region or in a particular area of the law.
+Lawyers who do not specialize probably have
+little need for training in statutory law beyond a
+brief introduction to the subject.
+
+15. Each of the following conforms to the kinds of
+educational results that the author would expect from the
+course of action proposed in the passage EXCEPT:
+(A)
+
+(B)
+
+(C)
+13. Which one of the following questions can be most
+clearly and directly answered by reference to
+information in the passage?
+
+D
+
+14. The information in the passage suggests that the author
+would most likely agree with which one of the following
+statements regarding training in statutory law?
+
+12. The author discusses the skill of synthesis in the third
+paragraph primarily in order to
+(A)
+
+D
+
+(D)
+
+(E)
+
+skill in locating references to court decisions on
+an issue involving a particular statute regarding
+taxation
+an understanding of the ways in which certain
+underlying purposes are served by an
+interrelated group of environmental laws
+a knowledge of how maritime statutes are
+formulated
+familiarity with the specific wordings of a group
+of laws applying to businesses in a particular
+region or locality
+an appreciation of the problems of wording
+involved in drafting antiterrorism laws
+
+GO ON TO THE NEXT PAGE.
+
+D
+
+D
+
+-28-
+
+(5)
+
+(10)
+
+(15)
+
+(20)
+
+(25)
+
+(30)
+
+(35)
+
+(40)
+
+(45)
+
+(50)
+
+(55)
+
+(60)
+
+D
+
+D
+
+D
+
+D
+
+The Japanese American sculptor Isamu Noguchi
+(1904–1988) was an artist who intuitively asked—and
+responded to—deeply original questions. He might
+well have become a scientist within a standard
+scientific discipline, but he instead became an artist
+who repeatedly veered off at wide angles from the
+well-known courses followed by conventionally
+talented artists of both the traditional and modern
+schools. The story behind one particular sculpture
+typifies this aspect of his creativeness.
+By his early twenties, Noguchi’s sculptures
+showed such exquisite comprehension of human
+anatomy and deft conceptual realization that he won a
+Guggenheim Fellowship for travel in Europe. After
+arriving in Paris in 1927, Noguchi asked the
+Romanian-born sculptor Constantin Brancusi if he
+might become his student. When Brancusi said no,
+that he never took students, Noguchi asked if he
+needed a stonecutter. Brancusi did. Noguchi cut and
+polished stone for Brancusi in his studio, frequently
+also polishing Brancusi’s brass and bronze sculptures.
+Noguchi, with his scientist’s mind, pondered the fact
+that sculptors through the ages had relied exclusively
+upon negative light—that is, shadows—for their
+conceptual communication, precisely because no
+metals, other than the expensive, nonoxidizing gold,
+could be relied upon to give off positive-light reflections.
+Noguchi wanted to create a sculpture that was
+purely reflective. In 1929, after returning to the
+United States, he met the architect and philosopher
+R. Buckminster Fuller, offering to sculpt a portrait of
+him. When Fuller heard of Noguchi’s ideas regarding
+positive-light sculpture, he suggested using chromenickel steel, which Henry Ford, through automotive
+research and development, had just made
+commercially available for the first time in history.
+Here, finally, was a permanently reflective surface,
+economically available in massive quantities.
+In sculpting his portrait of Fuller, Noguchi did not
+think of it as merely a shiny alternate model of
+traditional, negative-light sculptures. What he saw
+was that completely reflective surfaces provided a
+fundamental invisibility of surface like that of utterly
+still waters, whose presence can be apprehended only
+when objects—a ship’s mast, a tree, or sky—are reflected
+in them. Seaplane pilots making offshore landings in
+dead calm cannot tell where the water is and must
+glide in, waiting for the unpredictable touchdown.
+Noguchi conceived a similarly invisible sculpture,
+hidden in and communicating through the reflections
+of images surrounding it. Then only the distortion of
+familiar shapes in the surrounding environment could
+be seen by the viewer. The viewer’s awareness of the
+“invisible” sculpture’s presence and dimensional
+relationships would be derived only secondarily.
+Even after this stunning discovery, Noguchi
+remained faithful to his inquisitive nature. At the
+moment when his explorations had won critical
+recognition of the genius of his original and
+fundamental conception, Noguchi proceeded to the
+next phase of his evolution.
+
+D
+
+D
+
+D
+
+D
+
+16. In saying that “no metals, other than the expensive,
+nonoxidizing gold, could be relied upon to give off
+positive-light reflections” (lines 25–27), the author
+draws a distinction between
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+a metal that can be made moderately reflective in
+any sculptural application and metals that can
+be made highly reflective but only in certain
+applications
+a naturally highly reflective metal that was
+technically suited for sculpture and other
+highly reflective metals that were not so suited
+metals that can be made highly reflective but lose
+their reflective properties over time and a metal
+that does not similarly lose its reflective properties
+a highly reflective sculptural material that, because
+it is a metal, is long lasting and nonmetallic
+materials that are highly reflective but
+impermanent
+a highly reflective metal that was acceptable to
+both traditional and modern sculptors and
+highly reflective metals whose use in sculpture
+was purely experimental
+
+17. The passage provides information sufficient to answer
+which one of the following questions?
+(A)
+
+(B)
+(C)
+
+(D)
+
+(E)
+
+In what way did Noguchi first begin to acquire
+experience in the cutting and polishing of stone
+for use in sculpture?
+In the course of his career, did Noguchi ever
+work in any art form other than sculpture?
+What are some materials other than metal that
+Noguchi used in his sculptures after ending his
+association with Brancusi?
+During Noguchi’s lifetime, was there any
+favorable critical response to his creation of a
+positive-light sculpture?
+Did Noguchi at any time in his career consider
+creating a transparent or translucent sculpture
+lighted from within?
+
+GO ON TO THE NEXT PAGE.
+
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+
+18. The passage offers the strongest evidence that the
+author would agree with which one of the following
+statements?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Noguchi’s work in Paris contributed
+significantly to the art of sculpture in that it
+embodied solutions to problems that other
+sculptors, including Brancusi, had sought
+unsuccessfully to overcome.
+Noguchi’s scientific approach to designing
+sculptures and to selecting materials for
+sculptures is especially remarkable in that he
+had no formal scientific training.
+Despite the fact that Brancusi was a sculptor
+and Fuller was not, Fuller played a more
+pivotal role than did Brancusi in Noguchi’s
+realization of the importance of negative light
+to the work of previous sculptors.
+Noguchi was more interested in addressing
+fundamental aesthetic questions than in
+maintaining a consistent artistic style.
+Noguchi’s work is of special interest for what it
+reveals not only about the value of scientific
+thinking in the arts but also about the value of
+aesthetic approaches to scientific inquiry.
+
+19. In which one of the following is the relation between
+the two people most analogous to the relation between
+Ford and Noguchi as indicated by the passage?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+A building-materials dealer decides to market a
+new type of especially durable simulated-wood
+flooring material after learning that a famous
+architect has praised the material.
+An expert skier begins experimenting with the
+use of a new type of material in the soles of
+ski boots after a shoe manufacturer suggests
+that that material might be appropriate for that use.
+A producer of shipping containers begins using
+a new type of strapping material, which a rockclimbing expert soon finds useful as an
+especially strong and reliable component of
+safety ropes for climbing.
+A consultant to a book editor suggests the use
+of a new type of software for typesetting, and
+after researching the software the editor
+decides not to adopt it but finds a better
+alternative as a result of the research.
+A friend of a landscaping expert advises the use
+of a certain material for the creation of
+retaining walls and, as a result, the landscaper
+explores the use of several similar materials.
+
+D
+
+D
+
+D
+
+D
+
+-29-
+
+20. The passage most strongly supports which one of the
+following inferences?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Prior to suggesting the sculptural use of chromenickel steel to Noguchi, Fuller himself had
+made architectural designs that called for the
+use of this material.
+Noguchi believed that the use of industrial
+materials to create sculptures would make the
+sculptures more commercially viable.
+Noguchi’s “invisible” sculpture appears to have
+no shape or dimensions of its own, but rather
+those of surrounding objects.
+If a positive-light sculpture depicting a person in
+a realistic manner were coated with a metal
+subject to oxidation, it would eventually cease
+to be recognizable as a realistic likeness.
+The perception of the shape and dimensions of a
+negative-light sculpture does not depend on its
+reflection of objects from the environment
+around it.
+
+21. Which one of the following inferences about the
+portrait of Fuller does the passage most strongly
+support?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+The material that Noguchi used in it had been
+tentatively investigated by other sculptors but not
+in direct connection with its reflective
+properties.
+It was similar to at least some of the sculptures
+that Noguchi produced prior to 1927 in that it
+represented a human form.
+Noguchi did not initially think of it as especially
+innovative or revolutionary and thus was
+surprised by Fuller’s reaction to it.
+It was produced as a personal favor to Fuller
+and thus was not initially intended to be
+noticed and commented on by art critics.
+It was unlike the sculptures that Noguchi had
+helped Brancusi to produce in that the latter’s
+aesthetic effects did not depend on contrasts of
+light and shadow.
+
+22. Which one of the following would, if true, most
+weaken the author’s position in the passage?
+(A)
+
+(B)
+
+(C)
+
+(D)
+(E)
+
+Between 1927 and 1929, Brancusi experimented
+with the use of highly reflective material for
+the creation of positive-light sculptures.
+After completing the portrait of Fuller, Noguchi
+produced only a few positive-light sculptures
+and in fact changed his style of sculpture
+repeatedly throughout his career.
+When Noguchi arrived in Paris, he was already
+well aware of the international acclaim that
+Brancusi’s sculptures were receiving at the time.
+Many of Noguchi’s sculptures were, unlike the
+portrait of Fuller, entirely abstract.
+Despite his inquisitive and scientific approach to
+the art of sculpture, Noguchi neither thought of
+himself as a scientist nor had extensive
+scientific training.
+
+GO ON TO THE NEXT PAGE.
+
+D
+
+D
+
+-30-
+
+(5)
+
+(10)
+
+(15)
+
+(20)
+
+(25)
+
+(30)
+
+(35)
+
+(40)
+
+(45)
+
+(50)
+
+(55)
+
+D
+
+D
+
+D
+
+D
+
+In an experiment, two strangers are given the
+opportunity to share $100, subject to the following
+constraints: One person—the “proposer”—is to
+suggest how to divide the money and can make only
+one such proposal. The other person—the
+“responder”—must either accept or reject the offer
+without qualification. Both parties know that if the
+offer is accepted, the money will be split as agreed,
+but if the offer is rejected, neither will receive
+anything.
+This scenario is called the Ultimatum Game.
+Researchers have conducted it numerous times with a
+wide variety of volunteers. Many participants in the
+role of the proposer seem instinctively to feel that
+they should offer 50 percent to the responder, because
+such a division is “fair” and therefore likely to be
+accepted. Two-thirds of proposers offer responders
+between 40 and 50 percent. Only 4 in 100 offer less
+than 20 percent. Offering such a small amount is
+quite risky; most responders reject such offers. This is
+a puzzle: Why would anyone reject an offer as too
+small? Responders who reject an offer receive
+nothing, so if one assumes—as theoretical economics
+traditionally has—that people make economic
+decisions primarily out of rational self-interest, one
+would expect that an individual would accept any
+offer.
+Some theorists explain the insistence on fair
+divisions in the Ultimatum Game by citing our
+prehistoric ancestors’ need for the support of a strong
+group. Small groups of hunter-gatherers depended for
+survival on their members’ strengths. It is
+counterproductive to outcompete rivals within one’s
+group to the point where one can no longer depend
+on them in contests with other groups. But this
+hypothesis at best explains why proposers offer large
+amounts, not why responders reject low offers.
+A more compelling explanation is that our
+emotional apparatus has been shaped by millions of
+years of living in small groups, where it is hard to
+keep secrets. Our emotions are therefore not finely
+tuned to one-time, strictly anonymous interactions. In
+real life we expect our friends and neighbors to
+notice our decisions. If people know that someone is
+content with a small share, they are likely to make
+that person low offers. But if someone is known to
+angrily reject low offers, others have an incentive to
+make that person high offers. Consequently, evolution
+should have favored angry responses to low offers; if
+one regularly receives fair offers when food is
+divided, one is more likely to survive. Because oneshot interactions were rare during human evolution,
+our emotions do not discriminate between one-shot
+and repeated interactions. Therefore, we respond
+emotionally to low offers in the Ultimatum Game
+because we instinctively feel the need to reject dismal
+offers in order to keep our self-esteem. This
+self-esteem helps us to acquire a reputation that is
+beneficial in future encounters.
+
+D
+
+D
+
+D
+
+D
+
+23. Which one of the following most accurately
+summarizes the main idea of the passage?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Contrary to a traditional assumption of
+theoretical economics, the behavior of
+participants in the Ultimatum Game
+demonstrates that people do not make
+economic decisions out of rational
+self-interest.
+Although the reactions most commonly
+displayed by participants in the Ultimatum
+Game appear to conflict with rational
+self-interest, they probably result from a
+predisposition that had evolutionary value.
+Because our emotional apparatus has been
+shaped by millions of years of living in small
+groups in which it is hard to keep secrets, our
+emotions are not finely tuned to one-shot,
+anonymous interactions.
+People respond emotionally to low offers in the
+Ultimatum Game because they instinctively
+feel the need to maintain the strength of the
+social group to which they belong.
+When certain social and evolutionary factors
+are taken into account, it can be seen that the
+behavior of participants in the Ultimatum
+Game is motivated primarily by the need to
+outcompete rivals.
+
+24. The passage implies that the Ultimatum Game is
+(A)
+(B)
+(C)
+(D)
+(E)
+
+one that requires two strangers to develop trust
+in each other
+responsible for overturning a basic assumption
+of theoretical economics
+a situation that elicits unpredictable results
+a type of one-shot, anonymous interaction
+proof that our emotional apparatus has been
+shaped by millions of years of living in small
+groups
+
+25. The author’s primary purpose in the passage is to
+(A)
+(B)
+
+(C)
+(D)
+(E)
+
+survey existing interpretations of the puzzling
+results of an experiment
+show how two theories that attempt to explain
+the puzzling results of an experiment
+complement each other
+argue that the results of an experiment, while
+puzzling, are valid
+offer a plausible explanation for the puzzling
+results of an experiment
+defend an experiment against criticism that
+methodological flaws caused its puzzling
+results
+
+GO ON TO THE NEXT PAGE.
+
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+
+26. Which one of the following sentences would most
+logically conclude the final paragraph of the passage?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Contrary to the assumptions of theoretical
+economics, human beings do not act primarily
+out of self-interest.
+Unfortunately, one-time, anonymous interactions
+are becoming increasingly common in
+contemporary society.
+The instinctive urge to acquire a favorable
+reputation may also help to explain the desire
+of many proposers in the Ultimatum Game to
+make “fair” offers.
+High self-esteem and a positive reputation offer
+individuals living in small groups many other
+benefits as well.
+The behavior of participants in the Ultimatum
+Game sheds light on the question of what
+constitutes a “fair” division.
+
+D
+
+D
+
+D
+
+D
+
+-31-
+
+27. In the context of the passage, the author would be most
+likely to consider the explanation in the third paragraph
+more favorably if it were shown that
+(A)
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+our prehistoric ancestors often belonged to large
+groups of more than a hundred people
+in many prehistoric cultures, there were
+hierarchies within groups that dictated which
+allocations of goods were to be considered fair
+and which were not
+it is just as difficult to keep secrets in relatively
+large social groups as it is in small social
+groups
+it is just as counterproductive to a small social
+group to allow oneself to be outcompeted by
+one’s rivals within the group as it is to
+outcompete those rivals
+in many social groups, there is a mutual
+understanding among the group’s members that
+allocations of goods will be based on
+individual needs as opposed to equal shares
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+D
+
+Computing Your Score
+
+Directions:
+
+Conversion Chart
+
+1.
+
+Use the Answer Key on the next page to check your
+answers.
+
+For Converting Raw Score to the 120-180 LSAT
+Scaled Score
+LSAT Form 9LSN82
+
+2.
+
+Use the Scoring Worksheet below to compute your
+raw score.
+
+Reported
+Score
+
+3.
+
+Use the Score Conversion Chart to convert your
+raw score into the 120-180 scale.
+Scoring Worksheet
+
+1.
+
+Enter the number of questions you answered
+correctly in each section.
+Number
+Correct
+SECTION I. .
+SECTION II .
+SECTION III .
+SECTION IV.
+
+2.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+Enter the sum here:
+This is your Raw Score.
+
+180
+179
+178
+177
+176
+175
+174
+173
+172
+171
+170
+169
+168
+167
+166
+165
+164
+163
+162
+161
+160
+159
+158
+157
+156
+155
+154
+153
+152
+151
+150
+149
+148
+147
+146
+145
+144
+143
+142
+141
+140
+139
+138
+137
+136
+135
+134
+133
+132
+131
+130
+129
+128
+127
+126
+125
+124
+123
+122
+121
+120
+
+Raw Score
+Lowest
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+87
+86
+85
+83
+82
+81
+79
+78
+76
+74
+73
+71
+70
+68
+66
+65
+63
+61
+60
+58
+57
+55
+53
+52
+50
+49
+47
+45
+44
+42
+41
+39
+38
+36
+35
+33
+32
+30
+29
+28
+26
+25
+24
+23
+21
+20
+19
+17
+15
+—*
+0
+
+Highest
+101
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+86
+85
+84
+82
+81
+80
+78
+77
+75
+73
+72
+70
+69
+67
+65
+64
+62
+60
+59
+57
+56
+54
+52
+51
+49
+48
+46
+44
+43
+41
+40
+38
+37
+35
+34
+32
+31
+29
+28
+27
+25
+24
+23
+22
+20
+19
+18
+16
+—*
+14
+
+*There is no raw score that will produce this scaled score for this form.
+
+Answer Key
+
+SECTION I
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+C
+A
+C
+D
+C
+C
+E
+
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+D
+B
+D
+D
+E
+C
+A
+
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+
+D
+A
+A
+E
+D
+E
+E
+
+22.
+23.
+
+B
+B
+
+A
+E
+E
+D
+C
+D
+C
+
+22.
+23.
+24.
+25.
+26.
+
+A
+D
+B
+B
+B
+
+C
+E
+A
+D
+E
+D
+E
+
+22.
+23.
+24.
+25.
+
+D
+B
+E
+B
+
+A
+C
+D
+D
+C
+E
+B
+
+22.
+23.
+24.
+25.
+26.
+27.
+
+A
+B
+D
+D
+C
+D
+
+SECTION II
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+A
+D
+A
+E
+E
+C
+E
+
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+B
+C
+D
+B
+C
+C
+D
+
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+SECTION III
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+A
+A
+C
+C
+C
+B
+A
+
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+B
+D
+E
+B
+A
+D
+C
+
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+
+SECTION IV
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+C
+C
+E
+B
+C
+B
+A
+
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+E
+C
+E
+B
+A
+E
+B
+
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+
+

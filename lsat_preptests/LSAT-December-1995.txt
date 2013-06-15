@@ -1,0 +1,3923 @@
+December 1995
+Full-Length LSAT
+
+1	
+
+	 	 	1
+
+1	
+
+      
+
+SECTION I
+Time—35 minutes
+24 Questions
+Directions:    Each group of questions in this section is based on a set of conditions. In answering some of the questions, it may be
+useful to draw a rough diagram. Choose the response that most accurately and completely answers each question and blacken the
+corresponding space on your answer sheet.
+Questions 1-5
+On Wednesday a physician will have exactly one
+appointment with seven patients—P, Q, R, S, T, U, W—one
+patient per appointment. The schedule of appointments,
+chronologically numbered 1 through 7, must meet the
+following conditions:
+	
+Q’s appointment is at some time before W’s
+	
+	 appointment.
+	
+U’s appointment is at some time before P’s    
+	
+	 appointment.
+	
+Either R or T has appointment 3.
+	
+S’s appointment is either the appointment immediately 	
+	 before or the appointment immediately after R’s 	
+	 appointment.
+1.	 Which one of the following is an acceptable schedule of
+appointments in order from 1 to 7?
+(A) 	
+(B) 	
+(C) 	
+(D) 	
+(E) 	
+
+Q, S, R, P, W, U, T
+Q, U, W, S, R, T, P
+S, Q, R, T, W, U, P
+T, U, R, S, W, P, Q
+U, Q, T, P, R, S, W
+
+2. 	 If W has appointment 2 and P has appointment 5, then
+which one of the following must be true?
+(A) 	
+(B) 	
+(C) 	
+(D) 	
+(E) 	
+
+R has appointment 6.
+S has appointment 4.
+S has appointment 7.
+U has appointment 1.
+U has appointment 4.
+
+3. 	 If U’s appointment is immediately after T’s
+appointment and immediately before R’s appointment,
+then which one of the following must be true
+(A) 	
+	
+(B) 	
+	
+(C) 	
+	
+(D) 	
+	
+(E) 	
+	
+
+Q’s appointment is at some time before P’s
+	 appointment.
+S’s appointment is at some time before P’s
+	 appointment.
+S’s appointment is immediately before Q’s
+	 appointment.
+W’s appointment is immediately before P’s
+	 appointment.
+W’s appointment is at some time before S’s
+	 appointment.
+
+4. 	 If P’s appointment is immediately before S’s
+appointment, then each of the following could be true
+EXCEPT:
+(A) 	
+	
+(B) 	
+	
+(C) 	
+	
+(D) 	
+	
+(E) 	
+	
+
+R’s appointment is immediately before W’s
+	 appointment.
+T’s appointment is immediately before Q’s
+	 appointment.
+U’s appointment is immediately before P’s
+	 appointment.
+U’s appointment is immediately before Q’s
+	 appointment.
+W’s appointment is immediately before T’s
+	 appointment.
+
+5.	 If T’s appointment is immediately after P’s appointment
+and immediately before W’s appointment, then which
+one of the following must be true?
+	
+(A) 	 W’s appointment is at some time before R’s
+	
+	 appointment.
+(B) 	 U’s appointment is at some time before R’s
+	
+	 appointment.
+(C) 	 S’s appointment is at some time before U’s
+	
+	 appointment.
+(D) 	 R’s appointment is at some time before P’s
+	
+	 appointment.
+(E) 	 Q’s appointment is at some time before S’s
+	
+	 appointment.
+
+	
+
+GO ON TO THE NEXT PAGE.
+
+1	
+
+	 	 	1
+
+1	
+
+      
+Questions 6-12
+Exactly six employees—officers F, G, and H, and
+supervisors K, L, and M—must be assigned to exactly three
+committees—Policy, Quality, and Sales—with exactly three
+employees per committee. Committee assignments must
+conform to the following conditions:
+	
+Each committee must have at least one officer
+	
+	 assigned to it.
+	
+Each employee must be assigned to at least one       
+	
+	 committee.
+	
+All three officers must be assigned to the Policy  
+	
+	 Committee.
+	
+G cannot be assigned to the same committee as L.
+	
+K must be assigned to the Sales Committee.
+
+9. 	 If F is assigned to exactly three committees, and G is
+assigned to exactly two committees, then which one of
+the following must be true?
+(A) 	
+(B) 	
+(C) 	
+(D) 	
+(E) 	
+
+10.	 Which one of the following is a group of three
+employees who can be assigned together to the Quality
+Committee?
+(A) 	
+(B) 	
+(C) 	
+(D) 	
+(E) 	
+
+6.	 Which one of the following is a group of three
+employees who can be assigned together to the Sales
+Committee?
+(A) 	
+(B) 	
+(C) 	
+(D) 	
+(E) 	
+
+F, G, and H
+F, G, and M
+G, K, and L
+H, K, and L
+K, L, and M
+
+7. 	 If H is assigned to exactly one committee, and if no
+committee has both F and M assigned to it, then it must
+be true that
+
+(A) 	
+(B) 	
+(C) 	
+(D) 	
+(E) 	
+
+F is assigned to the Sales Committee.
+G is assigned to the Sales Committee.
+H is assigned to the Quality Committee.
+K is assigned to the Quality Committee.
+M is assigned to the Quality Committee.
+
+12.	 Which one of the following CANNOT be true?
+(A) 	 F and G are each assigned to exactly one
+committee.
+(B) 	 F and H are each assigned to exactly one
+committee.
+(C) 	 G and H are each assigned to exactly one
+committee.
+(D) 	 F and M are both assigned to the Sales
+Committee.
+(E) 	 G and K are both assigned to the Quality
+Committee.
+
+8.	 Which one of the following CANNOT be true?
+F is assigned to exactly one committee.
+G is assigned to exactly three committees.
+H is assigned to exactly three committees.
+K is assigned to exactly one committee.
+L is assigned to exactly two committees.
+
+F, G, and H
+F, G, and K
+G, H, and K
+G, K, and L
+H, L, and M
+
+11.	 If L is assigned to exactly two committees, which one
+of the following must be true?
+
+(A) 	 G and M are both assigned to the Quality
+Committee
+(B) 	 K and L are both assigned to the Sales
+Committee
+(C) 	 K is assigned to exactly two committees
+(D) 	 L is assigned to exactly two committees
+(E) 	 M is assigned to exactly two committees
+
+(A) 	
+(B) 	
+(C) 	
+(D) 	
+(E) 	
+
+G is assigned to the Quality Committee.
+G is assigned to the Sales Committee.
+K is assigned to the Quality Committee.
+L is assigned to the Sales Committee.
+M is assigned to the Quality Committee.
+
+	
+
+	
+
+	
+
+GO ON TO THE NEXT PAGE.
+
+1	
+
+	 	 	1
+
+1	
+
+      
+Questions 13-17
+On Tuesday Vladimir and Wendy each eat exactly four
+separate meals: breakfast, lunch, dinner, and a snack. The
+following is all that is known about what they eat during that
+day:
+	
+At no meal does Vladimir eat the same kind of food as 	
+	 Wendy.
+	
+Neither of them eats the same kind of food more than 	
+	 once during the day.
+	
+For breakfast, each eats exactly one of the following: 	
+	 hot cakes, poached eggs, or omelet.
+	
+For lunch, each eats exactly one of the following:     
+	
+	fish, hot cakes, macaroni, or omelet.
+	
+For dinner, each eats exactly one of the following:    
+	
+	fish, hot cakes, macaroni, or omelet.
+	
+For a snack, each eats exactly one of the following:  
+	
+	fish or omelet.
+	
+Wendy eats an omelet for lunch.
+13.	 Which one of the following statements must be true?
+(A) 	
+(B) 	
+(C) 	
+(D) 	
+(E) 	
+
+Vladimir eats fish for lunch.
+Vladimir eats fish for dinner.
+Vladimir eats fish for his snack.
+Wendy eats fish for dinner.
+Wendy eats fish for her snack.
+
+15.	 If both Vladimir and Wendy eat macaroni on Tuesday,
+then which one of the following statements could be
+true?
+(A) 	
+(B) 	
+(C) 	
+(D) 	
+(E) 	
+
+Vladimir eats fish for lunch.
+Vladimir eats hot cakes for lunch.
+Vladimir eats macaroni for dinner.
+Wendy eats hot cakes for breakfast.
+Wendy eats hot cakes for dinner.
+
+16.	 If Wendy does not eat macaroni on Tuesday, then which
+one of the following statements could be true?
+(A) 	
+(B) 	
+(C) 	
+(D) 	
+(E) 	
+
+Vladimir eats poached eggs for breakfast.
+Vladimir eats fish for lunch.
+Vladimir eats hot cakes for lunch.
+Wendy eats hot cakes for breakfast.
+Wendy eats fish for dinner.
+
+17.	 If Wendy eats poached eggs for breakfast, then which
+one of the following statements cannot be true?
+(A) 	
+(B) 	
+(C) 	
+(D) 	
+(E) 	
+
+Vladimir eats fish for lunch.
+Vladimir eats hot cakes for lunch.
+Vladimir eats macaroni for dinner.
+Wendy eats hot cakes for dinner.
+Wendy eats macaroni for dinner.
+
+14.	 Vladimir must eat which one of the following foods?
+(A) 	
+(B) 	
+(C) 	
+(D) 	
+(E) 	
+
+fish
+hot cakes
+macaroni
+omelet
+poached eggs
+
+GO ON TO THE NEXT PAGE.
+
+1	
+
+	 	 	1
+
+1	
+
+      
+Questions 18-24
+
+20.	 If Owen and Ruth are assigned to the same team as
+each other, which one of the following must be true?
+
+Eight people—Jack, Karen, Laura, Mark, Nick, Owen,
+Peggy, and Ruth—will be placed on two four‑person
+teams—X and Y—for a relay race that is run in four
+successive legs: first, second, third, and fourth. The teams
+race concurrently. Each team member runs exactly one of
+the legs, one team member per leg, according to the
+following conditions:
+	
+Jack is on the same team as Karen.
+	
+Karen is not on the same team as Nick.
+	
+Ruth runs an earlier leg of the race than Peggy
+	
+	runs, whether or not they are on the same team as   
+	
+	each other.
+	
+Mark and Nick are both on team Y.
+	
+Neither Jack nor Mark runs third.
+	
+Karen and Laura both run second.
+	
+Owen runs fourth.
+18.	 Which one of the following must be true?
+(A) 	 If Jack and Owen are assigned to the same team
+as each other, Jack runs first.
+(B) 	 If Jack and Peggy are assigned to the same team
+as each other, Jack runs fourth.
+(C) 	 If Jack and Ruth are assigned to the same team
+as each other, Ruth runs third.
+(D) 	 If Mark and Owen are assigned to the same team
+as each other, Mark runs fourth.
+(E) 	 If Mark and Ruth are assigned to the same team
+as each other, Ruth runs third.
+19.	 If Ruth is assigned to team X, which one of the
+following is a complete and accurate list of the legs that
+she could run?
+(A) 	
+(B) 	
+(C) 	
+(D) 	
+(E) 	
+
+first
+second
+first, second
+first, third
+second, third
+
+(A) 	
+(B) 	
+(C)	
+(D) 	
+(E) 	
+
+Mark runs fourth.
+Nick runs first.
+Nick runs fourth.
+Peggy runs first.
+Peggy runs fourth.
+
+21.	 Any of the following can be true EXCEPT:
+(A) 	
+(B) 	
+(C) 	
+(D) 	
+(E) 	
+
+Jack runs first.
+Mark runs fourth.
+Nick runs first.
+Nick and Peggy both run third.
+Owen and Peggy both run fourth.
+
+22.	 If Ruth and Peggy are assigned to the same team as
+each other, which one of the following must be true?
+(A) 	
+(B) 	
+(C) 	
+(D) 	
+(E) 	
+
+Jack runs first.
+Mark runs fourth.
+Nick runs third.
+Peggy runs third.
+Ruth runs first.
+
+23.	 Any of the following can be true EXCEPT:
+(A) 	
+(B) 	
+(C) 	
+(D) 	
+(E) 	
+
+Jack runs fourth.
+Nick runs fourth.
+Peggy runs fourth.
+Ruth runs first.
+Ruth runs third.
+
+24.	 If Peggy runs third on the same team to which Jack is
+assigned, which one of the following must be true?
+(A) 	
+	
+(B) 	
+	
+(C) 	
+(D) 	
+(E) 	
+
+Jack runs the first leg on the team to which he
+	 is assigned.
+Ruth runs the first leg on the team to which
+	 she is assigned.
+Owen runs on the same team as Jack.
+Owen runs on the same team as Mark.
+Ruth runs on the same team as Mark.
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+2	
+
+2   	
+
+2	 2	
+
+	
+
+  
+
+SECTION II
+Time—35 minutes
+25 Questions
+Directions:    The questions in this section are based on the reasoning contained in brief statements or passages. For some questions,
+more than one of the choices could conceivably answer the question. However, you are to choose the best answer; that is, the response
+that most accurately and completely answers the question. You should not make assumptions that are by commonsense standards
+implausible, superfluous, or incompatible with the passage. After you have chosen the best answer, blacken the corresponding space
+on your answer sheet.
+1. 	 The basic ingredients from which cement is made are
+	
+both cheap and plentiful. Materials as common as
+limestone and clay will do. Nevertheless, the price of
+cement is influenced by the price of oil, because turning
+the basic ingredients into cement in high‑temperature
+kilns uses large amounts of energy.
+	
+
+Which one of the following can be logically inferred
+from the passage?
+(A) 	
+	
+(B) 	
+	
+(C) 	
+	
+(D) 	
+(E) 	
+	
+
+Oil is one of the basic ingredients that make
+	 up cement.
+Oil is a source of energy for some of the kilns
+	 used in the making of cement.
+The higher the price of cement rises, the
+	 higher the price of clay rises.
+Whenever oil prices rise, cement prices drop.
+A given amount of cement costs no more than
+	 the total cost of its basic ingredients.
+
+2. 	 Many people do not understand themselves, nor do they
+try to gain self‑understanding. These people might try
+to understand others, but these attempts are sure to fail,
+because without self-understanding it is impossible
+to understand others. It is clear from this that anyone
+who lacks self-understanding will be incapable of
+understanding others.
+	
+
+The reasoning in the argument is flawed because the
+argument
+(A) 	
+	
+	
+(B) 	
+	
+	
+(C) 	
+	
+(D) 	
+	
+	
+(E) 	
+	
+
+mistakes something that is necessary to bring
+	 about a situation for something that in itself
+	 is enough to bring about that situation
+fails to take into account the possibility that
+	 not everyone wants to gain a thorough
+	 understanding of himself or herself
+blames people for something for which they
+	 cannot legitimately be held responsible
+makes use of the inherently vague term
+	 “self‑understanding” without defining that
+	 term
+draws a conclusion that simply restates a
+	 claim given in support of that conclusion
+
+Questions 3-4
+Wife:    The work of the artist who painted the portrait of my
+grandparents 50 years ago has become quite popular
+lately, so the portrait has recently become valuable.
+But since these sorts of artistic fads fade rapidly, the
+practical thing to do would be to sell the portrait while
+it is still worth something, and thereby enable our
+daughter to attend the college she has chosen.
+Husband:    How could you make such a suggestion? That
+painting is the only thing you own that belonged to
+	
+your grandparents. I don’t think it’s a very good
+painting, but it has great sentimental value. Besides,
+you owe it to our daughter to keep it in the family as a
+link to her family’s past.
+3. 	 Which one of the following principles, if established,
+does most to justify the husband’s reply?
+(A) 	 Gifts offered as sentimental tokens of affection 	
+should not be accepted if the recipient intends to
+sell them later for profit.
+(B) 	 A beautiful work of art is more valuable than
+the money it could be sold for, whatever the
+amount.
+(C) 	 It is more important for parents to provide their 	
+children with tangible links to the family’s past 	
+than it is to enable them to attend the college of 	
+their choice.
+(D) 	 Children and grandchildren have a duty to
+	
+	 preserve family heirlooms only if they have
+	
+	 promised their parents or grandparents that
+	
+	 they would do so.
+(E) 	 Providing one’s children with an education is
+	
+	 more important than providing them with
+	
+	 material goods, even if the goods have
+	
+	 sentimental value.
+4. 	 The husband uses which one of the following
+argumentative techniques in replying to the wife’s
+suggestion?
+(A) 	 taking issue with the practicality of her
+suggestion
+(B) 	 questioning her aesthetic judgment
+(C) 	 claiming that the reasons she gives are based on 	
+emotions rather than on rational considerations
+(D) 	 asserting that the evidence she cites in support
+	
+	 of her suggestion is false
+(E) 	 invoking a competing obligation that he judges
+	
+	 to override her practical considerations
+GO ON TO THE NEXT PAGE.
+
+2
+
+2	
+
+2   	
+5. 	 Questions have arisen regarding the accuracy of the
+reports the university’s archaeological museum issues
+on its sales and acquisitions for the year. To forestall
+controversy, this year’s report is being reviewed by
+three archaeologists from other universities. Since these
+archaeologists will be given full access to all documents
+on which the report is based, they will be able to
+determine whether it is indeed accurate.
+	
+
+The reasoning in the argument is flawed because the
+argument
+(A) 	 does not specify whether the reviewers will have 	
+access to data about objects that have been in
+the museum’s collection for many years
+(B) 	 provides no information regarding the size
+or quality of the archaeological museum’s 	
+collection
+(C) 	 omits any mention of whether the museum’s
+collection is on display or is available only to
+researchers
+(D) 	 ignores the possibility that there might have been
+some sales or acquisitions during the past year
+that were not mentioned in the documents on
+which the report was based
+(E) 	 does not describe what will occur if the reviewers
+discover discrepancies between the report and
+the documents on which it was based
+
+6. 	 Engineer:    Some people argue that the world’s energy
+	
+	
+problems could be solved by mining the Moon 	
+for helium-3, which could be used for fuel in
+fusion reactors. But this is nonsense. Even if it
+were possible to mine the Moon for helium-3, the
+technology needed to build viable fusion reactors
+that could use such fuel is at least 50 years away.
+If the world’s energy problems are not solved
+before then, it will be too late to solve those
+problems.
+	
+
+The main point of the argument is that
+(A) 	 mining the Moon for helium-3 is currently not 	
+feasible
+(B) 	 fusion reactors that are now being planned are
+	
+	 not designed to use helium-3 as fuel
+(C) 	 people who advocate mining the Moon for
+	
+	 helium-3 do not realize that fusion reactors
+	
+	 could be designed to use fuels other than
+	
+	 helium-3
+(D) 	 mining the Moon for helium-3 is not a possible 	
+solution to the world’s energy problems
+(E) 	 if the world’s energy problems are not solved 	
+within the next 50 years, it will be too late to
+solve those problems
+
+2	 2	
+
+	
+
+  
+
+Questions 7‑8
+	
+The fishing industry cannot currently be relied upon to
+help the government count the seabirds killed by net fishing,
+since an accurate count might result in restriction of net
+fishing. The government should therefore institute a
+program under which tissue samples from the dead birds
+are examined to determine the amount of toxins in the fish
+eaten by the birds. The industry would then have a reason to
+turn in the bird carcasses, since the industry needs to know
+whether the fish it catches are contaminated with toxins.
+7. 	 Which one of the following, if true, most strengthens
+	
+the argument?
+(A) 	
+	
+	
+(B) 	
+
+The seabirds that are killed by net fishing do
+	 not eat all of the species of fish caught by
+	 the fishing industry.
+The government has not in the past sought to 	
+determine whether fish were contaminated
+	
+	 with toxins by examining tissue samples of
+	
+	 seabirds.
+(C) 	 The government cannot gain an accurate count
+	
+	 of the number of seabirds killed by net fishing 	
+unless the fishing industry cooperates.
+(D) 	 If the government knew that fish caught by the 	
+fishing industry were contaminated by toxins, 	
+the government would restrict net fishing.
+(E) 	 If net fishing were restricted by the government, 	
+then the fishing industry would become more 	
+inclined to reveal the number of seabirds killed 	
+by net fishing.	
+8. 	 Which one of the following, if true, most strongly
+indicates that the government program would not by
+itself provide an accurate count of the seabirds killed by
+net fishing?
+(A) 	 The seabirds killed by net fishing might be 	
+contaminated with several different toxins
+	
+	 even if the birds eat only one kind of fish.
+(B) 	 The fishing industry could learn whether the
+	
+	 fish it catches are contaminated with toxins
+	
+	 if only a few of the seabirds killed by the
+	
+	 nets were examined.
+(C) 	 The government could gain valuable
+	
+	 information about the source of toxins by
+	
+	 examining tissue samples of the seabirds
+	
+	 caught in the nets.
+(D) 	 The fish caught in a particular net might be 	
+contaminated with the same toxins as those
+	
+	 in the seabirds caught in that net.
+(E)	 The government would be willing to certify
+	
+	 that the fish caught by the industry are not
+	
+	 contaminated with toxins if tests done on
+	
+	 the seabirds showed no contamination.
+
+GO ON TO THE NEXT PAGE.
+
+2
+
+2	
+
+2   	
+9. 	 Some people claim that elected officials must avoid
+even the appearance of impropriety in office. Yet since
+	
+actions that give the appearance of impropriety are not
+necessarily improper, the only reason for an elected
+official to avoid the appearance of impropriety is to
+maintain public approval and popularity. No one,
+however, not even a public official, has an obligation to
+be popular or to maintain public approval.
+	
+
+The argument is structured so as to lead to which one of
+the following conclusions?
+(A) 	 No elected official has an obligation to avoid
+	
+	 the appearance of impropriety.
+(B) 	 All elected officials have a vested interest in 	
+maintaining a high public approval rating.
+(C) 	 Elected officials who have been scrupulous in 	
+satisfying the obligations of their office should 	
+ensure that the public is aware of this fact.
+(D) 	 The public never approves of an elected official 	
+who appears to have behaved improperly in 	
+office.
+(E) 	 Elected officials who abuse the power of their 	
+office have an obligation at least to appear to be 	
+fulfilling the obligations of their office.
+
+10.	 Cafeteria patron:    The apples sold in this cafeteria are 	
+greasy. The cashier told me that the apples are in
+	
+	
+that condition when they are delivered to the 	
+cafeteria and that the cafeteria does not wash the
+	
+	
+apples it sells. Most fruit is sprayed with
+	
+	
+dangerous pesticides before it is harvested, and
+	
+	
+is dangerous until it is washed. Clearly, the 		
+cafeteria is selling pesticide‑covered fruit, thereby 	
+endangering its patrons.
+	
+	
+
+Which one of the following is an assumption on
+which the argument depends?
+(A) 	 The apples that the cafeteria sells are not 	 	
+thoroughly washed after harvest but before 	
+reaching the cafeteria.
+(B) 	 Most pesticides that are sprayed on fruit before 	
+harvest leave a greasy residue on the fruit.
+(C) 	 Many of the cafeteria’s patrons are unaware that 	
+the cafeteria does not wash the apples it sells.
+(D) 	 Only pesticides that leave a greasy residue on
+	
+	 fruit can be washed off.
+(E) 	 Fruits other than apples also arrive at the
+	
+	 cafeteria in a greasy condition.
+
+2	 2	
+  
+
+	
+
+11.	 P:    Because an elected official needs the support of
+a political party to be effective, the independent
+candidate for the legislature cannot possibly be an
+effective legislator if she wins.
+	
+
+Q:    I disagree. By your reasoning, our current
+legislator, who has the support of a political party,
+ought to have been effective, but he has not been.
+
+	
+
+Which one of the following is the best criticism of Q’s
+statement?
+(A) 	 It simply contradicts P’s claim without offering 	
+evidence against it.
+(B) 	 It does not consider the possibility that a political 	
+party might decide to support an elected
+	
+	 legislator even though he or she ran as an 	
+independent.
+(C) 	 It fails to provide a precise definition for a key 	
+term—the word “effective.”
+(D) 	 It presupposes what is to be proved—that a 	
+legislator must have the support of a political 	
+party in order to be “effective.”
+(E) 	 It mistakenly interprets P to be claiming that a 	
+factor assures, rather than is necessary for, a 	
+legislator’s effectiveness.
+
+GO ON TO THE NEXT PAGE.
+
+2
+
+2	
+
+2   	
+Questions 12-13
+	
+Public health will improve more quickly in the wake
+of new medical discoveries if medical researchers abandon
+their practice of waiting until their findings are published in
+peer-reviewed journals before informing the press of
+important research results. That is because the public release
+of new medical information allows people to use that
+information in order to improve their health, but the peerreview process is unavoidably very slow.
+
+2	 2	
+
+14.	 Between 1977 and 1987, the country of Ravonia lost
+about 12,000 jobs in logging and wood processing,
+representing a 15 percent decrease in employment in
+the country’s timber industry. Paradoxically, this loss of
+jobs occurred even as the amount of wood taken from
+the forests of Ravonia increased by 10 percent.
+	
+
+Not since the 1950s has the timber industry
+	 been Ravonia’s most important industry
+	 economically.
+Between 1977 and 1987, the total number of
+	 acres of timberland in Ravonia fell, while
+	 the demand for wood products increased.
+Since 1977, a growing proportion of the
+	 timber that has been cut in Ravonia has
+	 been exported as raw, unprocessed wood.
+Since 1977, domestic sales of wood and wood 	
+products have increased by more than export 	
+sales have increased.
+(E) 	 In 1977, overall unemployment in Ravonia
+	
+	 was approximately 10 percent; in 1987,
+	
+	 Ravonia’s unemployment rate was 15
+	
+	 percent.
+
+(A) 	
+	
+	
+(B) 	
+
+13.	 Which one of the following, if true, most seriously
+weakens the argument?
+(A) 	
+	
+	
+(B) 	
+	
+	
+(C) 	
+	
+	
+(D) 	
+	
+	
+	
+(E) 	
+	
+
+Peer review often prevents the publication of
+	 false conclusions drawn on the basis of
+	 poorly conducted medical research.
+People often alter their life‑styles on the basis
+	 of new medical information made available
+	 through the press.
+Some improvements in public health are due
+	 to factors other than the discovery of new
+	 medical information.
+Some newspapers would be willing to publish
+	 the results of medical research before those
+	 results have appeared in peer-reviewed
+	 journals.
+Most peer-reviewed scientific journals would 	
+refuse to give up the practice of peer
+	 review.
+
+Which one of the following, if true, most helps to
+resolve the apparent paradox?
+(A) 	
+	
+	
+(B) 	
+	
+	
+(C) 	
+	
+	
+(D) 	
+
+12.	 Which one of the following is an assumption on which
+the argument depends?
+Many medical researchers do not agree to
+	 serve as reviewers when their own research
+	 is in a critical phase.
+Reviewers for many medical journals are not 	
+themselves medical researchers.
+(C) 	 People would use new medical information
+	
+	 even if it were not first published in
+	
+	 peer‑reviewed journals.
+(D) 	 The peer-review process could be speeded up 	
+enough to produce a significant
+	
+	 improvement in public health.
+(E) 	 New medical information that is first
+	
+	 published in peer-reviewed journals does not
+	
+	 usually receive public attention.
+
+	
+
+  
+
+15.	 To perform an act that is morally wrong is to offend
+against humanity, and all offenses against humanity
+are equally bad. Because murder is morally wrong, it
+is just as bad to have murdered one person by setting
+off a bomb as it would have been to have murdered a
+hundred people by setting off that bomb.
+	
+
+Which one of the following judgments conforms to the
+principles invoked above?
+(A) 	
+	
+(B) 	
+	
+	
+(C) 	
+	
+	
+	
+(D) 	
+	
+(E) 	
+	
+	
+
+	
+
+If lying is morally wrong, telling a lie is as
+	 bad as murdering someone.
+Risking one’s life to save the lives of a
+	 hundred people is morally no better than
+	 risking one’s life to save one person.
+If stealing is morally wrong, it is equally
+	 important to society to prevent people from
+	 stealing as it is to prevent them from
+	 committing murder.
+Accidentally causing the death of a person is
+	 just as bad as murdering that person.
+In a situation in which the life of one person
+	 can be saved only by killing another person,
+	 killing and not killing are equally bad.
+
+GO ON TO THE NEXT PAGE.
+
+2
+
+2	
+
+2   	
+16.	 In yesterday’s council election a majority of voters
+supported conservative candidates, and a majority of
+voters supported candidates who voted in favor of the
+antipollution act. Therefore, it must be that a majority
+of voters in yesterday’s council election supported
+conservative candidates who voted in favor of the
+antipollution act.
+	
+
+Which one of the following is an argument that contains
+flawed reasoning most similar to the flawed reasoning
+in the argument above?
+(A) 	 Bill claims that soil can be damaged if it is tilled
+when it is too wet, and Sue claims that seeds
+planted in wet soil can rot. Therefore, if both
+claims are true, gardeners who till and plant
+their gardens when the soil is wet damage both
+their soil and their seeds.
+(B) 	 According to Sara, most children like pies.
+According to Robert, most children like
+blueberries. So if Sara and Robert are both
+right, it must be that most children like pies that
+contain blueberries.
+(C) 	 Mark will go on a picnic today only if it does
+not rain. Susan will go on a picnic today only if
+Mark goes too. Since it is not going to rain 	
+today, both Mark and Susan will go on a picnic.
+(D) 	 The majority of customers who regularly eat at
+	
+	 this restaurant always order both fish and stuffed
+	
+	 mushrooms. Thus, fish and stuffed mushrooms
+must be the restaurant’s most frequently ordered
+dishes.
+(E) 	 Most people living at Gina’s house cook well.
+Since most people at Gina’s house enjoy eating
+well-cooked meals, most meals served at Gina’s
+house are cooked well.
+
+2	 2	
+  
+
+	
+
+17.	 Politician:    Critics of the wetlands‑protection bill are 	
+delaying passage of this important legislation 	
+merely on the grounds that they disagree with its
+	
+	
+new, more restrictive definition of the term
+“wetlands.” But this bill will place stricter limits
+on the development of wetlands than the existing
+regulations do. Therefore, in quibbling over
+semantics, critics of this bill show that they care
+little about what really happens to our wetlands.
+	
+
+The politician’s reply to the opponents of the
+wetlands‑protection bill is most vulnerable to which
+one of the following criticisms?
+(A) 	
+	
+	
+	
+(B) 	
+	
+	
+(C) 	
+
+It falsely identifies the motives of those who
+	 have criticized the wetlands‑protection bill
+	 with the motives of all those who are
+	 opposed to conservation.
+It does not adequately recognize the possibility
+	 that the definition of the word “wetlands”
+	 determines the impact of the legislation.
+It assumes without justification that those who 	
+criticized the wetlands‑protection bill stand to
+profit if the bill is defeated.
+(D) 	 It fails to provide a defense for a less restrictive
+definition of “wetlands.”
+(E) 	 It attempts to defend the credibility of the author
+of the bill rather than defending the bill itself.
+
+GO ON TO THE NEXT PAGE.
+
+2
+
+2	
+
+2   	
+Questions 18-19
+Dillworth:    More and more people are deciding not to
+have children because of the personal and economic
+sacrifices children require and because so often
+children are ungrateful for the considerable sacrifices
+their parents do make for them. However, such
+considerations have no bearing on the fact that their
+children provide the best chance most people have of
+ensuring that their values live on after them. Therefore,
+for anyone with deeply held values, foregoing
+parenthood out of reluctance to make sacrifices for
+which little gratitude can be expected would probably
+be a mistake.
+Travers:    Your reasoning ignores another fact that
+	
+deserves consideration: children’s ingratitude for
+parental sacrifices usually stems from a wholesale
+rejection of parental values.
+
+2	 2	
+  
+
+20.	 Until about 400 million years ago, fishes—the first
+true swimmers—were jawless. Their feeding methods
+were limited to either sucking in surface plankton
+or sucking in food particles from bottom mud. With
+the development of biting jaws, however, the life of
+fishes changed dramatically, since jaws allowed them
+actively to pursue prey, to seize it in their jaws, and to
+manipulate it between their teeth. The jawed fishes then
+developed along two main lines: one retained cartilage
+for its skeletons, for example, sharks and rays; the other
+adopted bone as its principal skeletal material. From
+the latter group evolved the most abundant and diverse
+of all of today’s vertebrate groups, the “teleosts,” some
+21,000 species, which vary from barracudas to sea
+horses.
+	
+
+19.	 The point of Travers’ rejoinder to Dillworth’s argument
+is that
+(A) 	 Dillworth’s assumption that children acquire
+values only from their parents is mistaken
+(B) 	 it is a mistake to dismiss as irrelevant the
+personal and economic sacrifices people are
+called on to make for the sake of their children
+(C) 	 Dillworth has overlooked the well‑known
+fact that people with deeply held values not
+infrequently reject opposing values that are
+deeply held by others
+(D) 	 the desire to perpetuate their values should not be
+a factor in people’s decision to have children
+(E) 	 the fact that children are often ungrateful for
+parental sacrifices is not irrelevant to deciding
+whether to have children in order to perpetuate
+one’s values
+
+If all of the statements in the passage are true, which
+one of the following must also be true?
+(A) 	 Fish are the primary prey of all jawed fishes.
+(B) 	 The jawless fishes did not prey upon other fish.
+(C) 	 Teleosts do not feed upon particles found in
+bottom mud.
+(D) 	 Jawless fishes did not have cartilage as their
+skeletal material.
+(E) 	 Jawless fishes became extinct approximately 400
+million years ago.
+
+18.	 Dillworth employs which one of the following
+argumentative strategies?
+(A) 	 showing that considerations cited as drawbacks
+to a given course of action are not really 	
+drawbacks at all
+(B) 	 exposing as morally suspect the motives of
+people who would make the choice that
+Dillworth rejects
+(C) 	 indirectly establishing that a given course
+of action is obligatory by arguing that the
+alternative course of action is prohibited
+(D) 	 distinguishing a category of person for whom
+the reason presented in favor of a given course
+of action is more telling than the reasons cited
+against that course of action
+(E) 	 using evidence that a certain course of action
+would be appropriate under one set of 	
+conditions to arrive at a general conclusion
+about what would be appropriate in all cases
+
+	
+
+21.	 Nuclear reactors are sometimes built in “geologically
+quiet” regions, so called by geologists because such
+regions are distant from plate boundaries and contain
+only minor faults. Since no minor fault in a geologically
+quiet region produces an earthquake more often than
+once in any given 100,000-year period, it follows that
+of all potential nuclear reactor sites in such a region,
+those that are least likely to be struck by an earthquake
+are ones located near a fault that has produced an
+earthquake within living memory.
+	
+
+Which one of the following is an assumption on which
+the argument depends?
+(A) 	 Geologically quiet regions are the least
+dangerous regions in which to build nuclear
+reactors.
+(B) 	 For any potential nuclear reactor site, the
+likelihood of being struck by an earthquake is
+the primary determinant of site safety.
+(C) 	 In a geologically quiet region, every potential
+nuclear reactor site is near at least one minor
+fault.
+(D) 	 Nuclear reactors that are located in geologically
+quiet regions are built to withstand at least one
+but not necessarily more than one earthquake of
+minor to moderate force.
+(E) 	 Earthquake faults in geologically quiet regions
+produce earthquakes at least once in 100,000
+years.
+GO ON TO THE NEXT PAGE.
+
+2
+
+2	
+
+2   	
+Questions 22-23
+Magazine editor:    I know that some of our regular
+advertisers have been pressuring us to give favorable
+mention to their products in our articles, but they
+should realize that for us to yield to their wishes
+would actually be against their interests. To remain
+an effective advertising vehicle we must have loyal
+readership, and we would soon lose that readership if
+our readers suspect that our editorial integrity has been
+compromised by pandering to advertisers.
+Advertising‑sales director:    You underestimate the
+sophistication of our readers. They recognize that
+the advertisements we carry are not articles, so their
+response to the advertisements has never depended on
+their opinion of the editorial integrity of the magazine
+as a whole.
+22.	 Which one of the following is the most accurate
+assessment of the advertising‑sales director’s argument
+as a response to the magazine editor’s argument?
+(A) 	 It succeeds because it shows that the editor’s
+argument depends on an unwarranted
+assumption about factors affecting an
+advertisement’s effectiveness.
+(B) 	 It succeeds because it exposes as mistaken the 	
+editor’s estimation of the sophistication of
+	
+	 the magazine’s readers.
+(C) 	 It succeeds because it undermines the editor’s 	
+claim about how the magazine’s editorial 	
+integrity would be affected by allowing 	 	
+advertisers to influence articles.
+(D) 	 It fails because the editor’s argument does not 	
+depend on any assumption about readers’ 	
+response to the advertisements they see in
+	
+	 the magazine.
+(E) 	 It fails because it is based on a misunderstanding 	
+of the editor’s view about how readers respond 	
+to advertisements they see in the magazine.
+
+2	 2	
+  
+
+	
+
+23.	 The magazine editor’s argument assumes which one of
+the following?
+(A) 	
+	
+	
+	
+(B) 	
+	
+
+A magazine editor should never be influenced
+	 in the performance of his or her professional
+	 duties by the wishes of the companies that
+	 regularly advertise in the magazine.
+The magazine cannot give any favorable
+mention in its articles to its regular advertisers 	
+without compromising its reputation for 	 	
+editorial integrity.
+(C) 	 Favorable mention of their products in the
+	
+	 magazine’s articles is of less value to the 		
+advertisers than is the continued effectiveness of 	
+the magazine as an advertising vehicle.
+(D) 	 Giving favorable mention to a product in a 	
+magazine article is a more effective form of
+advertising than is an explicit advertisement for
+the product in the same magazine.
+(E) 	 Carrying paid advertisements can never pose any
+threat to the magazine’s reputation for editorial
+integrity nor to the loyalty of its readership.
+
+GO ON TO THE NEXT PAGE.
+
+2
+
+2	
+
+2   	
+
+2	 2	
+  
+
+24.	 Public policy dictates the health risks the public
+routinely takes. Statistical arguments about health
+risks are used primarily to deflect public fears, while
+contributing little to policy debate. For example,
+statistics are cited to imply that wearing a seat belt
+reduces one’s risk of death in an automobile accident,
+deflecting attention from the fact that a transportation
+policy that promotes increasing use of automobiles
+inherently increases any individual’s risk of death in an
+automobile accident.
+	
+
+25.	 S:    It would be premature to act to halt the threatened 	
+“global warming trend,” since that alleged trend 	
+might not be real. After all, scientists disagree
+about it, some predicting over twice as much
+warming as others, so clearly their predictions
+cannot be based on firm evidence.
+	
+
+W:    Most scientists consider discussions of accepted
+ideas boring, and prefer to argue about what is not
+known. According to the International Science
+Council, there is a consensus among reputable
+investigators that average global warming in the
+next century will be from 1.5° to 4.5°C.
+
+	
+
+W’s rejoinder proceeds by
+
+The way the example functions above is most closely
+paralleled in which one of the following?
+(A) 	
+	
+	
+	
+
+(B) 	
+	
+
+(C) 	
+	
+
+(D) 	
+	
+
+(E) 	
+
+Statistics indicate that an individual’s risk of
+	 contracting cancer from radiation emitted by
+	 a nuclear power plant is less than that of
+	 contracting cancer from sunshine. These 		
+statistics draw attention away from the fact 	
+that a policy of energy conservation is safer 	
+for human health than a policy based on nuclear 	
+energy.
+Statistics indicate that an urban resident’s risk of
+accidental death from any cause is no greater 	
+than that of an individual who lives in a 	 	
+suburban or rural area. These statistics counter 	
+the widely held public belief that  urban areas 	
+are more dangerous than suburban or rural 	
+areas.
+Statistics indicate that the average life
+	 expectancy of males is shorter than that of 	
+females. This alone should not influence 		
+policies regarding eligibility for life insurance 	
+because it is also true that any individual’s 	
+expectancy can be calculated on the basis of 	
+personal characteristics and health practices.
+Statistics indicate that the average life
+	 expectancy of males is shorter than that of 	
+females. When one accounts for the fact that 	
+females smoke less and are less likely to work
+in jobs in the chemical and manufacturing
+industries, the difference in life expectancy is
+narrowed.
+Statistics indicate that the number of people
+dependent on alcohol far exceeds the number
+dependent on illegal addictive drugs; thus,
+any policy for the control and treatment of
+substance abuse should provide for treatment of
+alcoholism.
+
+	
+
+(A) 	 denying the existence of the disagreements
+	
+	 cited by S
+(B) 	 accepting S’s conclusion while disputing the 	
+reasons offered for it
+(C) 	 relying on authorities whose views conflict
+	
+	 with the views of the authorities cited by S
+(D) 	 putting disagreements cited by S in
+	
+	 perspective by emphasizing similarities
+(E) 	 reasoning in a circle by accepting evidence
+	
+	 only if it agrees with a desired conclusion
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+2
+
+3	
+
+3	
+
+3	
+
+3	
+
+SECTION III
+Time—35 minutes
+25 Questions
+Directions:    The questions in this section are based on the reasoning contained in brief statements or passages. For some questions,
+more than one of the choices could conceivably answer the question. However, you are to choose the best answer; that is, the response
+that most accurately and completely answers the question. You should not make assumptions that are by commonsense standards
+implausible, superfluous, or incompatible with the passage. After you have chosen the best answer, blacken the corresponding space
+on your answer sheet.
+1.	 If a country’s manufacturing capacity is fully utilized,
+there can be no industrial growth without new capital
+investment. Any reduction in interest rates produces
+new capital investment.
+	
+
+Which one of the following can be properly concluded
+from the statements above?
+(A) 	 Interest rates might in exceptional cases be
+reduced without there being any subsequent
+investment of new capital.
+(B) 	 A reduction in interest rates might cause a
+precondition for industrial growth to be met.
+(C) 	 If a country’s manufacturing capacity is
+underutilized, interest rates should be held
+constant.
+(D) 	 New capital investment that takes place while
+interest rates are rising cannot lead to industrial
+growth.
+(E) 	 Manufacturing capacity newly created by capital
+investment needs to be fully utilized if it is to
+lead to industrial growth.
+
+2. 	 A certain type of insect trap uses a scented lure to
+attract rose beetles into a plastic bag from which it is
+difficult for them to escape. If several of these traps
+are installed in a backyard garden, the number of rose
+beetles in the garden will be greatly reduced. If only
+one trap is installed, however, the number of rose
+beetles in the garden will actually increase.
+	
+
+Which one of the following, if true, most helps to
+resolve the apparent discrepancy?
+(A) 	 The scent of a single trap’s lure usually cannot be
+detected throughout a backyard garden by rose
+beetles.
+(B) 	 Several traps are better able to catch a large
+number of rose beetles than is one trap alone,
+since any rose beetles that evade one trap are
+likely to encounter another trap if there are
+several traps in the garden.
+(C) 	 When there are several traps in a garden, they
+each capture fewer rose beetles than any single
+trap would if it were the only trap in the garden.
+(D) 	 The presence of any traps in a backyard garden
+will attract more rose beetles than one trap
+can catch, but several traps will not attract
+significantly more rose beetles to a garden than
+one trap will.
+(E) 	 When there is only one trap in the garden, the
+plastic bag quickly becomes filled to capacity,
+allowing some rose beetles to escape.
+
+3. 	 The current move to patent computer programs is a
+move in the wrong direction and should be stopped.
+The patent system was originally designed solely to
+protect small‑time inventors from exploitation, not to
+give large corporations control over a methodology.
+Any computer program is merely the implementation of
+a methodology.
+	
+
+Which one of the following is an assumption on which
+the argument depends?
+(A) 	 Computer programs should be developed not
+only by large corporations but by small‑time
+inventors as well.
+(B) 	 Implementing a methodology always requires
+less creative effort than does true invention.
+(C) 	 The issue of whether or not to patent computer
+programs presents the patent system with
+problems that have never before arisen.
+(D) 	 Large corporations should not hold patents for
+implementations of methodologies.
+(E) 	 Small‑time inventors who support the move to
+patent computer programs act contrary to their
+own best interests.
+
+GO ON TO THE NEXT PAGE.
+
+	3	
+
+3	
+
+3	
+Questions 4-5
+Walter:    For the economically privileged in a society to
+tolerate an injustice perpetrated against one of society’s
+disadvantaged is not just morally wrong but also
+shortsighted: a system that inflicts an injustice on a
+disadvantaged person today can equally well inflict
+that same injustice on a well‑to‑do person tomorrow.
+Larissa:    In our society, the wealthy as well as the
+well‑educated can protect themselves against all sorts
+of injustices suffered by the less well‑off. Allowing
+such injustices to persist is bad policy not because it
+places everyone at equal risk of injustice but because it
+is a potent source of social unrest.
+4. 	 Larissa responds to Walter by doing which one of the
+following?
+(A) 	 giving reason to doubt the truth of Walter’s 	
+conclusion
+(B) 	 drawing implausible consequences from 	 	
+Walter’s assumptions
+(C) 	 questioning Walter’s authority to address 	 	
+matters of social policy
+(D) 	 providing an alternative reason for accepting 	
+the truth of Walter’s conclusion
+(E) 	 charging Walter with stopping short of 	 	
+recognizing the full implications of his position
+5.	 Walter and Larissa are logically committed by what
+they say to disagreeing about which one of the
+following?
+(A) 	
+	
+(B) 	
+	
+(C) 	
+
+whether the poor and the rich are part of the
+	 same social fabric
+whether the most successful members of a
+	 society are that society’s least tolerant people
+whether the disadvantaged members of society
+suffer from injustice
+(D) 	 whether those who have the most advantages
+	
+	 in a society are morally obligated to correct
+	
+	 that society’s injustices
+(E) 	 whether the economically privileged members
+	
+	 of a society are less exposed to certain sorts
+	
+	 of injustices than are the economically
+	
+	 disadvantaged
+
+3	
+
+3	
+6.	 Three major laundry detergent manufacturers have
+concentrated their powdered detergents by reducing
+the proportion of inactive ingredients in the detergent
+formulas. The concentrated detergents will be sold
+in smaller packages. In explaining the change, the
+manufacturers cited the desire to reduce cardboard
+packaging and other production costs. Market analysts
+predict that the decision of these three manufacturers,
+who control 80 percent of the laundry detergent market,
+will eventually bring about the virtual disappearance of
+old‑style bulky detergents.
+	
+
+Which one of the following, if true, most strongly
+supports the prediction made by the market analysts?
+(A) 	 Most smaller manufacturers of laundry 	
+detergents will consider it too expensive to
+retool factories for the production of the smaller
+detergent packages.
+(B) 	 Many consumers will be skeptical initially that
+the recommended small amount of concentrated
+detergent will clean laundry as effectively as the 	
+larger amount of the old‑style detergent did.
+(C) 	 Some analysts believe that consumers will have
+to pay a greater cost per load of laundry to use
+the new concentrated detergent than they 	did to
+use the old‑style detergent.
+(D) 	 Major supermarkets have announced that they
+will not charge the detergent manufacturers
+less to display their detergents, even though the
+detergents will take up less shelf space.
+(E) 	 Consumers are increasingly being persuaded by
+environmental concerns to buy concentrated
+detergents when available in order to reduce
+cardboard waste.
+
+GO ON TO THE NEXT PAGE.
+
+	3	
+
+3	
+
+3	
+Questions 7-8
+Political advocate:   Campaigns for elective office should
+be subsidized with public funds. One reason is that
+this would allow politicians to devote less time to
+fund‑raising, thus giving campaigning incumbents
+more time to serve the public. A second reason is that
+such subsidies would make it possible to set caps on
+individual campaign contributions, thereby reducing
+the likelihood that elected officials will be working
+for the benefit not of the public but of individual large
+contributors.
+
+3	
+
+3	
+9. 	 Novice bird-watcher:    I don’t know much about
+animal tracks, but I do know that birds typically
+have four toes, and most birds have three toes
+pointing forward and one toe pointing backward.
+Since this track was made by an animal with four
+toes, of which three point forward and one points
+backward, we can conclude it was made by 	some
+kind of bird.
+	
+
+(A) 	 relies on the vagueness of the term “track”
+(B) 	 does not define birds as animals with four toes
+(C) 	 fails to identify what kind of bird might have 	
+made the track
+(D) 	 does not establish that only a bird could have 	
+made the track
+(E) 	 depends on evidence about an individual bird 	
+rather than about birds in general
+
+Critic:    This argument is problematic: the more the caps
+constrain contributions, the more time candidates have
+to spend finding more small contributors.
+7. 	 The critic objects that the advocate’s argument is flawed
+because
+(A) 	 any resourceful large contributor can circumvent 	
+caps on individual contributions by sending in 	
+smaller amounts under various names
+(B) 	 one of the projected results cited in support of 	
+the proposal made is entailed by the other and 	
+therefore does not constitute independent 	
+support of the proposal
+(C) 	 of the two projected results cited in support of 	
+the proposal made, one works against the other
+(D) 	 it overlooks the possibility that large contributors 	
+will stop contributing if they cannot contribute 	
+at will
+(E) 	 it overlooks the possibility that incumbents with 	
+a few extremely generous contributors will be 	
+hit harder by caps than incumbents with many 	
+moderately generous contributors
+8. 	 Which one of the following principles, if established,
+provides a basis for the advocate’s argument?
+(A) 	 If complete reliance on private funding of some
+activity keeps the public from enjoying a benefit
+that could be provided if public funds were 	
+used, such public funds should be provided.
+(B) 	 If election campaigns are to be funded from
+public funds, terms of office for elected officials
+should be lengthened.
+(C) 	 If in an election campaign large contributions
+flow primarily to one candidate, public funds
+should be used to support the campaigns of that
+candidate’s rivals.
+(D) 	 If public funding of some activity produces a
+benefit to the public but also inevitably a special
+benefit for specific individuals, the activity
+should not be fully funded publicly but in part
+by the individuals deriving the special benefit.
+(E) 	 If a person would not have run for office in the
+absence of public campaign subsidies, this
+person should not be eligible for any such
+subsidies.
+
+The argument is flawed because it
+
+10.	 Psychologists have claimed that many people are more
+susceptible to psychological problems in the winter than
+in the summer; the psychologists call this condition
+seasonal affective disorder. Their claim is based on the
+results of surveys in which people were asked to recall
+how they felt at various times in the past. However, it
+is not clear that people are able to report accurately on
+their past psychological states. Therefore, these survey
+results do not justify the psychologists’ claim that there
+is any such condition as seasonal affective disorder.
+	
+
+The author criticizes the psychologists’ claim by
+(A) 	 offering an alternative explanation of the
+	
+variation in the occurrence of psychological 	
+problems across seasons
+(B) 	 questioning whether any seasonal variation in 	
+the occurrence of psychological problems could
+properly be labeled a disorder
+(C)	 questioning the representativeness of
+the population sample surveyed by the
+psychologists
+(D) 	 questioning an assumption that the author
+attributes to the psychologists
+(E) 	 demonstrating that fewer people actually
+suffer from seasonal affective disorder than
+psychologists had previously thought
+
+GO ON TO THE NEXT PAGE.
+
+	3	
+
+3	
+
+3	
+11.	 Unless the residents of Glen Hills band together, the
+proposal to rezone that city will be approved. If it is, the
+city will be able to build the water and sewer systems
+that developers need in order to construct apartment
+houses there. These buildings would attract new
+residents, and the increased population would probably
+result in overcrowded schools and would certainly
+result in roads so congested that new roads would be
+built. Neither new roads nor additional schools could be
+built without substantial tax increases for the residents
+of Glen Hills. Ultimately, this growth might even
+destroy the rural atmosphere that makes Glen Hills so
+attractive.
+	
+
+Which one of the following can be properly concluded
+from the passage?
+(A) 	 If the citizens of Glen Hills band together, 	
+developers will not build apartment houses.
+(B) 	 If developers build apartment houses in Glen
+	
+	 Hills, there will be substantial tax increases
+	
+	 for the residents of Glen Hills.
+(C) 	 If the rezoning proposal does not pass, the rural 	
+atmosphere in Glen Hills will not be lost.
+(D) 	 If developers do not build apartment houses in 	
+Glen Hills, the taxes of the residents of Glen
+Hills will not increase substantially.
+(E) 	 If developers do not build apartment houses in
+Glen Hills, the schools of Glen Hills will not be
+overcrowded and roads will not be congested.
+
+12.	 One year ago a local government initiated an
+antismoking advertising campaign in local newspapers,
+which it financed by imposing a tax on cigarettes of 20
+cents per pack. One year later, the number of people
+in the locality who smoke cigarettes had declined by 3
+percent. Clearly, what was said in the advertisements
+had an effect, although a small one, on the number of
+people in the locality who smoke cigarettes.
+	
+
+3	
+
+3	
+13.	 No projects that involve historical restorations were
+granted building permits this month. Since some of
+the current projects of the firm of Stein and Sapin
+are historical restorations, at least some of Stein and
+Sapin’s projects were not granted building permits this
+month.
+	
+
+The pattern of reasoning in the argument above is most
+similar to that in which one of the following?
+(A) 	 None of the doctors working at City Hospital
+were trained abroad. So, although some
+hospitals require doctors trained abroad to pass
+an extra qualifying exam, until now, at least, this
+has not been an issue for City Hospital.
+(B) 	 None of the news reports from the economic
+summit meeting have been encouraging. Since
+some other recent economic reports have 	
+showed positive trends, however, at least some
+of the economic news is encouraging at this
+time.
+(C) 	 None of the new members of the orchestra have
+completed their paperwork. Since only those
+people who have completed their paperwork
+can be paid this week, at least some of the new
+members of the orchestra are likely to be paid
+late.
+(D) 	 Several films directed by Hannah Barker were
+released this season, but none of the films
+released this season were enthusiastically
+reviewed. Therefore, at least some of Hannah
+Barker’s films have not received enthusiastic
+reviews.
+(E) 	 Some of the city’s most beautiful parks are not
+larger than a few acres, and some of the parks
+only a few acres in size are among the city’s
+oldest. Therefore, some of the city’s most
+beautiful parks are also its oldest parks.
+
+Which one of the following, if true, most helps to
+strengthen the argument?
+(A) 	 Residents of the locality have not increased their 	
+use of other tobacco products such as snuff and
+chewing tobacco since the campaign went into
+effect.
+(B) 	 A substantial number of cigarette smokers in the
+locality who did not quit smoking during the
+campaign now smoke less than they did before
+it began.
+(C) 	 Admissions to the local hospital for chronic
+respiratory ailments were down by 15 percent
+one year after the campaign began.
+(D) 	 Merchants in the locality responded to the local
+tax by reducing the price at which they sold
+cigarettes by 20 cents per pack.
+(E) 	 Smokers in the locality had incomes that on
+average were 25 percent lower than those of
+nonsmokers.
+
+GO ON TO THE NEXT PAGE.
+
+	3	
+
+3	
+
+3	
+14.	 Many artists claim that art critics find it is easier to
+write about art that they dislike than to write about art
+that they like. Whether or not this hypothesis is correct,
+most art criticism is devoted to art works that fail to
+satisfy the critic. Hence it follows that most art criticism
+is devoted to works other than the greatest works of art.
+	
+
+The conclusion above is properly drawn if which one of
+the following is assumed?
+(A) 	
+	
+(B) 	
+	
+(C) 	
+
+No art critic enjoys writing about art works
+	 that he or she dislikes intensely.
+All art critics find it difficult to discover art
+	 works that truly satisfy them.
+A work of art that receives extensive critical 	
+attention can thereby become more widely
+	
+	 known than it otherwise would have been.
+(D) 	 The greatest works of art are never recognized
+	
+	 as such until long after the time of their
+	
+	 creation.
+(E) 	 The greatest works of art are works that
+	
+	 inevitably satisfy all critics.
+15.	 Babies who can hear and have hearing parents who
+expose them to speech begin to babble at a certain age
+as a precursor to speaking. In the same way, deaf babies
+with deaf parents who communicate with them and with
+each other by signing begin to babble in signs at the
+same age. That is, they make repetitive hand gestures
+that constitute, within the language system of signs, the
+analogue of repeated syllables in speech.
+	
+
+The information above, if accurate, can best be
+used as evidence against which one of the following
+hypotheses?
+(A) 	 Names of persons or things are the simplest 	
+words in a language, since babies use them 	
+before using the names of actions or processes.
+(B) 	 The development of language competency in
+	
+	 babies depends primarily on the physical 	
+maturation of the vocal tract, a process that 	
+requires speech‑oriented vocal activity.
+(C) 	 In the absence of adults who communicate with 	
+each other in their presence, babies develop 	
+idiosyncratic languages.
+(D) 	 In babbling, babies are unaware that the sound or 	
+gesture combinations they use can be employed 	
+in a purposive way.
+(E) 	 The making of hand gestures by hearing babies 	
+who have hearing parents should be interpreted 	
+as a part of their developing language.
+
+3	
+
+3	
+16.	 Each of the elements of Girelli’s recently completed
+design for a university library is copied from a different
+one of several historic libraries. The design includes
+various features from Classical Greek, Islamic, Mogul,
+and Romanesque structures. Since no one element in
+the design is original, it follows that the design of the
+library cannot be considered original.
+	
+
+Which one of the following is a reasoning error made in
+the argument?
+(A) 	 assuming that because something is true of each
+of the parts of a whole it is true of the whole
+itself
+(B) 	 generalizing illegitimately from a few instances
+of a certain kind to all instances of that kind
+(C) 	 concluding that an unknown instance of a
+phenomenon must have all the properties of the
+known instances
+(D) 	 presupposing that alternatives that can be true
+separately cannot be true together
+(E) 	 deriving a factual conclusion from evidence
+derived from reports of aesthetic preferences
+
+GO ON TO THE NEXT PAGE.
+
+	3	
+
+3	
+
+3	
+Questions 17-18
+	
+Although tales of wonder and the fantastic are integral
+to all world literatures, only recently has the fantasy genre
+had a commercial resurgence in North America. During
+the last 20 years, sales of fantasy‑fiction books written for
+adults have gone from 1 to 10 percent of total adult‑fiction
+sales. At the same time, the number of favorable reviews
+of fantasy books has increased markedly. Some booksellers
+say that the increased sales of fantasy books written for
+adults can be traced to the increased favorable attention
+given the genre by book reviewers.
+
+3	
+
+3	
+19.	 Of all the houses in the city’s historic district, the house
+that once belonged to the Tyler family is the most
+famous by far. Since the historic district is the most
+famous district in the city, the Tyler house must be the
+city’s most famous house.
+	
+
+(A) 	 Of all the peaks in the coastal mountain range,
+Mount Williams is the tallest. Since the tallest
+peaks in the entire region are in the coastal
+mountain range, Mount Williams must be the
+region’s tallest peak.
+(B) 	 Tobacco smoking is the behavior most likely to
+cause lung cancer in people. Since more tobacco
+is smoked in Greene County than anywhere else
+in the world, there must be more lung cancer in
+Greene County than anywhere else in the world.
+(C) 	 Susan Coleman is the oldest of the three children
+in her family. Since the three Coleman children
+are each older than any of the other children
+who live in their building, Susan Coleman must
+be the oldest child now living in the building.
+(D) 	 Of all the fish stores in the harbor area, Miller’s
+Fish Market has the most exotic selection of
+fish. Since there are many more fish stores in
+the harbor area than anywhere else in the city,
+Miller’s Fish Market must have the most exotic
+selection of fish in the city.
+(E) 	 Of all the flowers grown in the university’s
+botanical garden, the Oakland roses are the
+most beautiful. Since the university’s botanical
+garden is the most beautiful garden in the
+region, the Oakland roses grown in the garden
+must be the most beautiful flowers grown in the
+entire region.
+
+17.	 Which one of the following, if true, undermines the
+booksellers’ explanation of the growth in sales of
+fantasy‑fiction books for adults?
+(A) 	 Publishers often select a manuscript on the
+basis of whether they think that the published
+book will receive favorable reviews by book
+reviewers.
+(B) 	 Few readers of fantasy fiction read book reviews, 	
+and even fewer select books to purchase on the 	
+basis of those reviews.
+(C) 	 Most booksellers are aware of what major book 	
+reviewers have written about recently published 	
+books.
+(D) 	 Although the increase in the percentage of 	
+fantasy books sold has been substantial, 	 	
+publishers estimate that sales could increase
+even further.
+(E) 	 Many of the book reviews of new fantasy‑fiction
+novels also mention great fantasy novels of the
+past.
+18.	 Which one of the following, if true, most strongly
+supports the booksellers’ explanation of the growth in
+sales of fantasy‑fiction books for adults?
+(A)	
+(B) 	
+
+(C) 	
+(D) 	
+
+(E) 	
+
+Many experts report that on average the reading
+level of book buyers has declined over the past
+20 years.
+Because life during the past 20 years has become
+complex and difficult, many readers have come
+to prefer the happy endings that fantasy fiction
+often provides.
+Some fantasy publishers take advantage of the
+popularity of certain books by commissioning
+similar books.
+Because few readers of mystery novels were
+buying fantasy fiction, 10 years ago the
+major publishers of fantasy fiction created an
+advertising campaign directed specifically at
+those readers.
+After fantasy fiction began to be favorably
+reviewed by respected critics 20 years ago, book
+buyers began to regard fantasy books as suitable
+reading for adults.
+
+The flawed reasoning in the argument above most
+closely parallels the flawed reasoning in which one of
+the following?
+
+20.	 Morton:    In order to succeed in today’s society,
+one must have a college degree. Skeptics have
+objected that there are many people who never
+completed any education beyond high school
+but who are nevertheless quite successful. This
+success is only apparent, however, because
+without a college degree a person does not have
+enough education to be truly successful.
+	
+
+Morton’s argument is flawed because it
+(A) 	 assumes what it sets out to conclude
+(B) 	 mistakes a correlation for a cause
+(C) 	 draws a highly general conclusion from evidence
+about individual cases
+(D) 	 fails to consider the status of alleged
+counterexamples
+(E) 	 bases its conclusion on the supposition that most
+people believe in that conclusion
+GO ON TO THE NEXT PAGE.
+
+	3	
+
+3	
+
+3	
+21.	 Even the earliest known species of land animals, known
+from fossils dating from the late Silurian period, 400
+million years ago, show highly evolved adaptations
+to life on land. Since neither aquatic nor amphibious
+animals exhibit these adaptations, early species of land
+animals must have evolved very rapidly after leaving an
+aquatic environment.
+	
+
+Which one of the following is an assumption on which
+the argument depends?
+(A) 	
+	
+	
+(B) 	
+	
+	
+(C) 	
+	
+(D) 	
+
+Known fossils of early land animals include
+	 fossils of animals that lived relatively soon
+	 after the first emergence of land animals.
+Fossils from the late Silurian period represent
+	 only a small number of the animal species
+	 that were alive at that time.
+No plants were established on land before the
+	 late Silurian period.
+No present‑day species of aquatic animal is 	
+descended from a species of animal that
+	
+	 once lived on land.
+(E) 	 All animals alive in the late Silurian period
+	
+	 lived either exclusively on land or
+	
+	 exclusively in the water.
+22.	 On Saturday Melvin suggested that Jerome take the
+following week off from work and accompany him on
+a trip to the mountains. Jerome refused, claiming that
+he could not afford the cost of the trip added to the
+wages he would forfeit by taking off without notice.
+It is clear, however, that cost cannot be the real reason
+for Jerome’s unwillingness to go with Melvin to the
+mountains, since he makes the same excuse every
+time Melvin asks him to take an unscheduled vacation
+regardless of where Melvin proposes to go.
+	
+
+The reasoning is most vulnerable to which one of the
+following criticisms?
+(A) 	 It attempts to forestall an attack on Melvin’s 	
+behavior by focusing attention on the
+	
+	 behavior of Jerome.
+(B) 	 It fails to establish that Melvin could no more 	
+afford to take an unscheduled vacation trip
+	
+	 to the mountains than could Jerome.
+(C) 	 It overlooks the possibility that Jerome, unlike 	
+Melvin, prefers vacations that have been
+	
+	 planned far in advance.
+(D) 	 It assumes that if Jerome’s professed reason is
+	
+	 not his only reason, then it cannot be a real
+	
+	 reason for Jerome at all.
+(E) 	 It does not examine the possibility that
+	
+	 Jerome’s behavior is adequately explained
+	
+	 by the reason he gives for it.
+
+3	
+
+3	
+23.	 Arnold:    I was recently denied a seat on an airline 	
+flight for which I had a confirmed reservation,
+because the airline had overbooked the flight.
+Since I was forced to fly on the next available
+flight, which did not depart until two hours later,
+I missed an important business meeting. Even
+though the flight on which I had a reservation was
+canceled at the last minute due to bad weather,
+the airline should still pay me compensation for
+denying me a seat on the flight.
+	
+
+Jamie:    The airline is not morally obligated to pay
+you any compensation. Even if you had not been
+denied a seat on the earlier flight, you would have
+missed your business meeting anyway.
+
+	
+
+A principle that, if established, justifies Jamie’s
+response to Arnold is that an airline is morally obligated
+to compensate a passenger who has been denied a
+seat on a flight for which the passenger has confirmed
+reservations
+(A) 	 if the only reason the passenger is forced to take
+a later flight is that the airline overbooked the
+original flight
+(B) 	 only if there is a reason the passenger is forced to
+take a later flight other than the original flight’s
+being canceled due to bad weather
+(C) 	 only if the passenger would not have been 	
+forced to take a later flight had the airline not
+overbooked the original flight
+(D) 	 even if the only reason the passenger is forced to
+take a later flight were that the original flight is
+canceled due to bad weather
+(E)	 even if the passenger would still have been
+forced to take a later flight had the airline not
+overbooked the original flight
+
+GO ON TO THE NEXT PAGE.
+
+	3	
+
+3	
+
+3	
+
+3	
+
+3	
+
+24.	 Ditrama is a federation made up of three autonomous
+regions: Korva, Mitro, and Guadar. Under the federal
+revenue‑sharing plan, each region receives a share
+of federal revenues equal to the share of the total
+population of Ditrama residing in that region, as shown
+by a yearly population survey. Last year, the percentage
+of federal revenues Korva received for its share
+decreased somewhat even though the population survey
+on which the revenue‑sharing was based showed that
+Korva’s population had increased.
+
+25.	 By examining fossilized beetles, a research team
+has produced the most detailed description yet of
+temperatures in Britain over the past 22,000 years.
+Fossils of species that still exist were selected and
+dated. When individuals of several species found in the
+same place were found to date to the same period, the
+known temperature tolerances of the existing beetle
+species were used to determine the maximum summer
+temperature that could have existed at that place and
+period.
+
+	
+
+	
+
+If the statements above are true, which one of the
+following must also have been shown by the population
+survey on which last year’s revenue‑sharing in Ditrama
+was based?
+(A) 	 Of the three regions, Korva had the smallest 	
+number of residents.
+(B) 	 The population of Korva grew by a smaller 	
+percentage than it did in previous years.
+(C) 	 The populations of Mitro and Guadar each 	
+increased by a percentage that exceeded the 	
+percentage by which the population of Korva
+increased.
+(D) 	 Of the three regions, Korva’s numerical
+	
+	 increase in population was the smallest.
+(E) 	 Korva’s population grew by a smaller
+	
+	 percentage than did the population of at least
+	
+	 one of the other two autonomous regions.
+
+The procedure of the researchers assumes which one of
+the following?
+(A) 	
+	
+(B) 	
+	
+(C) 	
+	
+(D) 	
+	
+	
+	
+	
+(E) 	
+	
+	
+
+Beetles can tolerate warm weather better than
+	 cold weather.
+Fossils of different species found in the same
+	 place belonged to different periods.
+The process of dating is more accurate for
+	 beetles than for other organisms.
+The highest actual summer temperature at a
+	 place and period equaled the average of the
+	 highest temperatures that could have been
+	 tolerated by each of the beetle species found
+	 there and dated to that period.
+The temperature tolerances of the beetle
+	 species did not change significantly during
+	 the 22,000‑year period.
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+	3	
+
+4	
+
+4	
+
+4	
+
+4	
+
+4	
+
+SECTION IV
+Time—35 minutes
+27 Questions
+Directions:    Each passage in this section is followed by group of questions to be answered on the basis of what is stated or implied
+in the passage. For some of the questions, more than one of the choices  could conceivably answer the question. However, you are to
+chose the best answer; that is, the response that most accurately and completely answers the question, and blacken the corresponding
+space on your answer sheet.
+	
+	 Many literary scholars believe that Zora Neale
+	
+Afrocentric standards of evaluation were equally
+	
+Hurston’s Their Eyes Were Watching God (1937) has
+	
+important to the rediscovery of Their Eyes, for such
+	
+been the primary influence on some of the most
+standards provided readers with the tools to
+	
+accomplished Black women writing in the United
+	
+recognize and appreciate the Black folklore and
+(5)	 States today. Indeed, Alice Walker, the author of
+(55)	 oral storytelling traditions Hurston incorporated
+	
+the prize‑winning novel The Color Purple, has said
+	
+within her work. In one of the most illuminating 	
+	
+of Their Eyes, “There is no book more important to
+discussions of the novel to date, Henry Louis Gates,
+	
+me than this one.” Thus, it seems necessary to ask
+	
+Jr., states that “Hurston’s strategy seems to concern
+	
+why Their Eyes, a work now viewed by a multitude
+	
+itself with the possibilities of representation of the
+(10)	 of readers as remarkably successful in its complex
+(60)	 speaking Black voice in writing.”
+	
+depiction of a Black woman’s search for self and
+	
+community, was ever relegated to the margins of the
+1.	 The passage suggests which one of the following about 	
+	
+literary canon.
+Harriet Wilson’s novel?
+	
+	 The details of the novel’s initial reception help
+(A) 	 It was written at the same time as Their Eyes 	
+(15)	 answer this question. Unlike the recently
+Were Watching God, but it did not receive as 	
+	
+rediscovered and reexamined work of Harriet
+much critical attention.
+	
+Wilson, Their Eyes was not totally ignored by book 	
+(B)
+	
+It
+greatly influenced Black women writing after 	
+reviewers upon its publication. In fact, it received a
+the
+1940s.
+	
+mixture of positive and negative reviews both from
+(C) 	 It was widely read when it was published, but it 	
+(20)	 White book reviewers working for prominent
+has not received attention from literary critics 	
+	
+periodicals and from important figures within Black
+until recently.
+	
+literary circles. In the Saturday Review of Literature,
+(D)
+	
+It
+was not formally published, and the 	 	
+	
+George Stevens wrote that “the narration is exactly
+manuscript
+has only recently been discovered 	
+	
+right, because most of it is dialogue and the
+by
+literary
+critics.
+(25)	 dialogue gives us a constant sense of character in
+(E) 	 It did not receive critical attention when it was 	
+	
+action.” The negative criticism was partially a result
+published, but it has recently become the subject
+	
+of Hurston’s ideological differences with other
+	
+of critical study.
+	
+members of the Black literary community about the 	
+depiction of Black Americans in literature. Black
+2.	 The passage offers support for which one of the
+(30)	 writers of the 1940s believed that the Black artist’s
+following statements about literary reviewers and Their
+	
+primary responsibility was to create protest fiction
+Eyes Were Watching God ?
+	
+that explored the negative effects of racism in the
+	
+United States. For example, Richard Wright, the
+(A) 	 Their Eyes was widely acclaimed by reviewers 	
+	
+author of the much acclaimed Native Son (1940),
+upon its publication, even though it eventually 	
+(35)	 wrote that Their Eyes had “no theme” and “no
+went out of print.
+	
+message.” Most critics’ and readers’ expectations of
+(B)
+	
+The
+eventual obscurity of Their Eyes was not the 	
+	
+Black literature rendered them unable to
+result
+of complete neglect by reviewers.
+	
+appreciate Hurston’s subtle delineation of the life
+(C)
+	
+Some
+early
+reviewers of Their Eyes interpreted 	
+	
+of an ordinary Black woman in a Black community,
+the
+novel
+from
+a point of view that later became 	
+(40)	 and the novel went quietly out of print.
+known
+as
+Afrocentric.
+	
+	 Recent acclaim for Their Eyes results from the
+(D)	 Their Eyes was more typical of the protest fiction 	
+	
+emergence of feminist literary criticism and the
+of the 1940s than reviewers realized.
+	
+development of standards of evaluation specific to
+(E)
+	
+Most
+early reviewers of Their Eyes did not 	
+	
+the work of Black writers; these kinds of criticism
+respond
+positively to the book.
+(45)	 changed readers’ expectations of art and enabled 	
+them to appreciate Hurston’s novel. The emergence
+	
+of feminist criticism was crucial because such
+	
+criticism brought new attention to neglected works
+	
+such as Hurston’s and alerted readers to Hurston’s  
+GO ON TO THE NEXT PAGE.
+(50)	 exploration of women’s issues in her fiction. The
+
+4
+
+4	
+
+4	
+
+4	
+
+3. 	 Which one of the following best states the main idea of
+the passage?
+(A) 	 Hurston’s Their Eyes Were Watching God had 	
+little in common with novels written by Black 	
+authors during the 1940s.
+(B) 	 Feminist critics and authors such as Alice Walker 	
+were instrumental in establishing Hurston’s
+Their Eyes Were Watching God as an important 	
+part of the American literary canon.
+(C) 	 Critics and readers were unable to appreciate 	
+fully Hurston’s Their Eyes Were Watching God 	
+until critics applied new standards of evaluation 	
+to the novel.
+(D) 	 Hurston’s Their Eyes Were Watching God was an
+important influence on the protest fiction written	
+by Black writers in the mid-twentieth century.
+(E) 	 Afrocentric strategies of analysis have brought
+attention to the use of oral storytelling traditions
+in novels written by Black Americans, such as
+Hurston’s Their Eyes Were Watching God.
+4.	 According to the passage, which one of the following
+is true of Black folklore traditions as used in literature
+written in the United States?
+(A) 	 They are an aspect of Black American literature
+first recognized and written about by Henry
+Louis Gates, Jr.
+(B) 	 They were not widely incorporated into novels 	
+written by Black Americans until after the
+1940s.
+(C) 	 They were first used by a novelist in Zora Neale 	
+Hurston’s Their Eyes Were Watching God.
+(D) 	 They were not incorporated into novels published
+	
+by Black Americans in the 1940s.
+(E) 	 They are an aspect of Black literature that some 	
+readers did not fully appreciate until relatively
+recently.
+5.	 The passage suggests that Native Son differs from Their
+Eyes Were Watching God in which one of the following
+ways?
+(A) 	 It received fewer positive reviews at the time of
+its publication than did Their Eyes.
+(B) 	 It is less typical of literature written by Black
+Americans during the 1940s than is Their Eyes.
+(C) 	 It is less focused on an ordinary individual’s
+search for self within a Black community than
+is Their Eyes.
+(D) 	 It depicts more aspects of Black American
+folklore than does Their Eyes.
+(E) 	 It has received more attention from feminist and
+Afrocentric literary critics than has Their Eyes.
+
+4	
+
+4	
+
+6.	 Which one of the following provides the clearest
+example of the kind of fiction that many Black writers
+of the 1940s, as their views are described in the
+passage, believed should be written?
+(A) 	 a novel that focuses on the interrelationships
+among four generations of Black women
+(B) 	 a historical novel that re‑creates actual events
+that occurred as Black people suffered from
+oppression and racial injustice in a small 	town
+(C) 	 a novel, based on biographical stories orally
+relayed to the author as a child, that describes
+the development of traditions in a Black family
+(D) 	 a novel that explores the psychological aspects of
+a relationship between a White man and a Black
+man as they work together to organize protests
+against unjust working 	conditions
+(E) 	 a novel that examines the different ways in which
+three Black children experience their first day of
+school in a rural community
+7.	 The author would be most likely to agree with which
+one of the following statements about the relationship
+between art and literary criticism?
+(A) 	 The long‑term reputation of a work of art is less
+dependent on the response of literary critics
+than on the response of readers and authors.
+(B) 	 Experimental works of fiction are usually poorly
+received and misunderstood by literary critics
+when they are first published.
+(C) 	 The response of literary critics to a work of
+art can be determined by certain ideological
+perspectives and assumptions about the purpose
+of art.
+(D) 	 Literary critics do not significantly affect the way
+most people interpret and appreciate literature.
+(E) 	 The ideological bases of a work of art are the
+first consideration of most literary critics.
+8.	 The primary purpose of the passage is to
+(A) 	
+(B) 	
+(C) 	
+(D) 	
+(E) 	
+
+correct a misconception
+explain a reassessment
+reconcile two points of view
+criticize a conventional approach
+announce a new discovery
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4	
+
+4	
+	
+	
+	
+	
+(5)	
+	
+	
+(10)	
+	
+	
+	
+(15)	
+	
+	
+	
+(20)	
+	
+	
+(25)	
+	
+(30)	
+	
+	
+	
+	
+(35)	
+	
+	
+(40)	
+	
+	
+	
+(45)	
+	
+	
+	
+(50)	
+	
+	
+	
+	
+(55)	
+	
+
+4	
+
+	 Legal cases can be termed “hard” cases if they
+raise issues that are highly controversial, issues
+about which people with legal training disagree.
+The ongoing debate over the completeness of the
+law usually concerns the extent to which such hard
+cases are legally determinate, or decidable
+according to existing law.
+	 H. L. A. Hart’s The Concept of Law is still the
+clearest and most persuasive statement of both the
+standard theory of hard cases and the standard
+theory of law on which it rests. For Hart, the law
+consists of legal rules formulated in general terms;
+these terms he calls “open textured,” which means
+that they contain a “core” of settled meaning and a
+“penumbra” or “periphery” where their meaning is
+not determinate. For example, suppose an
+ordinance prohibits the use of vehicles in a park.
+“Vehicle” has a core of meaning which includes
+cars and motorcycles. But, Hart claims, other
+vehicles, such as bicycles, fall within the peripheral
+meaning of “vehicle,” so that the law does not
+establish whether they are prohibited. There will
+always be cases not covered by the core meaning of
+legal terms within existing laws; Hart considers
+these cases to be legally indeterminate. Since courts
+cannot decide such cases on legal grounds, they
+must consider nonlegal (for example, moral and
+political) grounds, and thereby exercise judicial
+discretion to make, rather than apply, law.
+	 In Ronald Dworkin’s view the law is richer than
+Hart would grant; he denies that the law consists
+solely of explicit rules. The law also includes
+principles that do not depend for their legal status
+on any prior official recognition or enactment.
+Dworkin claims that many cases illustrate the
+existence of legal principles that are different from
+legal rules and that Hart’s “model of rules” cannot
+accommodate. For Dworkin, legal rules apply in an
+all‑or‑nothing fashion, whereas legal principles do
+not: they provide the rationale for applying legal
+rules. Thus, because Dworkin thinks there is law in
+addition to legal rules, he thinks that legal
+indeterminacy and the need for judicial discretion
+do not follow from the existence of open texture in
+legal rules.
+	 It would be a mistake, though, to dispute Hart’s
+theory of hard cases on this basis alone. If Hart’s
+claim about the “open texture” of general terms is
+true, then we should expect to find legal
+indeterminacies even if the law consists of
+principles in addition to rules. Legal principles, as
+well as legal rules, contain general terms that have
+open texture. And it would be absurd to suppose
+that wherever the meaning of a legal rule is unclear,
+there is a legal principle with a clear meaning. Most
+interesting and controversial cases will occur in the
+penumbra of both rules and principles.
+
+4	
+
+4	
+
+9.	 Which one of the following best expresses the main
+idea of the passage?
+(A) 	 The law will never be complete because new 	
+situations will always arise which will require
+new laws to resolve them.
+(B) 	 The most difficult legal cases are those
+concerning controversial issues about which
+trained legal minds have differing opinions.
+(C) 	 The concept of legal principles does not diminish
+the usefulness of the concept of the open texture
+of general terms in deciding whether hard cases
+are legally determinate.
+(D) 	 The concept of legal principles is a deleterious
+addition to the theory of law since any flaws
+exhibited by legal rules could also be shared by
+legal principles.
+(E) 	 The inherent inconsistency of terms used in laws
+provides a continuing opportunity for judges to
+exercise their discretion to correct defects and
+gaps in the law.
+10.	 According to the passage, the term “legal principles” as
+used by Dworkin refers to
+(A) 	 a comprehensive code of ethics that governs the
+behavior of professionals in the legal system
+(B) 	 explicit analyses of the terms used in legal rules,
+indicating what meanings the terms do and do
+not cover
+(C) 	 legal doctrines that underlie and guide the use of
+accepted legal rules
+(D) 	 legal rules that have not yet passed through the
+entire legislative procedure necessary for 	them
+to become law
+(E) 	 the body of legal decisions regarding cases that
+required judicial discretion for their resolution
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4	
+
+4	
+
+4	
+
+11.	 Which one of the following expresses a view that
+the author of the passage would most probably hold
+concerning legal principles and legal rules?
+(A) 	 Legal rules are applied more often than legal
+principles when a case involves issues about
+which legal professionals disagree.
+(B) 	 Both legal rules and legal principles are officially
+recognized as valid parts of the law.
+(C) 	 Hart’s “model of rules” has been superseded by
+a “model of principles” that sheds light on legal
+determinacy.
+(D) 	 Legal principles are just as likely as legal rules
+to have terms that have both core and peripheral
+meanings.
+(E) 	 Legal principles eliminate the need for judicial
+discretion in resolving the problems generated
+by the open texture of legal rules.
+12.	 In the passage, the author uses the example of the word
+“vehicle” to
+(A) 	 illustrate a legal rule that necessarily has
+exceptions
+(B) 	 show how legal principles are applied in the
+construction of legal rules
+(C) 	 represent the core of settled meaning of a legal
+term
+(D) 	 serve as an example of a legal term with both a
+core and a periphery of meaning
+(E) 	 provide a counterexample to Hart’s concept of
+the open texture of legal terms
+13.	 It can be inferred that the author of the passage regards
+Hart’s theory of hard cases and the theory of standard
+law as
+	
+(A) 	 exhaustive
+(B) 	 worthy of respect
+(C) 	 interesting but impractical
+(D) 	 plausible but unwieldy
+(E) 	 hopelessly outmoded
+
+4	
+
+4	
+
+14.	 Which one of the following is true of the term “legally
+determinate” (line 6) as it is used in the passage?
+(A) 	 It represents the idea that every crime should 	
+have a fixed penalty rather than a range of 	
+penalties within which a judge can make an 	
+arbitrary choice.
+(B) 	 It refers to a legal case that can be definitively 	
+resolved in favor of one side or the other 		
+according to the law in effect at the time.
+(C) 	 It describes a legal rule that requires judges to 	
+limit their actions to applying written law when 	
+deciding cases over which people with legal 	
+training disagree.
+(D) 	 It refers to any legal case that involves terms 	
+with imprecise meanings and thus relies for its 	
+resolution only on the determination of judges.
+(E) 	 It refers to procedures for determining the legal 	
+outcome of complex issues in difficult cases.
+15.	 In the passage, the author is primarily concerned with
+(A) 	 outlining the problems that might be faced by a
+legislature attempting to create a complete body 	
+of law that would prevent judges from making 	
+rather than applying the law
+(B) 	 justifying the idea that “hard” cases will always 	
+exist in the practice of law, no matter what laws 	
+are written or how they are applied
+(C) 	 presenting evidence to support Dworkin’s idea
+	
+	 that legal rules apply in an all‑or‑nothing 		
+fashion, whereas legal principles apply in more 	
+sophisticated ways
+(D) 	 critiquing the concept of the open texture of legal 	
+terms as a conceptual flaw in Hart’s otherwise 	
+well‑regarded book
+(E) 	 demonstrating that Dworkin’s concept of legal
+	
+	 principles does not form the basis for a 	 	
+successful attack on Hart’s theory of legally 	
+indeterminate cases
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4	
+
+4	
+	
+	
+(5)	
+	
+	
+(10)	
+	
+	
+(15)	
+	
+	
+	
+(20)	
+	
+	
+(25)	
+	
+	
+(30)	
+	
+
+(35)	
+	
+	
+	
+(40)	
+	
+	
+	
+	
+(45)	
+	
+	
+(50)	
+	
+
+(55)	
+	
+
+4	
+
+	 One way governments can decrease air pollution
+is to impose a tax on industrial carbon dioxide
+emissions. But why should governments consider a
+carbon tax when they could control emissions by
+establishing energy efficiency and conservation
+standards, by legislating against coal use, or by
+increasing investment in nuclear power? The great
+virtue of such a tax is that it would provide
+incentives for industry to achieve emission
+reductions. Because oil emits more carbon dioxide
+per unit of energy generated than does natural gas,
+and coal more than oil, a carbon tax would vary with
+the type of fuel. Such a tax would induce industry to
+substitute less‑polluting fuels for those carrying a
+higher tax, and also to reduce the total use of
+energy.
+	 However, it is not clear how high such a tax
+should be or what its economic and environmental
+implications would be. At first glance, it is not
+difficult to estimate roughly the size of the tax
+needed to effect a given level of emission reduction.
+One writer estimates, for example, that a tax of 41
+percent on the price of coal, 33 percent on oil, and
+25 percent on gas would reduce the United
+Kingdom’s emissions by 20 percent (using 1988 as
+the base year) by the year 2005, the target
+recommended by the 1988 Toronto Conference. It
+should be noted, however, that these numbers
+ignore the effect of the tax on economic growth, and
+hence on emissions, and assume that past responses
+to a price rise will be replicated in the future. These
+numbers are also based on the assumption that all
+countries will behave cooperatively in imposing a
+carbon tax.
+	 There are very strong reasons to believe that
+cooperation would be difficult to win. If most
+countries cooperated, then any country that chose
+not to cooperate would be advantaged: it would
+have no abatement costs, and the effect on the
+environment of its defection would be relatively
+small. Because of this “free rider” effect,
+cooperation on a scale needed to reduce carbon
+dioxide emissions might prove elusive.
+	 Should countries act unilaterally to curb
+emissions? If a country were to act unilaterally, the
+benefits would be spread across the globe, whereas
+the costs would fall solely on the country taking the
+action. The action would reduce emissions globally,
+and the effect of this would be to reduce the benefit
+other countries would receive if they reduced
+emissions. As a consequence, other countries would
+have less incentive to reduce emissions and would
+probably emit more carbon dioxide than they would
+have if the unilateral action had not been taken.
+The entire effect of the emission reduction may not
+be lost, but it would surely be diminished by this
+free‑riding behavior.
+
+4	
+
+4	
+
+16.	 According to the passage, the size of the carbon tax
+levied on a given fuel would vary with the
+(A) 	 amount of that fuel used by a particular 	 	
+industry
+(B) 	 amount of pollution caused by the fuel being 	
+taxed
+(C) 	 size of the industries using the fuel being 	 	
+taxed
+(D) 	 effect that the tax would have on a country’s 	
+economy
+(E) 	 number of users of a particular fuel at a 	 	
+particular time
+17.	 The author mentions the estimates of “One writer” (line
+22) primarily in order to
+(A) 	 indicate in a general way the size that a 	 	
+carbon tax must be for it to be effective
+(B) 	 provide the most accurate information 	 	
+available about the most practical size for a 	
+carbon tax
+(C) 	 suggest that the target recommended by the 	
+1988 Toronto Conference is an unrealistic one
+(D) 	 undermine the argument that a carbon tax 		
+would provide incentives for users to 	 	
+achieve emissions reductions
+(E) 	 show how the size of an effective carbon tax 	
+can be calculated
+18.	 Which one of the following circumstances would most
+seriously undermine the conclusion “Such a tax would
+induce industry to substitute less‑polluting fuels for
+those carrying a higher tax” (lines 13‑15)?
+(A) 	 The fuel taxed at the highest rate costs 	 	
+considerably less to buy than fuels taxed at 	
+lower rates.
+(B) 	 The goal set by the Toronto Conference 	 	
+cannot be reached unless each fuel is taxed 	
+at a much higher rate.
+(C) 	 The tax on coal represents a much greater cost 	
+increase than does the tax on oil or gas.
+(D) 	 It is discovered that gas produces even less 	
+carbon dioxide per unit of energy generated 	
+than was previously thought.
+(E) 	 It is discovered that coal produces even more 	
+carbon dioxide per unit of energy generated 	
+than was previously thought.
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4	
+
+4	
+
+4	
+
+19.	 The passage is primarily intended to answer which one
+of the following questions?
+(A) 	 How high a tax should a country’s government
+impose on carbon dioxide emissions?
+(B) 	 What issues should a country’s government
+consider before deciding whether to impose a
+tax on carbon dioxide emissions?
+(C) 	 What assumptions underlie a country’s decision
+to impose a tax on carbon dioxide emissions?
+(D) 	 How can the effects of industrial pollution on the
+Earth’s atmosphere be decreased?
+(E) 	 What can be done to increase the effectiveness
+of any tax that a country imposes on carbon
+dioxide emissions?
+20.	 In response to the question, “Should countries act
+unilaterally to curb emissions?” (lines 44‑45), the
+author would be most likely to contend that a country
+should
+(A) 	 not act unilaterally because, although that
+country would receive some benefits from such
+action, other countries would most likely be
+harmed by it
+(B) 	 not act unilaterally because unilateral action 	
+would have no benefits for other countries
+(C) 	 not act unilaterally because the cost o that 	
+country would not be justified by the limited
+effect that such action would have on industrial
+pollution worldwide
+(D) 	 act unilaterally because that country’s economy
+would benefit from the resulting reduction in
+industrial emissions worldwide
+(E) 	 act unilaterally because other countries might
+well be inspired to follow that country’s
+example
+
+4	
+
+4	
+
+21.	 Which one of the following is most parallel to the “free
+rider” effect mentioned in line 41?
+(A) 	 An industry agrees to base itself in a city where
+there has been little industrial development only
+if the city will rezone the specific property the
+industry desires.
+(B) 	 Because fares for public transportation are rising,
+a commuter decides to bicycle to work rather
+than to use public transportation in a city where
+auto emissions are a problem.
+(C) 	 An apartment dweller begins to recycle
+newspapers even though no one else in the
+building does so and recycling is not required
+by law.
+(D) 	 In an area where groundwater has become
+polluted, a homeowner continues to buy bottled
+water rather than contribute to a neighborhood
+fund to combat pollution.
+(E) 	 In an area where overgrazing is a severe problem,
+a shepherd allows his sheep to continue grazing
+common fields even though his neighbors
+have agreed to buy feed for their animals until
+regrowth occurs.
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4	
+
+4	
+	
+	
+	
+	
+(5)	
+	
+	
+(10)	
+	
+	
+	
+	
+(15)	
+	
+	
+	
+	
+(20)	
+	
+	
+(25)	
+	
+	
+(30)	
+	
+	
+	
+(35)	
+	
+	
+(40)	
+
+	
+(45)	
+	
+	
+	
+	
+(50)	
+	
+	
+	
+(55)	
+	
+	
+	
+	
+
+4	
+
+	 Some meteorologists have insisted that the
+severity of the drought in sub‑Saharan West Africa
+and its long duration (nearly 40 years to date) must
+be a sign of a long‑term alteration in climate.
+Among the theories proposed to explain this
+change, one hypothesis that has gained widespread
+attention attributes the drought to a cooling of the
+Northern Hemisphere. This hypothesis is based on
+the fact that, between 1945 and the early 1970s, the
+average annual air temperatures over the
+landmasses of the Northern Hemisphere decreased
+by about half a degree Fahrenheit (approximately
+one quarter of a degree Celsius—a small but
+significant amount). Several meteorologists have
+suggested that this cooling was caused by an
+increase in atmospheric dust emanating from
+volcanic eruptions and from urban and industrial
+pollution; the dust reflected incoming sunlight,
+causing the ground to receive less solar radiation
+and to transfer less heat to the atmosphere. The
+cooling seemed to be more pronounced in the
+middle and high latitudes than in the tropics, an
+observation that is consistent with the fact that the
+Sun’s rays enter the atmosphere at a greater angle
+farther north, and so have to pass through more
+dust‑laden atmosphere on the way to the Earth.
+	 Since winds are set in motion by differences in
+air pressure caused by unequal heating of the
+atmosphere, supporters of the cooling hypothesis
+have argued that a growing temperature differential
+between the unusually cool middle and high
+latitudes and the warm tropical latitudes is causing
+a southward expansion of the circumpolar
+vortex—the high‑altitude westerly winds that circle
+the Northern Hemisphere at middle latitudes.
+According to this hypothesis, as the circumpolar
+vortex expands, it forces south other components of
+large‑scale atmospheric circulation and, in effect,
+displaces the northward‑moving monsoon that
+ordinarily brings sub‑Saharan rain. Proponents
+have further argued that this change in atmospheric
+circulation might be long‑term since cooling in the
+Northern Hemisphere could be perpetuated by
+increases in ice and snow coverage there, which
+would lead to reflection of more sunlight away from
+the Earth, to further cooling, and, indirectly, to
+further drought in sub‑Saharan West Africa.
+	 Despite these dire predictions, and even though
+the current African drought has lasted longer than
+any other in this century, the notion that the
+drought is caused by cooling of the Northern
+Hemisphere is, in fact, not well supported. Contrary
+to the predictions of the cooling hypothesis, during
+one period of rapid Northern Hemisphere cooling
+in the early 1950s, the sub‑Sahara was unusually
+rainy. Moreover, in the early 1980s, when the
+drought was particularly severe, Northern
+Hemisphere lands actually warmed slightly. And
+further doubt has been cast on the hypothesis by
+
+4	
+
+4	
+
+(60)	 recent analyses suggesting that, when surface
+temperatures of water as well as land are taken into
+account, the Northern Hemisphere may not have
+	
+cooled at all.
+22.	 Which one of the following best expresses the main
+idea of the passage?
+(A) 	 There is strong evidence to support the theory 	
+that an increase in atmospheric dust has 	 	
+contributed to the severity of the drought in 	
+sub‑Saharan West Africa.
+(B) 	 The suggestion that Northern Hemisphere 	
+cooling is contributing to a decline of rainfall in 	
+sub‑Saharan West Africa is open to question.
+(C) 	 The expansion of the circumpolar vortex has
+caused a dramatic shift in the atmospheric
+circulation patterns above sub‑Saharan West
+Africa.
+(D) 	 The drought in sub‑Saharan West Africa
+represents a long‑term, permanent alteration in
+global climate patterns.
+(E) 	 Meteorologists cannot determine when the
+drought in sub‑Saharan West Africa is likely to
+end.
+23.	 The author’s attitude toward the cooling hypothesis is
+best described as one of
+(A) 	 vehement opposition
+(B) 	 cautious skepticism
+(C) 	 growing ambivalence
+(D) 	 guarded enthusiasm
+(E) 	 strong support
+	
+	
+	
+	
+	
+24.	 According to the passage, proponents of the cooling
+hypothesis suggested that the circumpolar vortex is
+likely to expand when which one of the following
+occurs?
+(A) 	 The average annual atmospheric temperature of
+the tropics is significantly higher than normal
+for an extended period of time.
+(B) 	 The average annual snowfall in the Northern
+Hemisphere is lower than normal for an
+extended period of time.
+(C) 	 The average annual surface temperature of
+Northern Hemisphere waters is higher than the
+average annual surface temperature of Northern
+Hemisphere landmasses.
+(D) 	 There is a significant increase in the difference
+between the average annual atmospheric
+temperature of the tropics and that of the more
+northern latitudes.
+(E) 	 There is a significant increase in the difference
+between the average annual atmospheric
+temperatures of the middle and the high 	
+latitudes in the Northern Hemisphere.
+GO ON TO THE NEXT PAGE.
+
+4
+
+4	
+
+4	
+
+4	
+
+25.	 Which one of the following can be inferred from the
+passage about the average annual temperature of the air
+over Northern Hemisphere landmasses before 1945?
+(A) 	 It was higher than it was between 1945 and the
+early 1970s.
+(B) 	 It was lower than it was during the early 1980s.
+(C) 	 It was the same as it was between 1945 and 	
+the early 1970s.
+(D) 	 It was the same as the annual average surface
+temperature of Northern Hemisphere
+landmasses and bodies of water between 1945
+and the early 1970s.
+(E) 	 It was higher than the annual average surface
+temperature of Northern Hemisphere
+landmasses and bodies of water between 1945
+and the early 1970s.
+26.	 Which one of the following best describes the
+organization of the passage?
+
+4	
+
+4	
+
+27.	 A proponent of the cooling hypothesis would most
+likely argue that the return of the monsoon rains to
+sub‑Saharan West Africa would indicate that which one
+of the following has also occurred?
+(A) 	 The amount of ice and snow coverage over the
+landmasses of the Northern Hemisphere has
+increased.
+(B) 	 The average annual temperature of the
+atmosphere over the middle and high latitudes
+of the Northern Hemisphere has decreased.
+(C) 	 The average annual temperature of the 	
+atmosphere over the tropics in the Northern
+Hemisphere has increased.
+(D) 	 Other components of large‑scale atmospheric
+circulation, besides the circumpolar vortex, have
+expanded and moved southward.
+(E) 	 The atmospheric circulation pattern of the 	
+high‑altitude westerly winds has resumed its
+normal pattern.
+
+(A) 	 Opposing points of view are presented, evidence
+supporting each point of view is discussed,
+and then one point of view is developed into a
+formal hypothesis.
+(B) 	 A theory is discussed, and different points of
+view about the theory are discussed, supported,
+and then reconciled.
+(C) 	 A hypothesis is proposed, contradictory evidence
+is discussed, and then the hypothesis is
+amended.
+(D) 	 A theory explaining a phenomenon is proposed,
+supporting evidence is considered, and then the
+theory is disputed.
+(E) 	 A point of view is presented, a theory supporting
+the view is proposed, contradictory evidence
+is presented, and then a different theory is
+proposed.
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+4
+
+Computing Your Score
+
+Directions:
+1.	 Use the Answer Key on the next page to check your
+	 answers.
+2. 	 Use the Scoring Worksheet below to compute your
+	 raw score.
+3. 	 Use the Score Conversion Chart to convert your
+	 raw score into the 120-180 scale.
+Scoring Worksheet
+1. 	 Enter the number of questions you answered
+	 correctly in each section.
+Number
+Correct
+	
+	
+	
+	
+
+SECTION I.	.	 .	 .	 .	
+SECTION II	.	 .	 .	 .	
+SECTION III.	.	 .	 .	
+SECTION IV.	 .	 .	 .	
+
+2. 	 Enter the sum here:	
+	
+	 	 	 	
+	 	 	 	 This is your Raw Score.
+
+Conversion Chart:
+For Converting Raw Score to the 120-180 LSAT
+Scaled Score
+LSAT Forms 5LSS24 AND S5LSS24
+    Reported	
+	
+Score 	
+180
+179
+178
+177
+176
+175
+174
+173
+172
+171
+170
+169
+168
+167
+166
+165
+164
+163
+162
+161
+160
+159
+158
+157
+156
+155
+154
+153
+152
+151
+150
+149
+148
+147
+146
+145
+144
+143
+142
+141
+140
+139
+138
+137
+136
+135
+134
+133
+132
+131
+130
+129
+128
+127
+126
+125
+124
+123
+122
+121
+120
+
+	
+Raw Score
+Lowest 	
+98
+97
+95
+94
+93
+92
+91
+90
+89
+88
+86
+85
+84
+82
+81
+79
+78
+76
+75
+73
+72
+70
+69
+67
+65
+64
+62
+60
+58
+57
+55
+54
+52
+50
+49
+47
+46
+44
+42
+41
+39
+38
+36
+35
+33
+32
+30
+29
+28
+27
+26
+24
+23
+22
+21
+20
+19
+18
+17
+16
+0
+
+Highest	
+101
+97
+96
+94
+93
+92
+91
+90
+89
+88
+87
+85
+84
+83
+81
+80
+78
+77
+75
+74
+72
+71
+69
+68
+66
+64
+63
+61
+59
+58
+56
+54
+53
+51
+49
+48
+46
+45
+43
+41
+40
+38
+37
+35
+34
+32
+31
+29
+28
+27
+26
+25
+23
+22
+21
+20
+19
+18
+17
+16
+15
+
+Answer Key
+
+SECTION I
+	
+	
+	
+	
+	
+	
+	
+
+1.  E		
+2.  E		
+3.  B		
+4.  B		
+5.  D		
+6.  D		
+7.  C		
+
+8.	
+9.	
+10.	
+11.	
+12.	
+13.	
+14.	
+
+B	
+E	
+E	
+E	
+B	
+E	
+D	
+
+	
+	
+	
+	
+	
+	
+	
+
+15.	
+16.	
+17.	
+18.	
+19.	
+20.	
+21.	
+
+D	
+B	
+B	
+A	
+D	
+E	
+C	
+
+22.	 C	
+23.	 B	
+24.	 B	
+
+A	
+B	
+B	
+D	
+E	
+B	
+C	
+
+22.	
+23.	
+24.	
+25.	
+
+D	
+C	
+A	
+D	
+
+B	
+A	
+B	
+E	
+E	
+A	
+A	
+
+22.	
+23.	
+24.	
+25.	
+
+E	
+C	
+E	
+E	
+
+E	
+B	
+A	
+A	
+B	
+C	
+E	
+
+22.	
+23.	
+24.	
+25.	
+26.	
+27.	
+	
+
+B	
+B	
+D	
+A	
+D	
+E	
+	
+
+SECTION II
+	
+	
+	
+	
+	
+	
+	
+
+1.	
+2.	
+3.	
+4.	
+5.	
+6.	
+7.	
+
+B	
+E	
+C	
+E	
+D	
+D	
+C	
+
+8.	
+9.	
+10.	
+11.	
+12.	
+13.	
+14.	
+
+B	
+A	
+A	
+E	
+C	
+A	
+C	
+
+	
+	
+	
+	
+	
+	
+	
+
+15.	
+16.	
+17.	
+18.	
+19.	
+20.	
+21.	
+
+	
+
+SECTION III
+	
+	
+	
+	
+	
+	
+	
+
+1.	
+2.	
+3.	
+4.	
+5.	
+6.	
+7.	
+
+B	
+D	
+D	
+D	
+E	
+E	
+C	
+
+8.	
+9.	
+10.	
+11.	
+12.	
+13.	
+14.	
+
+A	
+D	
+D	
+B	
+D	
+D	
+E	
+
+	
+	
+	
+	
+	
+	
+	
+
+15.	
+16.	
+17.	
+18.	
+19.	
+20.	
+21.	
+
+SECTION IV
+	
+	
+	
+	
+	
+	
+	
+
+1.	
+2.	
+3.	
+4.	
+5.	
+6.	
+7.	
+
+E	
+B	
+C	
+E	
+C	
+B	
+C	
+
+8.	
+9.	
+10.	
+11.	
+12.	
+13.	
+14.	
+
+B	
+C	
+C	
+D	
+D	
+B	
+B	
+
+	
+	
+	
+	
+	
+	
+	
+
+15.	
+16.	
+17.	
+18.	
+19.	
+20.	
+21.	
+
+	
+
+	
+
+

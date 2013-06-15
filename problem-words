@@ -1,0 +1,7 @@
+voltage (occurs just once in 'high-voltage' in preptest 52, so it gets messed up by any regex starting with a ^)
+resent (if you take out the ^ ugh, it shows up in "present")
+mere (problem with the x in there...)
+
+warehouse v versus n
+pass ("muster" or "inspection") that connotation isn't going to show up in lemma.num
+sap v versus sap n

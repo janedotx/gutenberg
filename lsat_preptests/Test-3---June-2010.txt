@@ -1,0 +1,6962 @@
+The June 2010 LSAT
+Section I....................................35 minutes
+Section II...................................35 minutes
+Section III..................................35 minutes
+Section IV..................................35 minutes
+Section V...................................35 minutes
+
+Test 3
+
+The test begins on the next page.
+
+1	
+
+			 1
+
+1	
+SECTION I
+Time—35 minutes
+25 Questions
+
+Directions: The questions in this section are based on the reasoning contained in brief statements or passages. For some questions,
+more than one of the choices could conceivably answer the question. However, you are to choose the best answer; that is, the response
+that most accurately and completely answers the question. You should not make assumptions that are by commonsense standards
+implausible, superfluous, or incompatible with the passage. After you have chosen the best answer, blacken the corresponding space
+on your answer sheet.
+1.	 Jim’s teacher asked him to determine whether a sample
+of a substance contained iron. Jim knew that magnets
+attract iron, so he placed a magnet near the substance.
+Jim concluded that the substance did contain iron,
+because the substance became attached to the magnet.
+	
+
+Jim’s reasoning is questionable in that it fails to
+consider the possibility that
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+iron sometimes fails to be attracted to magnets
+iron is attracted to other objects besides magnets
+the magnet needed to be oriented in a certain
+way
+magnets attract substances other than iron
+some magnets attract iron more strongly than
+others
+
+2.	 All the books in the library have their proper shelf
+locations recorded in the catalog. The book Horatio
+wants is missing from its place on the library shelves,
+and no one in the library is using it. Since it is not
+checked out to a borrower nor awaiting shelving nor
+part of a special display, it must have been either
+misplaced or stolen.
+
+Test 3
+
+	
+
+Which one of the following most accurately describes
+the method of reasoning used in the argument?
+(A)	
+(B)	
+(C)	
+
+(D)	
+(E)	
+
+An observation about one object is used as a
+basis for a general conclusion regarding the
+status of similar objects.
+A deficiency in a system is isolated by arguing
+that the system failed to control one of the
+objects that it was intended to control.
+A conclusion about a particular object is rebutted
+by observing that a generalization that applies to
+most such objects does not apply to the object
+in question.
+A generalization is rejected by showing that it
+fails to hold in one particular instance.
+The conclusion is supported by ruling out other
+possible explanations of an observed fact.
+
+3.	 The level of sulfur dioxide in the atmosphere is slightly
+higher than it was ten years ago. This increase is
+troubling because ten years ago the Interior Ministry
+imposed new, stricter regulations on emissions from
+coal-burning power plants. If these regulations had
+been followed, then the level of sulfur dioxide in the
+atmosphere would have decreased.
+	
+	
+Which one of the following can be properly inferred
+from the statements above?
+(A)	
+
+(B)	
+(C)	
+
+(D)	
+(E)	
+
+If current regulations on emissions from coalburning power plants are not followed from
+now on, then the level of sulfur dioxide in the
+atmosphere will continue to increase.
+There have been violations of the regulations on
+emissions from coal-burning power plants that
+were imposed ten years ago.
+If the regulations on emissions from coal-burning
+power plants are made even stronger, the level
+of sulfur dioxide in the atmosphere still will not
+decrease.
+Emissions from coal-burning power plants are
+one of the main sources of air pollution.
+Government regulations will never reduce the
+level of sulfur dioxide in the atmosphere.
+
+GO ON TO THE NEXT PAGE.
+
+1	
+
+			 1
+
+1	
+4.	 Ecologist: Landfills are generally designed to hold ten
+years’ worth of waste. Some people maintain that
+as the number of active landfills consequently
+dwindles over the coming decade, there will
+inevitably be a crisis in landfill availability.
+However, their prediction obviously relies on
+the unlikely assumption that no new landfills
+will open as currently active ones close and is
+therefore unsound.
+
+6.	 After an oil spill, rehabilitation centers were set up to
+save sea otters by removing oil from them. The effort
+was not worthwhile, however, since 357 affected live
+otters and 900 that had died were counted, but only 222
+affected otters, or 18 percent of those counted, were
+successfully rehabilitated and survived. Further, the
+percentage of all those affected that were successfully
+rehabilitated was much lower still, because only a fifth
+of the otters that died immediately were ever found.
+
+	
+
+	
+
+The claim that there will be a crisis in landfill
+availability plays which one of the following roles in
+the ecologist’s argument?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+It follows from the claim stated in the argument’s
+first sentence.
+It is the main conclusion of the argument.
+It establishes the truth of the argument’s
+conclusion.
+It is a claim on which the argument as a whole is
+designed to cast doubt.
+It is an intermediate conclusion of the argument.
+
+Which one of the following, as potential challenges,
+most seriously calls into question evidence offered in
+support of the conclusion above?
+(A)	
+(B)	
+(C)	
+(D)	
+
+5.	 Recent epidemiological studies report that Country X
+has the lowest incidence of disease P of any country.
+Nevertheless, residents of Country X who are reported
+to have contracted disease P are much more likely to die
+from it than are residents of any other country.
+	
+
+Which one of the following, if true, most helps to
+resolve the apparent discrepancy described above?
+(A)	
+(B)	
+(C)	
+
+(E)	
+
+7.	 Psychologist: Research has shown that a weakened
+immune system increases vulnerability to cancer.
+So, cancer-patient support groups, though
+derided by those who believe that disease is a
+purely biochemical phenomenon, may indeed
+have genuine therapeutic value, as it is clear that
+participation in such groups reduces participants’
+stress levels.
+	
+
+Which one of the following is an assumption required
+by the psychologist’s argument?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+Cancer patients can learn to function well under
+extreme stress.
+Disease is not a biochemical phenomenon at all.
+Stress can weaken the immune system.
+Discussing one’s condition eliminates the stress
+of being in that condition.
+Stress is a symptom of a weakened immune
+system.
+
+GO ON TO THE NEXT PAGE.
+
+Test 3
+
+(D)	
+
+There are several forms of disease P, some of
+which are more contagious than others.
+Most of the fatal cases of disease P found in
+Country X involve people who do not reside in
+Country X.
+In Country X, diagnosis of disease P seldom
+occurs except in the most severe cases of the
+disease.
+The number of cases of disease P that occur in
+any country fluctuates widely from year to year.
+Because of its climate, more potentially fatal
+illnesses occur in Country X than in many other
+countries.
+
+(E)	
+
+Do sea otters of species other than those
+represented among the otters counted exist in
+areas that were not affected by the oil spill?
+How is it possible to estimate, of the sea otters
+that died, how many were not found?
+Did the process of capturing sea otters
+unavoidably involve trapping and releasing
+some otters that were not affected by the spill?
+Were other species of wildlife besides sea otters
+negatively affected by the oil spill?
+What was the eventual cost, per otter
+rehabilitated, of the rehabilitation operation?
+
+1	
+8.	 Adobe is an ideal material for building in desert
+environments. It conducts heat very slowly. As a result,
+a house built of adobe retains the warmth of the desert
+sun during the cool evenings and then remains cool
+during the heat of the day, thereby helping to maintain a
+pleasant temperature. In contrast, houses built of other
+commonly used building materials, which conduct heat
+more rapidly, grow hot during the day and cold at night.
+
+10. 	Letter to the editor: Sites are needed for disposal of
+contaminated dredge spoils from the local harbor.
+However, the approach you propose would
+damage commercial fishing operations. One
+indication of this is that over 20,000 people have
+signed petitions opposing your approach and
+favoring instead the use of sand-capped pits in
+another area.
+
+	
+
+	
+
+Which one of the following most accurately expresses
+the main conclusion drawn in the argument above?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+Adobe is a suitable substitute for other building
+materials where the heat-conduction properties
+of the structure are especially important.
+In the desert, adobe buildings remain cool during
+the heat of the day but retain the warmth of the
+sun during the cool evenings.
+Because adobe conducts heat very slowly,
+adobe houses maintain a pleasant, constant
+temperature.
+Ideally, a material used for building houses in
+desert environments should enable those houses
+to maintain a pleasant, constant temperature.
+Adobe is an especially suitable material to use
+for building houses in desert environments.
+
+9. 	 In one study of a particular plant species, 70 percent
+of the plants studied were reported as having patterned
+stems. In a second study, which covered approximately
+the same geographical area, only 40 percent of the
+plants of that species were reported as having patterned
+stems.
+	
+
+Which one of the following, if true, most helps to
+resolve the apparent discrepancy described above?
+(A)	
+
+Test 3
+
+			 1
+
+1	
+
+(B)	
+(C)	
+(D)	
+(E)	
+
+The first study was carried out at the time of
+year when plants of the species are at their most
+populous.
+The first study, but not the second study, also
+collected information about patterned stems in
+other plant species.
+The second study included approximately 15
+percent more individual plants than the first
+study did.
+The first study used a broader definition of
+“patterned.”
+The focus of the second study was patterned
+stems, while the first study collected
+information about patterned stems only as a
+secondary goal.
+
+Which one of the following most accurately describes a
+reasoning flaw in the letter’s argument?
+(A)	
+(B)	
+(C)	
+
+(D)	
+(E)	
+
+The argument distorts the editor’s view in
+a manner that makes that view seem more
+vulnerable to criticism.
+The argument fails to establish that the
+alternative approach referred to is a viable one.
+The argument attempts to establish a particular
+conclusion because doing so is in the letter
+writer’s self-interest rather than because of any
+genuine concern for the truth of the matter.
+The argument’s conclusion is based on the
+testimony of people who have not been shown
+to have appropriate expertise.
+The argument takes for granted that no third
+option is available that will satisfy all the
+interested parties.
+
+GO ON TO THE NEXT PAGE.
+
+1	
+
+			 1
+
+1	
+11.	 Most universities today offer students a more in-depth
+and cosmopolitan education than ever before. Until
+recently, for example, most university history courses
+required only the reading of textbooks that hardly
+mentioned the history of Africa or Asia after the ancient
+periods, or the history of the Americas’ indigenous
+cultures. The history courses at most universities no
+longer display such limitations.
+	
+
+	
+
+Which one of the following, if true, most strengthens
+the argument above?
+(A)	
+(B)	
+
+(C)	
+
+(D)	
+
+(E)	
+
+The history courses that university students find
+most interesting are comprehensive in their
+coverage of various periods and cultures.
+Many students at universities whose history
+courses require the reading of books covering
+all periods and world cultures participate in
+innovative study-abroad programs.
+The extent to which the textbooks of university
+history courses are culturally inclusive is a
+strong indication of the extent to which students
+at those universities get an in-depth and
+cosmopolitan education.
+Universities at which the history courses are
+quite culturally inclusive do not always have
+courses in other subject areas that show the
+same inclusiveness.
+University students who in their history courses
+are required only to read textbooks covering
+the history of a single culture will not get an
+in-depth and cosmopolitan education from these
+courses alone.
+
+The reasoning in the argument is most vulnerable to
+criticism on the grounds that it
+(A)	
+
+(B)	
+(C)	
+(D)	
+
+(E)	
+
+fails to consider that, even if the reports are
+incomplete, they may nevertheless provide the
+public with important information about airline
+safety
+presumes, without providing justification, that
+the public has a right to all information about
+matters of public safety
+presumes, without providing justification, that
+information about airline safety is impossible to
+find in the absence of government disclosures
+presumes, without providing justification, that
+airlines, rather than the government, should be
+held responsible for accurate reporting of safety
+information
+fails to consider whether the publication of
+airline safety statistics will have an effect on the
+revenues of airlines
+
+Which one of the following, if true, most weakens the
+argument?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+Even high wages do not enable people to obtain
+all the goods they desire.
+In many surveys, people say that they would
+prefer a high-wage job to an otherwise identical
+job with lower wages.
+Jobs that pay the same salary often vary
+considerably in their other financial benefits.
+Many people enjoy the challenge of a difficult
+job, as long as they feel that their efforts are
+appreciated.
+Some people are not aware that jobs with high
+salaries typically leave very little time for
+recreation.
+
+14.	 Editorial: A proposed new law would limit elementary
+school class sizes to a maximum of 20 students.
+Most parents support this measure and argue that
+making classes smaller allows teachers to devote
+more time to each student, with the result that
+students become more engaged in the learning
+process. However, researchers who conducted a
+recent study conclude from their results that this
+reasoning is questionable. The researchers studied
+schools that had undergone recent reductions in
+class size, and found that despite an increase in
+the amount of time teachers spent individually
+with students, the students’ average grades were
+unchanged.
+	
+
+Which one of the following is an assumption required
+by the researchers’ argument?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+The only schools appropriate for study are large
+elementary schools.
+Teachers generally devote the same amount of
+individualized attention to each student in a
+class.
+Reductions in class size would also involve a
+decrease in the number of teachers.
+Degree of student engagement in the learning
+process correlates well with students’ average
+grades.
+Parental support for the proposed law rests
+solely on expectations of increased student
+engagement in the learning process.
+
+GO ON TO THE NEXT PAGE.
+
+Test 3
+
+12.	 The government has recently adopted a policy of
+publishing airline statistics, including statistics about
+each airline’s number of near collisions and its fines
+for safety violations. However, such disclosure actually
+undermines the government’s goal of making the public
+more informed about airline safety, because airlines
+will be much less likely to give complete reports if such
+information will be made available to the public.
+	
+
+13.	 Many economists claim that financial rewards provide
+the strongest incentive for people to choose one job
+over another. But in many surveys, most people do
+not name high salary as the most desirable feature of a
+job. This shows that these economists overestimate the
+degree to which people are motivated by money in their
+job choices.
+
+1	
+15.	 Camille: Manufacturers of water-saving faucets
+exaggerate the amount of money such faucets
+can save. Because the faucets handle such a low
+volume of water, people using them often let the
+water run longer than they would otherwise.
+	
+
+	
+
+Rebecca: It is true that showering now takes longer.
+Nevertheless, I have had lower water bills since I
+installed a water-saving faucet. Thus, it is not true
+that the manufacturers’ claims are exaggerated.
+The reasoning in Rebecca’s argument is questionable in
+that she takes for granted that
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+the cost of installing her water-saving faucet was
+less than her overall savings on her water bill
+she saved as much on her water bills as the
+manufacturers’ claims suggested she would
+the manufacturers’ claims about the savings
+expected from the installation of water-saving
+faucets are consistent with one another
+people who use water-saving faucets are satisfied
+with the low volume of water handled by such
+faucets
+installing more water-saving faucets in her house
+would increase her savings
+
+16.	 Company spokesperson: In lieu of redesigning our
+plants, our company recently launched an
+environmental protection campaign to buy and
+dispose of old cars, which are generally highly
+pollutive. Our plants account for just 4 percent
+of the local air pollution, while automobiles that
+predate 1980 account for 30 percent. Clearly, we
+will reduce air pollution more by buying old cars
+than we would by redesigning our plants.
+	
+
+Test 3
+
+			 1
+
+1	
+
+Which one of the following, if true, most seriously
+weakens the company spokesperson’s argument?
+(A)	
+(B)	
+
+(C)	
+(D)	
+(E)	
+
+Only 1 percent of the automobiles driven in the
+local area predate 1980.
+It would cost the company over $3 million to
+reduce its plants’ toxic emissions, while its carbuying campaign will save the company money
+by providing it with reusable scrap metal.
+Because the company pays only scrap metal
+prices for used cars, almost none of the cars
+sold to the company still run.
+Automobiles made after 1980 account for over
+30 percent of local air pollution.
+Since the company launched its car-buying
+campaign, the number of citizen groups filing
+complaints about pollution from the company’s
+plants has decreased.
+
+17.	 Humankind would not have survived, as it clearly has,
+if our ancestors had not been motivated by the desire to
+sacrifice themselves when doing so would ensure the
+survival of their children or other close relatives. But
+since even this kind of sacrifice is a form of altruism,
+it follows that our ancestors were at least partially
+altruistic.
+	
+
+Which one of the following arguments is most similar
+in its reasoning to the argument above?
+(A)	
+
+(B)	
+
+(C)	
+
+(D)	
+
+(E)	
+
+Students do not raise their grades if they do
+not increase the amount of time they spend
+studying. Increased study time requires good
+time management. However, some students do
+raise their grades. So some students manage
+their time well.
+Organisms are capable of manufacturing
+their own carbohydrate supply if they do not
+consume other organisms to obtain it. So plants
+that consume insects must be incapable of
+photosynthesis, the means by which most plants
+produce their carbohydrate supplies.
+If fragile ecosystems are not protected by
+government action their endemic species will
+perish, for endemic species are by definition
+those that exist nowhere else but in those
+ecosystems.
+The natural resources used by human beings
+will be depleted if they are not replaced
+by alternative materials. But since such
+replacement generally requires more power, the
+resources used to create that power will become
+depleted.
+Public buildings do not harmonize with their
+surroundings if they are not well designed.
+But any well-designed building is expensive
+to construct. Thus, either public buildings
+are expensive to construct or else they do not
+harmonize with their surroundings.
+
+GO ON TO THE NEXT PAGE.
+
+1	
+
+			 1
+
+1	
+18.	 Bus driver: Had the garbage truck not been exceeding
+the speed limit, it would not have collided with
+the bus I was driving. I, on the other hand, was
+abiding by all traffic regulations—as the police
+report confirms. Therefore, although I might have
+been able to avoid the collision had I reacted more
+quickly, the bus company should not reprimand
+me for the accident.
+	
+
+19.	 Item Removed From Scoring.
+
+Which one of the following principles, if valid, most
+helps to justify the reasoning in the bus driver’s
+argument?
+(A)	
+
+(B)	
+
+(C)	
+(D)	
+
+(E)	
+
+If a vehicle whose driver is violating a traffic
+regulation collides with a vehicle whose driver
+is not, the driver of the first vehicle is solely
+responsible for the accident.
+A bus company should not reprimand one of its
+drivers whose bus is involved in a collision if
+a police report confirms that the collision was
+completely the fault of the driver of another
+vehicle.
+Whenever a bus driver causes a collision to
+occur by violating a traffic regulation, the bus
+company should reprimand that driver.
+A company that employs bus drivers should
+reprimand those drivers only when they become
+involved in collisions that they reasonably could
+have been expected to avoid.
+When a bus is involved in a collision, the bus
+driver should not be reprimanded by the bus
+company if the collision did not result from the
+bus driver’s violating a traffic regulation.
+
+20.	 Historian: Radio drama requires its listeners to think
+about what they hear, picturing for themselves
+such dramatic elements as characters’ physical
+appearances and spatial relationships. Hence,
+while earlier generations, for whom radio drama
+was the dominant form of popular entertainment,
+regularly exercised their imaginations, today’s
+generation of television viewers do so less
+frequently.
+	
+
+Which one of the following is an assumption required
+by the historian’s argument?
+(A)	
+(B)	
+
+(D)	
+(E)	
+
+GO ON TO THE NEXT PAGE.
+
+Test 3
+
+(C)	
+
+People spend as much time watching television
+today as people spent listening to radio in
+radio’s heyday.
+The more familiar a form of popular
+entertainment becomes, the less likely its
+consumers are to exercise their imaginations.
+Because it inhibits the development of creativity,
+television is a particularly undesirable form of
+popular entertainment.
+For today’s generation of television viewers,
+nothing fills the gap left by radio as a medium
+for exercising the imagination.
+Television drama does not require its viewers to
+think about what they see.
+
+1	
+21.	 Each of the candidates in this year’s mayoral election is
+a small-business owner. Most small-business owners are
+competent managers. Moreover, no competent manager
+lacks the skills necessary to be a good mayor. So, most
+of the candidates in this year’s mayoral election have
+the skills necessary to be a good mayor.
+	
+	
+The pattern of flawed reasoning in which one of the
+following is most similar to that in the argument above?
+(A)	
+
+(B)	
+
+(C)	
+
+(D)	
+
+(E)	
+
+Test 3
+
+			 1
+
+1	
+
+Anyone who has worked in sales at this company
+has done so for at least a year. Most of this
+company’s management has worked in its sales
+department. So, since no one who has worked
+in the sales department for more than a year
+fails to understand marketing, most of this
+company’s upper management understands
+marketing.
+Everything on the menu at Maddy’s Shake Shop
+is fat-free. Most fat-free foods and drinks are
+sugar-free. And all sugar-free foods and drinks
+are low in calories. Hence, most items on the
+menu at Maddy’s are low in calories.
+All the books in Ed’s apartment are hardcover
+books. Most hardcover books are more than 100
+pages long. Ed has never read a book longer
+than 100 pages in its entirety in less than 3
+hours. So, Ed has never read any of his books in
+its entirety in less than 3 hours.
+Each of the avant-garde films at this year’s film
+festival is less than an hour long. Most films less
+than an hour long do not become commercially
+successful. So, since no movie less than an hour
+long has an intermission, it follows that most
+of the movies at this year’s film festival do not
+have an intermission.
+All of the bicycle helmets sold in this store
+have some plastic in them. Most of the bicycle
+helmets sold in this store have some rubber in
+them. So, since no helmets that have rubber in
+them do not also have plastic in them, it follows
+that most of the helmets in this store that have
+plastic in them have rubber in them.
+
+22.	 One of the most useful social conventions is money,
+whose universality across societies is matched only by
+language. Unlike language, which is rooted in an innate
+ability, money is an artificial, human invention. Hence,
+it seems probable that the invention of money occurred
+independently in more than one society.
+	
+	
+The argument’s conclusion is properly drawn if which
+one of the following is assumed?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+Some societies have been geographically isolated
+enough not to have been influenced by any
+other society.
+Language emerged independently in different
+societies at different times in human history.
+Universal features of human society that are not
+inventions are rooted in innate abilities.
+If money were not useful, it would not be so
+widespread.
+No human society that adopted the convention of
+money has since abandoned it.
+
+23.	 Libel is defined as damaging the reputation of someone
+by making false statements. Ironically, strong laws
+against libel can make it impossible for anyone in the
+public eye to have a good reputation. For the result of
+strong libel laws is that, for fear of lawsuits, no one will
+say anything bad about public figures.
+	
+
+Which one of the following principles, if valid, most
+helps to justify the reasoning in the argument?
+(A)	
+(B)	
+(C)	
+
+(D)	
+(E)	
+
+The absence of laws against libel makes it
+possible for everyone in the public eye to have a
+good reputation.
+Even if laws against libel are extremely strong
+and rigorously enforced, some public figures
+will acquire bad reputations.
+If one makes statements that one sincerely
+believes, then those statements should not be
+considered libelous even if they are in fact false
+and damaging to the reputation of a public
+figure.
+In countries with strong libel laws, people make
+negative statements about public figures only
+when such statements can be proved.
+Public figures can have good reputations only
+if there are other public figures who have bad
+reputations.
+
+GO ON TO THE NEXT PAGE.
+
+1	
+
+			 1
+
+1	
+24.	 Mammals cannot digest cellulose and therefore cannot
+directly obtain glucose from wood. Mushrooms can,
+however; and some mushrooms use cellulose to make
+highly branched polymers, the branches of which are
+a form of glucose called beta-glucans. Beta-glucan
+extracts from various types of mushrooms slow, reverse,
+or prevent the growth of cancerous tumors in mammals,
+and the antitumor activity of beta-glucans increases
+as the degree of branching increases. These extracts
+prevent tumor growth not by killing cancer cells
+directly but by increasing immune-cell activity.
+	
+
+Which one of the following is most strongly supported
+by the information above?
+(A)	
+(B)	
+
+(C)	
+(D)	
+(E)	
+
+Mammals obtain no beneficial health effects
+from eating cellulose.
+If extracts from a type of mushroom slow,
+reverse, or prevent the growth of cancerous
+tumors in mammals, then the mushroom is
+capable of using cellulose to make beta-glucans.
+The greater the degree of branching of betaglucans, the greater the degree of immune-cell
+activity it triggers in mammals.
+Immune-cell activity in mammals does not
+prevent tumor growth by killing cancer cells.
+Any organism capable of obtaining glucose from
+wood can use cellulose to make beta-glucans.
+
+25.	 A law is successful primarily because the behavior it
+prescribes has attained the status of custom. Just as
+manners are observed not because of sanctions attached
+to them but because, through repetition, contrary
+behavior becomes unthinkable, so societal laws are
+obeyed not because the behavior is ethically required
+or because penalties await those who act otherwise, but
+because to act otherwise would be uncustomary.
+	
+
+Which one of the following comparisons is utilized by
+the argument?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+As with manners and other customs, laws vary
+from society to society.
+As with manners, the primary basis for a society
+to consider when adopting a law is custom.
+As with manners, the main factor accounting for
+compliance with laws is custom.
+As with manners, most laws do not prescribe
+behavior that is ethically required.
+As with manners, most laws do not have strict
+penalties awaiting those who transgress them.
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+Test 3
+
+2	
+
+2	 2		
+2
+
+2 	
+SECTION II
+Time—35 minutes
+25 Questions
+
+Directions: The questions in this section are based on the reasoning contained in brief statements or passages. For some questions,
+more than one of the choices could conceivably answer the question. However, you are to choose the best answer; that is, the response
+that most accurately and completely answers the question. You should not make assumptions that are by commonsense standards
+implausible, superfluous, or incompatible with the passage. After you have chosen the best answer, blacken the corresponding space
+on your answer sheet.
+1.	 When politicians resort to personal attacks, many
+	
+editorialists criticize these attacks but most voters pay
+them scant attention. Everyone knows such attacks will
+end after election day, and politicians can be excused
+for mudslinging. Political commentators, however,
+cannot be. Political commentators should be engaged in
+sustained and serious debate about ideas and policies.
+In such a context, personal attacks on opponents serve
+not to beat those opponents but to cut off the debate.
+
+2. 	 Throughout the Popoya Islands community pressure is
+	
+exerted on people who win the national lottery to share
+their good fortune with their neighbors. When people
+living in rural areas win the lottery they invariably
+throw elaborate neighborhood feasts, often wiping out
+all of their lottery winnings. However, in the cities,
+lottery winners frequently use their winnings for their
+own personal investment rather than sharing their good
+fortune with their neighbors.
+
+	
+
+	
+
+Which one of the following most accurately states the
+main point of the argument?
+
+Test 3
+
+(A) 	 Personal attacks on opponents serve a useful
+		 purpose for politicians.
+(B) 	 Political commentators should not resort to
+		 personal attacks on their opponents.
+(C) 	 Editorialists are right to criticize politicians who
+		 resort to personal attacks on their opponents.
+(D) 	 The purpose of serious debate about ideas and
+		 policies is to counteract the effect of personal
+		 attacks by politicians.
+(E) 	 Voters should be concerned about the personal
+		 attacks politicians make on each other.
+
+Which one of the following, if true, contributes most to
+an explanation of the difference between the behavior
+of lottery winners in rural areas and those in cities?
+(A) 	 Twice as many Popoyans live in rural areas as
+live in the city.
+(B) 	 Popoyan city dwellers tend to buy several lottery
+tickets at a time, but they buy tickets less
+frequently than do rural dwellers.
+(C) 	 Lottery winners in rural areas are notified of
+winning by public posting of lists of winners,
+but notification in the city is by private mail.
+(D) 	 Families in rural areas in the Popoyas may
+contain twelve or fourteen people, but city
+families average six or seven.
+(E) 	 Twice as many lottery tickets are sold in rural
+areas as are sold in the city.
+
+GO ON TO THE NEXT PAGE.
+
+2	
+
+2	 2		
+2
+
+2 	
+3. 	 A new medication for migraine seems effective, but
+there is concern that the medication might exacerbate
+heart disease. If patients with heart disease take the
+medication under careful medical supervision, however,
+harmful side effects can definitely be averted. The
+concern about those side effects is thus unfounded.
+	
+
+The argument depends on which one of the following 	
+assumptions?
+(A) 	 The new medication actually is effective when
+taken by patients with heart disease.
+(B) 	 No migraine sufferers with heart disease will
+take the new medication except under careful
+medical supervision.
+(C) 	 Most migraine sufferers who have taken the new 	
+medication in trials also had heart disease.
+(D) 	 The new medication has various other
+side effects, but none as serious as that of
+exacerbating heart disease.
+(E) 	 The new medication will displace all migraine
+medications currently being used.
+
+4. 	 The highest‑ranking detectives in the city’s police
+	
+department are also the most adept at solving crimes.
+Yet in each of the past ten years, the average success
+rate for the city’s highest‑ranking detectives in solving
+criminal cases has been no higher than the average
+success rate for its lowest‑ranking detectives.
+	
+
+Which one of the following, if true, most helps to
+resolve the apparent paradox?
+
+(A) 	 makes exaggerations in formulating the claim
+against which it argues
+(B) 	 bases its conclusion on two contradictory claims
+(C) 	 relies on evidence the relevance of which has not
+been established
+(D) 	 concedes the very point that it argues against
+(E) 	 makes a generalization that is unwarranted
+because the sources of the data on which it is
+based have not been specified
+6. 	 Copyright laws protect the rights of writers to profits
+	
+earned from their writings, whereas patent laws protect
+inventors’ rights to profits earned from their inventions.
+In Jawade, when computer‑software writers demanded
+that their rights to profit be protected, the courts
+determined that information written for a machine does
+not fit into either the copyright or the patent category.
+Clearly, therefore, the profit rights of computer‑software
+writers remain unprotected in Jawade.
+	
+
+Which one of the following is an assumption on which
+the argument depends?
+(A) 	 Computer‑software writers are not an influential 	
+enough group in Jawade for the government to 	
+consider modifying existing copyright laws in 	
+order to protect this group’s profit rights.
+(B) 	 No laws exist, other than copyright laws and
+patent laws, that would protect the profit rights
+of computer‑software writers in Jawade.
+(C) 	 Most of the computer software used in Jawade is 	
+imported from other countries.
+(D) 	 Computer software is more similar to writings 	
+covered by copyright laws than it is to
+inventions covered by patent laws.
+(E) 	 Copyright laws and patent laws in Jawade have
+not been modified since their original adoption.
+
+GO ON TO THE NEXT PAGE.
+
+Test 3
+
+(A) 	 The detectives who have the highest success rate
+in solving criminal cases are those who have
+worked as detectives the longest.
+(B) 	 It generally takes at least ten years for a detective
+to rise from the lowest to the highest ranks of
+the city’s detective force.
+(C) 	 Those detectives in the police department who
+are the most adept at solving criminal cases are
+also those most likely to remain in the police 	
+department.
+(D) 	 The police department generally gives the
+criminal cases that it expects to be the easiest to
+solve to its lowest‑ranking detectives.
+(E) 	 None of the lowest‑ranking detectives in the
+police department had experience in solving
+criminal cases prior to joining the police
+department.
+
+5. 	 Irrigation runoff from neighboring farms may well have 	
+increased the concentration of phosphorus in the local
+swamp above previous levels, but the claim that the
+increase in phosphorus is harming the swamp’s native
+aquatic wildlife is false; the phosphorus concentration
+in the swamp is actually less than that found in certain
+kinds of bottled water that some people drink every day.
+	
+	
+The argument is vulnerable to criticism on the ground
+	
+that it
+
+2	
+
+7. 	 Brownlea’s post office must be replaced with a larger
+one. The present one cannot be expanded. Land near
+	
+the present location in the center of town is more
+expensive than land on the outskirts of town. Since the
+cost of acquiring a site is a significant part of the total
+construction cost, the post office clearly could be built
+more cheaply on the outskirts of town.
+	
+
+Which one of the following, if true, most seriously 	
+undermines the argument’s stated conclusion?
+(A) 	 The new post office will have to be built in
+accordance with a demanding new citywide
+building code.
+(B) 	 If the new post office is built on the outskirts of
+town, it will require a parking lot, but if sited
+near the present post office it will not.
+(C) 	 If the new post office is built on the outskirts of
+town, current city bus routes will have to be
+expanded to provide access.
+(D) 	 If the new post office is built on the outskirts of
+town, residents will make decreased use of post 	
+office boxes, with the result that mail carriers
+will have to deliver more mail to homes.
+(E) 	 If the new post office is built near the center of
+town, disruptions to city traffic would have to
+be minimized by taking such steps as doing
+some construction work in stages at night and
+on weekends.
+
+Test 3
+
+2	 2		
+2
+
+2 	
+9. 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+Although Damon had ample time earlier in the month
+to complete the paper he is scheduled to present at
+a professional conference tomorrow morning, he
+repeatedly put off doing it. Damon could still get
+the paper ready in time, but only if he works on it
+all evening without interruption. However, his
+seven‑year‑old daughter’s tap‑dance recital takes
+place this evening, and Damon had promised both
+to attend and to take his daughter and her friends
+out for ice cream afterward. Thus, because of his 		
+procrastination, Damon will be forced to choose
+between his professional and his family responsibilities.
+
+	
+
+The argument proceeds by
+(A) 	 providing evidence that one event will occur
+in order to establish that an alternative event
+cannot occur
+(B) 	 showing that two situations are similar in order
+to justify the claim that someone with certain 	
+responsibilities in the first situation has similar 	
+responsibilities in the second situation
+(C) 	 invoking sympathy for someone who finds
+himself in a dilemma in order to excuse
+that person’s failure to meet all of his
+responsibilities
+(D) 	 making clear the extent to which someone’s
+actions resulted in harm to others in order
+to support the claim that those actions were
+irresponsible
+(E) 	 demonstrating that two situations cannot both
+occur by showing that something necessary for
+one of those situations is incompatible with
+something necessary for the other situation
+
+8. 	 In the past, the railroads in Ostronia were run as
+regional monopolies and operated with little regard
+for what customers wanted. In recent years, with
+improvements to the Ostronian national highway
+network, the railroad companies have faced heavy
+competition from long-distance trucking companies.
+But because of government subsidies that have
+permitted Ostronian railroad companies to operate
+even while incurring substantial losses, the companies
+continue to disregard customers’ needs and desires.
+
+10.	 The increase in the price of jet fuel is due to a sharp
+	
+decrease over the past year in the supply of jet fuel
+available relative to demand. Nonetheless, the amount
+of jet fuel available for sale is larger today than it was
+last year.
+
+	
+
+	
+
+If the statements above are true, which one of the 	
+following must also be true on the basis of them?
+(A) 	 If the government of Ostronia ceases to subsidize 	
+railroad companies, few of those companies will	
+continue to operate.
+(B) 	 Few companies in Ostronia that have received
+subsidies from the government have taken
+the needs and desires of their customers into
+account.
+(C) 	 Without government subsidies, railroad
+companies in Ostronia would have to increase
+the prices they charge their customers.
+(D) 	 The transportation system in Ostronia is no more 	
+efficient today than it was in the past.
+(E) 	 In recent years, some companies in Ostronia that 	
+have had little regard for the desires of their 	
+customers have nonetheless survived.
+
+If the statements above are true, which one of the
+following conclusions can be properly drawn on the
+basis of them?
+(A) 	 The demand for jet fuel has increased over the
+past year.
+(B) 	 The fuel efficiency of jet engines has increased
+over the past year.
+(C) 	 The number of jet airline flights has decreased
+over the past year.
+(D) 	 The cost of refining petroleum for jet fuel has
+increased over the past year.
+(E) 	 The supply of petroleum available for jet fuel has
+decreased over the past year.
+
+				
+GO ON TO THE NEXT PAGE.
+
+2	
+
+2	 2		
+2
+
+2 	
+Questions 11‑12
+Alan: Government subsidies have been proposed in Cariana
+to encourage farmers in Rochelle, the country’s
+principal agricultural region, to implement certain
+new farming techniques. Unless these techniques are
+implemented, erosion of productive topsoil cannot
+be controlled. Unfortunately, farmers cannot afford
+to shoulder the entire cost of the new techniques,
+which are more expensive than those currently used.
+Therefore, without subsidies, agricultural output in
+Rochelle will inevitably decline.
+
+13.	 Astronomers have long thought that the irregularity
+	
+in the orbit of the planet Neptune was adequately
+explained by the gravitational pull exerted on Neptune
+by the planet Pluto. The most recent observations
+of Pluto, however, indicate that this planet is much
+too small to exert the amount of gravitational pull on
+Neptune that astronomers once thought it did.
+	
+
+(A) 	 Neptune is somewhat larger than scientists once
+believed it to be.
+(B) 	 The orbit of Neptune is considerably more
+irregular than scientists once thought it was.
+(C) 	 There exists another, as yet undiscovered planet
+with an orbit beyond that of Pluto.
+(D) 	 The gravitational pull of Pluto is not the sole
+cause of Neptune’s irregular orbit.
+(E) 	 Further observations of Pluto will eventually
+show it to be even smaller than it is now thought
+to be.
+
+Betty: But erosion in Rochelle is caused by recurring floods,
+which will end next year once Cariana completes the
+hydroelectric dam it is building across the region’s
+major river. Therefore, Rochelle’s total agricultural
+output will stabilize at its present level even without
+subsidies.
+11.	 Which one of the following is an assumption on which 	
+Betty’s argument depends?
+
+12.	 Betty uses which one of the following argumentative 	
+techniques in countering Alan’s argument?
+(A) 	 showing that one premise in Alan’s argument
+is inconsistent with another premise in his
+argument
+(B) 	 making additional claims that, if correct,
+undermine a premise in Alan’s argument
+(C) 	 demonstrating that Alan’s conclusion is true but
+not for the reasons Alan gives to support it
+(D) 	 presenting evidence indicating that the policy
+Alan 	argues in favor of would have damaging
+consequences that outweigh its positive
+consequences
+(E) 	 pointing out that Alan’s argument mistakenly
+identifies something as the cause of a trend
+when it is really an effect of that trend
+
+	
+
+GO ON TO THE NEXT PAGE.
+
+Test 3
+
+(A) 	 Building a dam across Rochelle’s major
+river will not reduce any recurrent flooding
+that occurs in regions of Cariana other than
+Rochelle.
+(B) 	 The new farming techniques that must be
+implemented to control soil erosion in Rochelle 	
+are not well suited to other regions of Cariana.
+(C) 	 The current yearly output, if any, from Rochelle’s
+land that will be permanently under water once 	
+the dam is completed will at least be matched
+by additional yearly output from Rochelle’s 	
+remaining land.
+(D) 	 The cost to the government of Cariana to operate
+the hydroelectric dam will not be greater than
+the projected cost of subsidizing the farmers of 	
+Rochelle in the implementation of the new 	
+farming techniques.
+(E) 	 The government of Cariana has sufficient
+financial resources both to subsidize its farmers’ 	
+implementation of new farming techniques and
+to operate a hydroelectric dam.
+
+If the statements above are true, they provide the most 	
+support for which one of the following?
+
+2	
+
+2	 2		
+2
+
+2 	
+Questions 14‑15
+	
+In most corporations the salaries of executives are set
+by a group from the corporation’s board of directors. Since
+the board’s primary mission is to safeguard the economic
+health of the corporation rather than to make its executives
+rich, this way of setting executives’ salaries is expected to
+prevent excessively large salaries. But, clearly, this
+expectation is based on poor reasoning. After all, most
+members of a corporation’s board are themselves executives
+of some corporation and can expect to benefit from setting
+generous benchmarks for executives’ salaries.
+14.	 The point made by the author is that the most common
+	
+way of setting executives’ salaries might not keep those
+salaries in bounds because
+
+16.	 Consumer advocate: One advertisement that is
+deceptive, and thus morally wrong, states that
+“gram for gram, the refined sugar used in our
+chocolate pies is no more fattening than the sugars 	
+found in fruits and vegetables.” This is like trying
+to persuade someone that chocolate pies are not
+fattening by saying that, calorie for calorie, they
+are no more fattening than celery. True, but it
+would take a whole shopping cart full of celery to
+equal a chocolate pie’s worth of calories.
+	
+
+Advertiser: This advertisement cannot be called
+deceptive. It is, after all, true.
+
+	
+
+Which one of the following principles, if established,
+would do most to support the consumer advocate’s
+position against the advertiser’s response?
+
+Test 3
+
+(A) 	 most corporate executives, thanks to their
+generous salaries, are not financially dependent
+on money earned as board members
+(B) 	 most corporate executives might be less generous
+in setting their own salaries than the board
+members actually setting them are
+(C) 	 many board members might let their self‑interest
+as executives interfere with properly discharging
+their role, as board members, in setting
+executives’ salaries
+(D) 	 many board members who set executives’
+salaries unreasonably high do so because they
+happen to be on the board of a corporation of
+which they expect later to become executives
+(E) 	 many board members are remunerated
+generously and wish to protect this source of
+income by pleasing the executives to whom they
+owe their appointments on the board
+15.	 Which one of the following practices is vulnerable to a
+	
+line of criticism most parallel to that used in the
+argument in the passage?
+(A) 	 in medical malpractice suits, giving physicians
+not directly involved in a suit a major role in 	
+determining the damages due to successful 	
+plaintiffs
+(B) 	 in a legislature, allowing the legislators to
+increase their own salaries only if at least
+two‑thirds of them vote in favor of an increase
+(C) 	 on a factory floor, giving workers an incentive
+to work both fast and accurately by paying
+them by the piece but counting only pieces of
+acceptable quality
+(D) 	 in a sports competition decided by judges’
+scores, selecting the judges from among people
+retired from that sport after successful careers
+(E) 	 in a business organization, distributing a group
+bonus among the members of a task force on the
+basis of a confidential evaluation, by each 	
+member, of the contribution made by each of
+the others.
+
+(A) 	 It is morally wrong to seek to persuade by use of
+deceptive statements.
+(B) 	 A true statement should be regarded as deceptive
+only if the person making the statement believes 	
+it to be false, and thus intends the people
+reading or hearing it to acquire a false belief.
+(C) 	 To make statements that impart only a small
+proportion of the information in one’s
+possession should not necessarily be regarded
+as deceptive.
+(D) 	 It is morally wrong to make a true statement in a 	
+manner that will deceive hearers or readers of
+the statement into believing that it is false.
+(E) 	 A true statement should be regarded as deceptive
+if it is made with the expectation that people 	
+hearing or reading the statement will draw a
+false conclusion from it.
+			
+	
+
+GO ON TO THE NEXT PAGE.
+
+2	
+
+2	 2		
+2
+
+2 	
+17. 	Members of the Amazonian Akabe people commonly
+take an early‑morning drink of a tea made from the
+leaves of a forest plant. Although they greatly enjoy
+this drink, at dawn they drink it only in small amounts.
+Anthropologists hypothesize that since this tea is
+extraordinarily high in caffeine, the explanation for the
+Akabe’s not drinking more of it at dawn is that high
+caffeine intake would destroy the surefootedness that
+their daily tasks require.
+
+19.	 Spectroscopic analysis has revealed the existence
+of frozen nitrogen, methane, and carbon monoxide
+on the surface of Pluto. Such ices have a tendency
+to vaporize, producing an atmosphere. Since the
+proportion of any gas in such an atmosphere depends
+directly on how readily the corresponding ice vaporizes,
+astronomers have concluded that the components of
+Pluto’s atmosphere are nitrogen, carbon monoxide, and
+methane, in order of decreasing abundance.
+
+	
+
+	
+
+Which one of the following, if true, most seriously calls
+the anthropologists’ explanation into question?
+(A) 	 The drink is full of nutrients otherwise absent
+from the Akabe diet.
+(B) 	 The Akabe also drink the tea in the evening, after
+their day’s work is done.
+(C) 	 The leaves used for the tea contain a soluble
+narcotic.
+(D) 	 Akabe children are introduced to the tea in only a
+very weak form.
+(E) 	 When celebrating, the Akabe drink the tea in
+large quantities.
+
+18. 	All of the cargo ships of the Blue Star Line are over 100
+	
+meters long, and all of its passenger ships are under 100
+meters long. Most of the ships of the Blue Star Line
+were built before 1980. All of the passenger and cargo
+ships of the Gold Star Line were built after 1980, and
+all are under 100 meters long. The dockside facilities of
+Port Tropica, which is open only to ships of these two
+lines, can accommodate only those ships that are less
+than 100 meters long. The S.S. Coral is a cargo ship
+that is currently docked at Port Tropica.
+	
+
+The astronomers’ argument relies on which one of the 	
+following assumptions?
+(A) 	 There is no more frozen nitrogen on the surface
+of Pluto than there is either frozen carbon
+monoxide or methane.
+(B) 	 Until space probes reach Pluto, direct analysis of
+the atmosphere is impossible.
+(C) 	 There is no frozen substance on the surface of
+Pluto that vaporizes more readily than methane
+but less readily than carbon monoxide.
+(D) 	 Nitrogen is found in the atmosphere of a planet
+only if nitrogen ice is found on the surface of
+that planet.
+(E) 	 A mixture of nitrogen, carbon monoxide, and
+methane is characteristic of the substances from 	
+which the Solar System formed.
+
+			
+	
+
+GO ON TO THE NEXT PAGE.
+
+If the statements above are true, which one of the
+following must be true on the basis of them?
+The S.S. Coral was built after 1980.
+The S.S. Coral belongs to the Blue Star Line.
+Port Tropica is served only by cargo ships.
+Port Tropica is not served by ships of the Blue
+Star Line.
+(E) 	 All of the ships of the Blue Star Line are older
+than any of the ships of the Gold Star Line.
+
+Test 3
+
+(A) 	
+(B) 	
+(C) 	
+(D) 	
+
+2	
+
+20. 	Ann will either take a leave of absence from
+Technocomp and return in a year or else she will quit
+her job there; but she would not do either one unless
+she were offered a one‑year teaching fellowship at a
+prestigious university. Technocomp will allow her to
+take a leave of absence if it does not find out that she
+has been offered the fellowship, but not otherwise. 	
+Therefore, Ann will quit her job at Technocomp only
+	
+if Technocomp finds out she has been offered the
+fellowship.
+	
+
+Which one of the following, if assumed, allows the 	
+conclusion above to be properly drawn?
+(A) 	 Technocomp will find out about Ann being
+offered the fellowship only if someone informs
+on her.
+(B) 	 The reason Ann wants the fellowship is so she
+can quit her job at Technocomp.
+(C) 	 Technocomp does not allow any of its employees
+to take a leave of absence in order to work for
+one of its competitors.
+(D) 	 Ann will take a leave of absence if Technocomp
+allows her to take a leave of absence.
+(E) 	 Ann would be offered the fellowship only if she
+quit her fob at Technocomp.
+
+Test 3
+
+2	 2		
+2
+
+2 	
+
+21. 	If a mechanical aerator is installed in a fish pool, the
+water in the pool can be properly aerated. So, since
+John’s fish pool does not have a mechanical aerator, it
+must be that his pool is not properly aerated. Without
+properly aerated water, fish cannot thrive. Therefore,
+any fish in John’s fish pool will not thrive.
+	
+
+Which one of the following arguments contains an
+error of reasoning that is also contained in the argument
+above?
+(A) 	 If alum is added to pickle brine, brine can
+replace the water in the pickles. Therefore, since
+Paula does not add alum to her pickle brine,
+the water in the pickles cannot be replaced by
+brine. Unless their water is replaced with brine,
+pickles will not stay crisp. Thus, Paula’s pickles
+will not stay crisp.
+(B) 	 If pectin is added to jam, the jam will gel.
+Without a setting agent such as pectin, jam will
+not gel. So in order to make his jam gel, Harry
+should add a setting agent such as pectin to the
+jam.
+(C) 	 If stored potatoes are not exposed to ethylene, the
+potatoes will not sprout. Beets do not release 	
+ethylene. Therefore, if Sara stores her potatoes 	
+together with beets, the potatoes will not sprout.
+(D) 	 If a carrot patch is covered with mulch in the
+fall, the carrots can be left in the ground until
+spring. Without a mulch cover, carrots stored in
+the ground can suffer frost damage. Thus, since
+Kevin covers his carrot 	patch with mulch in the
+fall, the carrots can safely be left in the ground.
+(E) 	 If tomatoes are not stored in a dark place, their
+seeds sometimes sprout. Sprouted seeds can
+make tomatoes inedible. Therefore, since Maria
+does not store her tomatoes in a dark place,
+some of Maria’s tomatoes could be inedible.
+
+				
+GO ON TO THE NEXT PAGE.
+
+2	
+
+2	 2		
+2
+
+2 	
+Questions 22‑23
+
+Questions 24‑25
+
+Antinuclear activist: The closing of the nuclear power plant
+is a victory for the antinuclear cause. It also represents
+a belated acknowledgment by the power industry that
+they cannot operate such plants safely.
+
+Statistician: Changes in the Sun’s luminosity correlate
+	
+exceedingly well with average land temperatures on
+	
+Earth. Clearly—and contrary to accepted opinion
+among meteorologists—the Sun’s luminosity
+essentially controls land temperatures on Earth.
+	
+Meteorologist: I disagree. Any professional meteorologist
+	
+will tell you that in a system as complicated as that
+	
+giving rise to the climate, no significant aspect can be
+	
+controlled by a single variable.
+
+Nuclear power plant manager: It represents no such thing.
+	
+The availability of cheap power from nonnuclear
+sources, together with the cost of mandated safety
+inspections and safety repairs, made continued
+operation uneconomic. Thus it was not safety
+considerations but economic considerations 		
+that dictated the plant’s closing.
+22.	 The reasoning in the manager’s argument is flawed
+because the argument
+(A) 	 fails to acknowledge that the power industry
+might now believe nuclear power plants to be
+unsafe even though this plant was not closed for
+safety reasons
+(B) 	 overlooks the possibility that the sources
+from which cheap power is available might
+themselves be subject to safety concerns
+(C) 	 mistakes the issue of what the closure of the
+plant 	represents to the public for the issue of
+what the managers’ reasons for the closure were
+(D) 	 takes as one of its premises a view about the
+power industry’s attitude toward nuclear safety
+that contradicts the activist’s view
+(E) 	 counts as purely economic considerations some
+expenses that arise as a result of the need to take 	
+safety precautions
+
+24.	 The rejection by the meteorologist of the statistician’s
+	
+conclusion employs which one of the following
+	
+techniques of argumentation?
+(A) 	 supporting a conclusion about a specific case by
+invoking a relevant generalization
+(B) 	 producing a single counterexample that
+establishes that a generalization is false as stated
+(C) 	 reanalyzing a correlation as reflecting the
+multiple effects of a single cause
+(D) 	 rejecting a conclusion because it is a proposition
+that cannot be experimentally tested
+(E) 	 pointing out that potentially unfavorable
+evidence has been systematically neglected
+25.	 The reasoning in the meteorologist’s counterargument
+is questionable because that argument
+
+23.	 Which one of the following, if true, most strongly
+supports the activist’s claim of victory?
+(A) 	 The plant had reached the age at which its
+operating license expired.
+(B) 	 The mandate for inspections and repairs
+mentioned by the manager was recently enacted
+as a result of pressure from antinuclear groups.
+(C) 	 The plant would not have closed if cheap power
+from nonnuclear sources had not been available.
+(D) 	 Per unit of electricity produced, the plant had the
+highest operating costs of any nuclear power
+plant.
+(E) 	 The plant that closed had been able to provide
+backup power to an electrical network when
+Darts of the network became overloaded.
+
+	
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+Test 3
+
+(A) 	 rejects a partial explanation, not because it is
+incorrect, but only because it is not complete
+(B) 	 fails to distinguish phenomena that exist
+independently of a particular system from
+phenomena that exist only as part of the system
+(C) 	 calls into question the existence of a correlation
+when the only real issue is that of how to
+interpret the correlation
+(D) 	 dismisses a hypothesis on the grounds that
+it fails to deal with any matters of scientific
+significance
+(E) 	 appeals to the authoritativeness of an opinion
+without evaluating the merit of a putative
+counterexample
+
+3	
+
+3	 3	 3		
+3	
+SECTION III
+Time—35 minutes
+23 Questions
+Directions:
+
+Each group of questions in this section is based on a set of conditions. In answering some of the questions, it may
+be useful to draw a rough diagram. Choose the response that most accurately and completely answers each question and
+blacken the corresponding space on your answer sheet.
+
+Questions 1–6
+A community center will host six arts-and-crafts
+workshops—Jewelry, Kite-making, Needlepoint, Quilting,
+Rug-making, and Scrapbooking. The workshops will be
+given on three consecutive days: Wednesday, Thursday, and
+Friday. Each workshop will be given once, and exactly two
+workshops will be given per day, one in the morning and
+one in the afternoon. The schedule for the workshops is
+subject to the following constraints:
+Jewelry must be given in the morning, on the same day
+as either Kite-making or Quilting.
+Rug-making must be given in the afternoon, on the
+same day as either Needlepoint or Scrapbooking.
+Quilting must be given on an earlier day than both
+Kite-making and Needlepoint.
+
+Test 3
+
+1.	 Which one of the following is an acceptable schedule
+for the workshops, with each day’s workshops listed in
+the order in which they are to be given?
+(A)	
+	
+	
+(B) 	
+	
+	
+(C) 	
+	
+	
+(D) 	
+	
+	
+(E)	
+	
+	
+
+Wednesday: Jewelry, Kite-making
+Thursday: Quilting, Scrapbooking
+Friday: Needlepoint, Rug-making
+Wednesday: Jewelry, Quilting
+Thursday: Kite-making, Needlepoint
+Friday: Scrapbooking, Rug-making
+Wednesday: Quilting, Needlepoint
+Thursday: Scrapbooking, Rug-making
+Friday: Jewelry, Kite-making
+Wednesday: Quilting, Scrapbooking
+Thursday: Jewelry, Kite-making
+Friday: Rug-making, Needlepoint
+Wednesday: Scrapbooking, Rug-making
+Thursday: Quilting, Jewelry
+Friday: Kite-making, Needlepoint
+
+3.	 Which one of the following pairs of workshops
+CANNOT be the ones given on Wednesday morning
+and Wednesday afternoon, respectively?
+(A) 	
+(B) 	
+(C) 	
+(D) 	
+(E) 	
+
+Jewelry, Kite-making
+Jewelry, Quilting
+Quilting, Scrapbooking
+Scrapbooking, Quilting
+Scrapbooking, Rug-making
+
+4.	 If Kite-making is given on Friday morning, then which
+one of the following could be true?
+(A) 	
+(B) 	
+(C) 	
+(D) 	
+(E) 	
+
+Jewelry is given on Thursday morning.
+Needlepoint is given on Thursday afternoon.
+Quilting is given on Wednesday morning.
+Rug-making is given on Friday afternoon.
+Scrapbooking is given on Wednesday afternoon.
+
+5.	 If Quilting is given in the morning, then which one
+of the following workshops CANNOT be given on
+Thursday?
+(A) 	 Jewelry
+(B)	Kite-making
+(C)	Needlepoint
+(D)	Rug-making
+(E)	Scrapbooking
+6.	 How many of the workshops are there that could be the
+one given on Wednesday morning?
+(A) 	
+(B) 	
+(C) 	
+(D) 	
+(E) 	
+
+one
+two
+three
+four
+five
+
+2.	 Which one of the following workshops CANNOT be
+given on Thursday morning?
+(A)	Jewelry
+(B)	Kite-making
+(C)	Needlepoint
+(D)	Quilting
+(E)	Scrapbooking
+
+GO ON TO THE NEXT PAGE.
+
+3	
+
+3	 3	 3		
+3	
+Questions 7-12
+Exactly six actors—Geyer, Henson, Jhalani, Lin, Mitchell,
+and Paredes—will appear one after another in the opening
+credits of a television program. Their contracts contain
+certain restrictions that affect the order in which they can
+appear. Given these restrictions, the order in which the
+actors appear, from first to sixth, must conform to the
+following:
+Both Lin and Mitchell appear earlier than Henson.
+Both Lin and Paredes appear earlier than Jhalani.
+If Mitchell appears earlier than Paredes, then Henson
+appears earlier than Geyer.
+Geyer does not appear last.
+7.	 Which one of the following could be the order, from
+first to last, in which the actors appear?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+Geyer, Lin, Jhalani, Paredes, Mitchell, Henson
+Geyer, Mitchell, Paredes, Lin, Henson, Jhalani
+Henson, Lin, Paredes, Jhalani, Geyer, Mitchell
+Lin, Paredes, Mitchell, Henson, Jhalani, Geyer
+Paredes, Mitchell, Lin, Jhalani, Geyer, Henson
+
+8.	 Which one of the following CANNOT be true?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+Henson appears earlier than Geyer.
+Henson appears sixth.
+Lin appears fifth.
+Paredes appears earlier than Mitchell.
+Paredes appears second.
+
+9.	 Exactly how many of the actors are there any one of whom
+could appear sixth?
+(A)	5
+(B)	 4
+(C)	 3
+(D)	 2
+(E)	 1
+
+10.	 If Jhalani appears earlier than Mitchell, then which one
+of the following could be the order in which the other
+four actors appear, from earliest to latest?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+Geyer, Lin, Paredes, Henson
+Geyer, Paredes, Henson, Lin
+Lin, Henson, Geyer, Paredes
+Lin, Paredes, Henson, Geyer
+Paredes, Lin, Henson, Geyer
+
+11.	 If Lin appears immediately before Geyer, then which
+one of the following must be true?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+Geyer appears no later than third.
+Henson appears last.
+Lin appears no later than third.
+Mitchell appears earlier than Geyer.
+Paredes appears first.
+
+12.	 If Mitchell appears first, then which one of the
+following must be true?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+Geyer appears fifth.
+Henson appears third.
+Jhalani appears sixth.
+Lin appears second.
+Paredes appears fourth.
+
+Test 3
+
+GO ON TO THE NEXT PAGE.
+
+3	
+
+3	 3	 3		
+3	
+Questions 13–17
+Over the course of one day, a landscaper will use a truck
+to haul exactly seven loads—three loads of mulch and four
+loads of stone. The truck’s cargo bed will be cleaned in
+between carrying any two loads of different materials. To
+meet the landscaper’s needs as efficiently as possible, the
+following constraints apply:
+The cargo bed cannot be cleaned more than three times.
+The fifth load must be mulch.
+13.	 Which one of the following is a pair of loads that can
+both be mulch?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+the first and the third
+the second and the third
+the second and the sixth
+the third and the sixth
+the fourth and the sixth
+
+14.	 Which one of the following must be true?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+The second load is stone.
+The first and second loads are the same material.
+The second and third loads are different
+materials.
+At least two loads of mulch are hauled
+consecutively.
+At least three loads of stone are hauled
+consecutively.
+
+15.	 If the third load is mulch, which one of the following
+must be true?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+The sixth load is a different material than the
+seventh load.
+The first load is a different material than the
+second load.
+The seventh load is mulch.
+The sixth load is mulch.
+The first load is stone.
+
+16.	 If the cargo bed is cleaned exactly twice, which one of
+the following must be true?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+The second load is stone.
+The third load is mulch.
+The third load is stone.
+The sixth load is mulch.
+The seventh load is mulch.
+
+17.	 If no more than two loads of the same material are
+hauled consecutively, then which one of the following
+could be true?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+The first load is stone.
+The fourth load is stone.
+The third load is mulch.
+The sixth load is mulch.
+The seventh load is mulch.
+
+Test 3
+
+GO ON TO THE NEXT PAGE.
+
+3	
+
+3	 3	 3		
+3	
+Questions 18–23
+A travel magazine has hired six interns—Farber,
+Gombarick, Hall, Jackson, Kanze, and Lha—to assist in
+covering three stories—Romania, Spain, and Tuscany. Each
+intern will be trained either as a photographer’s assistant
+or as a writer’s assistant. Each story is assigned a team of
+two interns—one photographer’s assistant and one writer’s
+assistant—in accordance with the following conditions:
+Gombarick and Lha will be trained in the same field.
+Farber and Kanze will be trained in different fields.
+Hall will be trained as a photographer’s assistant.
+Jackson is assigned to Tuscany.
+Kanze is not assigned to Spain.
+18.	 Which one of the following could be an acceptable
+assignment of photographer’s assistants to stories?
+(A)	
+	
+	
+(B)	
+	
+	
+(C)	
+	
+	
+(D)	
+	
+	
+(E)	
+	
+	
+
+Romania: Farber
+Spain: Hall
+Tuscany: Jackson
+Romania: Gombarick
+Spain: Hall
+Tuscany: Farber
+Romania: Gombarick
+Spain: Hall
+Tuscany: Lha
+Romania: Gombarick
+Spain: Lha
+Tuscany: Kanze
+Romania: Hall
+Spain: Kanze
+Tuscany: Jackson
+
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+Farber is assigned to Tuscany.
+Gombarick is assigned to Romania.
+Hall is assigned to Romania.
+Kanze is assigned to Tuscany.
+Lha is assigned to Spain.
+
+21.	 If Farber is a writer’s assistant, then which one of the
+following pairs could be the team of interns assigned to
+Romania?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+Farber and Gombarick
+Gombarick and Hall
+Hall and Kanze
+Kanze and Lha
+Lha and Hall
+
+22.	 If Gombarick and Kanze are assigned to the same story
+as each other, then which one of the following could be
+true?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+Farber is assigned to Romania.
+Gombarick is assigned to Spain.
+Hall is assigned to Romania.
+Kanze is assigned to Tuscany.
+Lha is assigned to Spain.
+
+23.	 Which one of the following interns CANNOT be
+assigned to Tuscany?
+
+19.	 If Farber is assigned to Romania, then which one of the
+following must be true?
+
+(A)	Farber
+(B)	Gombarick
+(C)	Hall
+(D)	Kanze
+(E)	Lha
+
+Gombarick is assigned to Spain.
+Hall is assigned to Spain.
+Kanze is assigned to Tuscany.
+Lha is assigned to Spain.
+Lha is assigned to Tuscany.
+
+Test 3
+
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+20.	 If Farber and Hall are assigned to the same story as each
+other, then which one of the following could be true?
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+4	
+
+4	4	4	4	
+SECTION IV
+Time—35 minutes
+25 Questions
+Directions: The questions in this section are based on the reasoning contained in brief statements or passages. For some questions,
+more than one of the choices could conceivably answer the question. However, you are to choose the best answer; that is, the response
+that most accurately and completely answers the question. You should not make assumptions that are by commonsense standards
+implausible, superfluous, or incompatible with the passage. After you have chosen the best answer, blacken the corresponding space
+on your answer sheet.
+1.	 A research study revealed that, in most cases, once
+existing highways near urban areas are widened and
+extended in an attempt to reduce traffic congestion and
+resulting delays for motorists, these problems actually
+increase rather than decrease.
+
+Test 3
+
+	
+
+Which one of the following, if true, most helps to
+explain the discrepancy between the intended results of
+the highway improvements and the results revealed in
+the study?
+(A) 	 Widened and extended roads tend to attract many
+more motorists than used them before their
+improvement.
+(B) 	 Typically, road widening or extension projects
+are undertaken only after the population near
+the road in question has increased and then
+leveled off, leaving a higher average population
+level.
+(C) 	 As a general rule, the greater the number of lanes
+on a given length of highway, the lower the rate
+of accidents per 100,000 vehicles traveling on
+it.
+(D)	 Rural, as compared to urban, traffic usually
+includes a larger proportion of trucks and
+vehicles used by farmers.
+(E)	 Urban traffic generally moves at a slower pace
+and involves more congestion and delays than
+rural and suburban traffic.
+
+2.	 A study found that consumers reaching supermarket
+checkout lines within 40 minutes after the airing of an
+advertisement for a given product over the store’s audio
+system were significantly more likely to purchase the
+product advertised than were consumers who checked
+out prior to the airing. Apparently, these advertisements
+are effective.
+	
+
+Which one of the following, if true, most strengthens
+the argument?
+(A)	
+
+(B)	
+
+(C)	
+(D)	
+
+(E)	
+
+During the study, for most of the advertisements
+more people went through the checkout lines
+after they were aired than before they were
+aired.
+A large proportion of the consumers who
+bought a product shortly after the airing of an
+advertisement for it reported that they had not
+gone to the store intending to buy that product.
+Many of the consumers reported that they
+typically bought at least one of the advertised
+products every time they shopped at the store.
+Many of the consumers who bought an
+advertised product and who reached the
+checkout line within 40 minutes of the
+advertisement’s airing reported that they could
+not remember hearing the advertisement.
+Many of the consumers who bought an
+advertised product reported that they buy that
+product only occasionally.
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4	
+
+4	4	4	4	
+3.	 Unless the building permit is obtained by February 1 of
+this year or some of the other activities necessary for
+construction of the new library can be completed in less
+time than originally planned, the new library will not be
+completed on schedule. It is now clear that the building
+permit cannot be obtained by February 1, so the new
+library will not be completed on schedule.
+	
+
+(B)	
+(C)	
+
+(D)
+
+(E)	
+
+All of the other activities necessary for
+construction of the library will take at least as
+much time as originally planned.
+The officials in charge of construction of the new
+library have admitted that it probably will not be
+completed on schedule.
+The application for a building permit was
+submitted on January 2 of this year, and
+processing building permits always takes at
+least two months.
+The application for a building permit was
+rejected the first time it was submitted, and it
+had to be resubmitted with a revised building
+plan.
+It is not possible to convince authorities to allow
+construction of the library to begin before the
+building permit is obtained.
+
+4.	 In a study of patients who enrolled at a sleep clinic
+because of insomnia, those who inhaled the scent of
+peppermint before going to bed were more likely to
+have difficulty falling asleep than were patients who
+inhaled the scent of bitter orange. Since it is known that
+inhaling bitter orange does not help people fall asleep
+more easily, this study shows that inhaling the scent of
+peppermint makes insomnia worse.
+
+	
+
+Which one of the following, if true, most seriously
+weakens the argument above?
+(A)	
+
+(B)	
+
+(C)	
+
+(D)	
+(E)	
+
+Several studies have shown that inhaling the
+scent of peppermint tends to have a relaxing
+effect on people who do not suffer from
+insomnia.
+The patients who inhaled the scent of bitter
+orange were, on average, suffering from milder
+cases of insomnia than were the patients who
+inhaled the scent of peppermint.
+Because the scents of peppermint and bitter
+orange are each very distinctive, it was not
+possible to prevent the patients from knowing
+that they were undergoing some sort of study of
+the effects of inhaling various scents.
+Some of the patients who enrolled in the sleep
+clinic also had difficulty staying asleep once
+they fell asleep.
+Several studies have revealed that in many cases
+inhaling certain pleasant scents can dramatically
+affect the degree to which a patient suffers from
+insomnia.
+
+The claim that dogs learn best when they are trained
+using both voice commands and hand signals figures in
+the argument in which one of the following ways?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+It is an explicit premise of the argument.
+It is an implicit assumption of the argument.
+It is a statement of background information
+offered to help facilitate understanding the issue
+in the argument.
+It is a statement that the argument claims is
+supported by the study.
+It is an intermediate conclusion that is offered
+as direct support for the argument’s main
+conclusion.
+
+6.	 Of the many test pilots who have flown the new plane,
+none has found it difficult to operate. So it is unlikely
+that the test pilot flying the plane tomorrow will find it
+difficult to operate.
+	
+
+The reasoning in which one of the following arguments
+is most similar to the reasoning in the argument above?
+(A)	
+
+(B)	
+
+(C)	
+
+(D)	
+
+(E)	
+
+All of the many book reviewers who read
+Rachel Nguyen’s new novel thought that it was
+particularly well written. So it is likely that the
+average reader will enjoy the book.
+Many of the book reviewers who read Wim
+Jashka’s new novel before it was published
+found it very entertaining. So it is unlikely
+that most people who buy the book will find it
+boring.
+Neither of the two reviewers who enjoyed
+Sharlene Lo’s new novel hoped that Lo would
+write a sequel. So it is unlikely that the review
+of the book in next Sunday’s newspaper will
+express hope that Lo will write a sequel.
+Many reviewers have read Kip Landau’s
+new novel, but none of them enjoyed it. So
+it is unlikely that the reviewer for the local
+newspaper will enjoy the book when she reads
+it.
+None of the reviewers who have read Gray
+Ornsby’s new novel were offended by it. So it is
+unlikely that the book will offend anyone in the
+general public who reads it.
+
+GO ON TO THE NEXT PAGE.
+
+Test 3
+
+	
+
+5.	 Dogs learn best when they are trained using both voice
+commands and hand signals. After all, a recent study
+shows that dogs who were trained using both voice
+commands and hand signals were twice as likely to
+obey as were dogs who were trained using only voice
+commands.
+
+The conclusion drawn follows logically from the
+premises if which one of the following is assumed?
+(A)	
+
+4
+
+4	
+
+4	4	4	4	
+7.	 Scientist: Any theory that is to be taken seriously must
+affect our perception of the world. Of course, this
+is not, in itself, enough for a theory to be taken
+seriously. To see this, one need only consider
+astrology.
+	
+
+The point of the scientist’s mentioning astrology in the
+argument is to present
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+an example of a theory that should not be
+taken seriously because it does not affect our
+perception of the world
+an example of something that should not be
+considered a theory
+an example of a theory that should not be taken
+seriously despite its affecting our perception of
+the world
+an example of a theory that affects our perception
+of the world, and thus should be taken seriously
+an example of a theory that should be taken
+seriously, even though it does not affect our
+perception of the world
+
+9.	 Legal theorist: Governments should not be allowed
+to use the personal diaries of an individual
+who is the subject of a criminal prosecution as
+evidence against that individual. A diary is a silent
+conversation with oneself and there is no relevant
+difference between speaking to oneself, writing
+one’s thoughts down, and keeping one’s thoughts
+to oneself.
+	
+
+(A)	
+(B)	
+
+(C)	
+
+8.	 Clark: Our local community theater often produces
+plays by critically acclaimed playwrights. In
+fact, the production director says that critical
+acclaim is one of the main factors considered in
+the selection of plays to perform. So, since my
+neighbor Michaela’s new play will be performed
+by the theater this season, she must be a critically
+acclaimed playwright.
+	
+
+The reasoning in Clark’s argument is most vulnerable to
+criticism on the grounds that the argument
+
+Test 3
+
+(A)	
+
+(B)	
+(C)	
+
+(D)	
+(E)	
+
+takes a condition necessary for a playwright’s
+being critically acclaimed to be a condition
+sufficient for a playwright’s being critically
+acclaimed
+fails to consider that several different effects may
+be produced by a single cause
+treats one main factor considered in the selection
+of plays to perform as though it were a
+condition that must be met in order for a play to
+be selected
+uses as evidence a source that there is reason to
+believe is unreliable
+provides no evidence that a playwright’s being
+critically acclaimed is the result rather than
+the cause of his or her plays being selected for
+production
+
+Which one of the following principles, if valid, provides
+the most support for the legal theorist’s argument?
+
+(D)	
+
+(E)	
+
+Governments should not be allowed to compel
+corporate officials to surrender interoffice
+memos to government investigators.
+When crime is a serious problem, governments
+should be given increased power to investigate
+and prosecute suspected wrongdoers, and some
+restrictions on admissible evidence should be
+relaxed.
+Governments should not be allowed to use an
+individual’s remarks to prosecute the individual
+for criminal activity unless the remarks were
+intended for other people.
+Governments should not have the power
+to confiscate an individual’s personal
+correspondence to use as evidence against the
+individual in a criminal trial.
+Governments should do everything in their
+power to investigate and prosecute suspected
+wrongdoers.
+
+10.	 A ring of gas emitting X-rays flickering 450 times per
+second has been observed in a stable orbit around a
+black hole. In light of certain widely accepted physical
+theories, that rate of flickering can best be explained if
+the ring of gas has a radius of 49 kilometers. But the gas
+ring could not maintain an orbit so close to a black hole
+unless the black hole was spinning.
+	
+
+The statements above, if true, most strongly support
+which one of the following, assuming that the widely
+accepted physical theories referred to above are correct?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+Black holes that have orbiting rings of gas with
+radii greater than 49 kilometers are usually
+stationary.
+Only rings of gas that are in stable orbits around
+black holes emit flickering X-rays.
+The black hole that is within the ring of gas
+observed by the astronomers is spinning.
+X-rays emitted by rings of gas orbiting black
+holes cause those black holes to spin.
+A black hole is stationary only if it is orbited
+by a ring of gas with a radius of more than 49
+kilometers.
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4	
+
+4	4	4	4	
+11.	 A mass of “black water” containing noxious organic
+material swept through Laurel Bay last year. Some
+scientists believe that this event was a naturally
+occurring but infrequent phenomenon. The black
+water completely wiped out five species of coral in
+the bay, including mounds of coral that were more
+than two centuries old. Therefore, even if this black
+water phenomenon has struck the bay before, it did not
+reach last year’s intensity at any time in the past two
+centuries.
+	
+
+(B)	
+(C)	
+(D)	
+
+(E)	
+
+Masses of black water such as that observed last
+summer come into the bay more frequently than
+just once every two centuries.
+Every species of coral in the bay was seriously
+harmed by the mass of black water that swept in
+last year.
+The mass of black water that swept through
+the bay last year did not decimate any plant or
+animal species that makes use of coral.
+The mounds of centuries-old coral that were
+destroyed were not in especially fragile
+condition just before the black water swept in
+last year.
+Older specimens of coral in the bay were more
+vulnerable to damage from the influx of black
+water than were young specimens.
+
+	
+
+Which one of the following can be properly inferred
+from the information above?
+(A)	
+(B)	
+
+(C)	
+(D)	
+(E)	
+
+Most nurseries mislabel at least some of their
+fruit trees.
+Some of the nurseries have correctly labeled
+nectarine trees of the Stark Sweet Melody
+variety only if the variety is unsuitable for
+growing in a tub or a pot.
+Any nectarine tree of the Stark Sweet Melody
+variety that a nursery labels “miniature” is
+labeled incorrectly.
+Some nectarine trees that are not labeled
+“miniature” are labeled incorrectly.
+Unless the Stark Sweet Melody variety of
+nectarine tree is suitable for growing in a tub
+or a pot, some nurseries mislabel this variety of
+tree.
+
+Which one of the following, if true, would most weaken
+the psychologist’s argument?
+(A)	
+(B)	
+
+(C)	
+(D)	
+
+(E)	
+
+Many people, including identical twins, undergo
+radical changes in their lifestyles at some point
+in their lives.
+While some studies of identical twins separated
+at birth reveal a high percentage of similar
+personality traits, they also show a few
+differences.
+Scientists are far from being able to link any
+specific genes to specific inclinations.
+Identical twins who grow up together tend to
+develop different beliefs, tastes, and careers
+in order to differentiate themselves from each
+other.
+Twins who are not identical tend to develop
+different beliefs, tastes, and careers.
+
+14.	 Human beings can live happily only in a society where
+love and friendship are the primary motives for actions.
+Yet economic needs can be satisfied in the absence of
+this condition, as, for example, in a merchant society
+where only economic utility motivates action. It is
+obvious then that human beings 	
+.
+	
+
+Which one of the following most logically completes
+the argument?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+can live happily only when economic utility is
+not a motivator in their society
+cannot achieve happiness unless their economic
+needs have already been satisfied
+cannot satisfy economic needs by means of
+interactions with family members and close
+friends
+can satisfy their basic economic needs without
+obtaining happiness
+cannot really be said to have satisfied their
+economic needs unless they are happy
+
+GO ON TO THE NEXT PAGE.
+
+Test 3
+
+12.	 Many nurseries sell fruit trees that they label
+“miniature.” Not all nurseries, however, use this term in
+the same way. While some nurseries label any nectarine
+trees of the Stark Sweet Melody variety as “miniature,”
+for example, others do not. One thing that is clear is
+that if a variety of fruit tree is not suitable for growing
+in a tub or a pot, no tree of that variety can be correctly
+labeled “miniature.”
+	
+
+13.	 Psychologist: Identical twins are virtually the same
+genetically. Moreover, according to some studies,
+identical twins separated at birth and brought up
+in vastly different environments show a strong
+tendency to report similar ethical beliefs, dress
+in the same way, and have similar careers. Thus,
+many of our inclinations must be genetic in origin,
+and not subject to environmental influences.
+
+Which one of the following is an assumption required
+by the argument?
+(A)	
+
+4
+
+4	
+
+4	4	4	4	
+15.	 Technologically, it is already possible to produce
+nonpolluting cars that burn hydrogen rather than
+gasoline. But the national system of fuel stations that
+would be needed to provide the hydrogen fuel for such
+cars does not yet exist. However, this infrastructure is
+likely to appear and grow rapidly. A century ago no
+fuel-distribution infrastructure existed for gasolinepowered vehicles, yet it quickly developed in response
+to consumer demand.
+	
+
+	
+
+(B)	
+(C)	
+
+(D)	
+(E)	
+
+It is already technologically possible to produce
+nonpolluting cars that burn hydrogen rather than
+gasoline.
+The fuel-distribution infrastructure for hydrogenpowered cars still needs to be created.
+If a new kind of technology is developed, the
+infrastructure needed to support that technology
+is likely to quickly develop in response to
+consumer demands.
+The fuel-distribution infrastructure for hydrogenpowered cars is likely to appear and grow
+rapidly.
+Hydrogen-powered vehicles will be similar to
+gasoline-powered vehicles with regard to the
+amount of consumer demand for their fueldistribution infrastructure.
+
+The argument is most vulnerable to criticism on the
+grounds that it
+(A)	
+
+Which one of the following most accurately expresses
+the conclusion drawn in the argument?
+(A)	
+
+Test 3
+
+16.	 Wildlife management experts should not interfere with
+the natural habitats of creatures in the wild, because
+manipulating the environment to make it easier for an
+endangered species to survive in a habitat invariably
+makes it harder for nonendangered species to survive in
+that habitat.
+
+(B)	
+(C)	
+
+(D)	
+
+(E)	
+
+fails to consider that wildlife management
+experts probably know best how to facilitate the
+survival of an endangered species in a habitat
+fails to recognize that a nonendangered species
+can easily become an endangered species
+overlooks the possibility that saving an
+endangered species in a habitat is incompatible
+with preserving the overall diversity of species
+in that habitat
+presumes, without providing justification,
+that the survival of each endangered species
+is equally important to the health of the
+environment
+takes for granted that preserving a currently
+endangered species in a habitat does not have
+higher priority than preserving species in that
+habitat that are not endangered
+
+17.	 Any food that is not sterilized and sealed can contain
+disease-causing bacteria. Once sterilized and properly
+sealed, however, it contains no bacteria. There are many
+different acceptable food-preservation techniques; each
+involves either sterilizing and sealing food or else at
+least slowing the growth of disease-causing bacteria.
+Some of the techniques may also destroy natural food
+enzymes that cause food to spoil or discolor quickly.
+	
+
+If the statements above are true, which one of the
+following must be true?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+All food preserved by an acceptable method is
+free of disease-causing bacteria.
+Preservation methods that destroy enzymes that
+cause food to spoil do not sterilize the food.
+Food preserved by a sterilization method is less
+likely to discolor quickly than food preserved
+with other methods.
+Any nonsterilized food preserved by an
+acceptable method can contain disease-causing
+bacteria.
+If a food contains no bacteria, then it has been
+preserved by an acceptable method.
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4	
+
+4	4	4	4	
+18. Activities that pose risks to life are acceptable if and
+only if each person who bears the risks either gains
+some net benefit that cannot be had without such risks,
+or bears the risks voluntarily.
+	
+
+Which one of the following judgments most closely
+conforms to the principle above?
+(A)	
+
+(B)	
+
+(C)	
+
+(D)	
+
+(E)	
+
+A door-to-door salesperson declines to replace
+his older car with a new model with more safety
+features; this is acceptable because the decision
+not to replace the car is voluntary.
+A smoker subjects people to secondhand smoke
+at an outdoor public meeting; the resulting
+risks are acceptable because the danger from
+secondhand smoke is minimal outdoors, where
+smoke dissipates quickly.
+A motorcyclist rides without a helmet; the risk of
+fatal injury to the motorcyclist thus incurred is
+acceptable because the motorcyclist incurs this
+risk willingly.
+Motor vehicles are allowed to emit certain low
+levels of pollution; the resulting health risks are
+acceptable because all users of motor vehicles
+share the resulting benefit of inexpensive,
+convenient travel.
+A nation requires all citizens to spend two years
+in national service; since such service involves
+no risk to life, the policy is acceptable.
+
+	
+
+The reasoning in the ecologist’s argument is flawed in
+that the argument
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+presumes, without providing justification, that
+the two theories are incompatible with each
+other
+draws a conclusion about a cause on the basis of
+nothing more than a statistical correlation
+treats a condition sufficient for sea butterflies’
+ability to avoid predators as a condition required
+for this ability
+infers, from the claim that no individual member
+of a set has a certain effect, that the set as a
+whole does not have that effect
+draws a conclusion that merely restates material
+present in one or more of its premises
+
+20. Principle: One should criticize the works or actions
+of another person only if the criticism will not
+seriously harm the person criticized and one
+does so in the hope or expectation of benefiting
+someone other than oneself.
+	
+
+Application: Jarrett should not have criticized
+Ostertag’s essay in front of the class, since the
+defects in it were so obvious that pointing them
+out benefited no one.
+
+	
+
+Which one of the following, if true, justifies the above
+application of the principle?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+Jarrett knew that the defects in the essay were so
+obvious that pointing them out would benefit no
+one.
+Jarrett’s criticism of the essay would have been
+to Ostertag’s benefit only if Ostertag had been
+unaware of the defects in the essay at the time.
+Jarrett knew that the criticism might antagonize
+Ostertag.
+Jarrett hoped to gain prestige by criticizing
+Ostertag.
+Jarrett did not expect the criticism to be to
+Ostertag’s benefit.
+
+21. Safety consultant: Judged by the number of injuries per
+licensed vehicle, minivans are the safest vehicles
+on the road. However, in carefully designed crash
+tests, minivans show no greater ability to protect
+their occupants than other vehicles of similar
+size do. Thus, the reason minivans have such a
+good safety record is probably not that they are
+inherently safer than other vehicles, but rather that
+they are driven primarily by low-risk drivers.
+	
+
+Which one of the following, if true, most strengthens
+the safety consultant’s argument?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+When choosing what kind of vehicle to drive,
+low-risk drivers often select a kind that they
+know to perform particularly well in crash tests.
+Judged by the number of accidents per licensed
+vehicle, minivans are no safer than most other
+kinds of vehicles are.
+Minivans tend to carry more passengers at any
+given time than do most other vehicles.
+In general, the larger a vehicle is, the greater its
+ability to protect its occupants.
+Minivans generally have worse braking and
+emergency handling capabilities than other
+vehicles of similar size.
+
+GO ON TO THE NEXT PAGE.
+
+Test 3
+
+19. Ecologist: One theory attributes the ability of sea
+butterflies to avoid predation to their appearance,
+while another attributes this ability to various
+chemical compounds they produce. Recently we
+added each of the compounds to food pellets, one
+compound per pellet. Predators ate the pellets no
+matter which one of the compounds was present.
+Thus the compounds the sea butterflies produce
+are not responsible for their ability to avoid
+predation.
+
+4
+
+4	
+
+4	4	4	4	
+22. Consumer advocate: There is no doubt that the
+government is responsible for the increased cost
+of gasoline, because the government’s policies
+have significantly increased consumer demand
+for fuel, and as a result of increasing demand, the
+price of gasoline has risen steadily.
+	
+
+Which one of the following is an assumption required
+by the consumer advocate’s argument?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+The government can bear responsibility for that
+which it indirectly causes.
+The government is responsible for some
+unforeseen consequences of its policies.
+Consumer demand for gasoline cannot increase
+without causing gasoline prices to increase.
+The government has an obligation to ensure that
+demand for fuel does not increase excessively.
+If the government pursues policies that do not
+increase the demand for fuel, gasoline prices
+tend to remain stable.
+
+23. A species in which mutations frequently occur
+will develop new evolutionary adaptations in
+each generation. Since species survive dramatic
+environmental changes only if they develop new
+evolutionary adaptations in each generation, a species in
+which mutations frequently occur will survive dramatic
+environmental changes.
+	
+
+The flawed pattern of reasoning in which one of
+the following is most closely parallel to that in the
+argument above?
+(A)	
+
+(B)	
+
+(C)	
+
+(D)	
+
+Test 3
+
+(E)	
+
+In a stone wall that is properly built, every stone
+supports another stone. Since a wall’s being
+sturdy depends upon its being properly built,
+only walls that are composed entirely of stones
+supporting other stones are sturdy.
+A play that is performed before a different
+audience every time will never get the same
+reaction from any two audiences. Since no plays
+are performed before the same audience every
+time, no play ever gets the same reaction from
+any two audiences.
+A person who is perfectly honest will tell the
+truth in every situation. Since in order to be a
+morally upright person one must tell the truth at
+all times, a perfectly honest person will also be
+a morally upright person.
+An herb garden is productive only if the soil that
+it is planted in is well drained. Since soil that is
+well drained is good soil, an herb garden is not
+productive unless it is planted in good soil.
+A diet that is healthful is well balanced. Since
+a well-balanced diet includes fruits and
+vegetables, one will not be healthy unless one
+eats fruits and vegetables.
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4	
+
+4	4	4	4	
+24. Music critic: How well an underground rock group’s
+recordings sell is no mark of that group’s success
+as an underground group. After all, if a recording
+sells well, it may be because some of the music
+on the recording is too trendy to be authentically
+underground; accordingly, many underground
+musicians consider it desirable for a recording not
+to sell well. But weak sales may simply be the
+result of the group’s incompetence.
+	
+
+25. Graham: The defeat of the world’s chess champion
+by a computer shows that any type of human
+intellectual activity governed by fixed principles
+can be mastered by machines and thus that a truly
+intelligent machine will inevitably be devised.
+	
+
+Adelaide: But you are overlooking the fact that the
+computer in the case you cite was simply an
+extension of the people who programmed it. It
+was their successful distillation of the principles
+of chess that enabled them to defeat a chess
+champion using a computer.
+
+	
+
+The statements above provide the most support for
+holding that Graham and Adelaide disagree about
+whether
+
+Which one of the following principles, if valid, most
+helps to justify the music critic’s argument?
+(A)	
+(B)	
+
+(C)	
+
+(D)	
+(E)	
+
+If an underground rock group is successful as
+an underground group, its recordings will sell
+neither especially well nor especially poorly.
+An underground rock group is unsuccessful as
+an underground group if it is incompetent or if
+any of its music is too trendy to be authentically
+underground, or both.
+Whether an underground group’s recordings
+meet criteria that many underground musicians
+consider desirable is not a mark of that group’s
+success.
+An underground rock group is successful as an
+underground group if the group is competent
+but its recordings nonetheless do not sell well.
+For an underground rock group, competence and
+the creation of authentically underground music
+are not in themselves marks of success.
+
+4
+
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+chess is the best example of a human intellectual
+activity that is governed by fixed principles
+chess is a typical example of the sorts of
+intellectual activities in which human beings
+characteristically engage
+a computer’s defeat of a human chess player is
+an accomplishment that should be attributed to
+the computer
+intelligence can be demonstrated by the
+performance of an activity in accord with fixed
+principles
+tools can be designed to aid in any human
+activity that is governed by fixed principles
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+Test 3
+
+5
+
+5
+
+5
+
+5
+
+5
+
+SECTION V
+Time—35 minutes
+27 Questions
+
+Test 3
+
+Directions: Each set of questions in this section is based on a single passage or a pair of passages. The questions are to be answered
+on the basis of what is stated or implied in the passage or pair of passages. For some of the questions, more than one of the choices
+could conceivably answer the question. However, you are to choose the best answer; that is, the response that most accurately and
+completely answers the question, and blacken the corresponding space on your answer sheet.
+		 Over the past 50 years, expansive, low-density
+communities have proliferated at the edges of many
+cities in the United States and Canada, creating a
+phenomenon known as suburban sprawl. Andres
+(5) 	 Duany, Elizabeth Plater-Zyberk, and Jeff Speck, a
+	
+group of prominent town planners belonging to a
+	
+movement called New Urbanism, contend that
+suburban sprawl contributes to the decline of civic
+life and civility. For reasons involving the flow of
+(10) 	 automobile traffic, they note, zoning laws usually
+dictate that suburban homes, stores, businesses, and
+schools be built in separate areas, and this separation
+robs people of communal space where they can
+interact and get to know one another. It is as difficult
+(15) 	 to imagine the concept of community without a town
+square or local pub, these town planners contend, as
+it is to imagine the concept of family independent of
+the home.
+		 Suburban housing subdivisions, Duany and his
+(20) 	 colleagues add, usually contain homes identical not
+	
+only in appearance but also in price, resulting in a de
+	
+facto economic segregation of residential
+neighborhoods. Children growing up in these
+neighborhoods, whatever their economic
+(25) 	 circumstances, are certain to be ill prepared for life in
+	
+a diverse society. Moreover, because the widely
+separated suburban homes and businesses are
+connected only by “collector roads,” residents are
+forced to drive, often in heavy traffic, in order to
+(30) 	 perform many daily tasks. Time that would in a town
+center involve social interaction within a physical
+public realm is now spent inside the automobile,
+where people cease to be community members and
+instead become motorists, competing for road space,
+(35) 	 often acting antisocially. Pedestrians rarely act in this
+manner toward each other. Duany and his colleagues
+advocate development based on early-twentieth
+century urban neighborhoods that mix housing of
+different prices and offer residents a “gratifying
+(40)	 public realm” that includes narrow, tree-lined streets,
+	
+parks, corner grocery stores, cafes, small
+neighborhood schools, all within walking distance.
+This, they believe, would give people of diverse
+backgrounds and lifestyles an opportunity to interact
+(45)	 and thus develop mutual respect.
+		 Opponents of New Urbanism claim that migration
+to sprawling suburbs is an expression of people’s
+legitimate desire to secure the enjoyment and
+personal mobility provided by the automobile and the
+(50)	 lifestyle that it makes possible. However, the New
+Urbanists do not question people’s right to their own
+values; instead, they suggest that we should take a
+
+more critical view of these values and of the sprawl	
+conducive zoning and subdivision policies that reflect
+(55) 	 them. New Urbanists are fundamentally concerned
+with the long-term social costs of the now-prevailing
+attitude that individual mobility, consumption, and
+wealth should be valued absolutely, regardless of their
+	
+impact on community life.
+1.	 Which one of the following most accurately expresses
+the main point of the passage?
+(A) 	 In their critique of policies that promote
+suburban sprawl, the New Urbanists neglect to
+consider the interests and values of those who
+prefer suburban lifestyles.
+(B) 	 The New Urbanists hold that suburban sprawl
+inhibits social interaction among people of
+diverse economic circumstances, and they
+advocate specific reforms of zoning laws as a
+solution to this problem.
+(C) 	 The New Urbanists argue that most people
+find that life in small urban neighborhoods
+is generally more gratifying than life in a
+suburban environment.
+(D) 	 The New Urbanists hold that suburban sprawl
+has a corrosive effect on community life, and
+as an alternative they advocate development
+modeled on small urban neighborhoods.
+(E) 	 The New Urbanists analyze suburban sprawl as
+a phenomenon that results from short-sighted
+traffic policies and advocate changes to these
+traffic policies as a means of reducing the
+negative effects of sprawl.
+2.	 According to the passage, the New Urbanists cite
+which one of the following as a detrimental result of
+the need for people to travel extensively every day by
+automobile?
+(A) 	 It imposes an extra financial burden on the
+residents of sprawling suburbs, thus detracting
+from the advantages of suburban life.
+(B) 	 It detracts from the amount of time that people
+could otherwise devote to productive employment.
+(C) 	 It increases the amount of time people spend in
+situations in which antisocial behavior occurs.
+(D)
+It produces significant amounts of air pollution and
+thus tends to harm the quality of people’s lives.
+(E) 	 It decreases the amount of time that parents spend
+in enjoyable interactions with their children.
+GO ON TO THE NEXT PAGE.
+
+5
+
+5
+
+3.	 The passage most strongly suggests that the New
+Urbanists would agree with which one of the following
+statements?
+(A)	
+
+(B)	
+(C)	
+
+(D)	
+(E)	
+
+The primary factor affecting a neighborhood’s
+conduciveness to the maintenance of civility
+is the amount of time required to get from one
+place to another.
+Private citizens in suburbs have little opportunity
+to influence the long-term effects of zoning
+policies enacted by public officials.
+People who live in suburban neighborhoods
+usually have little difficulty finding easily
+accessible jobs that do not require commuting
+to urban centers.
+The spatial configuration of suburban
+neighborhoods both influences and is influenced
+by the attitudes of those who live in them.
+Although people have a right to their own values,
+personal values should not affect the ways in
+which neighborhoods are designed.
+
+4.	 Which one of the following most accurately describes
+the author’s use of the word “communities” in line 2
+and “community” in line 15?
+(A)	
+(B)	
+
+(C)	
+
+(E)	
+
+5
+
+5
+
+5.	 Which one of the following, if true, would most weaken
+the position that the passage attributes to critics of the
+New Urbanists?
+(A)	
+(B)	
+
+(C)	
+(D)	
+
+(E)	
+
+Most people who spend more time than they
+would like getting from one daily task to
+another live in central areas of large cities.
+Most people who often drive long distances for
+shopping and entertainment live in small towns
+rather than in suburban areas surrounding large
+cities.
+Most people who have easy access to shopping
+and entertainment do not live in suburban areas.
+Most people who choose to live in sprawling
+suburbs do so because comparable housing in
+neighborhoods that do not require extensive
+automobile travel is more expensive.
+Most people who vote in municipal elections do
+not cast their votes on the basis of candidates’
+positions on zoning policies.
+
+6.	 The passage most strongly suggests that which one of
+the following would occur if new housing subdivisions
+in suburban communities were built in accordance with
+the recommendations of Duany and his colleagues?
+(A)	
+(B)	
+(C)	
+(D)	
+
+(E)	
+
+The need for zoning laws to help regulate traffic
+flow would eventually be eliminated.
+There would be a decrease in the percentage of
+suburban buildings that contain two or more
+apartments.
+The amount of time that residents of suburbs
+spend traveling to the central business districts
+of cities for work and shopping would increase.
+The need for coordination of zoning policies
+between large-city governments and
+governments of nearby suburban communities
+would be eliminated.
+There would be an increase in the per capita
+number of grocery stores and schools in those
+suburban communities.
+
+7.	 The second paragraph most strongly supports the
+inference that the New Urbanists make which one of the
+following assumptions?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+Most of those who buy houses in sprawling
+suburbs do not pay drastically less than they can
+afford.
+Zoning regulations often cause economically
+uniform suburbs to become economically diverse.
+City dwellers who do not frequently travel in
+automobiles often have feelings of hostility
+toward motorists.
+Few residents of suburbs are aware of the
+potential health benefits of walking, instead of
+driving, to carry out daily tasks.
+People generally prefer to live in houses that
+look very similar to most of the other houses
+around them.
+GO ON TO THE NEXT PAGE.
+
+Test 3
+
+(D)	
+
+They are intended to be understood in almost
+identical ways, the only significant difference
+being that one is plural and the other is singular.
+The former is intended to refer to dwellings—
+and their inhabitants—that happen to be
+clustered together in particular areas; in the
+latter, the author means that a group of people
+have a sense of belonging together.
+In the former, the author means that the groups
+referred to are to be defined in terms of the
+interests of their members; the latter is intended
+to refer generically to a group of people who
+have something else in common.
+The former is intended to refer to groups of
+people whose members have professional
+or political ties to one another; the latter is
+intended to refer to a geographical area in which
+people live in close proximity to one another.
+In the former, the author means that there are
+informal personal ties among members of
+a group of people; the latter is intended to
+indicate that a group of people have similar
+backgrounds and lifestyles.
+
+5
+
+5
+
+5
+
+Test 3
+
+	
+Passage A
+		 In ancient Greece, Aristotle documented the
+	
+ability of foraging honeybees to recruit nestmates to
+a good food source. He did not speculate on how the
+communication occurred, but he and naturalists since
+(5) 	 then have observed that a bee that finds a new
+food source returns to the nest and “dances” for its
+nestmates. In the 1940s, von Frisch and colleagues
+discovered a pattern in the dance. They observed a
+foraging honeybee’s dance, deciphered it, and thereby
+(10)	 deduced the location of the food source the bee had
+discovered. Yet questions still remained regarding the
+precise mechanism used to transmit that information.
+		 In the 1960s, Wenner and Esch each discovered
+independently that dancing honeybees emit low­
+(15)	 frequency sounds, which we now know to come
+from wing vibrations. Both researchers reasoned that
+this might explain the bees’ ability to communicate
+effectively even in completely dark nests. But at that
+time many scientists mistakenly believed that
+(20)	 honeybees lack hearing, so the issue remained
+unresolved. Wenner subsequently proposed that
+smell rather than hearing was the key to honeybee
+communication. He hypothesized that honeybees
+derive information not from sound, but from odors the
+(25)	 forager conveys from the food source.
+		 Yet Gould has shown that foragers can dispatch
+bees to sites they had not actually visited, something
+that would not be possible if odor were in fact
+necessary to bees’ communication. Finally, using a
+(30)	 honeybee robot to simulate the forager’s dance,
+Kirchner and Michelsen showed that sounds emitted
+during the forager’s dance do indeed play an essential
+role in conveying information about the food’s
+location.
+	
+Passage B
+(35)		 All animals communicate in some sense. Bees
+	
+dance, ants leave trails, some fish emit high-voltage
+signals. But some species—bees, birds, and primates,
+for example—communicate symbolically. In an
+experiment with vervet monkeys in the wild,
+(40)	 Seyfarth, Cheney, and Marler found that prerecorded
+vervet alarm calls from a loudspeaker elicited the
+same response as did naturally produced vervet calls
+alerting the group to the presence of a predator of a
+particular type. Vervets looked upward upon hearing
+(45)	 an eagle alarm call, and they scanned the ground
+below in response to a snake alarm call. These
+responses suggest that each alarm call represents, for
+vervets, a specific type of predator.
+		 Karl von Frisch was first to crack the code of the
+(50)	 honeybee’s dance, which he described as “language.”
+The dance symbolically represents the distance,
+direction, and quality of newly discovered food.
+Adrian Wenner and others believed that bees rely on
+olfactory cues, as well as the dance, to find a food
+(55)	 source, but this has turned out not to be so.
+		 While it is true that bees have a simple nervous
+system, they do not automatically follow just any
+
+5
+
+5
+
+5
+
+information. Biologist James Gould trained foraging
+	
+
+bees to find food in a boat placed in the middle of a
+(60)	 lake and then allowed them to return to the hive
+to indicate this new location. He found that hive
+members ignored the foragers’ instructions,
+presumably because no pollinating flowers grow in
+such a place.
+
+8.	 The passages have which one of the following aims in
+common?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+arguing that certain nonhuman animals possess
+human-like intelligence
+illustrating the sophistication with which certain
+primates communicate
+describing certain scientific studies concerned
+with animal communication
+airing a scientific controversy over the function
+of the honeybee’s dance
+analyzing the conditions a symbolic system must
+meet in order to be considered a language
+
+9.	 Which one of the following statements most accurately
+characterizes a difference between the two passages?
+(A)	
+
+(B)	
+
+(C)	
+
+(D)	
+
+(E)	
+
+Passage A is concerned solely with honeybee
+communication, whereas passage B is
+concerned with other forms of animal
+communication as well.
+Passage A discusses evidence adduced by
+scientists in support of certain claims, whereas
+passage B merely presents some of those claims
+without discussing the support that has been
+adduced for them.
+Passage B is entirely about recent theories of
+honeybee communication, whereas passage A
+outlines the historic development of theories of
+honeybee communication.
+Passage B is concerned with explaining the
+distinction between symbolic and nonsymbolic
+communication, whereas passage A, though
+making use of the distinction, does not explain
+it.
+Passage B is concerned with gaining insight into
+human communication by considering certain
+types of nonhuman communication, whereas
+passage A is concerned with these types of
+nonhuman communication in their own right.
+
+GO ON TO THE NEXT PAGE.
+
+5
+
+5
+
+10.	 Which one of the following statements is most strongly
+supported by Gould’s research, as reported in the two
+passages?
+(A)	
+
+(B)	
+(C)	
+(D)	
+
+(E)	
+
+When a forager honeybee does not communicate
+olfactory information to its nestmates, they will
+often disregard the forager’s directions and go
+to sites of their own choosing.
+Forager honeybees instinctively know where
+pollinating flowers usually grow and will not
+dispatch their nestmates to any other places.
+Only experienced forager honeybees are able to
+locate the best food sources.
+A forager’s dances can draw other honeybees to
+sites that the forager has not visited and can fail
+to draw other honeybees to sites that the forager
+has visited.
+Forager honeybees can communicate with their
+nestmates about a newly discovered food source
+by leaving a trail from the food source to the
+honeybee nest.
+
+5
+
+5
+
+5
+
+11.	 It can be inferred from the passages that the author of
+passage A and the author of passage B would accept
+which one of the following statements?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+Honeybees will ignore the instructions conveyed
+in the forager’s dance if they are unable to
+detect odors from the food source.
+Wenner and Esch established that both sound
+and odor play a vital role in most honeybee
+communication.
+Most animal species can communicate
+symbolically in some form or other.
+The work of von Frisch was instrumental in
+answering fundamental questions about how
+honeybees communicate.
+Inexperienced forager honeybees that dance
+to communicate with other bees in their nest
+learn the intricacies of the dance from more
+experienced foragers.
+
+12.	 Which one of the following most accurately describes a
+relationship between the two passages?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+GO ON TO THE NEXT PAGE.
+
+Test 3
+
+Passage A discusses and rejects a position that is
+put forth in passage B.
+Passage A gives several examples of a
+phenomenon for which passage B gives only
+one example.
+Passage A is concerned in its entirety with
+a phenomenon that passage B discusses in
+support of a more general thesis.
+Passage A proposes a scientific explanation for
+a phenomenon that passage B argues cannot be
+plausibly explained.
+Passage A provides a historical account of the
+origins of a phenomenon that is the primary
+concern of passage B.
+
+Test 3
+
+5
+
+5
+
+		 Most scholars of Mexican American history mark
+	
+César Chávez’s unionizing efforts among Mexican
+and Mexican American farm laborers in California as
+the beginning of Chicano political activism in the
+(5)	 1960s. By 1965, Chávez’s United Farm Workers
+Union gained international recognition by initiating
+a worldwide boycott of grapes in an effort to get
+growers in California to sign union contracts. The
+year 1965 also marks the birth of contemporary
+(10)	 Chicano theater, for that is the year Luis Valdez
+approached Chávez about using theater to organize
+farm workers. Valdez and the members of the
+resulting Teatro Campesino are generally credited by
+scholars as having initiated the Chicano theater
+(15)	 movement, a movement that would reach its apex in
+the 1970s.
+		 In the fall of 1965, Valdez gathered a group of
+striking farm workers and asked them to talk about
+their working conditions. A former farm worker
+(20)	 himself, Valdez was no stranger to the players in the
+daily drama that was fieldwork. He asked people to
+illustrate what happened on the picket lines, and the
+less timid in the audience delighted in acting out their
+ridicule of the strikebreakers. Using the farm
+(25)	 workers’ basic improvisations, Valdez guided the
+group toward the creation of what he termed “actos,”
+skits or sketches whose roots scholars have traced
+to various sources that had influenced Valdez as a
+student and as a member of the San Francisco Mime
+(30)	 Troupe. Expanding beyond the initial setting of
+flatbed-truck stages at the fields’ edges, the acto
+became the quintessential form of Chicano theater
+in the 1960s. According to Valdez, the acto should
+suggest a solution to the problems exposed in the
+(35)	 brief comic statement, and, as with any good political
+theater, it should satirize the opposition and inspire
+the audience to social action. Because actos were
+based on participants’ personal experiences, they had
+palpable immediacy.
+(40)		 In her book El Teatro Campesino, Yolanda BroylesGonzález rightly criticizes theater historians for
+having tended to credit Valdez individually with
+inventing actos as a genre, as if the striking farm
+workers’ improvisational talent had depended entirely
+(45)	 on his vision and expertise for the form it took. She
+traces especially the actos’ connections to a similar
+genre of informal, often satirical shows known as
+	
+carpas that were performed in tents to mainly
+working-class audiences. Carpas had flourished
+(50)	 earlier in the twentieth century in the border area of
+Mexico and the United States. Many participants in
+the formation of the Teatro no doubt had substantial
+cultural links to this tradition and likely adapted it to
+their improvisations. The early development of the
+(55)	 Teatro Campesino was, in fact, a collective
+accomplishment; still, Valdez’s artistic contribution
+was a crucial one, for the resulting actos were neither
+carpas nor theater in the European tradition of
+Valdez’s academic training, but a distinctive genre
+(60)	 with connections to both.
+
+5
+
+5
+
+5
+
+13.	 Which one of the following most accurately expresses
+the main point of the passage?
+(A)	
+
+(B)	
+
+(C)	
+
+(D)	
+
+(E)	
+
+Some theater historians have begun to challenge
+the once widely accepted view that in creating
+the Teatro Campesino, Luis Valdez was largely
+uninfluenced by earlier historical forms.
+In crediting Luis Valdez with founding the
+Chicano theater movement, theater historians
+have neglected the role of César Chávez in its
+early development.
+Although the creation of the early material
+of the Teatro Campesino was a collective
+accomplishment, Luis Valdez’s efforts and
+expertise were essential factors in determining
+the form it took.
+The success of the early Teatro Campesino
+depended on the special insights and talents of
+the amateur performers who were recruited by
+Luis Valdez to participate in creating actos.
+Although, as Yolanda Broyles-González has
+pointed out, the Teatro Campesino was a
+collective endeavor, Luis Valdez’s political
+and academic connections helped bring it
+recognition.
+
+14.	 The author uses the word “immediacy” (line 39) most
+likely in order to express
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+how little physical distance there was between
+the performers in the late 1960s actos and their
+audiences
+the sense of intimacy created by the performers’
+technique of addressing many of their lines
+directly to the audience
+the ease with which the Teatro Campesino
+members were able to develop actos based on
+their own experiences
+how closely the director and performers of the
+Teatro Campesino worked together to build a
+repertoire of actos
+how vividly the actos conveyed the performers’
+experiences to their audiences
+
+GO ON TO THE NEXT PAGE.
+
+5
+
+5
+
+15.	 The second sentence of the passage functions primarily
+in which one of the following ways?
+(A)	
+(B)	
+(C)	
+
+(D)	
+
+(E)	
+
+It helps explain both a motivation of those who
+developed the first actos and an important
+aspect of their subject matter.
+It introduces a major obstacle that Valdez had to
+overcome in gaining public acceptance of the
+work of the Teatro Campesino.
+It anticipates and counters a possible objection
+to the author’s view that the actos developed
+by Teatro Campesino were effective as political
+theater.
+It provides an example of the type of topic on
+which scholars of Mexican American history
+have typically focused to the exclusion of
+theater history.
+It helps explain why theater historians, in their
+discussions of Valdez, have often treated him
+as though he were individually responsible for
+inventing actos as a genre.
+
+16.	 The passage indicates that the early actos of the Teatro
+Campesino and the carpas were similar in that
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+both had roots in theater in the European
+tradition
+both were studied by the San Francisco Mime
+Troupe
+both were initially performed on farms
+both often involved satire
+both were part of union organizing drives
+
+17.	 It can be inferred from the passage that Valdez most
+likely held which one of the following views?
+(A)	
+
+(C)	
+
+(D)	
+(E)	
+
+5
+
+5
+
+18.	 Based on the passage, it can be concluded that the
+author and Broyles-González hold essentially the same
+attitude toward
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+the influences that shaped carpas as a dramatic
+genre
+the motives of theater historians in exaggerating
+the originality of Valdez
+the significance of carpas for the development of
+the genre of the acto
+the extent of Valdez’s acquaintance with carpas
+as a dramatic form
+the role of the European tradition in shaping
+Valdez’s contribution to the development of
+actos
+
+19.	 The information in the passage most strongly supports
+which one of the following statements regarding the
+Teatro Campesino?
+(A)	
+(B)	
+(C)	
+(D)	
+
+(E)	
+
+Its efforts to organize farm workers eventually
+won the acceptance of a few farm owners in
+California.
+It included among its members a number of
+individuals who, like Valdez, had previously
+belonged to the San Francisco Mime Troupe.
+It did not play a major role in the earliest efforts
+of the United Farm Workers Union to achieve
+international recognition.
+Although its first performances were entirely in
+Spanish, it eventually gave some performances
+partially in English, for the benefit of nonSpanish-speaking audiences.
+Its work drew praise not only from critics in the
+United States but from critics in Mexico as well.
+
+20.	 The passage most strongly supports which one of the
+following?
+(A)	The carpas tradition has been widely discussed
+and analyzed by both U.S. and Mexican
+theater historians concerned with theatrical
+performance styles and methods.
+(B)	 Comedy was a prominent feature of Chicano
+theater in the 1960s.
+(C)	 In directing the actos of the Teatro Campesino,
+Valdez went to great lengths to simulate or
+recreate certain aspects of what audiences had
+experienced in the carpas.
+(D)	 Many of the earliest actos were based on scripts
+composed by Valdez, which the farm-worker
+actors modified to suit their own diverse
+aesthetic and pragmatic interests.
+(E)	 By the early 1970s, Valdez was using actos as
+the basis for other theatrical endeavors and was
+no longer directly associated with the Teatro
+Campesino.
+GO ON TO THE NEXT PAGE.
+
+Test 3
+
+(B)	
+
+As a theatrical model, the carpas of the early
+twentieth century were ill-suited to the type of
+theater that he and the Teatro Campesino were
+trying to create.
+César Chávez should have done more to support
+the efforts of the Teatro Campesino to use
+theater to organize striking farm workers.
+Avant-garde theater in the European tradition is
+largely irrelevant to the theatrical expression
+of the concerns of a mainly working-class
+audience.
+Actors do not require formal training in order
+to achieve effective and artistically successful
+theatrical performances.
+The aesthetic aspects of a theatrical work should
+be evaluated independently of its political
+ramifications.
+
+5
+
+Test 3
+
+5
+
+5
+
+		 In October 1999, the Law Reform Commission of
+	
+Western Australia (LRCWA) issued its report,
+“Review of the Civil and Criminal Justice System.”
+Buried within its 400 pages are several important
+(5)	 recommendations for introducing contingency fees for
+	
+lawyers’ services into the state of Western Australia.
+Contingency-fee agreements call for payment only if
+the lawyer is successful in the case. Because of the
+lawyer’s risk of financial loss, such charges generally
+(10)	 exceed regular fees.
+		 Although there are various types of contingencyfee arrangements, the LRCWA has recommended
+that only one type be introduced: “uplift” fee
+arrangements, which in the case of a successful
+(15)	 outcome require the client to pay the lawyer’s normal
+fee plus an agreed-upon additional percentage of that
+fee. This restriction is intended to prevent lawyers
+from gaining disproportionately from awards of
+damages and thus to ensure that just compensation to
+(20)	 plaintiffs is not eroded. A further measure toward this
+	
+end is found in the recommendation that contingencyfee agreements should be permitted only in cases
+where two conditions are satisfied: first, the
+	
+contingency-fee arrangement must be used only as a
+(25)	 last resort when all means of avoiding such an
+arrangement have been exhausted; and second, the
+lawyer must be satisfied that the client is financially
+unable to pay the fee in the event that sufficient
+damages are not awarded.
+(30)		 Unfortunately, under this recommendation,
+	
+lawyers wishing to enter into an uplift fee
+arrangement would be forced to investigate not only
+the legal issues affecting any proposed litigation, but
+	
+also the financial circumstances of the potential client
+(35)	 and the probable cost of the litigation. This process
+would likely be onerous for a number of reasons, not
+	
+least of which is the fact that the final cost of
+litigation depends in large part on factors that may
+change as the case unfolds, such as strategies adopted
+(40)	 by the opposing side.
+		 In addition to being burdensome for lawyers, the
+	
+proposal to make contingency-fee agreements
+available only to the least well-off clients would be
+unfair to other clients. This restriction would unjustly
+(45)	 limit freedom of contract and would, in effect, make
+certain types of litigation inaccessible to middleincome people or even wealthy people who might not
+be able to liquidate assets to pay the costs of a trial.
+More importantly, the primary reasons for entering
+(50)	 into contingency-fee agreements hold for all clients.
+	
+First, they provide financing for the costs of pursuing
+a legal action. Second, they shift the risk of not
+recovering those costs, and of not obtaining a
+	
+damages award that will pay their lawyer’s fees, from
+(55)	 the client to the lawyer. Finally, given the
+convergence of the lawyer’s interest and the client’s
+interest under a contingency-fee arrangement, it is
+reasonable to assume that such arrangements increase
+lawyers’ diligence and commitment to their cases.
+
+5
+
+5
+
+5
+
+21.	 As described in the passage, the uplift fee agreements
+that the LRCWA’s report recommends are most closely
+analogous to which one of the following arrangements?
+(A)	
+
+(B)	
+
+(C)	
+
+(D)	
+
+(E)	
+
+People who join together to share the costs of
+purchasing lottery tickets on a regular basis
+agree to share any eventual proceeds from a
+lottery drawing in proportion to the amounts
+they contributed to tickets purchased for that
+drawing.
+A consulting firm reviews a company’s
+operations. The consulting firm will receive
+payment only if it can substantially reduce the
+company’s operating expenses, in which case it
+will be paid double its usual fee.
+The returns that accrue from the assumption of
+a large financial risk by members of a business
+partnership formed to develop and market a new
+invention are divided among them in proportion
+to the amount of financial risk each assumed.
+The cost of an insurance policy is determined
+by reference to the likelihood and magnitude
+of an eventual loss covered by the insurance
+policy and the administrative and marketing
+costs involved in marketing and servicing the
+insurance policy.
+A person purchasing a property receives a loan
+for the purchase from the seller. In order to
+reduce risk, the seller requires the buyer to pay
+for an insurance policy that will pay off the loan
+if the buyer is unable to do so.
+
+22.	 The passage states which one of the following?
+(A)	
+(B)	
+
+(C)	
+
+(D)	
+
+(E)	
+
+Contingency-fee agreements serve the purpose
+of transferring the risk of pursuing a legal action
+from the client to the lawyer.
+Contingency-fee agreements of the kind the
+LRCWA’s report recommends would normally
+not result in lawyers being paid larger fees than
+they deserve.
+At least some of the recommendations in the
+LRCWA’s report are likely to be incorporated
+into the legal system in the state of Western
+Australia.
+Allowing contingency-fee agreements of the sort
+recommended in the LRCWA’s report would
+not affect lawyers’ diligence and commitment
+to their cases.
+Usually contingency-fee agreements involve an
+agreement that the fee the lawyer receives will
+be an agreed-upon percentage of the client’s
+damages.
+
+GO ON TO THE NEXT PAGE.
+
+5
+
+5
+
+5
+
+23.	 The author’s main purpose in the passage is to
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+defend a proposed reform against criticism
+identify the current shortcomings of a legal
+system and suggest how these should be
+remedied
+support the view that a recommended change
+would actually worsen the situation it was
+intended to improve
+show that a legal system would not be
+significantly changed if certain proposed
+reforms were enacted
+explain a suggested reform and critically evaluate
+it
+
+24.	 Which one of the following is given by the passage
+as a reason for the difficulty a lawyer would have in
+determining whether—according to the LRCWA’s
+recommendations—a prospective client was qualified to
+enter into an uplift agreement?
+(A)	
+(B)	
+(C)	
+(D)	
+(E)	
+
+The length of time that a trial may last is difficult
+to predict in advance.
+Not all prospective clients would wish to reveal
+detailed information about their financial
+circumstances.
+Some factors that may affect the cost of litigation
+can change after the litigation begins.
+Uplift agreements should only be used as a last
+resort.
+Investigating whether a client is qualified to enter
+into an uplift agreement would take time away
+from investigating the legal issues of the case.
+
+5
+26.	 According to the passage, the LRCWA’s report
+recommended that contingency-fee agreements
+(A)	
+
+be used only when it is reasonable to think
+that such arrangements will increase lawyers’
+diligence and commitment to their cases
+(B)	 be used only in cases in which clients are
+unlikely to be awarded enormous damages
+(C)	 be used if the lawyer is not certain that the client
+seeking to file a lawsuit could pay the lawyer’s
+regular fee if the suit were to be unsuccessful
+(D) 	 not be used in cases in which another type of
+arrangement is practicable
+(E) 	 not be used except in cases where the lawyer is
+reasonably sure that the client will win damages
+sufficiently large to cover the lawyer’s fees
+27.	 Which one of the following, if true, most seriously
+undermines the author’s criticism of the LRCWA’s
+recommendations concerning contingency-fee
+agreements?
+(A)	
+
+(B)	
+
+(C)	
+
+25.	 The phrase “gaining disproportionately from awards of
+damages” (lines 18–19) is most likely intended by the
+author to mean
+
+(B)	
+
+(C)	
+(D)	
+(E)	
+
+receiving a payment that is of greater monetary
+value than the legal services rendered by the
+lawyer
+receiving a higher portion of the total amount
+awarded in damages than is reasonable
+compensation for the professional services
+rendered and the amount of risk assumed
+receiving a higher proportion of the damages
+awarded to the client than the client considers
+fair
+receiving a payment that is higher than the
+lawyer would have received had the client’s
+case been unsuccessful
+receiving a higher proportion of the damages
+awarded to the client than the judge or the jury
+that awarded the damages intended the lawyer
+to receive
+
+(D)	
+
+(E)	
+
+The proportion of lawsuits filed by the least welloff litigants tends to be higher in areas where
+uplift fee arrangements have been widely used
+than in areas in which uplift agreements have
+not been used.
+Before the LRCWA’s recommendations, lawyers
+in Western Australia generally made a careful
+evaluation of prospective clients’ financial
+circumstances before accepting cases that might
+involve complex or protracted litigation.
+There is strong opposition in Western Australia to
+any legal reform perceived as favoring lawyers,
+so it is highly unlikely that the LRCWA’s
+recommendations concerning contingency-fee
+agreements will be implemented.
+The total fees charged by lawyers who
+successfully litigate cases under uplift fee
+arrangements are, on average, only marginally
+higher than the total fees charged by lawyers
+who litigate cases without contingency
+agreements.
+In most jurisdictions in which contingency-fee
+agreements are allowed, those of the uplift
+variety are used much less often than are other
+types of contingency-fee agreements.
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+Test 3
+
+(A)	
+
+5
+
+PowerScore Practice Test 3
+Experimental Section Answer Key
+(From the December 1996 LSAT)
+Section II - Logical Reasoning
+	
+
+Credited
+Response
+		
+
+	 1.	B
+	 2.	C
+	 3.	B
+	 4.	D
+	 5.	C
+
+Test 3
+
+	 6.	B
+	 7.	B
+	 8.	E
+	 9.	E
+	10.	 A
+	11.	
+	12.	
+	13.	
+	14.	
+	15.	
+
+C
+B
+D
+C
+A
+
+	16.	
+	17.	
+	18.	
+	19.	
+	20.	
+
+E
+C
+A
+C
+D
+
+	21.	
+	22.	
+	23.	
+	24.	
+	25.	
+	
+
+A
+E
+B
+A
+E
+
+Note: Online scoring will provide a more complete picture of your performance.
+
+COMPUTING YOUR SCORE
+Directions:
+1.	 Use the Answer Key on the next page to check your
+answers.
+2. 	 Use the Scoring Worksheet below to compute your
+raw score.
+3. 	 Use the Score Conversion Chart to convert your raw
+score into the 120-180 scale.
+
+Scoring Worksheet
+1. 	 Enter the number of questions you answered
+correctly in each section.
+		
+		
+
+Number
+Correct
+
+SECTION I..................
+SECTION II.................
+SECTION III................
+SECTION IV...............
+2. 	 Enter the sum here:	
+		
+This is your Raw Score.
+
+Conversion Chart:
+For Converting Raw Score to the 120-180 LSAT
+Scaled Score
+LSAT Form 1LSN84
+	 Reported		
+Raw Score
+	 Score	
+Lowest	
+Highest
+97
+96
+—*
+95
+94
+93
+92
+91
+90
+89
+87
+86
+85
+83
+82
+80
+79
+77
+75
+74
+72
+70
+68
+67
+65
+63
+62
+60
+58
+56
+55
+53
+51
+50
+48
+47
+45
+43
+42
+40
+39
+37
+36
+35
+33
+32
+31
+29
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+0
+
+99
+96
+—*
+95
+94
+93
+92
+91
+90
+89
+88
+86
+85
+84
+82
+81
+79
+78
+76
+74
+73
+71
+69
+67
+66
+64
+62
+61
+59
+57
+55
+54
+52
+50
+49
+47
+46
+44
+42
+41
+39
+38
+36
+35
+34
+32
+31
+30
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+
+*There is no raw score that will produce this scaled score for this form.
+
+Test 3
+
+180
+179
+178
+177
+176
+175
+174
+173
+172
+171
+170
+169
+168
+167
+166
+165
+164
+163
+162
+161
+160
+159
+158
+157
+156
+155
+154
+153
+152
+151
+150
+149
+148
+147
+146
+145
+144
+143
+142
+141
+140
+139
+138
+137
+136
+135
+134
+133
+132
+131
+130
+129
+128
+127
+126
+125
+124
+123
+122
+121
+120
+
+Test 3
+
+S C A N T R O N
+
+®
+
+SIDE 1
+
+EliteView™ EM-286024-1:654321
+
+INSTRUCTIONS FOR COMPLETING THE BIOGRAPHICAL AREA ARE ON THE BACK COVER OF YOUR TEST BOOKLET.
+USE ONLY A NO. 2 OR HB PENCIL TO COMPLETE THIS ANSWER SHEET. DO NOT USE INK.
+Right Mark
+
+LAST NAME
+
+FIRST NAME
+
+A
+B
+
+A
+B
+
+A
+B
+
+A
+B
+
+A
+B
+
+A
+B
+
+A
+B
+
+A
+B
+
+A
+B
+
+A
+B
+
+A
+B
+
+A
+B
+
+A
+B
+
+A
+B
+
+A
+B
+
+A
+B
+
+A
+B
+
+A
+B
+
+A
+B
+
+A
+B
+
+A
+B
+
+C
+D
+E
+F
+G
+H
+
+C
+D
+E
+F
+G
+H
+
+C
+D
+E
+F
+G
+H
+
+C
+D
+E
+F
+G
+H
+
+C
+D
+E
+F
+G
+H
+
+C
+D
+E
+F
+G
+H
+
+C
+D
+E
+F
+G
+H
+
+C
+D
+E
+F
+G
+H
+
+C
+D
+E
+F
+G
+H
+
+C
+D
+E
+F
+G
+H
+
+C
+D
+E
+F
+G
+H
+
+C
+D
+E
+F
+G
+H
+
+C
+D
+E
+F
+G
+H
+
+C
+D
+E
+F
+G
+H
+
+C
+D
+E
+F
+G
+H
+
+C
+D
+E
+F
+G
+H
+
+C
+D
+E
+F
+G
+H
+
+C
+D
+E
+F
+G
+H
+
+C
+D
+E
+F
+G
+H
+
+C
+D
+E
+F
+G
+H
+
+C
+D
+E
+F
+G
+H
+
+I
+J
+K
+L
+M
+N
+
+I
+J
+K
+L
+M
+N
+
+I
+J
+K
+L
+M
+N
+
+I
+J
+K
+L
+M
+N
+
+I
+J
+K
+L
+M
+N
+
+I
+J
+K
+L
+M
+N
+
+I
+J
+K
+L
+M
+N
+
+I
+J
+K
+L
+M
+N
+
+I
+J
+K
+L
+M
+N
+
+I
+J
+K
+L
+M
+N
+
+I
+J
+K
+L
+M
+N
+
+I
+J
+K
+L
+M
+N
+
+I
+J
+K
+L
+M
+N
+
+I
+J
+K
+L
+M
+N
+
+I
+J
+K
+L
+M
+N
+
+I
+J
+K
+L
+M
+N
+
+I
+J
+K
+L
+M
+N
+
+I
+J
+K
+L
+M
+N
+
+I
+J
+K
+L
+M
+N
+
+I
+J
+K
+L
+M
+N
+
+I
+J
+K
+L
+M
+N
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+R
+S
+T
+
+R
+S
+T
+
+R
+S
+T
+
+R
+S
+T
+
+R
+S
+T
+
+R
+S
+T
+
+R
+S
+T
+
+R
+S
+T
+
+R
+S
+T
+
+R
+S
+T
+
+R
+S
+T
+
+R
+S
+T
+
+R
+S
+T
+
+R
+S
+T
+
+R
+S
+T
+
+R
+S
+T
+
+R
+S
+T
+
+R
+S
+T
+
+R
+S
+T
+
+R
+S
+T
+
+R
+S
+T
+
+U
+V
+W
+X
+Y
+Z
+
+U
+V
+W
+X
+Y
+Z
+
+U
+V
+W
+X
+Y
+Z
+
+U
+V
+W
+X
+Y
+Z
+
+U
+V
+W
+X
+Y
+Z
+
+U
+V
+W
+X
+Y
+Z
+
+U
+V
+W
+X
+Y
+Z
+
+U
+V
+W
+X
+Y
+Z
+
+U
+V
+W
+X
+Y
+Z
+
+U
+V
+W
+X
+Y
+Z
+
+U
+V
+W
+X
+Y
+Z
+
+U
+V
+W
+X
+Y
+Z
+
+U
+V
+W
+X
+Y
+Z
+
+U
+V
+W
+X
+Y
+Z
+
+U
+V
+W
+X
+Y
+Z
+
+U
+V
+W
+X
+Y
+Z
+
+U
+V
+W
+X
+Y
+Z
+
+U
+V
+W
+X
+Y
+Z
+
+U
+V
+W
+X
+Y
+Z
+
+U
+V
+W
+X
+Y
+Z
+
+U
+V
+W
+X
+Y
+Z
+
+8
+
+9
+
+GENDER
+
+Male
+Female
+
+10
+
+DOMINANT
+LANGUAGE
+
+English
+Other
+
+2
+
+MI
+
+Yes
+No
+
+0
+1
+2
+3
+4
+5
+6
+
+0
+1
+2
+3
+4
+5
+6
+
+0
+1
+2
+3
+4
+5
+6
+
+0
+1
+2
+3
+4
+5
+6
+
+0
+1
+2
+3
+4
+5
+6
+
+0
+1
+2
+3
+4
+5
+6
+
+0
+1
+2
+3
+4
+5
+6
+
+0
+1
+2
+3
+4
+5
+6
+
+0
+1
+2
+3
+4
+5
+6
+
+0
+1
+2
+3
+4
+5
+6
+
+0
+1
+2
+3
+4
+5
+6
+
+0
+1
+2
+3
+4
+5
+6
+
+0
+1
+2
+3
+4
+5
+6
+
+0
+1
+2
+3
+4
+5
+6
+
+0
+
+2
+3
+4
+5
+6
+
+0
+1
+2
+3
+4
+5
+6
+
+1
+2
+3
+4
+5
+6
+
+0
+1
+2
+3
+4
+5
+6
+
+0
+1
+2
+3
+4
+5
+6
+
+0
+1
+2
+3
+4
+5
+6
+
+7
+8
+9
+
+7
+8
+9
+
+7
+8
+9
+
+7
+8
+9
+
+7
+8
+9
+
+7
+8
+9
+
+7
+8
+9
+
+7
+8
+9
+
+7
+8
+9
+
+7
+8
+9
+
+7
+8
+9
+
+7
+8
+9
+
+7
+8
+9
+
+7
+8
+9
+
+7
+8
+9
+
+7
+8
+9
+
+7
+8
+9
+
+7
+8
+9
+
+7
+8
+9
+
+7
+8
+9
+
+7
+8
+9
+
+5
+
+6
+
+DATE OF BIRTH
+MONTH DAY YEAR
+
+Jan
+Feb
+Mar
+Apr
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+
+0
+1
+2
+3
+
+0
+1
+2
+3
+
+0
+1
+2
+3
+
+0
+1
+2
+3
+
+0
+1
+2
+3
+
+0
+1
+2
+3
+
+0
+1
+2
+3
+
+0
+1
+2
+3
+
+0
+1
+2
+3
+
+0
+1
+2
+3
+
+0
+1
+2
+3
+
+4
+5
+6
+7
+8
+
+4
+5
+6
+7
+8
+
+4
+5
+6
+7
+8
+
+4
+5
+6
+7
+8
+
+4
+5
+6
+7
+8
+
+4
+5
+6
+7
+8
+
+4
+5
+6
+7
+8
+
+4
+5
+6
+7
+8
+
+4
+5
+6
+7
+8
+
+4
+5
+6
+7
+8
+
+9
+
+9
+
+9
+
+9
+
+9
+
+9
+
+9
+
+9
+
+9
+
+9
+
+12
+
+TEST DATE
+
+MONTH
+
+DAY
+
+A
+A
+A
+
+B
+B
+B
+
+C
+C
+C
+
+D
+D
+D
+
+E
+E
+E
+
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+
+A
+A
+
+B
+B
+
+C
+C
+
+D
+D
+
+E
+E
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+
+SECTION 2
+A
+A
+A
+
+B
+B
+B
+
+C
+C
+C
+
+D
+D
+D
+
+E
+E
+E
+
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+
+A
+A
+
+B
+B
+
+C
+C
+
+D
+D
+
+E
+E
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+
+SECTION 3
+A
+A
+A
+
+B
+B
+B
+
+C
+C
+C
+
+D
+D
+D
+
+E
+E
+E
+
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+
+A
+A
+
+B
+B
+
+C
+C
+
+D
+D
+
+E
+E
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+
+7
+
+TEST
+FORM CODE
+
+RACIAL/ETHNIC
+DESCRIPTION
+Mark one or more
+
+1 Amer. Indian/Alaska Native
+2 Asian
+3 Black/African American
+4 Canadian Aboriginal
+5 Caucasian/White
+6 Hispanic/Latino
+7 Native Hawaiian/
+Other Pacific Islander
+8 Puerto Rican
+9 TSI/Aboriginal Australian
+
+TEST FORM
+
+YEAR
+
+13
+
+Mark one and only one answer to each question. Be sure to fill in completely the space for your
+intended answer choice. If you erase, do so completely. Make no stray marks.
+SECTION 1
+
+CENTER
+NUMBER
+
+0
+1
+2
+3
+4
+5
+6
+
+Law School Admission Test
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+
+4
+
+LSAC
+ACCOUNT NUMBER
+
+L
+0
+1
+
+11
+
+ENGLISH
+FLUENCY
+
+3
+
+SOCIAL SECURITY/
+SOCIAL INSURANCE NO.
+
+SECTION 4
+A
+A
+A
+
+B
+B
+B
+
+C
+C
+C
+
+D
+D
+D
+
+E
+E
+E
+
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+
+A
+A
+
+B
+B
+
+C
+C
+
+D
+D
+
+E
+E
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+
+SECTION 5
+A
+A
+A
+
+B
+B
+B
+
+C
+C
+C
+
+D
+D
+D
+
+E
+E
+E
+
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+
+A
+A
+
+B
+B
+
+C
+C
+
+D
+D
+
+E
+E
+
+14
+
+TEST BOOK
+SERIAL NO.
+
+A
+B
+C
+D
+E
+F
+
+A
+B
+C
+D
+E
+F
+
+0
+1
+2
+3
+4
+5
+
+0
+1
+2
+3
+4
+5
+
+0
+1
+2
+3
+4
+5
+
+0
+1
+2
+3
+4
+5
+
+0
+1
+2
+3
+4
+5
+
+0
+1
+2
+3
+4
+5
+
+G
+H
+I
+J
+K
+L
+M
+N
+
+G
+H
+I
+J
+K
+L
+M
+N
+
+6
+7
+8
+9
+
+6
+7
+8
+9
+
+6
+7
+8
+9
+
+6
+7
+8
+9
+
+6
+7
+8
+9
+
+6
+7
+8
+9
+
+O
+
+O
+
+P
+
+P
+
+Q
+
+Q
+
+R
+S
+T
+
+R
+S
+T
+
+PLEASE PRINT INFORMATION
+
+LAST NAME
+
+FIRST
+
+SSN/SIN
+
+DATE OF BIRTH
+© 2011 BY LAW SCHOOL ADMISSION COUNCIL.
+ALL RIGHTS RESERVED. PRINTED IN USA.
+A
+
+B
+C
+
+1
+
+A
+
+Wrong Marks
+
+✓ ✗
+
+C
+
+USE A NO. 2 OR HB PENCIL ONLY
+
+

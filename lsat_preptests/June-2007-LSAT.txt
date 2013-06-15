@@ -1,0 +1,6640 @@
+A Publication of the Law School Admission Council,
+The Producers of the LSAT
+®
+
+THE OFFICIAL LSAT
+
+PREPTEST
+
+®
+
+• Form 8LSN75
+
+JUNE 2007
+
+LSAC.org
+
+1
+
+Taking the June 2007 Test Under Simulated LSAT Conditions
+One important way to prepare for the LSAT is to simulate
+the day of the test by taking a practice test under actual time
+constraints. Taking a practice test under timed conditions
+helps you to estimate the amount of time you can afford to
+spend on each question in a section and to determine the
+question types on which you may need additional practice.
+Since the LSAT is a timed test, it is important to use
+your allotted time wisely. During the test, you may work
+only on the section designated by the test supervisor. You
+cannot devote extra time to a difficult section and make
+up that time on a section you find easier. In pacing
+yourself, and checking your answers, you should think of
+each section of the test as a separate minitest.
+Be sure that you answer every question on the test.
+When you do not know the correct answer to a question,
+first eliminate the responses that you know are incorrect,
+then make your best guess among the remaining choices.
+Do not be afraid to guess as there is no penalty for
+incorrect answers.
+When you take the practice test that follows, abide by all
+the requirements specified in the directions and keep
+strictly within the specified time limits. Work without a
+rest period. When you take an actual test you will have
+only a short break—usually 10–15 minutes—after
+
+SECTION III. When taken under conditions as much like
+actual testing conditions as possible (see Day of the Test,
+at http://www.LSAC.org/JD/LSAT/day-of-test.asp), the
+practice test provides very useful preparation for taking
+the LSAT.
+Official directions for the four multiple-choice sections
+and the writing sample are included in this practice test
+so that you can approximate actual testing conditions as
+you practice. To take the test:
+■
+
+■
+
+■
+
+■
+
+Set a timer for 35 minutes. Answer all the questions in
+SECTION I. Stop working on that section when the 35
+minutes have elapsed.
+Repeat, allowing yourself 35 minutes each for sections
+II, III, and IV.
+Set the timer again for 35 minutes, then prepare your
+response to the writing sample at the end of this test.
+Refer to “Computing Your Score” on page 38 in this
+book for instruction on evaluating your performance.
+An answer key is provided for this purpose.
+
+How This Practice Test Differs From an Actual LSAT
+This practice test is made up of the scored sections from the
+actual disclosed LSAT administered in June 2007 as well as
+the writing sample topic. However, it does not contain the
+extra, variable section that is used to pretest new test items
+of one of the three multiple-choice question types. The three
+multiple-choice question types may be in a different order
+
+in an actual LSAT than in this practice test. This is because
+the order of these question types is intentionally varied for
+each administration of the test. The actual test contains
+section headers at the top of each page that are not included
+in this practice test.
+
+The Writing Sample
+The writing sample is not scored but is used by law school
+admission personnel to assess writing skill. Your writing
+sample is copied and sent to law schools to which you
+direct your LSAT score. Some writing sample prompts,
+or variations of them, may be given at more than one
+LSAT administration.
+
+The time allotted for the writing sample is 35 minutes,
+with two pages of writing space.
+Scratch paper is provided for use during the writing
+sample portion of the test only. Scratch paper cannot be
+used in other sections of the LSAT.
+
+2
+SECTION I
+Time—35 minutes
+23 Questions
+Directions: Each group of questions in this section is based on a set of conditions. In answering some of the questions, it may be
+useful to draw a rough diagram. Choose the response that most accurately and completely answers each question and blacken
+the corresponding space on your answer sheet.
+Questions 1–5
+A company employee generates a series of five-digit product
+codes in accordance with the following rules:
+The codes use the digits 0, 1, 2, 3, and 4, and no others.
+Each digit occurs exactly once in any code.
+The second digit has a value exactly twice that of the
+first digit.
+The value of the third digit is less than the value of the
+fifth digit.
+1. If the last digit of an acceptable product code is 1, it
+must be true that the
+(A)
+(B)
+(C)
+(D)
+(E)
+
+first digit is 2
+second digit is 0
+third digit is 3
+fourth digit is 4
+fourth digit is 0
+
+2. Which one of the following must be true about any
+acceptable product code?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+The digit
+digit 2.
+The digit
+digit 3.
+The digit
+digit 3.
+The digit
+digit 0.
+The digit
+digit 3.
+
+1 appears in some position before the
+
+The
+The
+The
+The
+The
+
+(A)
+(B)
+(C)
+(D)
+(E)
+
+0,
+0,
+1,
+3,
+3,
+
+1
+3
+0
+0
+4
+
+5. Which one of the following must be true about any
+acceptable product code?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+There is exactly one digit between the digit 0
+and the digit 1.
+There is exactly one digit between the digit 1
+and the digit 2.
+There are at most two digits between the digit 1
+and the digit 3.
+There are at most two digits between the digit 2
+and the digit 3.
+There are at most two digits between the digit 2
+and the digit 4.
+
+1 appears in some position before the
+2 appears in some position before the
+3 appears in some position before the
+4 appears in some position before the
+
+3. If the third digit of an acceptable product code is not 0,
+which one of the following must be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+4. Any of the following pairs could be the third and
+fourth digits, respectively, of an acceptable product
+code, EXCEPT:
+
+second digit of the product code is 2.
+third digit of the product code is 3.
+fourth digit of the product code is 0.
+fifth digit of the product code is 3.
+fifth digit of the product code is 1.
+
+GO ON TO THE NEXT PAGE.
+
+3
+Questions 6–10
+Exactly three films—Greed, Harvest, and Limelight—are
+shown during a film club’s festival held on Thursday, Friday,
+and Saturday. Each film is shown at least once during the
+festival but never more than once on a given day. On each day
+at least one film is shown. Films are shown one at a time. The
+following conditions apply:
+On Thursday Harvest is shown, and no film is shown after
+it on that day.
+On Friday either Greed or Limelight, but not both, is
+shown, and no film is shown after it on that day.
+On Saturday either Greed or Harvest, but not both, is
+shown, and no film is shown after it on that day.
+6. Which one of the following could be a complete and
+accurate description of the order in which the films are
+shown at the festival?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Thursday: Limelight, then Harvest; Friday:
+Limelight; Saturday: Harvest
+Thursday: Harvest; Friday: Greed, then
+Limelight; Saturday: Limelight, then Greed
+Thursday: Harvest; Friday: Limelight; Saturday:
+Limelight, then Greed
+Thursday: Greed, then Harvest, then Limelight;
+Friday: Limelight; Saturday: Greed
+Thursday: Greed, then Harvest; Friday:
+Limelight, then Harvest; Saturday: Harvest
+
+7. Which one of the following CANNOT be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Harvest is the last film shown on each day of the
+festival.
+Limelight is shown on each day of the festival.
+Greed is shown second on each day of the
+festival.
+A different film is shown first on each day of the
+festival.
+A different film is shown last on each day of the
+festival.
+
+8. If Limelight is never shown again during the festival
+once Greed is shown, then which one of the following is
+the maximum number of film showings that could occur
+during the festival?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+three
+four
+five
+six
+seven
+
+9. If Greed is shown exactly three times, Harvest is shown
+exactly twice, and Limelight is shown exactly once, then
+which one of the following must be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+All three films are shown on Thursday.
+Exactly two films are shown on Saturday.
+Limelight and Harvest are both shown on
+Thursday.
+Greed is the only film shown on Saturday.
+Harvest and Greed are both shown on Friday.
+
+10. If Limelight is shown exactly three times, Harvest is
+shown exactly twice, and Greed is shown exactly once,
+then which one of the following is a complete and
+accurate list of the films that could be the first film
+shown on Thursday?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Harvest
+Limelight
+Greed, Harvest
+Greed, Limelight
+Greed, Harvest, Limelight
+
+GO ON TO THE NEXT PAGE.
+
+4
+Questions 11–17
+A cruise line is scheduling seven week-long voyages for the
+ship Freedom. Each voyage will occur in exactly one of the
+first seven weeks of the season: weeks 1 through 7. Each
+voyage will be to exactly one of four destinations:
+Guadeloupe, Jamaica, Martinique, or Trinidad. Each
+destination will be scheduled for at least one of the weeks. The
+following conditions apply to Freedom’s schedule:
+Jamaica will not be its destination in week 4.
+Trinidad will be its destination in week 7.
+Freedom will make exactly two voyages to Martinique,
+and at least one voyage to Guadeloupe will occur in some
+week between those two voyages.
+Guadeloupe will be its destination in the week preceding
+any voyage it makes to Jamaica.
+No destination will be scheduled for consecutive weeks.
+11. Which one of the following is an acceptable schedule of
+destinations for Freedom, in order from week 1 through
+week 7?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Guadeloupe, Jamaica, Martinique, Trinidad,
+Guadeloupe, Martinique, Trinidad
+Guadeloupe, Martinique, Trinidad, Martinique,
+Guadeloupe, Jamaica, Trinidad
+Jamaica, Martinique, Guadeloupe, Martinique,
+Guadeloupe, Jamaica, Trinidad
+Martinique, Trinidad, Guadeloupe, Jamaica,
+Martinique, Guadeloupe, Trinidad
+Martinique, Trinidad, Guadeloupe, Trinidad,
+Guadeloupe, Jamaica, Martinique
+
+12. Which one of the following CANNOT be true about
+Freedom’s schedule of voyages?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Freedom makes
+Freedom makes
+week 5.
+Freedom makes
+Freedom makes
+Freedom makes
+week 3.
+
+a voyage to Trinidad in week 6.
+a voyage to Martinique in
+a voyage to Jamaica in week 6.
+a voyage to Jamaica in week 3.
+a voyage to Guadeloupe in
+
+14. If Freedom makes a voyage to Guadeloupe in week 1
+and a voyage to Jamaica in week 5, which one of the
+following must be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Freedom makes
+Freedom makes
+week 2.
+Freedom makes
+week 3.
+Freedom makes
+week 4.
+Freedom makes
+
+a voyage to Trinidad in week 1.
+a voyage to Martinique in
+
+a voyage to Jamaica in week 2.
+a voyage to Trinidad in week 2.
+a voyage to Martinique in
+a voyage to Guadeloupe in
+a voyage to Martinique in
+
+15. If Freedom makes a voyage to Guadeloupe in week 1
+and to Trinidad in week 2, which one of the following
+must be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Freedom makes
+week 3.
+Freedom makes
+week 4.
+Freedom makes
+week 5.
+Freedom makes
+week 3.
+Freedom makes
+week 5.
+
+a voyage to Martinique in
+a voyage to Martinique in
+a voyage to Martinique in
+a voyage to Guadeloupe in
+a voyage to Guadeloupe in
+
+16. If Freedom makes a voyage to Martinique in week 3,
+which one of the following could be an accurate list of
+Freedom’s destinations in week 4 and week 5,
+respectively?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Guadeloupe, Trinidad
+Jamaica, Guadeloupe
+Martinique, Trinidad
+Trinidad, Jamaica
+Trinidad, Martinique
+
+17. Which one of the following must be true about
+Freedom’s schedule of voyages?
+(A)
+(B)
+
+13. If Freedom makes a voyage to Trinidad in week 5,
+which one of the following could be true?
+
+Freedom makes
+Freedom makes
+Freedom makes
+week 3.
+Freedom makes
+week 6.
+Freedom makes
+week 6.
+
+(C)
+(D)
+(E)
+
+Freedom makes a voyage to Guadeloupe either in
+week 1 or else in week 2.
+Freedom makes a voyage to Martinique either in
+week 2 or else in week 3.
+Freedom makes at most two voyages to
+Guadeloupe.
+Freedom makes at most two voyages to Jamaica.
+Freedom makes at most two voyages to Trinidad.
+
+a voyage to Guadeloupe in
+a voyage to Martinique in
+a voyage to Jamaica in week 6.
+
+GO ON TO THE NEXT PAGE.
+
+5
+Questions 18–23
+There are exactly three recycling centers in Rivertown:
+Center 1, Center 2, and Center 3. Exactly five kinds of
+material are recycled at these recycling centers: glass,
+newsprint, plastic, tin, and wood. Each recycling center
+recycles at least two but no more than three of these kinds of
+material. The following conditions must hold:
+Any recycling center that recycles wood also recycles
+newsprint.
+Every kind of material that Center 2 recycles is also
+recycled at Center 1.
+Only one of the recycling centers recycles plastic, and that
+recycling center does not recycle glass.
+18. Which one of the following could be an accurate account
+of all the kinds of material recycled at each recycling
+center in Rivertown?
+(A)
+(B)
+
+(C)
+(D)
+(E)
+
+Center 1: newsprint, plastic, wood; Center 2:
+newsprint, wood; Center 3: glass, tin, wood
+Center 1: glass, newsprint, tin; Center 2: glass,
+newsprint, tin; Center 3: newsprint, plastic,
+wood
+Center 1: glass, newsprint, wood; Center 2: glass,
+newsprint, tin; Center 3: plastic, tin
+Center 1: glass, plastic, tin; Center 2: glass, tin;
+Center 3: newsprint, wood
+Center 1: newsprint, plastic, wood; Center 2:
+newsprint, plastic, wood; Center 3: glass,
+newsprint, tin
+
+19. Which one of the following is a complete and accurate
+list of the recycling centers in Rivertown any one of
+which could recycle plastic?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Center
+Center
+Center
+Center
+Center
+
+1 only
+3 only
+1, Center 2
+1, Center 3
+1, Center 2, Center 3
+
+20. If Center 2 recycles three kinds of material, then which
+one of the following kinds of material must Center 3
+recycle?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+glass
+newsprint
+plastic
+tin
+wood
+
+21. If each recycling center in Rivertown recycles exactly
+three kinds of material, then which one of the following
+could be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Only
+Only
+Only
+Only
+Only
+
+Center
+Center
+Center
+Center
+Center
+
+2
+3
+1
+3
+1
+
+recycles
+recycles
+recycles
+recycles
+recycles
+
+glass.
+newsprint.
+plastic.
+tin.
+wood.
+
+22. If Center 3 recycles glass, then which one of the
+following kinds of material must Center 2 recycle?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+glass
+newsprint
+plastic
+tin
+wood
+
+23. If Center 1 is the only recycling center that recycles
+wood, then which one of the following could be a
+complete and accurate list of the kinds of material that
+one of the recycling centers recycles?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+plastic, tin
+newsprint, wood
+newsprint, tin
+glass, wood
+glass, tin
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+6
+SECTION II
+Time—35 minutes
+25 Questions
+Directions: The questions in this section are based on the reasoning contained in brief statements or passages. For some
+questions, more than one of the choices could conceivably answer the question. However, you are to choose the best answer; that
+is, the response that most accurately and completely answers the question. You should not make assumptions that are by
+commonsense standards implausible, superfluous, or incompatible with the passage. After you have chosen the best answer,
+blacken the corresponding space on your answer sheet.
+1. Economist: Every business strives to increase its
+productivity, for this increases profits for the
+owners and the likelihood that the business will
+survive. But not all efforts to increase
+productivity are beneficial to the business as a
+whole. Often, attempts to increase productivity
+decrease the number of employees, which clearly
+harms the dismissed employees as well as the
+sense of security of the retained employees.
+
+2. All Labrador retrievers bark a great deal. All Saint
+Bernards bark infrequently. Each of Rosa’s dogs is a
+cross between a Labrador retriever and a Saint Bernard.
+Therefore, Rosa’s dogs are moderate barkers.
+Which one of the following uses flawed reasoning that
+most closely resembles the flawed reasoning used in
+the argument above?
+(A)
+
+Which one of the following most accurately expresses
+the main conclusion of the economist’s argument?
+(A)
+
+(B)
+
+(C)
+
+(D)
+(E)
+
+If an action taken to secure the survival of a
+business fails to enhance the welfare of the
+business’s employees, that action cannot be
+good for the business as a whole.
+Some measures taken by a business to increase
+productivity fail to be beneficial to the business
+as a whole.
+Only if the employees of a business are also its
+owners will the interests of the employees and
+owners coincide, enabling measures that will
+be beneficial to the business as a whole.
+There is no business that does not make efforts
+to increase its productivity.
+Decreasing the number of employees in a
+business undermines the sense of security of
+retained employees.
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+All students who study diligently make good
+grades. But some students who do not study
+diligently also make good grades. Jane studies
+somewhat diligently. Therefore, Jane makes
+somewhat good grades.
+All type A chemicals are extremely toxic to
+human beings. All type B chemicals are
+nontoxic to human beings. This household
+cleaner is a mixture of a type A chemical and
+a type B chemical. Therefore, this household
+cleaner is moderately toxic.
+All students at Hanson School live in Green
+County. All students at Edwards School live in
+Winn County. Members of the Perry family
+attend both Hanson and Edwards. Therefore,
+some members of the Perry family live in
+Green County and some live in Winn County.
+All transcriptionists know shorthand. All
+engineers know calculus. Bob has worked both
+as a transcriptionist and as an engineer.
+Therefore, Bob knows both shorthand and
+calculus.
+All of Kenisha’s dresses are very well made.
+All of Connie’s dresses are very badly made.
+Half of the dresses in this closet are very well
+made, and half of them are very badly made.
+Therefore, half of the dresses in this closet are
+Kenisha’s and half of them are Connie’s.
+
+GO ON TO THE NEXT PAGE.
+
+7
+3. A century in certain ways is like a life, and as the end
+of a century approaches, people behave toward that
+century much as someone who is nearing the end of
+life does toward that life. So just as people in their last
+years spend much time looking back on the events of
+their life, people at a century’s end _______.
+Which one of the following most logically completes
+the argument?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+reminisce about their own lives
+fear that their own lives are about to end
+focus on what the next century will bring
+become very interested in the history of the
+century just ending
+reflect on how certain unfortunate events of the
+century could have been avoided
+
+4. Consumer: The latest Connorly Report suggests that
+Ocksenfrey prepackaged meals are virtually
+devoid of nutritional value. But the Connorly
+Report is commissioned by Danto Foods,
+Ocksenfrey’s largest corporate rival, and early
+drafts of the report are submitted for approval to
+Danto Foods’ public relations department.
+Because of the obvious bias of this report, it is
+clear that Ocksenfrey’s prepackaged meals really
+are nutritious.
+The reasoning in the consumer’s argument is most
+vulnerable to criticism on the grounds that the
+argument
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+treats evidence that there is an apparent bias as
+evidence that the Connorly Report’s claims are
+false
+draws a conclusion based solely on an
+unrepresentative sample of Ocksenfrey’s
+products
+fails to take into account the possibility that
+Ocksenfrey has just as much motivation to
+create negative publicity for Danto as Danto
+has to create negative publicity for Ocksenfrey
+fails to provide evidence that Danto Foods’
+prepackaged meals are not more nutritious than
+Ocksenfrey’s are
+presumes, without providing justification, that
+Danto Foods’ public relations department
+would not approve a draft of a report that was
+hostile to Danto Foods’ products
+
+5. Scientist: Earth’s average annual temperature has
+increased by about 0.5 degrees Celsius over the
+last century. This warming is primarily the result
+of the buildup of minor gases in the atmosphere,
+blocking the outward flow of heat from the
+planet.
+Which one of the following, if true, would count as
+evidence against the scientist’s explanation of Earth’s
+warming?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Only some of the minor gases whose presence
+in the atmosphere allegedly resulted in the
+phenomenon described by the scientist were
+produced by industrial pollution.
+Most of the warming occurred before 1940,
+while most of the buildup of minor gases in
+the atmosphere occurred after 1940.
+Over the last century, Earth received slightly
+more solar radiation in certain years than it did
+in others.
+Volcanic dust and other particles in the
+atmosphere reflect much of the Sun’s radiation
+back into space before it can reach Earth’s
+surface.
+The accumulation of minor gases in the
+atmosphere has been greater over the last
+century than at any other time in Earth’s
+history.
+
+6. An undergraduate degree is necessary for appointment
+to the executive board. Further, no one with a felony
+conviction can be appointed to the board. Thus,
+Murray, an accountant with both a bachelor’s and a
+master’s degree, cannot be accepted for the position of
+Executive Administrator, since he has a felony
+conviction.
+The argument’s conclusion follows logically if which
+one of the following is assumed?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Anyone with a master’s degree and without a
+felony conviction is eligible for appointment to
+the executive board.
+Only candidates eligible for appointment to the
+executive board can be accepted for the
+position of Executive Administrator.
+An undergraduate degree is not necessary for
+acceptance for the position of Executive
+Administrator.
+If Murray did not have a felony conviction, he
+would be accepted for the position of
+Executive Administrator.
+The felony charge on which Murray was
+convicted is relevant to the duties of the
+position of Executive Administrator.
+
+GO ON TO THE NEXT PAGE.
+
+8
+7. Ethicist: The most advanced kind of moral motivation
+is based solely on abstract principles. This form
+of motivation is in contrast with calculated selfinterest or the desire to adhere to societal norms
+and conventions.
+The actions of which one of the following individuals
+exhibit the most advanced kind of moral motivation, as
+described by the ethicist?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Bobby contributed money to a local charity
+during a charity drive at work because he
+worried that not doing so would make him
+look stingy.
+Wes contributed money to a local charity during
+a charity drive at work because he believed
+that doing so would improve his employer’s
+opinion of him.
+Donna’s employers engaged in an illegal but
+profitable practice that caused serious damage
+to the environment. Donna did not report this
+practice to the authorities, out of fear that her
+employers would retaliate against her.
+Jadine’s employers engaged in an illegal but
+profitable practice that caused serious damage
+to the environment. Jadine reported this
+practice to the authorities out of a belief that
+protecting the environment is always more
+important than monetary profit.
+Leigh’s employers engaged in an illegal but
+profitable practice that caused serious damage
+to the environment. Leigh reported this practice
+to the authorities only because several
+colleagues had been pressuring her to do so.
+
+9. Although video game sales have increased steadily over
+the past 3 years, we can expect a reversal of this trend
+in the very near future. Historically, over three quarters
+of video games sold have been purchased by people
+from 13 to 16 years of age, and the number of people
+in this age group is expected to decline steadily over
+the next 10 years.
+Which one of the following, if true, would most
+seriously weaken the argument?
+(A)
+(B)
+(C)
+
+(D)
+
+(E)
+
+10. Double-blind techniques should be used whenever
+possible in scientific experiments. They help prevent
+the misinterpretations that often arise due to
+expectations and opinions that scientists already hold,
+and clearly scientists should be extremely diligent in
+trying to avoid such misinterpretations.
+Which one of the following most accurately expresses
+the main conclusion of the argument?
+(A)
+
+8. Proponents of the electric car maintain that when the
+technical problems associated with its battery design
+are solved, such cars will be widely used and, because
+they are emission-free, will result in an abatement of
+the environmental degradation caused by auto
+emissions. But unless we dam more rivers, the
+electricity to charge these batteries will come from
+nuclear or coal-fired power plants. Each of these three
+power sources produces considerable environmental
+damage. Thus, the electric car _______.
+
+(B)
+
+(C)
+
+(D)
+
+Which one of the following most logically completes
+the argument?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+will have worse environmental consequences
+than its proponents may believe
+will probably remain less popular than other
+types of cars
+requires that purely technical problems be
+solved before it can succeed
+will increase the total level of emissions rather
+than reduce it
+will not produce a net reduction in
+environmental degradation
+
+Most people 17 years old or older have never
+purchased a video game.
+Video game rentals have declined over the past
+3 years.
+New technology will undoubtedly make entirely
+new entertainment options available over the
+next 10 years.
+The number of different types of video games
+available is unlikely to decrease in the near
+future.
+Most of the people who have purchased video
+games over the past 3 years are over the age
+of 16.
+
+(E)
+
+Scientists’ objectivity may be impeded by
+interpreting experimental evidence on the basis
+of expectations and opinions that they already
+hold.
+It is advisable for scientists to use double-blind
+techniques in as high a proportion of their
+experiments as they can.
+Scientists sometimes neglect to adequately
+consider the risk of misinterpreting evidence on
+the basis of prior expectations and opinions.
+Whenever possible, scientists should refrain
+from interpreting evidence on the basis of
+previously formed expectations and
+convictions.
+Double-blind experimental techniques are often
+an effective way of ensuring scientific
+objectivity.
+
+GO ON TO THE NEXT PAGE.
+
+9
+11. It is now a common complaint that the electronic
+media have corroded the intellectual skills required and
+fostered by the literary media. But several centuries
+ago the complaint was that certain intellectual skills,
+such as the powerful memory and extemporaneous
+eloquence that were intrinsic to oral culture, were being
+destroyed by the spread of literacy. So, what awaits us
+is probably a mere alteration of the human mind rather
+than its devolution.
+The reference to the complaint of several centuries ago
+that powerful memory and extemporaneous eloquence
+were being destroyed plays which one of the following
+roles in the argument?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+evidence supporting the claim that the
+intellectual skills fostered by the literary media
+are being destroyed by the electronic media
+an illustration of the general hypothesis being
+advanced that intellectual abilities are
+inseparable from the means by which people
+communicate
+an example of a cultural change that did not
+necessarily have a detrimental effect on the
+human mind overall
+evidence that the claim that the intellectual
+skills required and fostered by the literary
+media are being lost is unwarranted
+possible evidence, mentioned and then
+dismissed, that might be cited by supporters of
+the hypothesis being criticized
+
+12. Suppose I have promised to keep a confidence and
+someone asks me a question that I cannot answer
+truthfully without thereby breaking the promise.
+Obviously, I cannot both keep and break the same
+promise. Therefore, one cannot be obliged both to
+answer all questions truthfully and to keep all
+promises.
+Which one of the following arguments is most similar
+in its reasoning to the argument above?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+It is claimed that we have the unencumbered
+right to say whatever we want. It is also
+claimed that we have the obligation to be civil
+to others. But civility requires that we not
+always say what we want. So, it cannot be true
+both that we have the unencumbered right to
+say whatever we want and that we have the
+duty to be civil.
+Some politicians could attain popularity with
+voters only by making extravagant promises;
+this, however, would deceive the people. So,
+since the only way for some politicians to be
+popular is to deceive, and any politician needs
+to be popular, it follows that some politicians
+must deceive.
+If we put a lot of effort into making this report
+look good, the client might think we did so
+because we believed our proposal would not
+stand on its own merits. On the other hand, if
+we do not try to make the report look good,
+the client might think we are not serious about
+her business. So, whatever we do, we risk her
+criticism.
+If creditors have legitimate claims against a
+business and the business has the resources to
+pay those debts, then the business is obliged to
+pay them. Also, if a business has obligations to
+pay debts, then a court will force it to pay
+them. But the courts did not force this business
+to pay its debts, so either the creditors did not
+have legitimate claims or the business did not
+have sufficient resources.
+If we extend our business hours, we will either
+have to hire new employees or have existing
+employees work overtime. But both new
+employees and additional overtime would
+dramatically increase our labor costs. We
+cannot afford to increase labor costs, so we
+will have to keep our business hours as they
+stand.
+
+GO ON TO THE NEXT PAGE.
+
+10
+13. Standard aluminum soft-drink cans do not vary in the
+amount of aluminum that they contain. Fifty percent of
+the aluminum contained in a certain group (M) of
+standard aluminum soft-drink cans was recycled from
+another group (L) of used, standard aluminum softdrink cans. Since all the cans in L were recycled into
+cans in M and since the amount of material other than
+aluminum in an aluminum can is negligible, it follows
+that M contains twice as many cans as L.
+The conclusion of the argument follows logically if
+which one of the following is assumed?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+The aluminum in the cans of M cannot be
+recycled further.
+Recycled aluminum is of poorer quality than
+unrecycled aluminum.
+All of the aluminum in an aluminum can is
+recovered when the can is recycled.
+None of the soft-drink cans in group L had been
+made from recycled aluminum.
+Aluminum soft-drink cans are more easily
+recycled than are soft-drink cans made from
+other materials.
+
+14. A cup of raw milk, after being heated in a microwave
+oven to 50 degrees Celsius, contains half its initial
+concentration of a particular enzyme, lysozyme. If,
+however, the milk reaches that temperature through
+exposure to a conventional heat source of 50 degrees
+Celsius, it will contain nearly all of its initial
+concentration of the enzyme. Therefore, what destroys
+the enzyme is not heat but microwaves, which generate
+heat.
+Which one of the following, if true, most seriously
+weakens the argument?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Heating raw milk in a microwave oven to a
+temperature of 100 degrees Celsius destroys
+nearly all of the lysozyme initially present in
+that milk.
+Enzymes in raw milk that are destroyed through
+excessive heating can be replaced by adding
+enzymes that have been extracted from other
+sources.
+A liquid exposed to a conventional heat source
+of exactly 50 degrees Celsius will reach that
+temperature more slowly than it would if it
+were exposed to a conventional heat source
+hotter than 50 degrees Celsius.
+Milk that has been heated in a microwave oven
+does not taste noticeably different from milk
+that has been briefly heated by exposure to a
+conventional heat source.
+Heating any liquid by microwave creates small
+zones within it that are much hotter than the
+overall temperature that the liquid will
+ultimately reach.
+
+15. A new government policy has been developed to avoid
+many serious cases of influenza. This goal will be
+accomplished by the annual vaccination of high-risk
+individuals: everyone 65 and older as well as anyone
+with a chronic disease that might cause them to
+experience complications from the influenza virus.
+Each year’s vaccination will protect only against the
+strain of the influenza virus deemed most likely to be
+prevalent that year, so every year it will be necessary
+for all high-risk individuals to receive a vaccine for a
+different strain of the virus.
+Which one of the following is an assumption that
+would allow the conclusion above to be properly drawn?
+(A)
+
+(B)
+(C)
+(D)
+
+(E)
+
+The number of individuals in the high-risk
+group for influenza will not significantly
+change from year to year.
+The likelihood that a serious influenza epidemic
+will occur varies from year to year.
+No vaccine for the influenza virus protects
+against more than one strain of that virus.
+Each year the strain of influenza virus deemed
+most likely to be prevalent will be one that had
+not previously been deemed most likely to be
+prevalent.
+Each year’s vaccine will have fewer side effects
+than the vaccine of the previous year since the
+technology for making vaccines will constantly
+improve.
+
+GO ON TO THE NEXT PAGE.
+
+11
+16. Taylor: Researchers at a local university claim that
+61 percent of the information transferred during a
+conversation is communicated through nonverbal
+signals. But this claim, like all such
+mathematically precise claims, is suspect, because
+claims of such exactitude could never be
+established by science.
+Sandra: While precision is unobtainable in many areas
+of life, it is commonplace in others. Many
+scientific disciplines obtain extremely precise
+results, which should not be doubted merely
+because of their precision.
+The statements above provide the most support for
+holding that Sandra would disagree with Taylor about
+which one of the following statements?
+(A)
+
+(B)
+
+(C)
+
+(D)
+(E)
+
+Research might reveal that 61 percent of the
+information taken in during a conversation is
+communicated through nonverbal signals.
+It is possible to determine whether 61 percent of
+the information taken in during a conversation
+is communicated through nonverbal signals.
+The study of verbal and nonverbal
+communication is an area where one cannot
+expect great precision in one’s research results.
+Some sciences can yield mathematically precise
+results that are not inherently suspect.
+If inherently suspect claims are usually false,
+then the majority of claims made by scientists
+are false as well.
+
+17. Hospital executive: At a recent conference on nonprofit
+management, several computer experts
+maintained that the most significant threat faced
+by large institutions such as universities and
+hospitals is unauthorized access to confidential
+data. In light of this testimony, we should make
+the protection of our clients’ confidentiality our
+highest priority.
+The hospital executive’s argument is most vulnerable to
+which one of the following objections?
+(A)
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+The argument confuses the causes of a problem
+with the appropriate solutions to that problem.
+The argument relies on the testimony of experts
+whose expertise is not shown to be sufficiently
+broad to support their general claim.
+The argument assumes that a correlation
+between two phenomena is evidence that one is
+the cause of the other.
+The argument draws a general conclusion about
+a group based on data about an
+unrepresentative sample of that group.
+The argument infers that a property belonging to
+large institutions belongs to all institutions.
+
+18. Modern science is built on the process of posing
+hypotheses and testing them against observations—in
+essence, attempting to show that the hypotheses are
+incorrect. Nothing brings more recognition than
+overthrowing conventional wisdom. It is accordingly
+unsurprising that some scientists are skeptical of the
+widely accepted predictions of global warming. What is
+instead remarkable is that with hundreds of researchers
+striving to make breakthroughs in climatology, very
+few find evidence that global warming is unlikely.
+The information above provides the most support for
+which one of the following statements?
+(A)
+
+(B)
+
+(C)
+(D)
+
+(E)
+
+Most scientists who are reluctant to accept the
+global warming hypothesis are not acting in
+accordance with the accepted standards of
+scientific debate.
+Most researchers in climatology have substantial
+motive to find evidence that would discredit
+the global warming hypothesis.
+There is evidence that conclusively shows that
+the global warming hypothesis is true.
+Scientists who are skeptical about global
+warming have not offered any alternative
+hypotheses to explain climatological data.
+Research in global warming is primarily driven
+by a desire for recognition in the scientific
+community.
+
+19. Historian: The Land Party achieved its only national
+victory in Banestria in 1935. It received most of
+its support that year in rural and semirural areas,
+where the bulk of Banestria’s population lived at
+the time. The economic woes of the years
+surrounding that election hit agricultural and
+small business interests the hardest, and the Land
+Party specifically targeted those groups in 1935. I
+conclude that the success of the Land Party that
+year was due to the combination of the Land
+Party’s specifically addressing the concerns of
+these groups and the depth of the economic
+problems people in these groups were facing.
+Each of the following, if true, strengthens the
+historian’s argument EXCEPT:
+(A)
+
+(B)
+(C)
+(D)
+
+(E)
+
+In preceding elections the Land Party made no
+attempt to address the interests of economically
+distressed urban groups.
+Voters are more likely to vote for a political
+party that focuses on their problems.
+The Land Party had most of its successes when there
+was economic distress in the agricultural sector.
+No other major party in Banestria specifically
+addressed the issues of people who lived in
+semirural areas in 1935.
+The greater the degree of economic distress
+someone is in, the more likely that person is
+to vote.
+
+GO ON TO THE NEXT PAGE.
+
+12
+20. Gamba: Muñoz claims that the Southwest Hopeville
+Neighbors Association overwhelmingly opposes
+the new water system, citing this as evidence of
+citywide opposition. The association did pass a
+resolution opposing the new water system, but
+only 25 of 350 members voted, with 10 in favor
+of the system. Furthermore, the 15 opposing
+votes represent far less than 1 percent of
+Hopeville’s population. One should not assume
+that so few votes represent the view of the
+majority of Hopeville’s residents.
+Of the following, which one most accurately describes
+Gamba’s strategy of argumentation?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+questioning a conclusion based on the results of
+a vote, on the grounds that people with certain
+views are more likely to vote
+questioning a claim supported by statistical data
+by arguing that statistical data can be
+manipulated to support whatever view the
+interpreter wants to support
+attempting to refute an argument by showing
+that, contrary to what has been claimed, the
+truth of the premises does not guarantee the
+truth of the conclusion
+criticizing a view on the grounds that the view
+is based on evidence that is in principle
+impossible to disconfirm
+attempting to cast doubt on a conclusion by
+claiming that the statistical sample on which
+the conclusion is based is too small to be
+dependable
+
+21. Driver: My friends say I will one day have an accident
+because I drive my sports car recklessly. But I
+have done some research, and apparently
+minivans and larger sedans have very low
+accident rates compared to sports cars. So trading
+my sports car in for a minivan would lower my
+risk of having an accident.
+The reasoning in the driver’s argument is most
+vulnerable to criticism on the grounds that this
+argument
+(A)
+(B)
+(C)
+(D)
+
+(E)
+
+infers a cause from a mere correlation
+relies on a sample that is too narrow
+misinterprets evidence that a result is likely as
+evidence that the result is certain
+mistakes a condition sufficient for bringing
+about a result for a condition necessary for
+doing so
+relies on a source that is probably not
+well-informed
+
+22. Editorialist: News media rarely cover local politics
+thoroughly, and local political business is usually
+conducted secretively. These factors each tend to
+isolate local politicians from their electorates.
+This has the effect of reducing the chance that
+any particular act of resident participation will
+elicit a positive official response, which in turn
+discourages resident participation in local politics.
+Which one of the following is most strongly supported
+by the editorialist’s statements?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Particular acts of resident participation would be
+likely to elicit a positive response from local
+politicians if those politicians were less isolated
+from their electorate.
+Local political business should be conducted
+less secretively because this would avoid
+discouraging resident participation in local
+politics.
+The most important factor influencing a
+resident’s decision as to whether to participate
+in local politics is the chance that the
+participation will elicit a positive official
+response.
+More-frequent thorough coverage of local
+politics would reduce at least one source of
+discouragement from resident participation in
+local politics.
+If resident participation in local politics were
+not discouraged, this would cause local
+politicians to be less isolated from their
+electorate.
+
+23. Philosopher: An action is morally right if it would be
+reasonably expected to increase the aggregate
+well-being of the people affected by it. An action
+is morally wrong if and only if it would be
+reasonably expected to reduce the aggregate wellbeing of the people affected by it. Thus, actions
+that would be reasonably expected to leave
+unchanged the aggregate well-being of the people
+affected by them are also right.
+The philosopher’s conclusion follows logically if which
+one of the following is assumed?
+(A)
+
+(B)
+(C)
+(D)
+
+(E)
+
+Only wrong actions would be reasonably
+expected to reduce the aggregate well-being of
+the people affected by them.
+No action is both right and wrong.
+Any action that is not morally wrong is morally
+right.
+There are actions that would be reasonably
+expected to leave unchanged the aggregate
+well-being of the people affected by them.
+Only right actions have good consequences.
+
+GO ON TO THE NEXT PAGE.
+
+13
+24. Car companies solicit consumer information on such
+human factors as whether a seat is comfortable or
+whether a set of controls is easy to use. However,
+designer interaction with consumers is superior to
+survey data; the data may tell the designer why a
+feature on last year’s model was given a low rating,
+but data will not explain how that feature needs to be
+changed in order to receive a higher rating.
+The reasoning above conforms most closely to which
+one of the following propositions?
+(A)
+(B)
+(C)
+(D)
+
+(E)
+
+Getting consumer input for design modifications
+can contribute to successful product design.
+Car companies traditionally conduct extensive
+postmarket surveys.
+Designers aim to create features that will appeal
+to specific market niches.
+A car will have unappealing features if
+consumers are not consulted during its design
+stage.
+Consumer input affects external rather than
+internal design components of cars.
+
+25. During the nineteenth century, the French academy of
+art was a major financial sponsor of painting and
+sculpture in France; sponsorship by private individuals
+had decreased dramatically by this time. Because the
+academy discouraged innovation in the arts, there was
+little innovation in nineteenth century French sculpture.
+Yet nineteenth century French painting showed a
+remarkable degree of innovation.
+Which one of the following, if true, most helps to
+explain the difference between the amount of
+innovation in French painting and the amount of
+innovation in French sculpture during the nineteenth
+century?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+In France in the nineteenth century, the French
+academy gave more of its financial support to
+painting than it did to sculpture.
+The French academy in the nineteenth century
+financially supported a greater number of
+sculptors than painters, but individual painters
+received more support, on average, than
+individual sculptors.
+Because stone was so much more expensive
+than paint and canvas, far more unsponsored
+paintings were produced than were
+unsponsored sculptures in France during the
+nineteenth century.
+Very few of the artists in France in the
+nineteenth century who produced sculptures
+also produced paintings.
+Although the academy was the primary sponsor
+of sculpture and painting, the total amount of
+financial support that French sculptors and
+painters received from sponsors declined
+during the nineteenth century.
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+14
+SECTION III
+Time—35 minutes
+25 Questions
+Directions: The questions in this section are based on the reasoning contained in brief statements or passages. For some
+questions, more than one of the choices could conceivably answer the question. However, you are to choose the best answer; that
+is, the response that most accurately and completely answers the question. You should not make assumptions that are by
+commonsense standards implausible, superfluous, or incompatible with the passage. After you have chosen the best answer,
+blacken the corresponding space on your answer sheet.
+1. Situation: Someone living in a cold climate buys a
+winter coat that is stylish but not warm in order to
+appear sophisticated.
+Analysis: People are sometimes willing to sacrifice
+sensual comfort or pleasure for the sake of
+appearances.
+The analysis provided for the situation above is most
+appropriate for which one of the following situations?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+A person buys an automobile to commute to
+work even though public transportation is
+quick and reliable.
+A parent buys a car seat for a young child
+because it is more colorful and more
+comfortable for the child than the other car
+seats on the market, though no safer.
+A couple buys a particular wine even though
+their favorite wine is less expensive and better
+tasting because they think it will impress their
+dinner guests.
+A person sets her thermostat at a low
+temperature during the winter because she is
+concerned about the environmental damage
+caused by using fossil fuels to heat her home.
+An acrobat convinces the circus that employs
+him to purchase an expensive outfit for him so
+that he can wear it during his act to impress
+the audience.
+
+2. After replacing his old gas water heater with a new,
+pilotless, gas water heater that is rated as highly
+efficient, Jimmy’s gas bills increased.
+Each of the following, if true, contributes to an
+explanation of the increase mentioned above EXCEPT:
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+The new water heater uses a smaller percentage
+of the gas used by Jimmy’s household than did
+the old one.
+Shortly after the new water heater was installed,
+Jimmy’s uncle came to live with him, doubling
+the size of the household.
+After having done his laundry at a laundromat,
+Jimmy bought and started using a gas dryer
+when he replaced his water heater.
+Jimmy’s utility company raised the rates for gas
+consumption following installation of the new
+water heater.
+Unusually cold weather following installation of
+the new water heater resulted in heavy gas
+usage.
+
+3. Carolyn: The artist Marc Quinn has displayed, behind a
+glass plate, biologically replicated fragments of
+Sir John Sulston’s DNA, calling it a “conceptual
+portrait” of Sulston. But to be a portrait, something
+must bear a recognizable resemblance to its
+subject.
+Arnold: I disagree. Quinn’s conceptual portrait is a
+maximally realistic portrait, for it holds actual
+instructions according to which Sulston was
+created.
+The dialogue provides most support for the claim that
+Carolyn and Arnold disagree over whether the object
+described by Quinn as a conceptual portrait of Sir John
+Sulston
+(A)
+(B)
+(C)
+(D)
+(E)
+
+should be considered to be art
+should be considered to be Quinn’s work
+bears a recognizable resemblance to Sulston
+contains instructions according to which Sulston
+was created
+is actually a portrait of Sulston
+
+GO ON TO THE NEXT PAGE.
+
+15
+4. Many corporations have begun decorating their halls
+with motivational posters in hopes of boosting their
+employees’ motivation to work productively. However,
+almost all employees at these corporations are already
+motivated to work productively. So these corporations’
+use of motivational posters is unlikely to achieve its
+intended purpose.
+The reasoning in the argument is most vulnerable to
+criticism on the grounds that the argument
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+fails to consider whether corporations that do
+not currently use motivational posters would
+increase their employees’ motivation to work
+productively if they began using the posters
+takes for granted that, with respect to their
+employees’ motivation to work productively,
+corporations that decorate their halls with
+motivational posters are representative of
+corporations in general
+fails to consider that even if motivational
+posters do not have one particular beneficial
+effect for corporations, they may have similar
+effects that are equally beneficial
+does not adequately address the possibility that
+employee productivity is strongly affected by
+factors other than employees’ motivation to
+work productively
+fails to consider that even if employees are
+already motivated to work productively,
+motivational posters may increase that
+motivation
+
+5. Atrens: An early entomologist observed ants carrying
+particles to neighboring ant colonies and inferred
+that the ants were bringing food to their
+neighbors. Further research, however, revealed
+that the ants were emptying their own colony’s
+dumping site. Thus, the early entomologist was
+wrong.
+Atrens’s conclusion follows logically if which one of
+the following is assumed?
+(A)
+(B)
+
+(C)
+(D)
+
+(E)
+
+Ant societies do not interact in all the same
+ways that human societies interact.
+There is only weak evidence for the view that
+ants have the capacity to make use of objects
+as gifts.
+Ant dumping sites do not contain particles that
+could be used as food.
+The ants to whom the particles were brought
+never carried the particles into their own
+colonies.
+The entomologist cited retracted his conclusion
+when it was determined that the particles the
+ants carried came from their dumping site.
+
+6. Jablonski, who owns a car dealership, has donated cars
+to driver education programs at area schools for over
+five years. She found the statistics on car accidents to be
+disturbing, and she wanted to do something to
+encourage better driving in young drivers. Some
+members of the community have shown their support for
+this action by purchasing cars from Jablonski’s
+dealership.
+Which one of the following propositions is best
+illustrated by the passage?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+The only way to reduce traffic accidents is
+through driver education programs.
+Altruistic actions sometimes have positive
+consequences for those who perform them.
+Young drivers are the group most likely to
+benefit from driver education programs.
+It is usually in one’s best interest to perform
+actions that benefit others.
+An action must have broad community support
+if it is to be successful.
+
+7. Antonio: One can live a life of moderation by never
+deviating from the middle course. But then one
+loses the joy of spontaneity and misses the
+opportunities that come to those who are
+occasionally willing to take great chances, or to
+go too far.
+Marla: But one who, in the interests of moderation,
+never risks going too far is actually failing to live
+a life of moderation: one must be moderate even
+in one’s moderation.
+Antonio and Marla disagree over
+(A)
+(B)
+(C)
+(D)
+(E)
+
+whether it is desirable for people occasionally
+to take great chances in life
+what a life of moderation requires of a person
+whether it is possible for a person to embrace
+other virtues along with moderation
+how often a person ought to deviate from the
+middle course in life
+whether it is desirable for people to be
+moderately spontaneous
+
+GO ON TO THE NEXT PAGE.
+
+16
+8. Advertisement: Fabric-Soft leaves clothes soft and
+fluffy, and its fresh scent is a delight. We
+conducted a test using over 100 consumers to
+prove Fabric-Soft is best. Each consumer was
+given one towel washed with Fabric-Soft and one
+towel washed without it. Ninety-nine percent of
+the consumers preferred the Fabric-Soft towel. So
+Fabric-Soft is the most effective fabric softener
+available.
+
+10. Advertisers have learned that people are more easily
+encouraged to develop positive attitudes about things
+toward which they originally have neutral or even
+negative attitudes if those things are linked, with
+pictorial help rather than exclusively through prose, to
+things about which they already have positive attitudes.
+Therefore, advertisers are likely to _______.
+Which one of the following most logically completes
+the argument?
+
+The advertisement’s reasoning is most vulnerable to
+criticism on the grounds that it fails to consider whether
+
+(A)
+
+(A)
+
+(B)
+
+(B)
+(C)
+(D)
+(E)
+
+any of the consumers tested are allergic to
+fabric softeners
+Fabric-Soft is more or less harmful to the
+environment than other fabric softeners
+Fabric-Soft is much cheaper or more expensive
+than other fabric softeners
+the consumers tested find the benefits of using
+fabric softeners worth the expense
+the consumers tested had the opportunity to
+evaluate fabric softeners other than Fabric-Soft
+
+9. Naturalist: The recent claims that the Tasmanian tiger is
+not extinct are false. The Tasmanian tiger’s
+natural habitat was taken over by sheep farming
+decades ago, resulting in the animal’s systematic
+elimination from the area. Since then naturalists
+working in the region have discovered no hard
+evidence of its survival, such as carcasses or
+tracks. In spite of alleged sightings of the animal,
+the Tasmanian tiger no longer exists.
+Which one of the following is an assumption on which
+the naturalist’s argument depends?
+(A)
+
+(B)
+(C)
+
+(D)
+
+(E)
+
+Sheep farming drove the last Tasmanian tigers
+to starvation by chasing them from their
+natural habitat.
+Some scavengers in Tasmania are capable of
+destroying tiger carcasses without a trace.
+Every naturalist working in the Tasmanian
+tiger’s natural habitat has looked systematically
+for evidence of the tiger’s survival.
+The Tasmanian tiger did not move and adapt to
+a different region in response to the loss of
+habitat.
+Those who have reported sightings of the
+Tasmanian tiger are not experienced naturalists.
+
+(C)
+(D)
+
+(E)
+
+use little if any written prose in their
+advertisements
+try to encourage people to develop positive
+attitudes about products that can be better
+represented pictorially than in prose
+place their advertisements on television rather
+than in magazines
+highlight the desirable features of the advertised
+product by contrasting them pictorially with
+undesirable features of a competing product
+create advertisements containing pictures of
+things most members of the target audience
+like
+
+11. Feathers recently taken from seabirds stuffed and
+preserved in the 1880s have been found to contain only
+half as much mercury as feathers recently taken from
+living birds of the same species. Since mercury that
+accumulates in a seabird’s feathers as the feathers grow
+is derived from fish eaten by the bird, these results
+indicate that mercury levels in saltwater fish are higher
+now than they were 100 years ago.
+The argument depends on assuming that
+(A)
+
+(B)
+
+(C)
+(D)
+(E)
+
+the proportion of a seabird’s diet consisting of
+fish was not as high, on average, in the 1880s
+as it is today
+the amount of mercury in a saltwater fish
+depends on the amount of pollution in the
+ocean habitat of the fish
+mercury derived from fish is essential for the
+normal growth of a seabird’s feathers
+the stuffed seabirds whose feathers were tested
+for mercury were not fully grown
+the process used to preserve birds in the 1880s
+did not substantially decrease the amount of
+mercury in the birds’ feathers
+
+GO ON TO THE NEXT PAGE.
+
+17
+12. Novel X and Novel Y are both semiautobiographical
+novels and contain many very similar themes and
+situations, which might lead one to suspect plagiarism
+on the part of one of the authors. However, it is more
+likely that the similarity of themes and situations in the
+two novels is merely coincidental, since both authors are
+from very similar backgrounds and have led similar
+lives.
+Which one of the following most accurately expresses
+the conclusion drawn in the argument?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Novel X and Novel Y are both
+semiautobiographical novels, and the two
+novels contain many very similar themes and
+situations.
+The fact that Novel X and Novel Y are both
+semiautobiographical novels and contain many
+very similar themes and situations might lead
+one to suspect plagiarism on the part of one of
+the authors.
+The author of Novel X and the author of
+Novel Y are from very similar backgrounds
+and have led very similar lives.
+It is less likely that one of the authors of
+Novel X or Novel Y is guilty of plagiarism
+than that the similarity of themes and
+situations in the two novels is merely
+coincidental.
+If the authors of Novel X and Novel Y are from
+very similar backgrounds and have led similar
+lives, suspicions that either of the authors
+plagiarized are very likely to be unwarranted.
+
+13. Therapist: Cognitive psychotherapy focuses on
+changing a patient’s conscious beliefs. Thus,
+cognitive psychotherapy is likely to be more
+effective at helping patients overcome
+psychological problems than are forms of
+psychotherapy that focus on changing
+unconscious beliefs and desires, since only
+conscious beliefs are under the patient’s direct
+conscious control.
+Which one of the following, if true, would most
+strengthen the therapist’s argument?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Psychological problems are frequently caused
+by unconscious beliefs that could be changed
+with the aid of psychotherapy.
+It is difficult for any form of psychotherapy to
+be effective without focusing on mental states
+that are under the patient’s direct conscious
+control.
+Cognitive psychotherapy is the only form of
+psychotherapy that focuses primarily on
+changing the patient’s conscious beliefs.
+No form of psychotherapy that focuses on
+changing the patient’s unconscious beliefs and
+desires can be effective unless it also helps
+change beliefs that are under the patient’s
+direct conscious control.
+All of a patient’s conscious beliefs are under the
+patient’s conscious control, but other
+psychological states cannot be controlled
+effectively without the aid of psychotherapy.
+
+GO ON TO THE NEXT PAGE.
+
+18
+14. Commentator: In academic scholarship, sources are
+always cited, and methodology and theoretical
+assumptions are set out, so as to allow critical
+study, replication, and expansion of scholarship.
+In open-source software, the code in which the
+program is written can be viewed and modified by
+individual users for their purposes without getting
+permission from the producer or paying a fee. In
+contrast, the code of proprietary software is kept
+secret, and modifications can be made only by the
+producer, for a fee. This shows that open-source
+software better matches the values embodied in
+academic scholarship, and since scholarship is
+central to the mission of universities, universities
+should use only open-source software.
+The commentator’s reasoning most closely conforms to
+which one of the following principles?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Whatever software tools are most advanced and
+can achieve the goals of academic scholarship
+are the ones that should alone be used in
+universities.
+Universities should use the type of software
+technology that is least expensive, as long as
+that type of software technology is adequate
+for the purposes of academic scholarship.
+Universities should choose the type of software
+technology that best matches the values
+embodied in the activities that are central to
+the mission of universities.
+The form of software technology that best
+matches the values embodied in the activities
+that are central to the mission of universities is
+the form of software technology that is most
+efficient for universities to use.
+A university should not pursue any activity that
+would block the achievement of the goals of
+academic scholarship at that university.
+
+15. A consumer magazine surveyed people who had sought
+a psychologist’s help with a personal problem. Of those
+responding who had received treatment for 6 months or
+less, 20 percent claimed that treatment “made things a
+lot better.” Of those responding who had received longer
+treatment, 36 percent claimed that treatment “made
+things a lot better.” Therefore, psychological treatment
+lasting more than 6 months is more effective than
+shorter-term treatment.
+Which one of the following, if true, most seriously
+weakens the argument?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Of the respondents who had received treatment
+for longer than 6 months, 10 percent said that
+treatment made things worse.
+Patients who had received treatment for longer
+than 6 months were more likely to respond to
+the survey than were those who had received
+treatment for a shorter time.
+Patients who feel they are doing well in
+treatment tend to remain in treatment, while
+those who are doing poorly tend to quit earlier.
+Patients who were dissatisfied with their
+treatment were more likely to feel a need to
+express their feelings about it and thus to
+return the survey.
+Many psychologists encourage their patients to
+receive treatment for longer than 6 months.
+
+16. Philosopher: Nations are not literally persons; they
+have no thoughts or feelings, and, literally
+speaking, they perform no actions. Thus they
+have no moral rights or responsibilities. But no
+nation can survive unless many of its citizens
+attribute such rights and responsibilities to it, for
+nothing else could prompt people to make the
+sacrifices national citizenship demands.
+Obviously, then, a nation _______.
+Which one of the following most logically completes
+the philosopher’s argument?
+(A)
+
+(B)
+(C)
+(D)
+(E)
+
+cannot continue to exist unless something other
+than the false belief that the nation has moral
+rights motivates its citizens to make sacrifices
+cannot survive unless many of its citizens have
+some beliefs that are literally false
+can never be a target of moral praise or blame
+is not worth the sacrifices that its citizens make
+on its behalf
+should always be thought of in metaphorical
+rather than literal terms
+
+GO ON TO THE NEXT PAGE.
+
+19
+17. When exercising the muscles in one’s back, it is
+important, in order to maintain a healthy back, to
+exercise the muscles on opposite sides of the spine
+equally. After all, balanced muscle development is
+needed to maintain a healthy back, since the muscles on
+opposite sides of the spine must pull equally in
+opposing directions to keep the back in proper
+alignment and protect the spine.
+Which one of the following is an assumption required
+by the argument?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Muscles on opposite sides of the spine that are
+equally well developed will be enough to keep
+the back in proper alignment.
+Exercising the muscles on opposite sides of the
+spine unequally tends to lead to unbalanced
+muscle development.
+Provided that one exercises the muscles on
+opposite sides of the spine equally, one will
+have a generally healthy back.
+If the muscles on opposite sides of the spine are
+exercised unequally, one’s back will be
+irreparably damaged.
+One should exercise daily to ensure that the
+muscles on opposite sides of the spine keep
+the back in proper alignment.
+
+18. Editorialist: In all cultures, it is almost universally
+accepted that one has a moral duty to prevent
+members of one’s family from being harmed.
+Thus, few would deny that if a person is known
+by the person’s parents to be falsely accused of a
+crime, it would be morally right for the parents to
+hide the accused from the police. Hence, it is also
+likely to be widely accepted that it is sometimes
+morally right to obstruct the police in their work.
+The reasoning in the editorialist’s argument is most
+vulnerable to criticism on the grounds that this argument
+(A)
+(B)
+
+(C)
+
+(D)
+(E)
+
+utilizes a single type of example for the purpose
+of justifying a broad generalization
+fails to consider the possibility that other moral
+principles would be widely recognized as
+overriding any obligation to protect a family
+member from harm
+presumes, without providing justification, that
+allowing the police to arrest an innocent
+person assists rather than obstructs justice
+takes for granted that there is no moral
+obligation to obey the law
+takes for granted that the parents mentioned in
+the example are not mistaken about their
+child’s innocence
+
+19. Editor: Many candidates say that if elected they will
+reduce governmental intrusion into voters’ lives.
+But voters actually elect politicians who instead
+promise that the government will provide
+assistance to solve their most pressing problems.
+Governmental assistance, however, costs money,
+and money can come only from taxes, which can
+be considered a form of governmental intrusion.
+Thus, governmental intrusion into the lives of
+voters will rarely be substantially reduced over
+time in a democracy.
+Which one of the following, if true, would most
+strengthen the editor’s argument?
+(A)
+(B)
+(C)
+(D)
+
+(E)
+
+Politicians who win their elections usually keep
+their campaign promises.
+Politicians never promise what they really
+intend to do once in office.
+The most common problems people have are
+financial problems.
+Governmental intrusion into the lives of voters
+is no more burdensome in nondemocratic
+countries than it is in democracies.
+Politicians who promise to do what they
+actually believe ought to be done are rarely
+elected.
+
+GO ON TO THE NEXT PAGE.
+
+20
+20. We should accept the proposal to demolish the old train
+station, because the local historical society, which
+vehemently opposes this, is dominated by people who
+have no commitment to long-term economic well-being.
+Preserving old buildings creates an impediment to new
+development, which is critical to economic health.
+The flawed reasoning exhibited by the argument above
+is most similar to that exhibited by which one of the
+following arguments?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Our country should attempt to safeguard works
+of art that it deems to possess national cultural
+significance. These works might not be
+recognized as such by all taxpayers, or even
+all critics. Nevertheless, our country ought to
+expend whatever money is needed to procure
+all such works as they become available.
+Documents of importance to local heritage
+should be properly preserved and archived for
+the sake of future generations. For, if even one
+of these documents is damaged or lost, the
+integrity of the historical record as a whole
+will be damaged.
+You should have your hair cut no more than
+once a month. After all, beauticians suggest
+that their customers have their hair cut twice a
+month, and they do this as a way of generating
+more business for themselves.
+The committee should endorse the plan to
+postpone construction of the new expressway.
+Many residents of the neighborhoods that
+would be affected are fervently opposed to that
+construction, and the committee is obligated to
+avoid alienating those residents.
+One should not borrow even small amounts of
+money unless it is absolutely necessary. Once
+one borrows a few dollars, the interest starts to
+accumulate. The longer one takes to repay, the
+more one ends up owing, and eventually a
+small debt has become a large one.
+
+21. Ethicist: On average, animals raised on grain must be
+fed sixteen pounds of grain to produce one pound
+of meat. A pound of meat is more nutritious for
+humans than a pound of grain, but sixteen pounds
+of grain could feed many more people than could
+a pound of meat. With grain yields leveling off,
+large areas of farmland going out of production
+each year, and the population rapidly expanding,
+we must accept the fact that consumption of meat
+will soon be morally unacceptable.
+Which one of the following, if true, would most weaken
+the ethicist’s argument?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Even though it has been established that a
+vegetarian diet can be healthy, many people
+prefer to eat meat and are willing to pay for it.
+Often, cattle or sheep can be raised to maturity
+on grass from pastureland that is unsuitable for
+any other kind of farming.
+If a grain diet is supplemented with protein
+derived from non-animal sources, it can have
+nutritional value equivalent to that of a diet
+containing meat.
+Although prime farmland near metropolitan
+areas is being lost rapidly to suburban
+development, we could reverse this trend by
+choosing to live in areas that are already
+urban.
+Nutritionists agree that a diet composed solely
+of grain products is not adequate for human
+health.
+
+GO ON TO THE NEXT PAGE.
+
+21
+22. If the price it pays for coffee beans continues to
+increase, the Coffee Shoppe will have to increase its
+prices. In that case, either the Coffee Shoppe will begin
+selling noncoffee products or its coffee sales will
+decrease. But selling noncoffee products will decrease
+the Coffee Shoppe’s overall profitability. Moreover, the
+Coffee Shoppe can avoid a decrease in overall
+profitability only if its coffee sales do not decrease.
+Which one of the following statements follows logically
+from the statements above?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+If the Coffee Shoppe’s overall profitability
+decreases, the price it pays for coffee beans
+will have continued to increase.
+If the Coffee Shoppe’s overall profitability
+decreases, either it will have begun selling
+noncoffee products or its coffee sales will have
+decreased.
+The Coffee Shoppe’s overall profitability will
+decrease if the price it pays for coffee beans
+continues to increase.
+The price it pays for coffee beans cannot
+decrease without the Coffee Shoppe’s overall
+profitability also decreasing.
+Either the price it pays for coffee beans will
+continue to increase or the Coffee Shoppe’s
+coffee sales will increase.
+
+23. Political candidates’ speeches are loaded with promises
+and with expressions of good intention, but one must
+not forget that the politicians’ purpose in giving these
+speeches is to get themselves elected. Clearly, then,
+these speeches are selfishly motivated and the promises
+made in them are unreliable.
+Which one of the following most accurately describes a
+flaw in the argument above?
+(A)
+
+(B)
+
+(C)
+(D)
+
+(E)
+
+The argument presumes, without providing
+justification, that if a person’s promise is not
+selfishly motivated then that promise is
+reliable.
+The argument presumes, without providing
+justification, that promises made for selfish
+reasons are never kept.
+The argument confuses the effect of an action
+with its cause.
+The argument overlooks the fact that a promise
+need not be unreliable just because the person
+who made it had an ulterior motive for doing so.
+The argument overlooks the fact that a
+candidate who makes promises for selfish
+reasons may nonetheless be worthy of the
+office for which he or she is running.
+
+24. Sociologist: Romantics who claim that people are not
+born evil but may be made evil by the imperfect
+institutions that they form cannot be right, for
+they misunderstand the causal relationship
+between people and their institutions. After all,
+institutions are merely collections of people.
+Which one of the following principles, if valid, would
+most help to justify the sociologist’s argument?
+(A)
+
+(B)
+(C)
+(D)
+(E)
+
+People acting together in institutions can do
+more good or evil than can people acting
+individually.
+Institutions formed by people are inevitably
+imperfect.
+People should not be overly optimistic in their
+view of individual human beings.
+A society’s institutions are the surest gauge of
+that society’s values.
+The whole does not determine the properties of
+the things that compose it.
+
+25. Some anthropologists argue that the human species
+could not have survived prehistoric times if the species
+had not evolved the ability to cope with diverse natural
+environments. However, there is considerable evidence
+that Australopithecus afarensis, a prehistoric species
+related to early humans, also thrived in a diverse array
+of environments, but became extinct. Hence, the
+anthropologists’ claim is false.
+The reasoning in the argument is most vulnerable to
+criticism on the grounds that the argument
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+confuses a condition’s being required for a
+given result to occur in one case with the
+condition’s being sufficient for such a result to
+occur in a similar case
+takes for granted that if one species had a
+characteristic that happened to enable it to
+survive certain conditions, at least one related
+extinct species must have had the same
+characteristic
+generalizes, from the fact that one species with
+a certain characteristic survived certain
+conditions, that all related species with the
+same characteristic must have survived exactly
+the same conditions
+fails to consider the possibility that
+Australopithecus afarensis had one or more
+characteristics that lessened its chances of
+surviving prehistoric times
+fails to consider the possibility that, even if a
+condition caused a result to occur in one case,
+it was not necessary to cause the result to
+occur in a similar case
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+22
+SECTION IV
+Time—35 minutes
+27 Questions
+Directions: Each set of questions in this section is based on a single passage or a pair of passages. The questions are to be
+answered on the basis of what is stated or implied in the passage or pair of passages. For some of the questions, more than one
+of the choices could conceivably answer the question. However, you are to choose the best answer; that is, the response that
+most accurately and completely answers the question, and blacken the corresponding space on your answer sheet.
+
+(5)
+
+(10)
+
+(15)
+
+(20)
+
+(25)
+
+(30)
+
+(35)
+
+(40)
+
+(45)
+
+(50)
+
+For decades, there has been a deep rift between
+poetry and fiction in the United States, especially in
+academic settings; graduate writing programs in
+universities, for example, train students as poets or as
+writers of fiction, but almost never as both. Both poets
+and writers of fiction have tended to support this
+separation, in large part because the current
+conventional wisdom holds that poetry should be
+elliptical and lyrical, reflecting inner states and
+processes of thought or feeling, whereas character and
+narrative events are the stock-in-trade of fiction.
+Certainly it is true that poetry and fiction are
+distinct genres, but why have specialized education
+and literary territoriality resulted from this distinction?
+The answer lies perhaps in a widespread attitude in
+U.S. culture, which often casts a suspicious eye on the
+generalist. Those with knowledge and expertise in
+multiple areas risk charges of dilettantism, as if ability
+in one field is diluted or compromised by
+accomplishment in another.
+Fortunately, there are signs that the bias against
+writers who cross generic boundaries is diminishing;
+several recent writers are known and respected for
+their work in both genres. One important example of
+this trend is Rita Dove, an African American writer
+highly acclaimed for both her poetry and her fiction. A
+few years ago, speaking at a conference entitled “Poets
+Who Write Fiction,” Dove expressed gentle
+incredulity about the habit of segregating the genres.
+She had grown up reading and loving both fiction and
+poetry, she said, unaware of any purported danger
+lurking in attempts to mix the two. She also studied for
+some time in Germany, where, she observes, “Poets
+write plays, novelists compose libretti, playwrights
+write novels—they would not understand our
+restrictiveness.”
+It makes little sense, Dove believes, to persist in
+the restrictive approach to poetry and fiction prevalent
+in the U.S., because each genre shares in the nature of
+the other. Indeed, her poetry offers example after
+example of what can only be properly regarded as
+lyric narrative. Her use of language in these poems is
+undeniably lyrical—that is, it evokes emotion and
+inner states without requiring the reader to organize
+ideas or events in a particular linear structure. Yet this
+lyric expression simultaneously presents the elements
+of a plot in such a way that the reader is led repeatedly
+to take account of clusters of narrative details within
+the lyric flow. Thus while the language is lyrical, it
+often comes to constitute, cumulatively, a work of
+narrative fiction. Similarly, many passages in her
+fiction, though undeniably prose, achieve the status of
+
+(55)
+
+lyric narrative through the use of poetic rhythms and
+elliptical expression. In short, Dove bridges the gap
+between poetry and fiction not only by writing in both
+genres, but also by fusing the two genres within
+individual works.
+
+1. Which one of the following most accurately expresses
+the main point of the passage?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Rita Dove’s work has been widely acclaimed
+primarily because of the lyrical elements she
+has introduced into her fiction.
+Rita Dove’s lyric narratives present clusters of
+narrative detail in order to create a cumulative
+narrative without requiring the reader to
+interpret it in a linear manner.
+Working against a bias that has long been
+dominant in the U.S., recent writers like Rita
+Dove have shown that the lyrical use of
+language can effectively enhance narrative
+fiction.
+Unlike many of her U.S. contemporaries, Rita
+Dove writes without relying on the traditional
+techniques associated with poetry and fiction.
+Rita Dove’s successful blending of poetry and
+fiction exemplifies the recent trend away from
+the rigid separation of the two genres that has
+long been prevalent in the U.S.
+
+2. Which one of the following is most analogous to the
+literary achievements that the author attributes to Dove?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+A chef combines nontraditional cooking
+methods and traditional ingredients from
+disparate world cuisines to devise new recipes.
+A professor of film studies becomes a film
+director and succeeds, partly due to a wealth
+of theoretical knowledge of filmmaking.
+An actor who is also a theatrical director teams
+up with a public health agency to use street
+theater to inform the public about health
+matters.
+A choreographer defies convention and
+choreographs dances that combine elements of
+both ballet and jazz dance.
+A rock musician records several songs from
+previous decades but introduces extended
+guitar solos into each one.
+
+GO ON TO THE NEXT PAGE.
+
+23
+3. According to the passage, in the U.S. there is a widely
+held view that
+(A)
+(B)
+
+(C)
+(D)
+(E)
+
+poetry should not involve characters or
+narratives
+unlike the writing of poetry, the writing of
+fiction is rarely an academically serious
+endeavor
+graduate writing programs focus on poetry to
+the exclusion of fiction
+fiction is most aesthetically effective when it
+incorporates lyrical elements
+European literary cultures are suspicious of
+generalists
+
+6. In the context of the passage, the author’s primary
+purpose in mentioning Dove’s experience in Germany
+(lines 32–36) is to
+(A)
+
+(B)
+
+(C)
+
+(D)
+4. The author’s attitude toward the deep rift between
+poetry and fiction in the U.S. can be most accurately
+described as one of
+(A)
+(B)
+(C)
+(D)
+(E)
+
+perplexity as to what could have led to the
+development of such a rift
+astonishment that academics have overlooked
+the existence of the rift
+ambivalence toward the effect the rift has had
+on U.S. literature
+pessimism regarding the possibility that the rift
+can be overcome
+disapproval of attitudes and presuppositions
+underlying the rift
+
+5. In the passage the author conjectures that a cause of the
+deep rift between fiction and poetry in the United States
+may be that
+(A)
+(B)
+
+(C)
+(D)
+(E)
+
+poets and fiction writers each tend to see their
+craft as superior to the others’ craft
+the methods used in training graduate students
+in poetry are different from those used in
+training graduate students in other literary
+fields
+publishers often pressure writers to concentrate
+on what they do best
+a suspicion of generalism deters writers from
+dividing their energies between the two genres
+fiction is more widely read and respected than
+poetry
+
+(E)
+
+suggest that the habit of treating poetry and
+fiction as nonoverlapping domains is
+characteristic of English-speaking societies but
+not others
+point to an experience that reinforced Dove’s
+conviction that poetry and fiction should not
+be rigidly separated
+indicate that Dove’s strengths as a writer derive
+in large part from the international character of
+her academic background
+present an illuminating biographical detail about
+Dove in an effort to enhance the human
+interest appeal of the passage
+indicate what Dove believes to be the origin of
+her opposition to the separation of fiction and
+poetry in the U.S.
+
+7. It can be inferred from the passage that the author
+would be most likely to believe which one of the
+following?
+(A)
+
+(B)
+
+(C)
+(D)
+(E)
+
+Each of Dove’s works can be classified as
+either primarily poetry or primarily fiction,
+even though it may contain elements of both.
+The aesthetic value of lyric narrative resides in
+its representation of a sequence of events,
+rather than in its ability to evoke inner states.
+The way in which Dove blends genres in her
+writing is without precedent in U.S. writing.
+Narrative that uses lyrical language is generally
+aesthetically superior to pure lyric poetry.
+Writers who successfully cross the generic
+boundary between poetry and fiction often try
+their hand at genres such as drama as well.
+
+8. If this passage had been excerpted from a longer text,
+which one of the following predictions about the near
+future of U.S. literature would be most likely to appear
+in that text?
+(A)
+(B)
+
+(C)
+(D)
+(E)
+
+The number of writers who write both poetry
+and fiction will probably continue to grow.
+Because of the increased interest in mixed
+genres, the small market for pure lyric poetry
+will likely shrink even further.
+Narrative poetry will probably come to be
+regarded as a sub-genre of fiction.
+There will probably be a rise in specialization
+among writers in university writing programs.
+Writers who continue to work exclusively in
+poetry or fiction will likely lose their
+audiences.
+
+GO ON TO THE NEXT PAGE.
+
+24
+The two passages discuss recent scientific research on
+music. They are adapted from two different papers
+presented at a scholarly conference.
+
+(55)
+
+Passage A
+
+(5)
+
+(10)
+
+(15)
+
+(20)
+
+(25)
+
+Did music and human language originate
+separately or together? Both systems use intonation
+and rhythm to communicate emotions. Both can be
+produced vocally or with tools, and people can produce
+both music and language silently to themselves.
+Brain imaging studies suggest that music and
+language are part of one large, vastly complicated,
+neurological system for processing sound. In fact,
+fewer differences than similarities exist between the
+neurological processing of the two. One could think of
+the two activities as different radio programs that can
+be broadcast over the same hardware. One noteworthy
+difference, though, is that, generally speaking, people
+are better at language than music. In music, anyone
+can listen easily enough, but most people do not
+perform well, and in many cultures composition is left
+to specialists. In language, by contrast, nearly
+everyone actively performs and composes.
+Given their shared neurological basis, it appears
+that music and language evolved together as brain size
+increased over the course of hominid evolution. But
+the primacy of language over music that we can
+observe today suggests that language, not music, was
+the primary function natural selection operated on.
+Music, it would seem, had little adaptive value of its
+own, and most likely developed on the coattails of
+language.
+
+(60)
+
+prematurely, leaving them much more helpless at birth.
+This helplessness necessitated longer, better maternal
+care. Under such conditions, the emotional bonds
+created in the premusical mother-infant interactions we
+observe in Homo sapiens today—behavior whose
+neurological basis essentially constitutes the capacity
+to make and enjoy music—would have conferred
+considerable evolutionary advantage.
+
+9. Both passages were written primarily in order to answer
+which one of the following questions?
+(A)
+(B)
+
+(C)
+(D)
+
+(E)
+
+What evolutionary advantage did larger brain
+size confer on early hominids?
+Why do human mothers and infants engage in
+bonding behavior that is composed of musical
+elements?
+What are the evolutionary origins of the human
+ability to make music?
+Do the human abilities to make music and to
+use language depend on the same neurological
+systems?
+Why are most people more adept at using
+language than they are at making music?
+
+10. Each of the two passages mentions the relation of music
+to
+(A)
+(B)
+(C)
+(D)
+(E)
+
+bonding between humans
+human emotion
+neurological research
+the increasing helplessness of hominid infants
+the use of tools to produce sounds
+
+Passage B
+
+(30)
+
+(35)
+
+(40)
+
+(45)
+
+(50)
+
+Darwin claimed that since “neither the enjoyment
+nor the capacity of producing musical notes are
+faculties of the least [practical] use to man¼they must
+be ranked amongst the most mysterious with which he
+is endowed.” I suggest that the enjoyment of and the
+capacity to produce musical notes are faculties
+of indispensable use to mothers and their infants and
+that it is in the emotional bonds created by the
+interaction of mother and child that we can discover
+the evolutionary origins of human music.
+Even excluding lullabies, which parents sing to
+infants, human mothers and infants under six months
+of age engage in ritualized, sequential behaviors,
+involving vocal, facial, and bodily interactions. Using
+face-to-face mother-infant interactions filmed at 24
+frames per second, researchers have shown that
+mothers and infants jointly construct mutually
+improvised interactions in which each partner tracks
+the actions of the other. Such episodes last from
+one-half second to three seconds and are composed of
+musical elements—variations in pitch, rhythm, timbre,
+volume, and tempo.
+What evolutionary advantage would such
+behavior have? In the course of hominid evolution,
+brain size increased rapidly. Contemporaneously, the
+increase in bipedality caused the birth canal to narrow.
+This resulted in hominid infants being born ever-more
+
+GO ON TO THE NEXT PAGE.
+
+25
+11. It can be inferred that the authors of the two passages
+would be most likely to disagree over whether
+(A)
+(B)
+
+(C)
+(D)
+(E)
+
+the increase in hominid brain size necessitated
+earlier births
+fewer differences than similarities exist between
+the neurological processing of music and
+human language
+brain size increased rapidly over the course of
+human evolution
+the capacity to produce music has great
+adaptive value to humans
+mother-infant bonding involves temporally
+patterned vocal interactions
+
+13. Which one of the following principles underlies the
+arguments in both passages?
+(A)
+
+(B)
+(C)
+
+(D)
+
+(E)
+12. The authors would be most likely to agree on the
+answer to which one of the following questions
+regarding musical capacity in humans?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Does it manifest itself in some form in early
+infancy?
+Does it affect the strength of mother-infant
+bonds?
+Is it at least partly a result of evolutionary
+increases in brain size?
+Did its evolution spur the development of new
+neurological systems?
+Why does it vary so greatly among different
+individuals?
+
+Investigations of the evolutionary origins of
+human behaviors must take into account the
+behavior of nonhuman animals.
+All human capacities can be explained in terms
+of the evolutionary advantages they offer.
+The fact that a single neurological system
+underlies two different capacities is evidence
+that those capacities evolved concurrently.
+The discovery of the neurological basis of a
+human behavior constitutes the discovery of
+the essence of that behavior.
+The behavior of modern-day humans can
+provide legitimate evidence concerning the
+evolutionary origins of human abilities.
+
+14. Which one of the following most accurately
+characterizes a relationship between the two passages?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Passage A and passage B use different evidence
+to draw divergent conclusions.
+Passage A poses the question that passage B
+attempts to answer.
+Passage A proposes a hypothesis that passage B
+attempts to substantiate with new evidence.
+Passage A expresses a stronger commitment to
+its hypothesis than does passage B.
+Passage A and passage B use different evidence
+to support the same conclusion.
+
+GO ON TO THE NEXT PAGE.
+
+26
+
+(5)
+
+(10)
+
+(15)
+
+(20)
+
+(25)
+
+(30)
+
+(35)
+
+(40)
+
+(45)
+
+(50)
+
+(55)
+
+The World Wide Web, a network of electronically
+produced and interconnected (or “linked”) sites, called
+pages, that are accessible via personal computer, raises
+legal issues about the rights of owners of intellectual
+property, notably those who create documents for
+inclusion on Web pages. Some of these owners of
+intellectual property claim that unless copyright law is
+strengthened, intellectual property on the Web will not
+be protected from copyright infringement. Web users,
+however, claim that if their ability to access
+information on Web pages is reduced, the Web cannot
+live up to its potential as an open, interactive medium
+of communication.
+The debate arises from the Web’s ability to link
+one document to another. Links between sites are
+analogous to the inclusion in a printed text of
+references to other works, but with one difference: the
+cited document is instantly retrievable by a user who
+activates the link. This immediate accessibility creates
+a problem, since current copyright laws give owners of
+intellectual property the right to sue a distributor of
+unauthorized copies of their material even if that
+distributor did not personally make the copies. If
+person A, the author of a document, puts the document
+on a Web page, and person B, the creator of another
+Web page, creates a link to A’s document, is B
+committing copyright infringement?
+To answer this question, it must first be
+determined who controls distribution of a document on
+the Web. When A places a document on a Web page,
+this is comparable to recording an outgoing message
+on one’s telephone answering machine for others to
+hear. When B creates a link to A’s document, this is
+akin to B’s giving out A’s telephone number, thereby
+allowing third parties to hear the outgoing message for
+themselves. Anyone who calls can listen to the
+message; that is its purpose. While B’s link may
+indeed facilitate access to A’s document, the crucial
+point is that A, simply by placing that document on the
+Web, is thereby offering it for distribution. Therefore,
+even if B leads others to the document, it is A who
+actually controls access to it. Hence creating a link to a
+document is not the same as making or distributing a
+copy of that document. Moreover, techniques are
+already available by which A can restrict access to a
+document. For example, A may require a password to
+gain entry to A’s Web page, just as a telephone owner
+can request an unlisted number and disclose it only to
+selected parties. Such a solution would compromise
+the openness of the Web somewhat, but not as much as
+the threat of copyright infringement litigation.
+Changing copyright law to benefit owners of
+intellectual property is thus ill-advised because it
+would impede the development of the Web as a public
+forum dedicated to the free exchange of ideas.
+
+15. Which one of the following most accurately expresses
+the main point of the passage?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Since distribution of a document placed on a
+Web page is controlled by the author of that
+page rather than by the person who creates a
+link to the page, creating such a link should
+not be considered copyright infringement.
+Changes in copyright law in response to the
+development of Web pages and links are
+ill-advised unless such changes amplify rather
+than restrict the free exchange of ideas
+necessary in a democracy.
+People who are concerned about the access
+others may have to the Web documents they
+create can easily prevent such access without
+inhibiting the rights of others to exchange
+ideas freely.
+Problems concerning intellectual property rights
+created by new forms of electronic media are
+not insuperably difficult to resolve if one
+applies basic commonsense principles to these
+problems.
+Maintaining a free exchange of ideas on the
+Web offers benefits that far outweigh those
+that might be gained by a small number of
+individuals if a radical alteration of copyright
+laws aimed at restricting the Web’s growth
+were allowed.
+
+16. Which one of the following is closest in meaning to the
+term “strengthened” as that term is used in line 8 of the
+passage?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+made more restrictive
+made uniform worldwide
+made to impose harsher penalties
+dutifully enforced
+more fully recognized as legitimate
+
+GO ON TO THE NEXT PAGE.
+
+27
+17. With which one of the following claims about
+documents placed on Web pages would the author be
+most likely to agree?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Such documents cannot receive adequate
+protection unless current copyright laws are
+strengthened.
+Such documents cannot be protected from
+unauthorized distribution without significantly
+diminishing the potential of the Web to be a
+widely used form of communication.
+The nearly instantaneous access afforded by the
+Web makes it impossible in practice to limit
+access to such documents.
+Such documents can be protected from
+copyright infringement with the least damage
+to the public interest only by altering existing
+legal codes.
+Such documents cannot fully contribute to the
+Web’s free exchange of ideas unless their
+authors allow them to be freely accessed by
+those who wish to do so.
+
+18. Based on the passage, the relationship between
+strengthening current copyright laws and relying on
+passwords to restrict access to a Web document is most
+analogous to the relationship between
+(A)
+
+(B)
+(C)
+(D)
+(E)
+
+allowing everyone use of a public facility and
+restricting its use to members of the
+community
+outlawing the use of a drug and outlawing its
+sale
+prohibiting a sport and relying on participants to
+employ proper safety gear
+passing a new law and enforcing that law
+allowing unrestricted entry to a building and
+restricting entry to those who have been issued
+a badge
+
+19. The passage most strongly implies which one of the
+following?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+There are no creators of links to Web pages
+who are also owners of intellectual property on
+Web pages.
+The person who controls access to a Web page
+document should be considered the distributor
+of that document.
+Rights of privacy should not be extended to
+owners of intellectual property placed on the
+Web.
+Those who create links to Web pages have
+primary control over who reads the documents
+on those pages.
+A document on a Web page must be converted
+to a physical document via printing before
+copyright infringement takes place.
+
+20. According to the passage, which one of the following
+features of outgoing messages left on telephone
+answering machines is most relevant to the debate
+concerning copyright infringement?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Such messages are carried by an electronic
+medium of communication.
+Such messages are not legally protected against
+unauthorized distribution.
+Transmission of such messages is virtually
+instantaneous.
+People do not usually care whether or not
+others might record such messages.
+Such messages have purposely been made
+available to anyone who calls that telephone
+number.
+
+21. The author’s discussion of telephone answering
+machines serves primarily to
+(A)
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+compare and contrast the legal problems created
+by two different sorts of electronic media
+provide an analogy to illustrate the positions
+taken by each of the two sides in the copyright
+debate
+show that the legal problems produced by new
+communication technology are not themselves
+new
+illustrate the basic principle the author believes
+should help determine the outcome of the
+copyright debate
+show that telephone use also raises concerns
+about copyright infringement
+
+22. According to the passage, present copyright laws
+(A)
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+allow completely unrestricted use of any
+document placed by its author on a Web page
+allow those who establish links to a document
+on a Web page to control its distribution to
+others
+prohibit anyone but the author of a document
+from making a profit from the document’s
+distribution
+allow the author of a document to sue anyone
+who distributes the document without
+permission
+should be altered to allow more complete
+freedom in the exchange of ideas
+
+GO ON TO THE NEXT PAGE.
+
+28
+
+(5)
+
+(10)
+
+(15)
+
+(20)
+
+(25)
+
+(30)
+
+(35)
+
+(40)
+
+(45)
+
+(50)
+
+(55)
+
+In tracing the changing face of the Irish
+landscape, scholars have traditionally relied primarily
+on evidence from historical documents. However, such
+documentary sources provide a fragmentary record at
+best. Reliable accounts are very scarce for many parts
+of Ireland prior to the seventeenth century, and many
+of the relevant documents from the sixteenth and
+seventeenth centuries focus selectively on matters
+relating to military or commercial interests.
+Studies of fossilized pollen grains preserved in
+peats and lake muds provide an additional means of
+investigating vegetative landscape change. Details of
+changes in vegetation resulting from both human
+activities and natural events are reflected in the kinds
+and quantities of minute pollen grains that become
+trapped in sediments. Analysis of samples can identify
+which kinds of plants produced the preserved pollen
+grains and when they were deposited, and in many
+cases the findings can serve to supplement or correct
+the documentary record.
+For example, analyses of samples from Long
+Lough in County Down have revealed significant
+patterns of cereal-grain pollen beginning by about 400
+A.D. The substantial clay content of the soil in this part
+of Down makes cultivation by primitive tools difficult.
+Historians thought that such soils were not tilled to
+any significant extent until the introduction of the
+moldboard plough to Ireland in the seventh century
+A.D. Because cereal cultivation would have required
+tilling of the soil, the pollen evidence indicates that
+these soils must indeed have been successfully tilled
+before the introduction of the new plough.
+Another example concerns flax cultivation in
+County Down, one of the great linen-producing areas
+of Ireland during the eighteenth century. Some aspects
+of linen production in Down are well documented, but
+the documentary record tells little about the cultivation
+of flax, the plant from which linen is made, in that
+area. The record of eighteenth-century linen
+production in Down, together with the knowledge that
+flax cultivation had been established in Ireland
+centuries before that time, led some historians to
+surmise that this plant was being cultivated in Down
+before the eighteenth century. But pollen analyses
+indicate that this is not the case; flax pollen was found
+only in deposits laid down since the eighteenth
+century.
+It must be stressed, though, that there are limits to
+the ability of the pollen record to reflect the vegetative
+history of the landscape. For example, pollen analyses
+cannot identify the species, but only the genus or
+family, of some plants. Among these is madder, a
+cultivated dye plant of historical importance in Ireland.
+Madder belongs to a plant family that also comprises
+various native weeds, including goosegrass. If madder
+pollen were present in a deposit it would be
+indistinguishable from that of uncultivated native
+species.
+
+23. Which one of the following most accurately expresses
+the main point of the passage?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Analysis of fossilized pollen is a useful means
+of supplementing and in some cases correcting
+other sources of information regarding changes
+in the Irish landscape.
+Analyses of historical documents, together with
+pollen evidence, have led to the revision of
+some previously accepted hypotheses regarding
+changes in the Irish landscape.
+Analysis of fossilized pollen has proven to be a
+valuable tool in the identification of ancient
+plant species.
+Analysis of fossilized pollen has provided new
+evidence that the cultivation of such crops as
+cereal grains, flax, and madder had a
+significant impact on the landscape of Ireland.
+While pollen evidence can sometimes
+supplement other sources of historical
+information, its applicability is severely
+limited, since it cannot be used to identify
+plant species.
+
+24. The passage indicates that pollen analyses have provided
+evidence against which one of the following views?
+(A)
+(B)
+
+(C)
+
+(D)
+(E)
+
+The moldboard plough was introduced into
+Ireland in the seventh century.
+In certain parts of County Down, cereal grains
+were not cultivated to any significant extent
+before the seventh century.
+In certain parts of Ireland, cereal grains have
+been cultivated continuously since the
+introduction of the moldboard plough.
+Cereal grain cultivation requires successful
+tilling of the soil.
+Cereal grain cultivation began in County Down
+around 400 A.D.
+
+25. The phrase “documentary record” (lines 20 and 37)
+primarily refers to
+(A)
+(B)
+(C)
+
+(D)
+
+(E)
+
+documented results of analyses of fossilized
+pollen
+the kinds and quantities of fossilized pollen
+grains preserved in peats and lake muds
+written and pictorial descriptions by current
+historians of the events and landscapes of past
+centuries
+government and commercial records, maps, and
+similar documents produced in the past that
+recorded conditions and events of that time
+articles, books, and other documents by current
+historians listing and analyzing all the
+available evidence regarding a particular
+historical period
+
+GO ON TO THE NEXT PAGE.
+
+29
+26. The passage indicates that prior to the use of pollen
+analysis in the study of the history of the Irish
+landscape, at least some historians believed which one
+of the following?
+(A)
+(B)
+(C)
+
+(D)
+(E)
+
+The Irish landscape had experienced significant
+flooding during the seventeenth century.
+Cereal grain was not cultivated anywhere in
+Ireland until at least the seventh century.
+The history of the Irish landscape during the
+sixteenth and seventeenth centuries was well
+documented.
+Madder was not used as a dye plant in Ireland
+until after the eighteenth century.
+The beginning of flax cultivation in County
+Down may well have occurred before the
+eighteenth century.
+
+27. Which one of the following most accurately describes
+the relationship between the second paragraph and the
+final paragraph?
+(A)
+
+(B)
+
+(C)
+(D)
+
+(E)
+
+The second paragraph proposes a hypothesis for
+which the final paragraph offers a supporting
+example.
+The final paragraph describes a problem that
+must be solved before the method advocated in
+the second paragraph can be considered viable.
+The final paragraph qualifies the claim made in
+the second paragraph.
+The second paragraph describes a view against
+which the author intends to argue, and the final
+paragraph states the author’s argument against
+that view.
+The final paragraph offers procedures to
+supplement the method described in the second
+paragraph.
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+30
+
+Acknowledgment is made to the following sources from which material has been adapted for use in this
+test booklet:
+Valerie A. Hall, “The Development of the Landscape of Ireland over the Last Two Thousand Years; Fresh Evidence from Historical and Pollen Analytical Studies.” ©1997 by Chronicon, UCC.
+Timothy Miller, How to Want What You Have. ©1995 by Timothy Miller.
+Carol Muske, “Breaking Out of the Genre Ghetto.” ©1995 by Poetry in Review Foundation.
+
+S C A N T R O N
+
+®
+
+SIDE 1
+
+EliteView™ EM-286024-1:654321
+
+INSTRUCTIONS FOR COMPLETING THE BIOGRAPHICAL AREA ARE ON THE BACK COVER OF YOUR TEST BOOKLET.
+USE ONLY A NO. 2 OR HB PENCIL TO COMPLETE THIS ANSWER SHEET. DO NOT USE INK.
+
+LAST NAME
+
+FIRST NAME
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+O
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+Q
+
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+9
+
+GENDER
+
+Male
+Female
+
+10
+
+DOMINANT
+LANGUAGE
+
+English
+Other
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+5
+
+Jan
+Feb
+Mar
+Apr
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+
+0
+1
+2
+3
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+6
+
+DATE OF BIRTH
+MONTH DAY YEAR
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+
+SECTION 2
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+7
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+RACIAL/ETHNIC
+DESCRIPTION
+Mark one or more
+
+1 Amer. Indian/Alaska Native
+2 Asian
+3 Black/African American
+4 Canadian Aboriginal
+5 Caucasian/White
+6 Hispanic/Latino
+7 Native Hawaiian/
+Other Pacific Islander
+8 Puerto Rican
+9 TSI/Aboriginal Australian
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+TEST FORM
+
+DAY
+
+YEAR
+
+13
+
+Mark one and only one answer to each question. Be sure to fill in completely the space for your
+intended answer choice. If you erase, do so completely. Make no stray marks.
+
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
+CENTER
+NUMBER
+
+Yes
+No
+
+Law School Admission Test
+
+SECTION 1
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+TEST
+FORM CODE
+
+12
+
+TEST DATE
+
+MONTH
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+
+4
+
+LSAC
+ACCOUNT NUMBER
+
+L
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+11
+
+ENGLISH
+FLUENCY
+
+3
+
+SOCIAL SECURITY/
+SOCIAL INSURANCE NO.
+
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+
+SECTION 3
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+
+SECTION 4
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+
+SECTION 5
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+
+14
+
+TEST BOOK
+SERIAL NO.
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+
+O
+
+O
+
+P
+
+P
+
+Q
+
+Q
+
+R
+S
+T
+
+R
+S
+T
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+PLEASE PRINT INFORMATION
+
+LAST NAME
+
+FIRST
+
+SSN/SIN
+
+DATE OF BIRTH
+© 2011 BY LAW SCHOOL ADMISSION COUNCIL.
+ALL RIGHTS RESERVED. PRINTED IN USA.
+A
+
+B
+C
+
+8
+
+2
+
+MI
+
+A
+
+Wrong Marks
+
+C
+
+1
+
+✓ ✗
+
+Right Mark
+
+USE A NO. 2 OR HB PENCIL ONLY
+
+SIDE 2
+
+General Directions for the LSAT Answer Sheet
+The actual testing time for this portion of the test will be 2 hours 55 minutes. There are five sections, each with a time
+limit of 35 minutes. The supervisor will tell you when to begin and end each section. If you finish a section before time is
+called, you may check your work on that section only; do not turn to any other section of the test book and do not work
+on any other section either in the test book or on the answer sheet.
+There are several different types of questions on the test, and each question type has its own directions. Be sure you
+understand the directions for each question type before attempting to answer any questions in that section.
+Not everyone will finish all the questions in the time allowed. Do not hurry, but work steadily and as quickly as you can
+without sacrificing accuracy. You are advised to use your time effectively. If a question seems too difficult, go on to the
+next one and return to the difficult question after completing the section. MARK THE BEST ANSWER YOU CAN FOR
+EVERY QUESTION. NO DEDUCTIONS WILL BE MADE FOR WRONG ANSWERS. YOUR SCORE WILL BE BASED ONLY
+ON THE NUMBER OF QUESTIONS YOU ANSWER CORRECTLY.
+ALL YOUR ANSWERS MUST BE MARKED ON THE ANSWER SHEET. Answer spaces for each question are lettered to
+correspond with the letters of the potential answers to each question in the test book. After you have decided which of
+the answers is correct, blacken the corresponding space on the answer sheet. BE SURE THAT EACH MARK IS BLACK
+AND COMPLETELY FILLS THE ANSWER SPACE. Give only one answer to each question. If you change an answer, be
+sure that all previous marks are erased completely. Since the answer sheet is machine scored, incomplete erasures may
+be interpreted as intended answers. ANSWERS RECORDED IN THE TEST BOOK WILL NOT BE SCORED.
+There may be more question numbers on this answer sheet than there are questions in a section. Do not be concerned,
+but be certain that the section and number of the question you are answering matches the answer sheet section and
+question number. Additional answer spaces in any answer sheet section should be left blank. Begin your next section in
+the number one answer space for that section.
+LSAC takes various steps to ensure that answer sheets are returned from test centers in a timely manner for processing.
+In the unlikely event that an answer sheet is not received, LSAC will permit the examinee either to retest at no additional
+fee or to receive a refund of his or her LSAT fee. THESE REMEDIES ARE THE ONLY REMEDIES AVAILABLE IN THE
+UNLIKELY EVENT THAT AN ANSWER SHEET IS NOT RECEIVED BY LSAC.
+HOW DID YOU PREPARE FOR THE LSAT?
+(Select all that apply.)
+
+Score Cancellation
+Complete this section only if you are
+absolutely certain you want to cancel
+your score. A CANCELLATION REQUEST CANNOT BE RESCINDED. IF
+YOU ARE AT ALL UNCERTAIN, YOU
+SHOULD NOT COMPLETE THIS
+SECTION.
+
+To cancel your score from this
+administration, you must:
+
+Responses to this item are voluntary and will be used for statistical research purposes only.
+By studying the free sample questions available on LSAC’s website.
+By taking the free sample LSAT available on LSAC’s website.
+By working through official LSAT PrepTests, ItemWise, and/or other LSAC test prep products.
+By using LSAT prep books or software not published by LSAC.
+By attending a commercial test preparation or coaching course.
+By attending a test preparation or coaching course offered through an undergraduate institution.
+Self study.
+Other preparation.
+No preparation.
+
+A. fill in both ovals here . . . . .
+
+CERTIFYING STATEMENT
+
+AND
+
+B. read the following statement.
+Then sign your name and enter
+the date.
+YOUR SIGNATURE ALONE IS
+NOT SUFFICIENT FOR SCORE
+CANCELLATION. BOTH
+OVALS ABOVE MUST BE
+FILLED IN FOR SCANNING
+EQUIPMENT TO RECOGNIZE
+YOUR REQUEST FOR SCORE
+CANCELLATION.
+
+Please write the following statement. Sign and date.
+I certify that I am the examinee whose name appears on this answer sheet and that I am
+here to take the LSAT for the sole purpose of being considered for admission to law
+school. I further certify that I will neither assist nor receive assistance from any other
+candidate, and I agree not to copy, retain, or transmit examination questions in any form
+or discuss them with any other person.
+
+I certify that I wish to cancel my test
+score from this administration. I
+understand that my request is
+irreversible and that my score will
+not be sent to me or to the law
+schools to which I apply.
+
+Sign your name in full
+Date
+FOR LSAC USE ONLY
+
+SIGNATURE:
+
+TODAY’S DATE:
+
+MONTH
+
+DAY
+
+YEAR
+
+Wait for the supervisor’s instructions before you open the page to the topic.
+Please print and sign your name and write the date in the designated spaces below.
+
+Time: 35 Minutes
+General Directions
+You will have 35 minutes in which to plan and write an essay on the topic inside. Read the topic and the accompanying directions carefully.
+You will probably find it best to spend a few minutes considering the topic and organizing your thoughts before you begin writing. In your essay,
+be sure to develop your ideas fully, leaving time, if possible, to review what you have written. Do not write on a topic other than the one
+specified. Writing on a topic of your own choice is not acceptable.
+No special knowledge is required or expected for this writing exercise. Law schools are interested in the reasoning, clarity, organization,
+language usage, and writing mechanics displayed in your essay. How well you write is more important than how much you write.
+Confine your essay to the blocked, lined area on the front and back of the separate Writing Sample Response Sheet. Only that area will be
+reproduced for law schools. Be sure that your writing is legible.
+
+Both this topic sheet and your response sheet must be turned over to the testing staff
+before you leave the room.
+
+Print Your Full Name Here
+
+Topic Code
+
+030187
+
+Last
+
+Sign Your Name Here
+
+Date
+
+/
+
+First
+
+/
+
+Scratch Paper
+Do not write your essay in this space.
+
+M.I.
+
+LSAT® Writing Sample Topic
+© 2007 by Law School Admission Council, Inc. All rights reserved.
+
+Directions: The scenario presented below describes two choices, either one of which can be supported on the basis of the information given.
+Your essay should consider both choices and argue for one over the other, based on the two specified criteria and the facts provided. There
+is no “right” or “wrong” choice: a reasonable argument can be made for either.
+BLZ Stores, an established men’s clothing retailer with a chain of stores in a major metropolitan area, is selecting a plan for expansion.
+Using the facts below, write an essay in which you argue for one of the following plans over the other based on the following two criteria:
+
+•
+•
+
+The company wants to increase its profits.
+The company wants to ensure its long-term financial stability.
+
+The “national plan” is to open a large number of men’s clothing stores throughout the country over a short period of time. In doing this,
+the company would incur considerable debt. It would also have to greatly increase staff and develop national marketing and distribution
+capabilities. Many regional companies that adopted this strategy increased their profits dramatically. A greater number tried and failed,
+suffering severe financial consequences. BLZ is not well known outside its home area. Research indicates that the BLZ name is viewed
+positively by those who know it. National clothing chains can offer lower prices because of their greater buying power. BLZ currently faces
+increasingly heavy competition in its home region from such chains.
+The “regional plan” is to increase the number and size of stores in the company’s home region and upgrade their facilities, product quality,
+and service. This could be achieved for the most part with existing cash reserves. These upgrades would generally increase the prices that BLZ
+charges. In one trial store in which such changes were implemented, sales and profits have increased. The local population is growing. BLZ
+enjoys strong customer loyalty. Regional expansion could be accomplished primarily using BLZ’s experienced and loyal staff and would allow
+WP-L030B
+continued reliance on known and trusted suppliers, contractors, and other business connections.
+
+Scratch Paper
+Do not write your essay in this space.
+
+LAST
+NAME
+(Print)
+
+FIRST
+NAME
+(Print)
+
+SSN/
+SIN
+
+L
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+MI
+
+TEST
+CENTER NO.
+
+SIGNATURE
+
+M
+
+M
+
+D
+
+D
+
+Y
+
+TEST DATE
+
+Writing Sample Response Sheet
+
+DO NOT WRITE
+IN THIS SPACE
+
+LSAC ACCOUNT NO.
+
+Y
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+TOPIC CODE
+
+Begin your essay in the lined area below.
+Continue on the back if you need more space.
+
+EliteView™ forms by NCS Pearson EM-252259-6:654321
+
+Printed in U.S.A.
+
+Copyright © 2005 by Law School Admission Council, Inc. All Rights Reserved.
+
+37
+
+The Practice Test
+Answer Key for the Practice Test
+
+SECTION I
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+A
+C
+C
+E
+E
+C
+A
+
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+D
+E
+D
+A
+A
+D
+E
+
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+
+A
+A
+D
+B
+D
+C
+D
+
+22.
+23.
+
+B
+A
+
+D
+D
+B
+B
+A
+E
+A
+
+22.
+23.
+24.
+25.
+
+D
+C
+A
+C
+
+C
+B
+B
+B
+A
+C
+B
+
+22.
+23.
+24.
+25.
+
+C
+D
+E
+A
+
+A
+A
+E
+C
+B
+E
+D
+
+22.
+23.
+24.
+25.
+26.
+27.
+
+D
+A
+B
+D
+E
+C
+
+SECTION II
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+B
+B
+D
+A
+B
+B
+D
+
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+A
+E
+B
+C
+A
+C
+E
+
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+SECTION III
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+C
+A
+E
+E
+C
+B
+B
+
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+E
+D
+E
+E
+D
+B
+C
+
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+SECTION IV
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+E
+D
+A
+E
+D
+B
+A
+
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+A
+C
+B
+D
+C
+E
+A
+
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+
+38
+
+The Practice Test
+
+Computing Your Score
+Directions:
+
+Conversion Chart
+1.
+
+Use the Answer Key on page 37 to check your
+answers.
+
+2.
+
+Use the Scoring Worksheet below to compute your
+raw score.
+
+3.
+
+Use the Score Conversion Chart to convert your
+raw score into the 120-180 scale.
+
+Scoring Worksheet
+1.
+
+Enter the number of questions you answered
+correctly in each section.
+Number
+Correct
+SECTION I. .
+SECTION II .
+SECTION III .
+SECTION IV.
+
+2.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+Enter the sum here:
+This is your Raw Score.
+
+For Converting Raw Score to the 120-180 LSAT
+Scaled Score
+Form 8LSN75 (2007)
+Reported
+Score
+
+Lowest
+
+Raw Score
+
+180
+179
+178
+177
+176
+175
+174
+173
+172
+171
+170
+169
+168
+167
+166
+165
+164
+163
+162
+161
+160
+159
+158
+157
+156
+155
+154
+153
+152
+151
+150
+149
+148
+147
+146
+145
+144
+143
+142
+141
+140
+139
+138
+137
+136
+135
+134
+133
+132
+131
+130
+129
+128
+127
+126
+125
+124
+123
+122
+121
+120
+
+99
+—*
+98
+97
+—*
+96
+95
+—*
+94
+93
+92
+91
+90
+89
+87
+86
+85
+83
+81
+80
+78
+76
+75
+73
+71
+69
+67
+65
+63
+61
+59
+57
+55
+54
+52
+50
+48
+46
+44
+42
+40
+39
+37
+35
+33
+32
+30
+29
+27
+26
+25
+24
+22
+21
+20
+19
+18
+17
+—*
+16
+0
+
+Highest
+100
+—*
+98
+97
+—*
+96
+95
+—*
+94
+93
+92
+91
+90
+89
+88
+86
+85
+84
+82
+80
+79
+77
+75
+74
+72
+70
+68
+66
+64
+62
+60
+58
+56
+54
+53
+51
+49
+47
+45
+43
+41
+39
+38
+36
+34
+32
+31
+29
+28
+26
+25
+24
+23
+21
+20
+19
+18
+17
+—*
+16
+15
+
+*There is no raw score that will produce this scaled score for this form.
+
+

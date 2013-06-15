@@ -1,0 +1,5 @@
+<%= form_tag("/fetch", :method => :get) do %>
+  <%= label_tag(:q, "Search for a hard word:") %>
+  <%= text_field_tag(:q) %>
+  <%= submit_tag("Search") %>
+<% end %>

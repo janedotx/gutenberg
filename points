@@ -1,0 +1,50 @@
+function filter_boxes(checkboxes) {
+  var filtered_boxes = [];
+  for (var i = 0; i < checkboxes.length; i++) {
+    if (checkboxes[i].getAttribute("type") == "checkbox") {
+      filtered_boxes.push(checkboxes[i]);
+    }
+  }
+  return filtered_boxes;
+}
+
+function check(num_to_check) {
+  console.log("called");
+  var tds = $(".wordlist td");
+  var num_to_check = num_to_check;
+  for (var i = 0; i < tds.length; i++) {
+    if (num_to_check == 0) {
+      break;
+    }
+    var cell = tds[i];
+    var checkboxes = filter_boxes(cell.getElementsByTagName("input"));
+    console.log("checkboxes length " + checkboxes.length);
+    var num_to_check_this_cell = 0;
+    if (num_to_check > checkboxes.length) {
+      num_to_check_this_cell = checkboxes.length;
+      num_to_check = num_to_check - checkboxes.length;
+      console.log(num_to_check);
+    } else {
+      num_to_check_this_cell = num_to_check;
+      num_to_check = 0;
+    }
+
+    console.log("num_to_check_this_cell: " + num_to_check_this_cell);
+    check_column(num_to_check_this_cell, checkboxes);
+  }
+}
+
+function check_column(num_to_check_this_cell, boxes) {
+  for (var i = 0; i < num_to_check_this_cell; i++) {
+    boxes[i].click();
+  }
+}
+
+function bclick() {
+  $("button[name='continue']").click();
+}
+
+/*points:
+35000, 5 
+23,300 25 
+*/

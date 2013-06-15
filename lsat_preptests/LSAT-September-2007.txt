@@ -1,0 +1,3880 @@
+September 2007
+Full-Length LSAT
+
+1
+
+1
+
+1
+SECTION I
+Time—35 minutes
+25 Questions
+Directions: The questions in this section are based on the reasoning contained in brief statements or passages. For some questions,
+more than one of the choices could conceivably answer the question. However, you are to choose the best answer; that is, the response
+that most accurately and completely answers the question. You should not make assumptions that are by commonsense standards
+implausible, superﬂuous, or incompatible with the passage. After you have chosen the best answer, blacken the corresponding space
+on your answer sheet.
+1.
+
+Certain companies require their managers to rank
+workers in the groups they supervise from best to
+worst, giving each worker a unique ranking based on
+job performance. The top 10 percent of the workers in
+each group are rewarded and the bottom 10 percent are
+penalized or ﬁred. But this system is unfair to workers.
+Good workers could receive low rankings merely
+because they belong to groups of exceptionally good
+workers. Furthermore, managers often give the highest
+rankings to workers who share the manager’s interests
+outside of work.
+Which one of the following most accurately expresses
+the conclusion drawn in the argument?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Some companies require their managers to give
+unique rankings to the workers they supervise.
+Under the ranking system, the top 10 percent of
+the workers in each group are rewarded and the
+bottom 10 percent are penalized or ﬁred.
+The ranking system is not a fair way to determine
+penalties or rewards for workers.
+Workers in exceptionally strong work groups are
+unfairly penalized under the ranking system.
+Managers often give the highest rankings to
+workers who share the manager’s outside
+interests.
+
+2.
+
+Psychologist: A study of 436 university students
+found that those who took short naps throughout
+the day suffered from insomnia more frequently
+than those who did not. Moreover, people who
+work on commercial ﬁshing vessels often have
+irregular sleep patterns that include frequent
+napping, and they also suffer from insomnia.
+So it is very likely that napping tends to cause
+insomnia.
+The reasoning in the psychologist’s argument is most
+vulnerable to criticism on the grounds that the argument
+(A)
+
+(B)
+(C)
+(D)
+(E)
+
+presumes, without providing justiﬁcation, that
+university students suffer from insomnia more
+frequently than do members of the general
+population
+presumes that all instances of insomnia have the
+same cause
+fails to provide a scientiﬁcally respectable
+deﬁnition for the term “napping”
+fails to consider the possibility that frequent
+daytime napping is an effect rather than a cause
+of insomnia
+presumes, without providing justiﬁcation, that
+there is such a thing as a regular sleep pattern
+for someone working on a commercial ﬁshing
+vessel
+
+GO ON TO THE NEXT PAGE.
+
+1
+
+1
+
+1
+3.
+
+Whenever Joe’s car is vacuumed, the employees of
+K & L Auto vacuum it; they are the only people who
+ever vacuum Joe’s car. If the employees of K & L
+Auto vacuumed Joe’s car, then Joe took his car to K &
+L Auto to be ﬁxed. Joe’s car was recently vacuumed.
+Therefore, Joe took his car to K & L Auto to be ﬁxed.
+
+5.
+
+The pattern of reasoning exhibited by the argument
+above is most similar to that exhibited by which one of
+the following?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Emily’s water glass is wet and it would be wet
+only if she drank water from it this morning.
+Since the only time she drinks water in the
+morning is when she takes her medication,
+Emily took her medication this morning.
+Lisa went to the hair salon today since either she
+went to the hair salon today or she went to the
+bank this morning, but Lisa did not go to the
+bank this morning.
+There are no bills on John’s kitchen table. Since
+John gets at least one bill per day and he always
+puts his bills on his kitchen table, someone else
+must have checked John’s mail today.
+Linda is grumpy only if she does not have her
+coffee in the morning, and Linda does not have
+her coffee in the morning only if she runs out of
+coffee. Therefore, Linda runs out of coffee only
+on days that she is grumpy.
+Jeff had to choose either a grapefruit or cereal
+for breakfast this morning. Given that Jeff is
+allergic to grapefruit, Jeff must have had cereal
+for breakfast this morning.
+
+Everyone in Biba’s neighborhood is permitted to swim
+at Barton Pool at some time during each day that it is
+open. No children under the age of 6 are permitted to
+swim at Barton Pool between noon and 5 P.M. From
+5 P.M. until closing, Barton Pool is reserved for adults
+only.
+If all the sentences above are true, then which one of
+the following must be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+6.
+
+Beck: Our computer program estimates municipal
+automotive use based on weekly data. Some
+staff question the accuracy of the program’s
+estimates. But because the ﬁgures it provides are
+remarkably consistent from week to week, we can
+be conﬁdent of its accuracy.
+The reasoning in Beck’s argument is ﬂawed in that it
+(A)
+(B)
+
+4.
+
+Editorialist: In a large corporation, one of the
+functions of the corporation’s president is to
+promote the key interests of the shareholders.
+Therefore, the president has a duty to keep the
+corporation’s proﬁts high.
+Which one of the following, if true, would most
+strengthen the editorialist’s argument?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Shareholders sometimes will be satisﬁed even if
+dividends paid to them from company proﬁts
+are not high.
+The president and the board of directors of
+a corporation are jointly responsible for
+advancing the key interests of the shareholders.
+Keeping a corporation’s proﬁts high is likely
+to advance the important interests of the
+corporation’s shareholders.
+In considering where to invest, most potential
+shareholders are interested in more than just the
+proﬁtability of a corporation.
+The president of a corporation has many
+functions besides advancing the important
+interests of the corporation’s shareholders.
+
+Few children under the age of 6 live in Biba’s
+neighborhood.
+If Biba’s next-door neighbor has a child under
+the age of 6, then Barton Pool is open before
+noon.
+If most children who swim in Barton Pool swim
+in the afternoon, then the pool is generally less
+crowded after 5 P.M.
+On days when Barton Pool is open, at least some
+children swim there in the afternoon.
+Any child swimming in Barton Pool before 5
+P.M. must be breaking Barton Pool rules.
+
+(C)
+(D)
+(E)
+
+fails to establish that consistency is a more
+important consideration than accuracy
+fails to consider the program’s accuracy in other
+tasks that it may perform
+takes for granted that the program’s output
+would be consistent even if its estimates were
+inaccurate
+regards accuracy as the sole criterion for judging
+the program’s value
+fails to consider that the program could produce
+consistent but inaccurate output
+
+GO ON TO THE NEXT PAGE.
+
+1
+
+1
+
+1
+7.
+
+Inertia affects the ﬂow of water pumped through a
+closed system of pipes. When the pump is ﬁrst switched
+on, the water, which has mass, takes time to reach full
+speed. When the pump is switched off, inertia causes
+the decrease in the water ﬂow to be gradual. The effects
+of inductance in electrical circuits are similar to the
+effects of inertia in water pipes.
+The information above provides the most support for
+which one of the following?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+8.
+
+The rate at which electrical current ﬂows is
+affected by inductance.
+The ﬂow of electrical current in a circuit requires
+inertia.
+Inertia in the ﬂow of water pumped by an
+electrically powered pump is caused by
+inductance in the pump’s circuits.
+Electrical engineers try to minimize the effects of
+inductance in electrical circuits.
+When a water pump is switched off it continues
+to pump water for a second or two.
+
+Journalist: To reconcile the need for proﬁts sufﬁcient
+to support new drug research with the moral
+imperative to provide medicines to those who
+most need them but cannot afford them, some
+pharmaceutical companies feel justiﬁed in selling
+a drug in rich nations at one price and in poor
+nations at a much lower price. But this practice is
+unjustiﬁed. A nation with a low average income
+may still have a substantial middle class better
+able to pay for new drugs than are many of the
+poorer citizens of an overall wealthier nation.
+Which one of the following principles, if valid, most
+helps to justify the journalist’s reasoning?
+(A)
+(B)
+(C)
+
+(D)
+(E)
+
+People who are ill deserve more consideration
+than do healthy people, regardless of their
+relative socioeconomic positions.
+Wealthy institutions have an obligation to expend
+at least some of their resources to assist those
+incapable of assisting themselves.
+Whether one deserves special consideration
+depends on one’s needs rather than on
+characteristics of the society to which one
+belongs.
+The people in wealthy nations should not have
+better access to health care than do the people in
+poorer nations.
+Unequal access to health care is more unfair than
+an unequal distribution of wealth.
+
+9.
+
+Robert: The school board is considering adopting a
+year-round academic schedule that eliminates the
+traditional three-month summer vacation. This
+schedule should be adopted, since teachers need
+to cover more new material during the school year
+than they do now.
+Samantha: The proposed schedule will not permit
+teachers to cover more new material. Even though
+the schedule eliminates summer vacation, it adds
+six new two-week breaks, so the total number of
+school days will be about the same as before.
+Which one of the following, if true, is a response Robert
+could make that would counter Samantha’s argument?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Teachers would be willing to accept elimination
+of the traditional three-month summer vacation
+as long as the total vacation time they are
+entitled to each year is not reduced.
+Most parents who work outside the home ﬁnd
+it difﬁcult to arrange adequate supervision for
+their school-age children over the traditional
+three-month summer vacation.
+In school districts that have adopted a yearround schedule that increases the number of
+school days per year, students show a deeper
+understanding and better retention of new
+material.
+Teachers spend no more than a day of class time
+reviewing old material when students have
+been away from school for only a few weeks,
+but have to spend up to a month of class time
+reviewing after a three-month summer vacation.
+Students prefer taking a long vacation from
+school during the summer to taking more
+frequent but shorter vacations spread throughout
+the year.
+
+GO ON TO THE NEXT PAGE.
+
+1
+
+1
+
+1
+10. In order to reduce trafﬁc congestion and raise revenue
+for the city, the mayor plans to implement a charge
+of $10 per day for driving in the downtown area.
+Payment of this charge will be enforced using a highly
+sophisticated system that employs digital cameras and
+computerized automobile registration. This system will
+not be ready until the end of next year. Without this
+system, however, mass evasion of the charge will result.
+Therefore, when the mayor’s plan is ﬁrst implemented,
+payment of the charge will not be effectively enforced.
+Which one of the following is an assumption on which
+the argument depends for its conclusion to be properly
+drawn?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+The mayor’s plan to charge for driving
+downtown will be implemented before the end
+of next year.
+The city will incur a budget deﬁcit if it does not
+receive the revenue it expects to raise from the
+charge for driving downtown.
+The plan to charge for driving downtown should
+be implemented as soon as payment of the
+charge can be effectively enforced.
+Raising revenue is a more important
+consideration for the city than is reducing trafﬁc
+congestion.
+A daily charge for driving downtown is the most
+effective way to reduce trafﬁc congestion.
+
+11. A recent study revealed that the percentage of people
+treated at large, urban hospitals who recover from their
+illnesses is lower than the percentage for people treated
+at smaller, rural hospitals.
+Each of the following, if true, contributes to an
+explanation of the difference in recovery rates
+EXCEPT:
+(A)
+(B)
+(C)
+
+(D)
+
+(E)
+
+Because there are fewer patients to feed,
+nutritionists at small hospitals are better able to
+tailor meals to the dietary needs of each patient.
+The less friendly, more impersonal atmosphere
+of large hospitals can be a source of stress for
+patients at those hospitals.
+Although large hospitals tend to draw doctors
+trained at the more prestigious schools, no
+correlation has been found between the prestige
+of a doctor’s school and patients’ recovery rate.
+Because space is relatively scarce in large
+hospitals, doctors are encouraged to minimize
+the length of time that patients are held for
+observation following a medical procedure.
+Doctors at large hospitals tend to have a greater
+number of patients and consequently less
+time to explain to staff and to patients how
+medications are to be administered.
+
+12. Perry: Worker-owned businesses require workers to
+spend time on management decision-making and
+investment strategy, tasks that are not directly
+productive. Also, such businesses have less
+extensive divisions of labor than do investorowned businesses. Such inefﬁciencies can lead
+to low proﬁtability, and thus increase the risk
+for lenders. Therefore, lenders seeking to reduce
+their risk should not make loans to worker-owned
+businesses.
+Which one of the following, if true, most seriously
+weakens Perry’s argument?
+(A)
+(B)
+(C)
+(D)
+
+(E)
+
+Businesses with the most extensive divisions of
+labor sometimes fail to make the fullest use of
+their most versatile employees’ potential.
+Lenders who specialize in high-risk loans are
+the largest source of loans for worker-owned
+businesses.
+Investor-owned businesses are more likely than
+worker-owned businesses are to receive start-up
+loans.
+Worker-owned businesses have traditionally
+obtained loans from cooperative lending
+institutions established by coalitions of workerowned businesses.
+In most worker-owned businesses, workers
+compensate for inefﬁciencies by working
+longer hours than do workers in investor-owned
+businesses.
+
+13. Some paleontologists believe that certain species of
+dinosaurs guarded their young in protective nests
+long after the young hatched. As evidence, they cite
+the discovery of fossilized hadrosaur babies and
+adolescents in carefully designed nests. But similar
+nests for hatchlings and adolescents are constructed
+by modern crocodiles, even though crocodiles guard
+their young only for a very brief time after they hatch.
+Hence, _________.
+Which one of the following most logically completes
+the argument?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+paleontologists who believe that hadrosaurs
+guarded their young long after the young
+hatched have no evidence to support this belief
+we will never be able to know the extent to
+which hadrosaurs guarded their young
+hadrosaurs guarded their young for at most very
+brief periods after hatching
+it is unclear whether what we learn about
+hadrosaurs from their fossilized remains tells us
+anything about other dinosaurs
+the construction of nests for hatchlings and
+adolescents is not strong evidence for the
+paleontologists’ belief
+GO ON TO THE NEXT PAGE.
+
+1
+
+1
+
+1
+14. For one academic year all the students at a high school
+were observed. The aim was to test the hypothesis that
+studying more increased a student’s chances of earning
+a higher grade. It turned out that the students who spent
+the most time studying did not earn grades as high as
+did many students who studied less. Nonetheless, the
+researchers concluded that the results of the observation
+supported the initial hypothesis.
+Which one of the following, if true, most helps to
+explain why the researchers drew the conclusion
+described above?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+The students who spent the most time studying
+earned higher grades than did some students
+who studied for less time than the average.
+The students tended to get slightly lower grades
+as the academic year progressed.
+In each course, the more a student studied, the
+better his or her grade was in that course.
+The students who spent the least time studying
+tended to be students with no more than average
+involvement in extracurricular activities.
+Students who spent more time studying
+understood the course material better than other
+students did.
+
+15. Researchers had three groups of professional cyclists
+cycle for one hour at different levels of intensity.
+Members of groups A, B, and C cycled at rates that
+sustained, for an hour, pulses of about 60 percent,
+70 percent, and 85 percent, respectively, of the
+recommended maximum pulse rate for recreational
+cyclists. Most members of Group A reported being
+less depressed and angry afterward. Most members of
+Group B did not report these beneﬁts. Most members of
+Group C reported feeling worse in these respects than
+before the exercise.
+Which one of the following is most strongly supported
+by the information above?
+(A)
+(B)
+(C)
+
+(D)
+(E)
+
+The higher the pulse rate attained in sustained
+exercise, the less psychological beneﬁt the
+exercise tends to produce.
+The effect that a period of cycling has on the
+mood of professional cyclists tends to depend at
+least in part on how intense the cycling is.
+For professional cyclists, the best exercise from
+the point of view of improving mood is cycling
+that pushes the pulse no higher than 60 percent
+of the maximum pulse rate.
+Physical factors, including pulse rate, contribute
+as much to depression as do psychological
+factors.
+Moderate cycling tends to beneﬁt professional
+cyclists physically as much or more than intense
+cycling.
+
+16. Anyone who believes in extraterrestrials believes in
+UFOs. But the existence of UFOs has been conclusively
+refuted. Therefore a belief in extraterrestrials is false as
+well.
+Which one of the following arguments contains ﬂawed
+reasoning most similar to that in the argument above?
+(A)
+
+(B)
+(C)
+(D)
+
+(E)
+
+Anyone who believes in unicorns believes in
+centaurs. But it has been demonstrated that
+there are no centaurs, so there are no unicorns
+either.
+Anyone who believes in unicorns believes in
+centaurs. But you do not believe in centaurs, so
+you do not believe in unicorns either.
+Anyone who believes in unicorns believes in
+centaurs. But you do not believe in unicorns, so
+you do not believe in centaurs either.
+Anyone who believes in unicorns believes in
+centaurs. But there is no good reason to believe
+in centaurs, so a belief in unicorns is unjustiﬁed
+as well.
+Anyone who believes in unicorns believes in
+centaurs. But it has been conclusively proven
+that there is no such thing as a unicorn, so a
+belief in centaurs is mistaken as well.
+
+17. People want to be instantly and intuitively liked. Those
+persons who are perceived as forming opinions of
+others only after cautiously gathering and weighing the
+evidence are generally resented. Thus, it is imprudent to
+appear prudent.
+Which one of the following, if assumed, enables the
+argument’s conclusion to be properly drawn?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+People who act spontaneously are well liked.
+Imprudent people act instantly and intuitively.
+People resent those less prudent than themselves.
+People who are intuitive know instantly when
+they like someone.
+It is imprudent to cause people to resent you.
+
+GO ON TO THE NEXT PAGE.
+
+1
+
+1
+
+1
+18. Journalist: Recent studies have demonstrated that a
+regular smoker who has just smoked a cigarette
+will typically display signiﬁcantly better shortterm memory skills than a nonsmoker, whether
+or not the nonsmoker has also just smoked a
+cigarette for the purposes of the study. Moreover,
+the majority of those smokers who exhibit this
+superiority in short-term memory skills will do so
+for at least eight hours after having last smoked.
+If the journalist’s statements are true, then each of the
+following could be true EXCEPT:
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+The short-term memory skills exhibited by a
+nonsmoker who has just smoked a cigarette are
+usually substantially worse than the short-term
+memory skills exhibited by a nonsmoker who
+has not recently smoked a cigarette.
+The short-term memory skills exhibited by a
+nonsmoker who has just smoked a cigarette are
+typically superior to those exhibited by a regular
+smoker who has just smoked a cigarette.
+The short-term memory skills exhibited by a
+nonsmoker who has just smoked a cigarette are
+typically superior to those exhibited by a regular
+smoker who has not smoked for more than eight
+hours.
+A regular smoker who, immediately after
+smoking a cigarette, exhibits short-term
+memory skills no better than those typically
+exhibited by a nonsmoker is nevertheless likely
+to exhibit superior short-term memory skills in
+the hours following a period of heavy smoking.
+The short-term memory skills exhibited by a
+regular smoker who last smoked a cigarette
+ﬁve hours ago are typically superior to those
+exhibited by a regular smoker who has just
+smoked a cigarette.
+
+19. Educator: It has been argued that our professional
+organization should make decisions about
+important issues-such as raising dues and taking
+political stands-by a direct vote of all members
+rather than by having members vote for ofﬁcers
+who in turn make the decisions. This would not,
+however, be the right way to decide these matters,
+for the vote of any given individual is much
+more likely to determine organizational policy
+by inﬂuencing the election of an ofﬁcer than by
+inﬂuencing the result of a direct vote on a single
+issue.
+Which one of the following principles would, if valid,
+most help to justify the educator’s reasoning?
+(A)
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+No procedure for making organizational
+decisions should allow one individual’s vote to
+weigh more than that of another.
+Outcomes of organizational elections should
+be evaluated according to their beneﬁt to the
+organization as a whole, not according to the
+fairness of the methods by which they are
+produced.
+Important issues facing organizations should be
+decided by people who can devote their full
+time to mastering the information relevant to the
+issues.
+An ofﬁcer of an organization should not make a
+particular decision on an issue unless a majority
+of the organization’s members would approve of
+that decision.
+An organization’s procedures for making
+organizational decisions should maximize the
+power of each member of the organization to
+inﬂuence the decisions made.
+
+GO ON TO THE NEXT PAGE.
+
+1
+
+1
+
+1
+20. Neural connections carrying signals from the cortex
+(the brain region responsible for thought) down to the
+amygdala (a brain region crucial for emotions) are less
+well developed than connections carrying signals from
+the amygdala up to the cortex. Thus, the amygdala
+exerts a greater inﬂuence on the cortex than vice versa.
+The argument’s conclusion follows logically if which
+one of the following is assumed?
+(A)
+(B)
+(C)
+
+(D)
+(E)
+
+The inﬂuence that the amygdala exerts on the
+rest of the brain is dependent on the inﬂuence
+that the cortex exerts on the rest of the brain.
+No other brain region exerts more inﬂuence on
+the cortex than does the amygdala.
+The region of the brain that has the most
+inﬂuence on the cortex is the one that has the
+most highly developed neural connections to the
+cortex.
+The amygdala is not itself controlled by one or
+more other regions of the brain.
+The degree of development of a set of neural
+connections is directly proportional to the
+inﬂuence transmitted across those connections.
+
+21. The Iliad and the Odyssey were both attributed to
+Homer in ancient times. But these two poems differ
+greatly in tone and vocabulary and in certain details
+of the ﬁctional world they depict. So they are almost
+certainly not the work of the same poet.
+Which one of the following statements, if true, most
+weakens the reasoning above?
+(A)
+(B)
+
+(C)
+
+(D)
+(E)
+
+Several hymns that were also attributed to Homer
+in ancient times differ more from the Iliad in the
+respects mentioned than does the Odyssey.
+Both the Iliad and the Odyssey have come
+down to us in manuscripts that have suffered
+from minor copying errors and other textual
+corruptions.
+Works known to have been written by the same
+modern writer are as different from each other
+in the respects mentioned as are the Iliad and
+the Odyssey.
+Neither the Iliad nor the Odyssey taken by itself
+is completely consistent in all of the respects
+mentioned.
+Both the Iliad and the Odyssey were the result
+of an extended process of oral composition in
+which many poets were involved.
+
+22. Moralist: A statement is wholly truthful only if it
+is true and made without intended deception. A
+statement is a lie if it is intended to deceive or if
+its speaker, upon learning that the statement was
+misinterpreted, refrains from clarifying it.
+Which one of the following judgments most closely
+conforms to the principles stated by the moralist?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Ted’s statement to the investigator that he had
+been abducted by extraterrestrial beings was
+wholly truthful even though no one has ever
+been abducted by extraterrestrial beings.
+After all, Ted was not trying to deceive the
+investigator.
+Tony was not lying when he told his
+granddaughter that he did not wear dentures,
+for even though Tony meant to deceive his
+granddaughter, she made it clear to Tony that
+she did not believe him.
+Siobhan did not tell a lie when she told her
+supervisor that she was ill and hence would
+not be able to come to work for an important
+presentation. However, even though her
+statement was true, it was not wholly truthful.
+Walter’s claim to a potential employer that he
+had done volunteer work was a lie. Even though
+Walter had worked without pay in his father’s
+factory, he used the phrase “volunteer work”
+in an attempt to deceive the interviewer into
+thinking he had worked for a socially beneﬁcial
+cause.
+The tour guide intended to deceive the tourists
+when he told them that the cabin they were
+looking at was centuries old. Still, his
+statement about the cabin’s age was not a lie,
+for if he thought that this statement had been
+misinterpreted, he would have tried to clarify it.
+
+1
+
+1
+
+1
+23. Principle: It is healthy for children to engage in
+an activity that promotes their intellectual
+development only if engaging in that activity does
+not detract from their social development.
+Application: Although Megan’s frequent reading
+stimulates her intellectually, it reduces the amount
+of time she spends interacting with other people.
+Therefore, it is not healthy for her to read as much
+as she does.
+The application of the principle is most vulnerable to
+criticism on which one of the following grounds?
+(A)
+(B)
+(C)
+(D)
+
+(E)
+
+It misinterprets the principle as a universal claim
+intended to hold in all cases without exception,
+rather than as a mere generalization.
+It overlooks the possibility that the beneﬁts of
+a given activity may sometimes be important
+enough to outweigh the adverse health effects.
+It misinterprets the principle to be, at least in
+part, a claim about what is unhealthy, rather
+than solely a claim about what is healthy.
+It takes for granted that any decrease in the
+amount of time a child spends interacting
+with others detracts from that child’s social
+development.
+It takes a necessary condition for an activity’s
+being healthy as a sufﬁcient condition for its
+being so.
+
+25. Sociologist: Widespread acceptance of the idea
+that individuals are incapable of looking after
+their own welfare is injurious to a democracy.
+So legislators who value democracy should not
+propose any law prohibiting behavior that is not
+harmful to anyone besides the person engaging in
+it. After all, the assumptions that appear to guide
+legislators will often become widely accepted.
+The sociologist’s argument requires the assumption that
+(A)
+(B)
+(C)
+
+(D)
+(E)
+
+democratically elected legislators invariably have
+favorable attitudes toward the preservation of
+democracy
+people tend to believe what is believed by those
+who are prominent and powerful
+legislators often seem to be guided by the
+assumption that individuals are incapable of
+looking after their own welfare, even though
+these legislators also seem to value democracy
+in most cases, behavior that is harmful to the
+person who engages in it is harmful to no one
+else
+a legislator proposing a law prohibiting an act
+that can harm only the person performing the
+act will seem to be assuming that individuals
+are incapable of looking after their own welfare
+
+24. In response to several bacterial infections traced to its
+apple juice, McElligott now ﬂash pasteurizes its apple
+juice by quickly heating and immediately rechilling it.
+Intensive pasteurization, in which juice is heated for
+an hour, eliminates bacteria more effectively than does
+any other method, but is likely to destroy the original
+ﬂavor. However, because McElligott’s citrus juices have
+not been linked to any bacterial infections, they remain
+unpasteurized.
+The statements above, if true, provide the most support
+for which one of the following claims?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+McElligott’s citrus juices contain fewer
+infectious bacteria than do citrus juices
+produced by other companies.
+McElligott’s apple juice is less likely to contain
+infectious bacteria than are McElligott’s citrus
+juices.
+McElligott’s citrus juices retain more of the
+juices’ original ﬂavor than do any pasteurized
+citrus juices.
+The most effective method for eliminating
+bacteria from juice is also the method most
+likely to destroy ﬂavor.
+Apple juice that undergoes intensive
+pasteurization is less likely than McElligott’s
+apple juice is to contain bacteria.
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+2
+
+2
+
+2
+
+2 2
+SECTION II
+Time—35 minutes
+23 Questions
+
+Directions: Each group of questions in this section is based on a set of conditions. In answering some of the questions, it may be
+useful to draw a rough diagram. Choose the response that most accurately and completely answers each question and blacken the
+corresponding space on your answer sheet.
+Questions 1-7
+Workers at a water treatment plant open eight valves—G,
+H, I, K, L, N, O, and P—to ﬂush out a system of pipes
+that needs emergency repairs. To maximize safety and
+efﬁciency, each valve is opened exactly once, and no two
+valves are opened at the same time. The valves are opened
+in accordance with the following conditions:
+Both K and P are opened before H.
+O is opened before L but after H.
+L is opened after G.
+N is opened before H.
+I is opened after K.
+
+4.
+
+If L is the seventh valve opened, then each of the
+following could be the second valve opened EXCEPT:
+(A)
+(B)
+(C)
+(D)
+(E)
+
+5.
+
+Which one of the following must be true?
+(A)
+(B)
+(C)
+
+1.
+
+Which one of the following could be the order, from
+ﬁrst to last, in which the valves are opened?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+2,
+
+(D)
+(E)
+6.
+
+Each of the following could be the ﬁfth valve opened
+EXCEPT:
+(A)
+(B)
+(C)
+(D)
+(E)
+
+3.
+
+P, I, K, G, N, H, O, L
+P, G, K, N, L, H, O, I
+G, K, I, P, H, O, N, L
+N, K, P, H, O, I, L, G
+K, I, N, G, P, H, O, L
+
+H
+I
+K
+N
+O
+
+If I is the second valve opened, then each of the
+following could be true EXCEPT:
+(A)
+(B)
+(C)
+(D)
+(E)
+
+G is the third valve opened.
+H is the fourth valve opened.
+P is the ﬁfth valve opened.
+O is the sixth valve opened.
+G is the seventh valve opened.
+
+At least one valve is opened before P is opened.
+At least two valves are opened before G is
+opened.
+No more than two valves are opened after O is
+opened.
+No more than three valves are opened after H is
+opened.
+No more than four valves are opened before N is
+opened.
+
+If K is the fourth valve opened, then which one of the
+following could be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+7.
+
+G
+I
+K
+N
+P
+
+I is the second valve opened.
+N is the third valve opened.
+G is the ﬁfth valve opened.
+O is the ﬁfth valve opened.
+P is the sixth valve opened.
+
+If G is the ﬁrst valve opened and I is the third valve
+opened, then each of the following must be true
+EXCEPT:
+(A)
+(B)
+(C)
+(D)
+(E)
+
+K is the second valve opened.
+N is the fourth valve opened.
+H is the sixth valve opened.
+O is the seventh valve opened.
+L is the eighth valve opened.
+
+GO ON TO THE NEXT PAGE.
+
+2
+
+2
+Questions 8-12
+On a ﬁeld trip to the Museum of Natural History, each
+of six children—Juana, Kyle, Lucita, Salim, Thanh, and
+Veronica—is accompanied by one of three adults—Ms.
+Margoles, Mr. O’Connell, and Ms. Podorski. Each adult
+accompanies exactly two of the children, consistent with the
+following conditions:
+If Ms. Margoles accompanies Juana, then Ms. Podorski
+accompanies Lucita.
+If Kyle is not accompanied by Ms. Margoles, then
+Veronica is accompanied by Mr. O’Connell.
+Either Ms. Margoles or Mr. O’Connell accompanies
+Thanh.
+Juana is not accompanied by the same adult as Kyle;
+nor is Lucita accompanied by the same adult as
+Salim; nor is Thanh accompanied by the same adult as
+Veronica.
+8.
+
+Which one of the following could be an accurate
+matching of the adults to the children they accompany?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Ms. Margoles: Juana, Thanh; Mr. O’Connell:
+Lucita, Veronica; Ms. Podorski: Kyle, Salim
+Ms. Margoles: Kyle, Thanh; Mr. O’Connell:
+Juana, Salim; Ms. Podorski: Lucita, Veronica
+Ms. Margoles: Lucita, Thanh; Mr. O’Connell:
+Juana, Salim; Ms. Podorski: Kyle, Veronica
+Ms. Margoles: Kyle, Veronica; Mr. O’Connell:
+Juana, Thanh; Ms. Podorski: Lucita, Salim
+Ms. Margoles: Salim, Veronica; Mr. O’Connell:
+Kyle, Lucita; Ms. Podorski: Juana, Thanh
+
+2
+
+2 2
+9.
+
+If Ms. Margoles accompanies Lucita and Thanh, then
+which one of the following must be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Juana is accompanied by the same adult as
+Veronica.
+Kyle is accompanied by the same adult as Salim.
+Juana is accompanied by Mr. O’Connell.
+Kyle is accompanied by Ms. Podorski.
+Salim is accompanied by Ms. Podorski.
+
+10. If Ms. Podorski accompanies Juana and Veronica,
+then Ms. Margoles could accompany which one of the
+following pairs of children?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Kyle and Salim
+Kyle and Thanh
+Lucita and Salim
+Lucita and Thanh
+Salim and Thanh
+
+11. Ms. Podorski CANNOT accompany which one of the
+following pairs of children?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Juana and Lucita
+Juana and Salim
+Kyle and Salim
+Salim and Thanh
+Salim and Veronica
+
+12. Mr. O’Connell CANNOT accompany which one of the
+following pairs of children?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Juana and Lucita
+Juana and Veronica
+Kyle and Thanh
+Lucita and Thanh
+Salim and Veronica
+
+GO ON TO THE NEXT PAGE.
+
+2
+
+2
+Questions 13-17
+Three short seminars—Goals, Objections, and Persuasion—
+and three long seminars—Humor, Negotiating, and
+Telemarketing—will be scheduled for a three-day sales
+training conference. On each day, two of the seminars
+will be given consecutively. Each seminar will be given
+exactly once. The schedule must conform to the following
+conditions:
+Exactly one short seminar and exactly one long seminar
+will be given each day.
+Telemarketing will not be given until both Goals and
+Objections have been given.
+Negotiating will not be given until Persuasion has been
+given.
+13. Which one of the following could be an accurate
+schedule for the sales training conference?
+(A)
+
+(B)
+(C)
+(D)
+
+(E)
+
+ﬁrst day: Persuasion followed by Negotiating
+second day: Objections followed by
+Telemarketing
+third day: Goals followed by Humor
+ﬁrst day: Objections followed by Humor
+second day: Goals followed by Telemarketing
+third day: Persuasion followed by Negotiating
+ﬁrst day: Objections followed by Negotiating
+second day: Persuasion followed by Humor
+third day: Goals followed by Telemarketing
+ﬁrst day: Objections followed by Goals
+second day: Telemarketing followed by
+Persuasion
+third day: Negotiating followed by Humor
+ﬁrst day: Goals followed by Humor
+second day: Persuasion followed by
+Telemarketing
+third day: Objections followed by Negotiating
+
+2
+
+2 2
+14. If Goals is given on the ﬁrst day of the sales training
+conference, then which one of the following could be
+true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Negotiating is given on the ﬁrst day.
+Objections is given on the ﬁrst day.
+Persuasion is given on the ﬁrst day.
+Humor is given on the second day.
+Telemarketing is given on the second day.
+
+15. If Negotiating is given at some time before Objections,
+then which one of the following must be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Negotiating is given at some time before Goals.
+Persuasion is given at some time before Goals.
+Persuasion is given at some time before
+Objections.
+Humor is given at some time before Objections.
+Negotiating is given at some time before Humor.
+
+16. Which one of the following CANNOT be the second
+seminar given on the second day of the sales training
+conference?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Humor
+Persuasion
+Objections
+Negotiating
+Goals
+
+17. If Humor is given on the second day of the sales
+training conference, then which one of the following
+could be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Telemarketing is given on the ﬁrst day.
+Negotiating is given on the second day.
+Telemarketing is given on the second day.
+Objections is given on the third day.
+Persuasion is given on the third day.
+
+GO ON TO THE NEXT PAGE.
+
+2
+
+2
+
+2 2
+
+Questions 18-23
+
+20. If Malpighi’s delivery is ﬁrst and Leacock’s delivery is
+third, then which one of the following must be true?
+
+A bread truck makes exactly one bread delivery to each
+of six restaurants in succession—Figueroa’s, Ginsberg’s,
+Harris’s, Kanzaki’s, Leacock’s, and Malpighi’s—though
+not necessarily in that order. The following conditions must
+apply:
+Ginsberg’s delivery is earlier than Kanzaki’s but later
+than Figueroa’s.
+Harris’s delivery is earlier than Ginsberg’s.
+If Figueroa’s delivery is earlier than Malpighi’s, then
+Leacock’s delivery is earlier than Harris’s.
+Either Malpighi’s delivery is earlier than Harris’s or it is
+later than Kanzaki’s, but not both.
+18. Which one of the following accurately represents an
+order in which the deliveries could occur, from ﬁrst to
+last?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Harris’s, Figueroa’s, Leacock’s, Ginsberg’s,
+Kanzaki’s, Malpighi’s
+Leacock’s, Harris’s, Figueroa’s, Ginsberg’s,
+Malpighi’s, Kanzaki’s
+Malpighi’s, Figueroa’s, Harris’s, Ginsberg’s,
+Leacock’s, Kanzaki’s
+Malpighi’s, Figueroa’s, Kanzaki’s, Harris’s,
+Ginsberg’s, Leacock’s
+Malpighi’s, Figueroa’s, Ginsberg’s, Kanzaki’s,
+Harris’s, Leacock’s
+
+19. If Figueroa’s delivery is fourth, then which one of the
+following must be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Figueroa’s delivery is second.
+Harris’s delivery is second.
+Harris’s delivery is fourth.
+Kanzaki’s delivery is ﬁfth.
+Kanzaki’s delivery is last.
+
+21. Which one of the following must be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Figueroa’s delivery is earlier than Leacock’s.
+Ginsberg’s delivery is earlier than Leacock’s.
+Harris’s delivery is earlier than Kanzaki’s.
+Leacock’s delivery is earlier than Ginsberg’s.
+Malpighi’s delivery is earlier than Harris’s.
+
+22. If Kanzaki’s delivery is earlier than Leacock’s, then
+which one of the following could be true?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Figueroa’s delivery is ﬁrst.
+Ginsberg’s delivery is third.
+Harris’s delivery is third.
+Leacock’s delivery is ﬁfth.
+Malpighi’s delivery is second.
+
+23. Which one of the following must be false?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Figueroa’s delivery is ﬁrst.
+Ginsberg’s delivery is ﬁfth.
+Harris’s delivery is third.
+Leacock’s delivery is second.
+Malpighi’s delivery is fourth.
+
+Ginsberg’s delivery is ﬁfth.
+Harris’s delivery is second.
+Harris’s delivery is third.
+Leacock’s delivery is second.
+Malpighi’s delivery is ﬁrst.
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+2
+
+3
+
+3
+
+3
+
+3
+
+SECTION III
+Time—35 minutes
+25 Questions
+Directions: The questions in this section are based on the reasoning contained in brief statements or passages. For some questions,
+more than one of the choices could conceivably answer the question. However, you are to choose the best answer; that is, the response
+that most accurately and completely answers the question. You should not make assumptions that are by commonsense standards
+implausible, superﬂuous, or incompatible with the passage. After you have chosen the best answer, blacken the corresponding space
+on your answer sheet.
+1.
+
+Any museum that owns the rare stamp that features
+an airplane printed upside down should not display it.
+Ultraviolet light causes red ink to fade, and a substantial
+portion of the stamp is red. If the stamp is displayed, it
+will be damaged. It should be kept safely locked away,
+even though this will deny the public the chance to see
+it.
+The reasoning above most closely conforms to which
+one of the following principles?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+2.
+
+The public should judge the quality of a museum
+by the rarity of the objects in its collection.
+Museum display cases should protect their
+contents from damage caused by ultraviolet
+light.
+Red ink should not be used on items that will not
+be exposed to ultraviolet light.
+A museum piece that would be damaged by
+display should not be displayed.
+The primary purpose of a museum is to educate
+the public.
+
+Dietitian: Many diet-conscious consumers are excited
+about new “fake fat” products designed to give
+food the ﬂavor and consistency of fatty foods,
+yet without fat’s harmful effects. Consumers who
+expect the new fat substitute to help them lose
+weight are likely to be disappointed, however.
+Research has shown that when people knowingly
+or unknowingly eat foods containing “fake fat,”
+they tend to take in at least as many additional
+calories as are saved by eating “fake fat.”
+Which one of the following most accurately expresses
+the conclusion of the dietitian’s argument?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+People tend to take in a certain number of daily
+calories, no matter what types of food they eat.
+Most consumers who think that foods with “fake
+fat” are more nutritious than fatty foods are
+destined to be disappointed.
+“Fake fat” products are likely to contribute to
+obesity more than do other foods.
+“Fake fat” in foods is probably not going to help
+consumers meet weight loss goals.
+“Fake fat” in foods is indistinguishable from
+genuine fat by most consumers on the basis of
+taste alone.
+
+3.
+
+Banking analyst: Banks often offer various services
+to new customers at no charge. But this is not an
+ideal business practice, since regular, long-term
+customers, who make up the bulk of the business
+for most banks, are excluded from these special
+offers.
+Which one of the following, if true, most strengthens
+the banking analyst’s argument?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Most banks have similar charges for most
+services and pay similar interest rates on
+deposits.
+Banks do best when offering special privileges
+only to their most loyal customers.
+Offering services at no charge to all of its current
+customers would be prohibitively expensive for
+a bank.
+Once they have chosen a bank, people tend to
+remain loyal to that bank.
+Some banks that offer services at no charge to
+new customers are very successful.
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+4.
+
+Panelist: Medical research articles cited in popular
+newspapers or magazines are more likely than
+other medical research articles to be cited in
+subsequent medical research. Thus, it appears that
+medical researchers’ judgments of the importance
+of prior research are strongly inﬂuenced by
+the publicity received by that research and do
+not strongly correspond to the research’s true
+importance.
+The panelist’s argument is most vulnerable to criticism
+on the grounds that it
+(A)
+(B)
+
+(C)
+
+(D)
+
+(E)
+5.
+
+presents counterarguments to a view that is not
+actually held by any medical researcher
+fails to consider the possibility that popular
+newspapers and magazines do a good job of
+identifying the most important medical research
+articles
+takes for granted that coverage of medical
+research in the popular press is more concerned
+with the eminence of the scientists involved
+than with the content of their research
+fails to consider the possibility that popular
+newspapers and magazines are able to review
+only a minuscule percentage of medical
+research articles
+draws a conclusion that is logically equivalent to
+its premise
+
+Lahar: We must now settle on a procedure for
+deciding on meeting agendas. Our club’s
+constitution allows three options: unanimous
+consent, majority vote, or assigning the task to
+a committee. Unanimous consent is unlikely.
+Forming a committee has usually led to
+factionalism and secret deals. Clearly, we should
+subject meeting agendas to majority vote.
+Lahar’s argument does which one of the following?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+rejects suggested procedures on constitutional
+grounds
+claims that one procedure is the appropriate
+method for reaching every decision in the club
+suggests a change to a constitution on the basis
+of practical considerations
+recommends a choice based on the elimination of
+alternative options
+supports one preference by arguing against those
+who have advocated alternatives
+
+3
+
+3
+6.
+
+Mayor: Local antitobacco activists are calling for
+expanded antismoking education programs
+paid for by revenue from heavily increased
+taxes on cigarettes sold in the city. Although
+the effectiveness of such education programs
+is debatable, there is strong evidence that the
+taxes themselves would produce the sought-after
+reduction in smoking. Surveys show that cigarette
+sales drop substantially in cities that impose stiff
+tax increases on cigarettes.
+Which one of the following, if true, most undermines
+the reasoning in the argument above?
+(A)
+
+(B)
+(C)
+(D)
+
+(E)
+
+A city-imposed tax on cigarettes will
+substantially reduce the amount of smoking in
+the city if the tax is burdensome to the average
+cigarette consumer.
+Consumers are more likely to continue buying a
+product if its price increases due to higher taxes
+than if its price increases for some other reason.
+Usually, cigarette sales will increase substantially
+in the areas surrounding a city after that city
+imposes stiff taxes on cigarettes.
+People who are well informed about the effects
+of long-term tobacco use are signiﬁcantly less
+likely to smoke than are people who are not
+informed.
+Antismoking education programs that are funded
+by taxes on cigarettes will tend to lose their
+funding if they are successful.
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+7.
+
+Gotera: Infants lack the motor ability required to
+voluntarily produce particular sounds, but produce
+various babbling sounds randomly. Most children
+are several years old before they can voluntarily
+produce most of the vowel and consonant sounds
+of their language. We can conclude that speech
+acquisition is entirely a motor control process
+rather than a process that is abstract or mental.
+Which one of the following is an assumption required
+by Gotera’s argument?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+8.
+
+Speech acquisition is a function only of one’s
+ability to produce the sounds of spoken
+language.
+During the entire initial babbling stage, infants
+cannot intentionally move their tongues while
+they are babbling.
+The initial babbling stage is completed during
+infancy.
+The initial babbling stage is the ﬁrst stage of the
+speech acquisition process.
+Control of tongue and mouth movements
+requires a sophisticated level of mental
+development.
+
+Caldwell: The government recently demolished a
+former naval base. Among the complex’s facilities
+were a gymnasium, a swimming pool, ofﬁce
+buildings, gardens, and housing for hundreds of
+people. Of course the government was legally
+permitted to use these facilities as it wished. But
+clearly, using them for the good of the community
+would have beneﬁted everyone, and thus the
+government’s actions were not only inefﬁcient but
+immoral.
+Caldwell’s argument is most vulnerable to criticism on
+the grounds that it
+(A)
+(B)
+(C)
+(D)
+(E)
+
+fails to consider that an action may be morally
+permissible even if an alternative course of
+action is to everyone’s advantage
+presumes, without providing justiﬁcation,
+that the actual consequences of an action are
+irrelevant to the action’s moral permissibility
+presumes, without providing justiﬁcation, that
+the government never acts in the most efﬁcient
+manner
+presumes, without providing justiﬁcation, that
+any action that is efﬁcient is also moral
+inappropriately treats two possible courses of
+action as if they were the only options
+
+3
+
+3
+9.
+
+Reducing stress lessens a person’s sensitivity to pain.
+This is the conclusion reached by researchers who
+played extended audiotapes to patients before they
+underwent surgery and afterward while they were
+recovering. One tape consisted of conversation; the
+other consisted of music. Those who listened only to
+the latter tape required less anesthesia during surgery
+and fewer painkillers afterward than those who listened
+only to the former tape.
+Which one of the following is an assumption on which
+the researchers’ reasoning depends?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+All of the patients in the study listened to the
+same tape before surgery as they listened to
+after surgery.
+Anticipating surgery is no less stressful than
+recovering from surgery.
+Listening to music reduces stress.
+The psychological effects of music are not
+changed by anesthesia or painkillers.
+Both anesthesia and painkillers tend to reduce
+stress.
+
+10. Samuel: Because communication via computer is
+usually conducted privately and anonymously
+between people who would otherwise interact in
+person, it contributes to the dissolution, not the
+creation, of lasting communal bonds.
+Tova: You assume that communication via computer
+replaces more intimate forms of communication
+and interaction, when more often it replaces
+asocial or even antisocial behavior.
+On the basis of their statements, Samuel and Tova
+are committed to disagreeing about which one of the
+following?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+A general trend of modern life is to dissolve the
+social bonds that formerly connected people.
+All purely private behavior contributes to the
+dissolution of social bonds.
+Face-to-face communication is more likely to
+contribute to the creation of social bonds than is
+anonymous communication.
+It is desirable that new social bonds be created to
+replace the ones that have dissolved.
+If people were not communicating via computer,
+they would most likely be engaged in activities
+that create stronger social bonds.
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+11. Spreading iron particles over the surface of the earth’s
+oceans would lead to an increase in phytoplankton,
+decreasing the amount of carbon dioxide in the
+atmosphere and thereby counteracting the greenhouse
+effect. But while counteracting the greenhouse effect is
+important, the side effects of an iron-seeding strategy
+have yet to be studied. Since the oceans represent such
+an important resource, this response to the greenhouse
+effect should not be implemented immediately.
+The reasoning above most closely conforms to which
+one of the following principles?
+(A)
+(B)
+
+(C)
+(D)
+(E)
+
+A problem-solving strategy should be
+implemented if the side effects of the strategy
+are known.
+Implementing a problem-solving strategy that
+alters an important resource is impermissible
+if the consequences are not adequately
+understood.
+We should not implement a problem-solving
+strategy if the consequences of doing so are
+more serious than the problem itself.
+We should not implement a problem-solving
+strategy if that strategy requires altering an
+important resource.
+As long as there is a possibility that a strategy for
+solving a problem may instead exacerbate that
+problem, such a solution should not be adopted.
+
+12. No matter how conscientious they are, historians always
+have biases that affect their work. Hence, rather than
+trying to interpret historical events, historians should
+instead interpret what the people who participated in
+historical events thought about those events.
+The reasoning in the argument is most vulnerable to
+criticism on the grounds that the argument fails to
+consider the possibility that
+(A)
+(B)
+(C)
+(D)
+(E)
+
+historians who have different biases often agree
+about many aspects of some historical events
+scholars in disciplines other than history also risk
+having their biases affect their work
+many of the ways in which historians’ biases
+affect their work have been identiﬁed
+not all historians are aware of the effect that their
+particular biases have on their work
+the proposed shift in focus is unlikely to
+eliminate the effect that historians’ biases have
+on their work
+
+3
+
+3
+13. Humanitarian considerations aside, sheer economics
+dictates that country X should institute, as country
+Y has done, a nationwide system of air and ground
+transportation for conveying seriously injured persons
+to specialized trauma centers. Timely access to the
+kind of medical care that only specialized centers
+can provide could save the lives of many people. The
+earnings of these people would result in a substantial
+increase in country X’s gross national product, and
+the taxes paid on those earnings would substantially
+augment government revenues.
+The argument depends on the assumption that
+(A)
+(B)
+(C)
+(D)
+(E)
+
+lifetime per-capita income is roughly the same in
+country X as it is in country Y
+there are no specialized trauma centers in
+country X at present
+the treatment of seriously injured persons in
+trauma centers is not more costly than treatment
+elsewhere
+there would be a net increase in employment
+in country X if more persons survived serious
+injury
+most people seriously injured in automobile
+accidents in country X do not now receive
+treatment in specialized trauma centers
+
+14. Early urban societies could not have been maintained
+without large-scale farming nearby. This is because
+other methods of food acquisition, such as foraging,
+cannot support populations as dense as urban ones.
+Large-scale farming requires irrigation, which remained
+unfeasible in areas far from rivers or lakes until more
+recent times.
+Which one of the following is most strongly supported
+by the information above?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Most peoples who lived in early times lived in
+areas near rivers or lakes.
+Only if farming is possible in the absence of
+irrigation can societies be maintained in areas
+far from rivers or lakes.
+In early times it was not possible to maintain
+urban societies in areas far from rivers or lakes.
+Urban societies with farms near rivers or lakes
+do not have to rely upon irrigation to meet their
+farming needs.
+Early rural societies relied more on foraging than
+on agriculture for food.
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+15. Economist: A country’s rapid emergence from an
+economic recession requires substantial new
+investment in that country’s economy. Since
+people’s conﬁdence in the economic policies
+of their country is a precondition for any new
+investment, countries that put collective goals
+before individuals’ goals cannot emerge quickly
+from an economic recession.
+Which one of the following, if assumed, enables the
+economist’s conclusion to be properly drawn?
+(A)
+(B)
+
+(C)
+
+(D)
+(E)
+
+No new investment occurs in any country that
+does not emerge quickly from an economic
+recession.
+Recessions in countries that put collective
+goals before individuals’ goals tend not to
+affect the country’s people’s support for their
+government’s policies.
+If the people in a country that puts individuals’
+goals ﬁrst are willing to make new investments
+in their country’s economy, their country will
+emerge quickly from an economic recession.
+People in countries that put collective goals
+before individuals’ goals lack conﬁdence in the
+economic policies of their countries.
+A country’s economic policies are the most
+signiﬁcant factor determining whether that
+country’s economy will experience a recession.
+
+16. The average length of stay for patients at Edgewater
+Hospital is four days, compared to six days at
+University Hospital. Since studies show that recovery
+rates at the two hospitals are similar for patients with
+similar illnesses, University Hospital could decrease its
+average length of stay without affecting quality of care.
+The reasoning in the argument is most vulnerable to
+criticism on the grounds that the argument
+(A)
+(B)
+(C)
+
+(D)
+
+(E)
+
+equates the quality of care at a hospital with
+patients’ average length of stay
+treats a condition that will ensure the
+preservation of quality of care as a condition
+that is required to preserve quality of care
+fails to take into account the possibility that
+patients at Edgewater Hospital tend to be treated
+for different illnesses than patients at University
+Hospital
+presumes, without providing justiﬁcation, that
+the length of time patients stay in the hospital
+is never relevant to the recovery rates of these
+patients
+fails to take into account the possibility that
+patients at University Hospital generally prefer
+longer hospital stays
+
+3
+
+3
+17. Philosopher: Graham argues that since a person is
+truly happy only when doing something, the best
+life is a life that is full of activity. But we should
+not be persuaded by Graham’s argument. People
+sleep, and at least sometimes when sleeping, they
+are truly happy, even though they are not doing
+anything.
+Which one of the following most accurately describes
+the role played in the philosopher’s argument by the
+claim that at least sometimes when sleeping, people are
+truly happy, even though they are not doing anything?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+It is a premise of Graham’s argument.
+It is an example intended to show that a premise
+of Graham’s argument is false.
+It is an analogy appealed to by Graham but that
+the philosopher rejects.
+It is an example intended to disprove the
+conclusion of Graham’s argument.
+It is the main conclusion of the philosopher’s
+argument.
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+18. Historian: In rebuttal of my claim that West
+inﬂuenced Stuart, some people point out that
+West’s work is mentioned only once in Stuart’s
+diaries. But Stuart’s diaries mention several
+meetings with West, and Stuart’s close friend,
+Abella, studied under West. Furthermore, Stuart’s
+work often uses West’s terminology which,
+though now commonplace, none of Stuart’s
+contemporaries used.
+
+3
+
+3
+20. There are two ways to manage an existing
+transportation infrastructure: continuous maintenance
+at adequate levels, and periodic radical reconstruction.
+Continuous maintenance dispenses with the need
+for radical reconstruction, and radical reconstruction
+is necessitated by failing to perform continuous
+maintenance. Over the long run, continuous
+maintenance is far less expensive; nevertheless, it
+almost never happens.
+
+Which one of the following propositions is most
+supported by the historian’s statements, if those
+statements are true?
+
+Which one of the following, if true, most contributes to
+an explanation of why the ﬁrst alternative mentioned is
+almost never adopted?
+
+(A)
+
+(A)
+
+(B)
+(C)
+(D)
+(E)
+
+Stuart’s discussions with Abella were one of the
+means by which West inﬂuenced Stuart.
+It is more likely that Stuart inﬂuenced West than
+that West inﬂuenced Stuart.
+Stuart’s contemporaries were not inﬂuenced by
+West.
+Stuart’s work was not entirely free from West’s
+inﬂuence.
+Because of Stuart’s inﬂuence on other people,
+West’s terminology is now commonplace.
+
+(B)
+
+(C)
+19. One theory to explain the sudden extinction of all
+dinosaurs points to “drug overdoses” as the cause.
+Angiosperms, a certain class of plants, ﬁrst appeared
+at the time that dinosaurs became extinct. These
+plants produce amino-acid-based alkaloids that are
+psychoactive agents. Most plant-eating mammals
+avoid these potentially lethal poisons because they
+taste bitter. Moreover, mammals have livers that help
+detoxify such drugs. However, dinosaurs could neither
+taste the bitterness nor detoxify the substance once it
+was ingested. This theory receives its strongest support
+from the fact that it helps explain why so many dinosaur
+fossils are found in unusual and contorted positions.
+Which one of the following, if true, would most
+undermine the theory presented above?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Many fossils of large mammals are found in
+contorted positions.
+Angiosperms provide a great deal of nutrition.
+Carnivorous dinosaurs mostly ate other,
+vegetarian, dinosaurs that fed on angiosperms.
+Some poisonous plants do not produce aminoacid-based alkaloids.
+Mammals sometimes die of drug overdoses from
+eating angiosperms.
+
+(D)
+(E)
+
+Since different parts of the transportation
+infrastructure are the responsibility of different
+levels of government, radical reconstruction
+projects are very difﬁcult to coordinate
+efﬁciently.
+When funds for transportation infrastructure
+maintenance are scarce, they are typically
+distributed in proportion to the amount of
+trafﬁc that is borne by different elements of the
+infrastructure.
+If continuous maintenance is performed at
+less-than-adequate levels, the need for radical
+reconstruction will often arise later than if
+maintenance had been restricted to responding
+to emergencies.
+Radical reconstruction projects are, in general,
+too costly to be paid for from current revenue.
+For long periods, the task of regular maintenance
+lacks urgency, since the consequences of
+neglecting it are very slow to manifest
+themselves.
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+21. A good way to get over one’s fear of an activity one
+ﬁnds terrifying is to do it repeatedly. For instance, over
+half of people who have parachuted only once report
+being extremely frightened by the experience, while
+less than 1 percent of those who have parachuted ten
+times or more report being frightened by it.
+The reasoning in the argument is most vulnerable to
+criticism on the grounds that the argument
+(A)
+(B)
+(C)
+(D)
+(E)
+
+takes for granted that the greater the number of
+dangerous activities one engages in the less one
+is frightened by anyone of them
+neglects to consider those people who have
+parachuted more than once but fewer than ten
+times
+takes for granted that people do not know how
+frightening something is unless they have tried
+it
+fails to take into account the possibility that
+people would be better off if they did not do
+things that terrify them
+overlooks the possibility that most people who
+have parachuted many times did not ﬁnd it
+frightening initially
+
+22. Most economists believe that reducing the price of any
+product generally stimulates demand for it. However,
+most wine merchants have found that reducing the price
+of domestic wines to make them more competitive
+with imported wines with which they were previously
+comparably priced is frequently followed by an increase
+in sales of those imported wines.
+Which one of the following, if true, most helps to
+reconcile the belief of most economists with the
+consequences observed by most wine merchants?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Economists’ studies of the prices of grocery
+items and their rates of sales rarely cover
+alcoholic beverages.
+Few merchants of any kind have detailed
+knowledge of economic theories about the
+relationship between item prices and sales rates.
+Consumers are generally willing to forgo
+purchasing other items they desire in order to
+purchase a superior wine.
+Imported wines in all price ranges are
+comparable in quality to domestic wines that
+cost less.
+An increase in the demand for a consumer
+product is compatible with an increase in
+demand for a competing product.
+
+3
+
+3
+23. Certain bacteria that produce hydrogen sulﬁde as a
+waste product would die if directly exposed to oxygen.
+The hydrogen sulﬁde reacts with oxygen, removing
+it and so preventing it from harming the bacteria.
+Furthermore, the hydrogen sulﬁde tends to kill other
+organisms in the area, thereby providing the bacteria
+with a source of food. As a result, a dense colony of
+these bacteria produces for itself an environment in
+which it can continue to thrive indeﬁnitely.
+Which one of the following is most strongly supported
+by the information above?
+(A)
+
+(B)
+(C)
+(D)
+
+(E)
+
+A dense colony of the bacteria can indeﬁnitely
+continue to produce enough hydrogen sulﬁde to
+kill other organisms in the area and to prevent
+oxygen from harming the bacteria.
+The hydrogen sulﬁde produced by the bacteria
+kills other organisms in the area by reacting
+with and removing oxygen.
+Most organisms, if killed by the hydrogen sulﬁde
+produced by the bacteria, can provide a source
+of food for the bacteria.
+The bacteria can continue to thrive indeﬁnitely
+only in an environment in which the hydrogen
+sulﬁde they produce has removed all oxygen
+and killed other organisms in the area.
+If any colony of bacteria produces hydrogen
+sulﬁde as a waste product, it thereby ensures
+that it is both provided with a source of food
+and protected from harm by oxygen.
+
+GO ON TO THE NEXT PAGE.
+
+3
+
+3
+
+3
+
+3
+
+24. Books that present a utopian future in which the
+inequities and sufferings of the present are replaced by
+more harmonious and rational social arrangements will
+always ﬁnd enthusiastic buyers. Since gloomy books
+predicting that even more terrifying times await us are
+clearly not of this genre, they are unlikely to be very
+popular.
+The questionable pattern of reasoning in which one of
+the following arguments is most similar to that in the
+argument above?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Art that portrays people as happy and contented
+has a tranquilizing effect on the viewer, an
+effect that is appealing to those who are tense or
+anxious. Thus, people who dislike such art are
+neither tense nor anxious.
+People who enjoy participating in activities such
+as ﬁshing or hiking may nevertheless enjoy
+watching such spectator sports as boxing or
+football. Thus, one cannot infer from someone’s
+participating in vigorous contact sports that he
+or she is not also fond of less violent forms of
+recreation.
+Action movies that involve complicated and
+dangerous special-effects scenes are enormously
+expensive to produce. Hence, since traditional
+dramatic or comedic ﬁlms contain no such
+scenes, it is probable that they are relatively
+inexpensive to produce.
+Adults usually feel a pleasant nostalgia
+when hearing the music they listened to as
+adolescents, but since adolescents often like
+music speciﬁcally because they think it annoys
+their parents, adults rarely appreciate the music
+that their children will later listen to with
+nostalgia.
+All self-employed businesspeople have salaries
+that ﬂuctuate with the fortunes of the general
+economy, but government bureaucrats are not
+self-employed. Therefore, not everyone with an
+income that ﬂuctuates with the fortunes of the
+general economy is a government bureaucrat.
+
+3
+25. Some people mistakenly believe that since we do
+not have direct access to the distant past we cannot
+learn much about it. Contemporary historians and
+archaeologists ﬁnd current geography, geology, and
+climate to be rich in clues about a given region’s distant
+history. However, the more distant the period we are
+studying is, the less useful the study of the present
+becomes.
+Of the following, which one most closely conforms to
+the principle that the passage illustrates?
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Astronomers often draw inferences about the
+earlier years of our solar system on the basis of
+recently collected data. Unfortunately, they have
+been able to infer comparatively little about the
+origin of our solar system.
+Much can be learned about the perpetrator of
+a crime by applying scientiﬁc methods of
+investigation to the crime scene. But the more
+the crime scene has been studied the less likely
+anything will be learned from further study.
+To understand a literary text one needs to
+understand the author’s world view. However,
+the farther that world view gets from one’s own
+the less one will be able to appreciate the text.
+We often extrapolate from ordinary sensory
+experience to things beyond such experience
+and form a rash judgment, such as the claim that
+the earth is the center of the universe because it
+appears that way to us.
+One crucial clue to the extent of the ancient
+Egyptians’ mathematical knowledge came from
+studying the pyramids. The more we studied
+such structures, the more impressed we were by
+how much the Egyptians knew.
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+3
+
+4
+
+4
+
+4
+
+4
+
+4
+
+SECTION IV
+Time—35 minutes
+27 Questions
+Directions: Each set of questions in this section is based on a single passage or a pair of passages. The questions are to be answered
+on the basis of what is stated or implied in the passage or pair of passages. For some of the questions, more than one of the choices
+could conceivably answer the question. However, you are to choose the best answer; that is, the response that most accurately and
+completely answers the question, and blacken the corresponding space on your answer sheet.
+
+(5)
+
+(10)
+
+(15)
+
+(20)
+
+(25)
+
+(30)
+
+(35)
+
+(40)
+
+(45)
+
+(50)
+
+Many critics agree that the primary characteristic of
+Senegalese ﬁlmmaker Ousmane Sembène’s work is its
+sociopolitical commitment. Sembène was trained in
+Moscow in the cinematic methods of socialist
+realism, and he asserts that his ﬁlms are not meant
+to entertain his compatriots, but rather to raise their
+awareness of the past and present realities of their
+society. But his originality as a ﬁlmmaker lies most
+strikingly in his having successfully adapted ﬁlm,
+originally a Western cultural medium, to the needs,
+pace, and structures of West African culture. In
+particular, Sembène has found within African oral
+culture techniques and strategies that enable him to
+express his views and to reach both literate and
+nonliterate Senegalese viewers.
+A number of Sembène’s characters and motifs can
+be traced to those found in traditional West African
+storytelling. The tree, for instance, which in countless
+West African tales symbolizes knowledge, life, death,
+and rebirth, is a salient motif in Emitaï. The trickster,
+usually a dishonest individual who personiﬁes
+antisocial traits, appears in Borom Sarret, Mandabi,
+and Xala as a thief, a corrupted civil servant, and a
+member of the elite, respectively. In fact, most of
+Sembène’s characters, like those of many oral West
+African narratives, are types embodying collective
+ideas or attitudes. And in the oral tradition, these
+types face archetypal predicaments, as is true, for
+example, of the protagonist of Borom Sarret, who has
+no name and is recognizable instead by his trade—he
+is a street merchant—and by the difﬁculties he
+encounters but is unable to overcome.
+Moreover, many of Sembène’s ﬁlms derive their
+structure from West African dilemma tales, the
+outcomes of which are debated and decided by their
+audiences. The open-endedness of most of his plots
+reveals that Sembène similarly leaves it to his viewers
+to complete his narratives: in such ﬁlms as Borom
+Sarret, Mandabi, and Ceddo, for example, he
+provides his spectators with several alternatives as
+the ﬁlms end. The openness of his narratives is also
+evidenced by his frequent use of freeze-frames, which
+carry the suggestion of continued action.
+Finally, like many West African oral tales,
+Sembène’s narratives take the form of initiatory
+journeys that bring about a basic change in the
+worldview of the protagonist and ultimately, Sembène
+hopes, in that of the viewer. His ﬁlms denounce
+social and political injustice, and his protagonists’
+social consciousness emerges from an acute self-
+
+(55)
+
+1.
+
+consciousness brought about by the juxtaposition of
+opposites within the ﬁlms’ social context: good versus
+evil, powerlessness versus power, or poverty versus
+wealth. Such binary oppositions are used analogously
+in West African tales, and it seems likely that these
+dialectical elements are related to African oral
+storytelling more than, as many critics have supposed,
+to the Marxist components of his ideology.
+Which one of the following most accurately states the
+main point of the passage?
+(A)
+
+(B)
+(C)
+
+(D)
+(E)
+
+Sembène’s originality as a ﬁlmmaker lies
+in his adaptation of traditional archetypal
+predicaments and open-ended plots, both of
+which are derived from West African oral tales.
+Many of the characters in Sembène’s ﬁlms
+are variations on character types common to
+traditional West African storytelling.
+Sembène’s ﬁlms derive their distinctive
+characteristics from oral narrative traditions
+that had not previously been considered suitable
+subject matter for ﬁlms.
+Sembène’s ﬁlms give vivid expression to the
+social and political beliefs held by most of the
+Senegalese people.
+Sembène’s ﬁlms are notable in that they
+use elements derived from traditional West
+African storytelling to comment critically on
+contemporary social and political issues.
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4
+
+4
+2.
+
+The author says that Sembène does which one of the
+following in at least some of his ﬁlms?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+3.
+
+4
+
+4
+4.
+
+uses animals as symbols
+uses slow motion for artistic effect
+provides oral narration of the ﬁlm’s story
+juxtaposes West African images and Marxist
+symbols
+leaves part of the story to be ﬁlled in by
+audiences
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+(E)
+
+Several African novelists who draw upon the oral
+traditions of West Africa use binary oppositions
+as fundamental structures in their narratives,
+even though they have not read Marxist theory.
+Folklorists who have analyzed oral storytelling
+traditions from across the world have found
+that the use of binary oppositions to structure
+narratives is common to many of these
+traditions.
+When he trained in Moscow, Sembène read
+extensively in Marxist political theory and
+worked to devise ways of synthesizing Marxist
+theory and the collective ideas expressed in
+West African storytelling.
+Very few ﬁlmmakers in Europe or North America
+make use of binary oppositions to structure their
+narratives.
+Binary oppositions do not play an essential
+structuring role in the narratives of some ﬁlms
+produced by other ﬁlmmakers who subscribe to
+Marxist principles.
+
+Which one of the following inferences about Sembène
+is most strongly supported by the passage?
+(A)
+(B)
+(C)
+(D)
+
+Which one of the following would, if true, most
+strengthen the claim made by the author in the last
+sentence of the passage (lines 54-58)?
+
+(E)
+5.
+
+His ﬁlms have become popular both in parts of
+Africa and elsewhere.
+He has not received support from government
+agencies for his ﬁlm production.
+His ﬁlms are widely misunderstood by critics in
+Senegal.
+His characters are drawn from a broad range of
+social strata.
+His work has been subjected to government
+censorship.
+
+Which one of the following most closely expresses
+the author’s intended meaning in using the word
+“initiatory” (line 45)?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+6.
+
+4
+
+beginning a series
+experimental
+transformative
+unprecedented
+prefatory
+
+The passage does NOT provide evidence that Sembène
+exhibits which one of the following attitudes in one or
+more of his ﬁlms?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+disenchantment with attempts to reform
+Senegalese government
+conﬁdence in the aptness of using traditional
+motifs to comment on contemporary issues
+concern with social justice
+interest in the vicissitudes of ordinary people’s
+lives
+desire to educate his audience
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4
+
+4
+
+4
+
+Passage A
+
+(5)
+
+(10)
+
+(15)
+
+(20)
+
+(25)
+
+Readers, like writers, need to search for answers.
+Part of the joy of reading is in being surprised, but
+academic historians leave little to the imagination. The
+perniciousness of the historiographic approach became
+fully evident to me when I started teaching. Historians
+require undergraduates to read scholarly monographs
+that sap the vitality of history; they visit on students
+what was visited on them in graduate school. They
+assign books with formulaic arguments that transform
+history into an abstract debate that would have been
+unfathomable to those who lived in the past. Aimed
+so squarely at the head, such books cannot stimulate
+students who yearn to connect to history emotionally
+as well as intellectually.
+In an effort to address this problem, some historians
+have begun to rediscover stories. It has even become
+something of a fad within the profession. This year, the
+American Historical Association chose as the theme
+for its annual conference some putative connection to
+storytelling: “Practices of Historical Narrative.”
+Predictably, historians responded by adding the word
+“narrative” to their titles and presenting papers at
+sessions on “Oral History and the Narrative of Class
+Identity,” and “Meaning and Time: The Problem of
+Historical Narrative.” But it was still historiography,
+intended only for other academics. At meetings of
+historians, we still encounter very few historians telling
+stories or moving audiences to smiles, chills, or tears.
+
+Passage B
+(30)
+
+(35)
+
+(40)
+
+(45)
+
+(50)
+
+Writing is at the heart of the lawyer’s craft, and so,
+like it or not, we who teach the law inevitably teach
+aspiring lawyers how lawyers write. We do this in a few
+stand-alone courses and, to a greater extent, through the
+constraints that we impose on their writing throughout
+the curriculum. Legal writing, because of the purposes
+it serves, is necessarily ruled by linear logic, creating a
+path without diversions, surprises, or reversals.
+Conformity is a virtue, creativity suspect, humor
+forbidden, and voice mute.
+Lawyers write as they see other lawyers write, and,
+inﬂuenced by education, profession, economic
+constraints, and perceived self-interest, they too often
+write badly. Perhaps the currently fashionable call for
+attention to narrative in legal education could have an
+effect on this. It is not yet exactly clear what role
+narrative should play in the law, but it is nonetheless
+true that every case has at its heart a story—of real
+events and people, of concerns, misfortunes, conﬂicts,
+feelings. But because legal analysis strips the human
+narrative content from the abstract, canonical legal
+form of the case, law students learn to act as if there is
+no such story.
+It may well turn out that some of the terminology
+and public rhetoric of this potentially subversive
+movement toward attention to narrative will ﬁnd its
+
+4
+(55)
+
+7.
+
+way into the law curriculum, but without producing
+corresponding changes in how legal writing is actually
+taught or in how our future colleagues will write. Still,
+even mere awareness of the value of narrative could
+perhaps serve as an important corrective.
+Which one of the following does each of the passages
+display?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+8.
+
+4
+
+a concern with the question of what teaching
+methods are most effective in developing
+writing skills
+a concern with how a particular discipline tends
+to represent points of view it does not typically
+deal with
+a conviction that writing in specialized
+professional disciplines cannot be creatively
+crafted
+a belief that the writing in a particular profession
+could beneﬁt from more attention to storytelling
+a desire to see writing in a particular ﬁeld purged
+of elements from other disciplines
+
+The passages most strongly support which one of
+the following inferences regarding the authors’
+relationships to the professions they discuss?
+(A)
+(B)
+(C)
+
+(D)
+(E)
+
+Neither author is an active member of the
+profession that he or she discusses.
+Each author is an active member of the
+profession he or she discusses.
+The author of passage A is a member of the
+profession discussed in that passage, but the
+author of passage B is not a member of either of
+the professions discussed in the passages.
+Both authors are active members of the
+profession discussed in passage B.
+The author of passage B, but not the author of
+passage A, is an active member of both of the
+professions discussed in the passages.
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4
+
+4
+9.
+
+4
+
+Which one of the following does each passage indicate
+is typical of writing in the respective professions
+discussed in the passages?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+abstraction
+hyperbole
+subversion
+narrative
+imagination
+
+10. In which one of the following ways are the passages
+NOT parallel?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Passage A presents and rejects arguments for an
+opposing position, whereas passage B does not.
+Passage A makes evaluative claims, whereas
+passage B does not.
+Passage A describes speciﬁc examples of a
+phenomenon it criticizes, whereas passage B
+does not.
+Passage B offers criticism, whereas passage A
+does not.
+Passage B outlines a theory, whereas passage A
+does not.
+
+11. The phrase “scholarly monographs that sap the vitality
+of history” in passage A (lines 6-7) plays a role in that
+passage’s overall argument that is most analogous to the
+role played in passage B by which one of the following
+phrases?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+“Writing is at the heart of the lawyer’s craft”
+(line 29)
+“Conformity is a virtue, creativity suspect,
+humor forbidden, and voice mute” (lines 37-38)
+“Lawyers write as they see other lawyers write”
+(line 39)
+“every case has at its heart a story” (line 46)
+“Still, even mere awareness of the value of
+narrative could perhaps serve as an important
+corrective” (lines 57-59)
+
+4
+
+4
+
+12. Suppose that a lawyer is writing a legal document
+describing the facts that are at issue in a case. The
+author of passage B would be most likely to expect
+which one of the following to be true of the document?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+It will be poorly written because the lawyer who
+is writing it was not given explicit advice by law
+professors on how lawyers should write.
+It will be crafted to function like a piece of
+ﬁction in its description of the characters and
+motivations of the people involved in the case.
+It will be a concise, well-crafted piece of writing
+that summarizes most, if not all, of the facts that
+are important in the case.
+It will not genuinely convey the human
+dimension of the case, regardless of how
+accurate the document may be in its details.
+It will neglect to make appropriate connections
+between the details of the case and relevant
+legal doctrines.
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4
+
+4
+(5)
+
+(10)
+
+(15)
+
+(20)
+
+(25)
+
+(30)
+
+(35)
+
+(40)
+
+(45)
+
+(50)
+
+(55)
+
+4
+
+Traditional theories of animal behavior assert that
+animal conﬂict within a species is highly ritualized
+and does not vary from contest to contest. This
+species-speciﬁc model assumes that repetitive use of
+the same visual and vocal displays and an absence
+of escalated ﬁghting evolved to prevent injury. The
+contestant that exhibits the “best” display wins the
+contested resource. Galapagos tortoises, for instance,
+settle contests on the basis of height: the ritualized
+display consists of two tortoises facing one another
+and stretching their necks skyward; the tortoise
+perceived as being “taller” wins.
+In populations of the spider Agelenopsis aperta,
+however, ﬁghting behavior varies greatly from contest
+to contest. In addition, ﬁghting is not limited to
+displays: biting and shoving are common. Susan
+Riechert argues that a recently developed model,
+evolutionary game theory, provides a closer ﬁt to A.
+aperta territorial disputes than does the speciesspeciﬁc model, because it explains variations in
+conﬂict behavior that may result from varying
+conditions, such as differences in size, age, and
+experience of combatants. Evolutionary game theory
+was adapted from the classical game theory that was
+developed by von Neumann and Morgenstern to
+explain human behavior in conﬂict situations. In both
+classical and evolutionary game theory, strategies are
+weighed in terms of maximizing the average payoff
+against contestants employing both the same and
+different strategies. For example, a spider may engage
+in escalated ﬁghting during a dispute only if the
+disputed resource is valuable enough to warrant the
+risk of physical injury. There are, however, two major
+differences between the classical and evolutionary
+theories. First, whereas in classical game theory it is
+assumed that rational thought is used to determine
+which action to take, evolutionary game theory
+assumes that instinct and long-term species advantage
+ultimately determine the strategies that are exhibited.
+The other difference is in the payoffs: in classical
+game theory, the payoffs are determined by an
+individual’s personal judgment of what constitutes
+winning; in evolutionary game theory, the payoffs are
+deﬁned in terms of reproductive success.
+In studying populations of A. aperta in a
+grassland habitat and a riparian habitat, Riechert
+predicts that such factors as the size of the opponents,
+the potential rate of predation in a habitat, and the
+probability of winning a subsequent site if the dispute
+is lost will all affect the behavior of spiders in
+territorial disputes. In addition, she predicts that the
+markedly different levels of competition for web sites
+in the two habitats will affect the spiders’ willingness
+to engage in escalated ﬁghting. In the grassland,
+where 12 percent of the habitat is available for
+occupation by A. aperta, Riechert predicts that
+spiders will be more willing to engage in escalated
+ﬁghting than in the riparian habitat, where 90 percent
+of the habitat is suitable for occupation.
+
+4
+
+4
+
+13. Which one of the following best states the main idea of
+the passage?
+(A)
+
+(B)
+(C)
+(D)
+(E)
+
+Evolutionary game theory and classical game
+theory can be used to analyze the process of
+decision-making used by humans and animals
+in settling disputes.
+A. aperta in grassland habitats and riparian
+habitats exhibit an unusually wide variety of
+ﬁghting behaviors in territorial disputes.
+Evolutionary game theory may be useful in
+explaining the behavior of certain spiders during
+territorial disputes.
+The traditional theory of animal behavior in
+conﬂict situations cannot be used to explain the
+ﬁghting behavior of most species.
+Evolutionary game theory, adapted from classical
+game theory, is currently used by scientists to
+predict the behavior of spiders in site selection.
+
+14. The author of the passage mentions Galapagos tortoises
+in the ﬁrst paragraph most likely in order to
+(A)
+(B)
+(C)
+(D)
+(E)
+
+describe a kind of ﬁghting behavior that is used
+by only a few species
+suggest that repetitive use of the same visual and
+vocal displays is a kind of ﬁghting behavior
+used by some but not all species
+provide evidence to support the claim that
+ﬁghting behavior does not vary greatly from
+contest to contest for most species
+provide an example of a ﬁghting behavior that is
+unique to a particular species
+provide an example of a ritualized ﬁghting
+behavior of the kind that traditional theorists
+assume is the norm for most species
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4
+
+4
+
+4
+
+15. Item Removed From Scoring
+
+4
+
+4
+
+17. Which one of the following best states the function of
+the third paragraph of the passage?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+It develops a comparison of the two theories that
+were introduced in the preceding paragraph.
+It continues a discussion of a controversial
+theory described in the ﬁrst two paragraphs of
+the passage.
+It describes an experiment that provides support
+for the theory described in the preceding
+paragraph.
+It describes a rare phenomenon that cannot be
+accounted for by the theory described in the ﬁrst
+paragraph.
+It describes predictions that can be used to test
+the validity of a theory described in a preceding
+paragraph.
+
+18. The passage suggests which one of the following about
+the behavior of A. aperta in conﬂict situations?
+16. Which one of the following, if true, is LEAST
+consistent with Riechert’s theory about ﬁghting
+behavior in spiders?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Spiders in the grassland habitat engage in
+escalated ﬁghting when a disputed site is highly
+desirable.
+Spiders in the riparian habitat are not willing
+to engage in escalated ﬁghting for less-than
+suitable sites.
+Spiders in the riparian habitat conﬁne their
+ﬁghting to displays more regularly than do
+spiders in the grassland habitat.
+Spiders in the riparian habitat are as willing to
+engage in escalated ﬁghting as are spiders in the
+grassland habitat.
+Spiders in the riparian habitat are more likely to
+withdraw when faced with a larger opponent
+in territorial disputes than are spiders in the
+grassland habitat.
+
+(A)
+
+(B)
+
+(C)
+(D)
+(E)
+
+They exhibit variations in ﬁghting behavior
+from contest to contest primarily because of the
+different levels of competition for suitable sites
+in different habitats.
+They may conﬁne their ﬁghting behavior to
+displays if the value of a disputed resource is
+too low and the risk of physical injury is too
+great.
+They exhibit variations in ﬁghting behavior that
+are similar to those exhibited by members of
+most other species of animals.
+They are more likely to engage in escalated
+ﬁghting during disputes than to limit their
+ﬁghting behavior to visual and vocal displays.
+They are more willing to engage in escalated
+ﬁghting during conﬂict situations than are
+members of most other species of animals.
+
+19. The primary purpose of the passage is to
+(A)
+(B)
+(C)
+(D)
+(E)
+
+present an alternative to a traditional approach
+describe a phenomenon and provide speciﬁc
+examples
+evaluate evidence used to support an argument
+present data that refutes a controversial theory
+suggest that a new theory may be based on
+inadequate research
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4
+
+4
+(5)
+
+(10)
+
+(15)
+
+(20)
+
+(25)
+
+(30)
+
+(35)
+
+(40)
+
+(45)
+
+(50)
+
+(55)
+
+4
+
+Most people acknowledge that not all
+governments have a moral right to govern and that
+there are sometimes morally legitimate reasons for
+disobeying the law, as when a particular law
+prescribes behavior that is clearly immoral. It is also
+commonly supposed that such cases are special
+exceptions and that, in general, the fact that
+something is against the law counts as a moral, as
+well as legal, ground for not doing it; i.e., we
+generally have a moral duty to obey a law simply
+because it is the law. But the theory known as
+philosophical anarchism denies this view, arguing
+instead that people who live under the jurisdiction of
+governments have no moral duty to those
+governments to obey their laws. Some commentators
+have rejected this position because of what they take
+to be its highly counterintuitive implications: (1) that
+no existing government is morally better than any
+other (since all are, in a sense, equally illegitimate),
+and (2) that, lacking any moral obligation to obey any
+laws, people may do as they please without scruple.
+In fact, however, philosophical anarchism does not
+entail these claims.
+First, the conclusion that no government is
+morally better than any other does not follow from
+the claim that nobody owes moral obedience to any
+government. Even if one denies that there is a moral
+obligation to follow the laws of any government, one
+can still evaluate the morality of the policies and
+actions of various governments. Some governments
+do more good than harm, and others more harm than
+good, to their subjects. Some violate the moral rights
+of individuals more regularly, systematically, and
+seriously than others. In short, it is perfectly
+consistent with philosophical anarchism to hold that
+governments vary widely in their moral stature.
+Second, philosophical anarchists maintain that all
+individuals have basic, nonlegal moral duties to one
+another—duties not to harm others in their lives,
+liberty, health, or goods. Even if governmental laws
+have no moral force, individuals still have duties to
+refrain from those actions that constitute crimes in the
+majority of legal systems (such as murder, assault,
+theft, and fraud). Moreover, philosophical anarchists
+hold that people have a positive moral obligation to
+care for one another, a moral obligation that they
+might even choose to discharge by supporting
+cooperative efforts by governments to help those in
+need. And where others are abiding by established
+laws, even those laws derived from mere conventions,
+individuals are morally bound not to violate those
+laws when doing so would endanger others. Thus, if
+others obey the law and drive their vehicles on the
+right, one must not endanger them by driving on the
+left, for, even though driving on the left is not
+inherently immoral, it is morally wrong to
+deliberately harm the innocent.
+
+4
+
+4
+
+20. Which one of the following most accurately expresses
+the main point of the passage?
+(A)
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+Some views that certain commentators consider
+to be implications of philosophical anarchism
+are highly counterintuitive.
+Contrary to what philosophical anarchists
+claim, some governments are morally superior
+to others, and citizens under legitimate
+governments have moral obligations to one
+another.
+It does not follow logically from philosophical
+anarchism that no government is morally better
+than any other or that people have no moral
+duties toward one another.
+Even if, as certain philosophical anarchists claim,
+governmental laws lack moral force, people still
+have a moral obligation to refrain from harming
+one another.
+Contrary to what some of its opponents have
+claimed, philosophical anarchism does not
+conﬂict with the ordinary view that one should
+obey the law because it is the law.
+
+21. The author identiﬁes which one of the following as a
+commonly held belief?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+In most cases we are morally obligated to obey
+the law simply because it is the law.
+All governments are in essence morally equal.
+We are morally bound to obey only those laws
+we participate in establishing.
+Most crimes are morally neutral, even though
+they are illegal.
+The majority of existing laws are intended to
+protect others from harm.
+
+22. The author’s stance regarding the theory of
+philosophical anarchism can most accurately be
+described as one of
+(A)
+(B)
+(C)
+(D)
+(E)
+
+ardent approval of most aspects of the theory
+apparent acceptance of some of the basic
+positions of the theory
+concerned pessimism about the theory’s ability
+to avoid certain extreme views
+hesitant rejection of some of the central features
+of the theory
+resolute antipathy toward both the theory and
+certain of its logical consequences
+
+GO ON TO THE NEXT PAGE.
+
+4
+
+4
+
+4
+
+4
+
+4
+
+23. By attributing to commentators the view that
+philosophical anarchism has implications that are
+“counterintuitive” (line 17), the author most likely
+means that the commentators believe that
+(A)
+(B)
+(C)
+(D)
+(E)
+
+the implications conﬂict with some commonly
+held beliefs
+there is little empirical evidence that the
+implications are actually true
+common sense indicates that philosophical
+anarchism does not have such implications
+the implications appear to be incompatible with
+each other
+each of the implications contains an internal
+logical inconsistency
+
+24. Which one of the following scenarios most completely
+conforms to the views attributed to philosophical
+anarchists in lines 37-44?
+(A)
+(B)
+
+(C)
+(D)
+
+(E)
+
+A member of a political party that is illegal in a
+particular country divulges the names of other
+members because he fears legal penalties.
+A corporate executive chooses to discontinue
+her company’s practice of dumping chemicals
+illegally when she learns that the chemicals are
+contaminating the water supply.
+A person who knows that a coworker has stolen
+funds from their employer decides to do nothing
+because the coworker is widely admired.
+A person neglects to pay her taxes, even though
+it is likely that she will suffer severe legal
+penalties as a consequence, because she wants
+to use the money to ﬁnance a new business.
+A driver determines that it is safe to exceed the
+posted speed limit, in spite of poor visibility,
+because there are apparently no other vehicles
+on the road.
+
+4
+
+25. It can be inferred that the author would be most likely
+to agree that
+(A)
+(B)
+(C)
+(D)
+(E)
+
+people are subject to more moral obligations than
+is generally held to be the case
+governments that are morally superior recognize
+that their citizens are not morally bound to obey
+their laws
+one may have good reason to support the efforts
+of one’s government even if one has no moral
+duty to obey its laws
+there are some sound arguments for claiming that
+most governments have a moral right to require
+obedience to their laws
+the theory of philosophical anarchism entails
+certain fundamental principles regarding how
+laws should be enacted and enforced
+
+26. The author’s discussion of people’s positive moral duty
+to care for one another (lines 44-49) functions primarily
+to
+(A)
+(B)
+(C)
+(D)
+(E)
+
+demonstrate that governmental efforts to help
+those in need are superﬂuous
+suggest that philosophical anarchists maintain
+that laws that foster the common good are
+extremely rare
+imply that the theoretical underpinnings of
+philosophical anarchism are inconsistent with
+certain widely held moral truths
+indicate that philosophical anarchists recognize
+that people are subject to substantial moral
+obligations
+illustrate that people are morally obligated to
+refrain from those actions that are crimes in
+most legal systems
+
+27. In the passage, the author seeks primarily to
+(A)
+(B)
+(C)
+(D)
+(E)
+
+describe the development and theoretical
+underpinnings of a particular theory
+establish that a particular theory conforms to the
+dictates of common sense
+argue that two necessary implications of a
+particular theory are morally acceptable
+defend a particular theory against its critics by
+showing that their arguments are mistaken
+demonstrate that proponents of a particular
+theory are aware of the theory’s defects
+
+S T O P
+IF YOU FINISH BEFORE TIME IS CALLED, YOU MAY CHECK YOUR WORK ON THIS SECTION ONLY.
+DO NOT WORK ON ANY OTHER SECTION IN THE TEST.
+
+4
+
+Computing Your Score
+
+Directions:
+1. Use the Answer Key on the next page to check your
+answers.
+2. Use the Scoring Worksheet below to compute your
+raw score.
+3. Use the Score Conversion Chart to convert your
+raw score into the 120-180 scale.
+Scoring Worksheet
+1. Enter the number of questions you answered
+correctly in each section.
+Number
+Correct
+SECTION I. .
+SECTION II .
+SECTION III.
+SECTION IV.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+2. Enter the sum here:
+This is your Raw Score.
+
+Conversion Chart:
+For Converting Raw Score to the 120-180 LSAT
+Scaled Score
+LSAT Form 7LSN73
+Reported
+Score
+180
+179
+178
+177
+176
+175
+174
+173
+172
+171
+170
+169
+168
+167
+166
+165
+164
+163
+162
+161
+160
+159
+158
+157
+156
+155
+154
+153
+152
+151
+150
+149
+148
+147
+146
+145
+144
+143
+142
+141
+140
+139
+138
+137
+136
+135
+134
+133
+132
+131
+130
+129
+128
+127
+126
+125
+124
+123
+122
+121
+120
+
+Lowest
+
+Raw Score
+
+Highest
+
+97
+__*
+96
+95
+94
+__*
+93
+92
+91
+90
+89
+88
+87
+86
+84
+83
+82
+80
+78
+77
+75
+73
+72
+70
+68
+66
+64
+62
+61
+59
+57
+55
+53
+51
+50
+48
+46
+45
+43
+41
+40
+38
+36
+35
+33
+32
+31
+29
+28
+27
+25
+24
+23
+22
+21
+20
+19
+18
+16
+__*
+0
+
+*There is no raw score that will produce this scaled score for this form.
+
+99
+__*
+96
+95
+94
+__*
+93
+92
+91
+90
+89
+88
+87
+86
+85
+83
+82
+81
+79
+77
+76
+74
+72
+71
+69
+67
+65
+63
+61
+60
+58
+56
+54
+52
+50
+49
+47
+45
+44
+42
+40
+39
+37
+35
+34
+32
+31
+30
+28
+27
+26
+24
+23
+22
+21
+20
+19
+18
+17
+__*
+15
+
+Answer Key
+
+SECTION I
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+C
+D
+A
+C
+B
+E
+A
+
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+C
+D
+A
+C
+E
+E
+C
+
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+
+B
+A
+E
+B
+E
+E
+C
+
+22.
+23.
+24.
+25.
+
+D
+D
+E
+E
+
+C
+B
+D
+C
+A
+E
+C
+
+22.
+23.
+
+C
+E
+
+D
+C
+B
+D
+A
+E
+E
+
+22.
+23.
+24.
+25.
+
+E
+A
+C
+A
+
+*
+D
+E
+B
+A
+C
+A
+
+22.
+23.
+24.
+25.
+26.
+27.
+
+B
+A
+B
+C
+D
+D
+
+SECTION II
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+E
+C
+B
+B
+E
+B
+B
+
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+B
+E
+A
+D
+C
+B
+E
+
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+
+SECTION III
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+D
+D
+B
+B
+D
+C
+A
+
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+A
+C
+E
+B
+E
+D
+C
+
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+SECTION IV
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+*Item removed from scoring.
+
+E
+E
+A
+D
+C
+A
+D
+
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+B
+A
+C
+B
+D
+C
+E
+
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+
+
