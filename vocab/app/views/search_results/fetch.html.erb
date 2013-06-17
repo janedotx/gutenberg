@@ -1,18 +1,18 @@
 <!-- TODO allow you to mark this snippet as acceptable, use javascript to make this happen -->
-<b><%= @word.headword %></b>
+  <b><%= @word.headword %></b>
 
-<br/>
-Conjugates: <%= @word.unpacked_conjugates %>
-<br/>
-<br/>
-<% @results.each do |result| %>
-  <div id="<%= result.id %>">
-    <%= result.snippet %>
-    <br/>
-    <%= result.book.file %>
-    <br/>
-    Titles are forthcoming.
-    <br/>
-    <br/>
-  </div>
-<% end %>
+  <br/>
+  Conjugates: <%= @word.unpacked_conjugates %>
+  <br/>
+  <br/>
+  <% @results.each do |result| %>
+    <div id="<%= result.id %>">
+      <%= result.snippet %>
+      <br/>
+      <%= result.book.file %>
+      <br/>
+      Titles are forthcoming.
+      <br/>
+      <br/>
+    </div>
+  <% end %>

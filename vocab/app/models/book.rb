@@ -13,7 +13,6 @@ class Book < ActiveRecord::Base
   # attr_accessible :title, :body
 
   validates :file, :uniqueness => true
-  # TODO Add validation, no redundant books
 
   def build_index_specific_word(word)
     f = File.open(self.file)
