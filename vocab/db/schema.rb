@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130613213146) do
+ActiveRecord::Schema.define(:version => 20130618063331) do
 
   create_table "books", :force => true do |t|
     t.string   "file"
@@ -29,6 +29,8 @@ ActiveRecord::Schema.define(:version => 20130613213146) do
     t.datetime "created_at",    :null => false
     t.datetime "updated_at",    :null => false
     t.boolean  "is_good"
+    t.integer  "unique_hash"
+    t.string   "uniqueness_id"
   end
 
   create_table "words", :force => true do |t|

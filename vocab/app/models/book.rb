@@ -15,7 +15,7 @@ class Book < ActiveRecord::Base
   validates :file, :uniqueness => true
 
   def build_index_specific_word(word)
-    f = File.open(self.file)
+    f = File.open(BOOK_FILE_ROOT + self.file)
     text = f.read
     f.close
 

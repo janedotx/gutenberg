@@ -16,3 +16,19 @@ def load_books(files)
     b.save
   end
 end
+
+def delete_common_words
+  lines = File.open("../../2+2gfreq.txt", 'r').readlines
+  lines.each do |l|
+    if l =~ /9/
+      break
+    end
+    next if l =~ /  /
+    begin
+      Word.find_by_headword(l.chomp).destroy
+    rescue NoMethodError => e
+    end
+  end
+end
+
+delete_common_words
