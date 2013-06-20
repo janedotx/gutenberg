@@ -34,6 +34,7 @@ class Book < ActiveRecord::Base
     
   def build_index(words)
     words.each do |word|
+      puts "starting new word"
       build_index_specific_word(word)
     end
   end
