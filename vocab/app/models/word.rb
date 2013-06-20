@@ -5,6 +5,10 @@ class Word < ActiveRecord::Base
   # attr_accessible :title, :body
 
   def unpacked_conjugates
-    conjugates.split(/,/)
+    @unpacked_conjugates ||= if conjugates.blank?
+                                []
+                              else
+                                conjugates.split(/,/)
+                              end
   end
 end
