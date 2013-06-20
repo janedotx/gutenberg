@@ -46,6 +46,7 @@ def filter_big_files(file, stem)
   end
 end
 
+
 =begin
 words = Word.find(:all)
 books = Book.find(:all)
@@ -58,4 +59,3 @@ Book.find(:all).each do |book|
 end
 =end
 
-filter_big_files("etexts/big-books", "etexts/")

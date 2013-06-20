@@ -39,4 +39,19 @@ def get_lsat_words_into_hash
   end
 end
 
-smush_lemmas("../data/2+2lemma.txt.short", 'r')
+def mark_words_as_test_worthy
+  words = Word.find(:all)
+  lines = File.open("../data/lemmatized.csv").readlines
+  lines.each do |line|
+    arr = line.gsub(/"/, '').split(/;/)
+    regex_str = !arr[1].nil? ? arr[1] : arr[0]
+    regex = Regex.new(regex_str)
+      words.each do |word|
+        if regex.match(word.headword)
+          word.test_worthy = true
+          word.save
+          break
+        end
+      end
+  end
+end
