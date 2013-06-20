@@ -38,15 +38,24 @@ def encode(file)
 	handler.write(s)
 end
 
+def filter_big_files(file, stem)
+  root = BOOK_FILE_ROOT + file
+  f = File.open(root)
+  f.readlines.each do |line|
+    `rm #{BOOK_FILE_ROOT + stem + line.split(/\s/)[-1].chomp}`
+  end
+end
+
+=begin
 words = Word.find(:all)
 books = Book.find(:all)
 counter = 0
-#=begin
 Book.find(:all).each do |book| 
   puts book.file
   puts book.id
   puts "\n"
   book.build_index(words) 
 end
-#=end
+=end
 
+filter_big_files("etexts/big-books", "etexts/")
