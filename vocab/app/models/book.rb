@@ -21,7 +21,7 @@ class Book < ActiveRecord::Base
 
     words = [word.headword] + word.unpacked_conjugates
     words.each do |w|
-      Regexp.new(w, ['i']).each_match(text) do |match|
+      Regexp.new('\b' + w + '\b', ['i']).each_match(text) do |match|
         s = SearchResult.new
         s.book_id = self.id
         s.byte_location = match.offset(0)[0]
