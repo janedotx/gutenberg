@@ -10,6 +10,12 @@ class SearchResultsController < ApplicationController
     end
   end
 
+  def mark
+    sr = SearchResult.find(params[:id].to_i)
+    sr.is_good = !sr.is_good
+    sr.save
+  end
+
   def results
   end
 

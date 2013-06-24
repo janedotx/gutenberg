@@ -6,7 +6,8 @@
   <br/>
   <br/>
   <% @results.each do |result| %>
-    <div id="<%= result.id %>">
+    <div>
+      <input type="checkbox" id="<%= result.id %>">
       <%= result.snippet %>
       <br/>
       <%= result.book.file %>
@@ -16,3 +17,6 @@
       <br/>
     </div>
   <% end %>
+      <input type="checkbox" id="20">
+      <input type="checkbox" id="30">
+      <input type="checkbox" id="40">

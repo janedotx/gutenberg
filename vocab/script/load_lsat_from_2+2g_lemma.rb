@@ -55,3 +55,42 @@ def mark_words_as_test_worthy
       end
   end
 end
+
+def load_frequency_hash
+  lines = File.open("../../2+2gfreq.txt", 'r').readlines
+  hash = {}
+  cur = 0
+  lines.each do |l|
+    if l =~ /\d/
+      cur = l.chomp 
+      next
+    end
+
+    next if l =~ /  /
+
+    hash[l.chomp] = cur
+  end
+  hash
+end
+
+def get_difficulty
+  words = Word.find(:all).select { |w| w.test_worthy }
+  hash =  load_frequency_hash
+  words.each do |word|
+    if hash[word.head_word]
+      word.frequency_band = hash[word.head_word].to_i
+      word.frequency_band.save
+    end
+  end
+end
+
+get_difficulty
+
+words = Word.find(:all).select { |w| w.test_worthy }
+words.sort! { |w, x| w.frequency_band <=> x.frequency_band }
+
+words.each do |w|
+  puts w.id
+  puts w.headword
+  puts w.frequency_band
+end
