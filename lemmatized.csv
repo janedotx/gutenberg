@@ -118,7 +118,7 @@
 "carbon dioxide";;
 "carnivorous";;
 "cartographer";;
-"cast (doubt)";;"manual"
+"cast";;"manual" (doubt)
 "catalogue";;
 "catastrophic";"catastroph";
 "cautious";;
@@ -186,7 +186,7 @@
 "congestion";"congest";
 "conglomerate";;
 "conjecture";;
-"conjunction (in ___ with)";"conjunction";
+"conjunction";"conjunction"; (in ___ with)
 "conscientious";;
 "conscious";;
 "consensus";;
@@ -577,7 +577,7 @@
 "multinational";;
 "multitudinous";;
 "municipal";;
-"muster;;"manual"
+"muster;;"manual (pass muster)"
 "mutation";;
 "mutually exclusive";;"manual"
 "mythic proportions";;
@@ -653,7 +653,7 @@
 "pesticide";;
 "pharmaceutical";;
 "pharmacological";;
-"phase (v)";"phase";
+"phase";"phase"; (v)
 "phenomena/phenomenon";"phenomena|phenomenon";
 ;;
 ;;
@@ -697,12 +697,12 @@
 "primarily";;
 "primary";;
 "primate";;
-"primer (paint)";"primer";
+"primer";"primer"; (paint)
 "principle";;
 "pristine";;
 "privileges";"privilege";
 ;;
-"proceeds (n)";"proceeds";
+"proceeds";"proceeds"; (n)
 "prohibitively";"prohibitive";
 "projection";;
 "proliferate";"proliferat";
@@ -729,7 +729,7 @@
 "radioactive";;
 "radius";;
 "ramification";;
-"rash (adj)";"rash";
+"rash";"rash"; (adj)
 "realism";;
 "reasonable";;
 "rebutt";"rebut";
@@ -900,7 +900,7 @@
 "verdict";;
 "verification";"verif";
 "versatile";;
-"verse (as in poetry)";"verse";
+"verse";"verse"; (as in poetry)
 "vessel";;
 "vest";;
 "via";;

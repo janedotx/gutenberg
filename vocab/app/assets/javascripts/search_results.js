@@ -3,6 +3,7 @@
  You can use CoffeeScript in this file: http://jashkenas.github.com/coffee-script/
  */
 
+/*
 $("document").ready(function() {
   var checkboxes = $("input");
   for (var i = 0; i < checkboxes.size(); i++) {
@@ -15,3 +16,8 @@ $("document").ready(function() {
 //      }));
   }
 })
+*/
+
+function updateIsGood(id) {
+  
+}

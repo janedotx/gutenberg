@@ -7,7 +7,7 @@
   <br/>
   <% @results.each do |result| %>
     <div>
-      <input type="checkbox" id="<%= result.id %>">
+      <input type="checkbox" id="<%= result.id %>" onclick="updateIsGood(<%= result.id %>);">
       <%= result.snippet %>
       <br/>
       <%= result.book.file %>
