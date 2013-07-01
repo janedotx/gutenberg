@@ -3,7 +3,6 @@ class SearchResult < ActiveRecord::Base
   # TODO #to_s
   belongs_to :word
   has_one :book
-  validates :uniqueness_id, :uniqueness => true
   validates :book_id, :presence => true
   validates :byte_location, :presence => true
   # attr_accessible :title, :body
