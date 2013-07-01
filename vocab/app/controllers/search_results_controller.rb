@@ -11,9 +11,11 @@ class SearchResultsController < ApplicationController
   end
 
   def mark
+    # TODO exception handling
     sr = SearchResult.find(params[:id].to_i)
     sr.is_good = !sr.is_good
     sr.save
+    head :ok
   end
 
   def results

@@ -18,6 +18,32 @@ $("document").ready(function() {
 })
 */
 
-function updateIsGood(id) {
-  
-}
+$("document").ready(function () {
+    var results = $(".result");
+    var boxes = $(".result input");
+    for (var i = 0; i < results.size(); i++) {
+      var $result = $(results[i]);
+      var $box = $(boxes[i]);
+      $result.click((function(result, box) {
+        return function () { 
+//        console.log(box.prop('checked'));
+                    var isChecked = box.prop("checked");
+                    box.prop("checked", !isChecked);
+                    $.post("mark", { id: $result.prop("id") });
+               };
+      })($result, $box));
+    }
+  }
+)
+/*
+
+$("document").ready(function () {
+    var checkboxes = $("input");
+    for (var i = 0; i < checkboxes.size(); i++) {
+      (function(i) {
+        console.log(i);
+      })(i);
+    }
+  }
+)
+*/

@@ -2,12 +2,20 @@
   <b><%= @word.headword %></b>
 
   <br/>
+  Search for a new word, because we like words. Or keep scrolling to see the results, because we like results too. 
+
+<%= form_tag("/fetch", :method => :get) do %>
+  <%= text_field_tag(:q) %>
+  <%= submit_tag("Search") %>
+<% end %>
+
+  <br/>
   Conjugates: <%= @word.unpacked_conjugates %>
   <br/>
   <br/>
   <% @results.each do |result| %>
-    <div>
-      <input type="checkbox" id="<%= result.id %>" onclick="updateIsGood(<%= result.id %>);">
+    <div class="result" id="<%= result.id %>">
+      <input type="checkbox" <%= result.is_good ? "checked" : "" %>>
       <%= result.snippet %>
       <br/>
       <%= result.book.file %>
@@ -17,6 +25,3 @@
       <br/>
     </div>
   <% end %>
-      <input type="checkbox" id="20">
-      <input type="checkbox" id="30">
-      <input type="checkbox" id="40">
