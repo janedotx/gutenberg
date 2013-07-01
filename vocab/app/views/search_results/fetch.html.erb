@@ -16,9 +16,9 @@
   <% @results.each do |result| %>
     <div class="result" id="<%= result.id %>">
       <input type="checkbox" <%= result.is_good ? "checked" : "" %>>
-      <%= result.snippet %>
+      Context: <%= result.snippet %>
       <br/>
-      <%= result.book.file %>
+      File: <%= result.book.file %>
       <br/>
       Titles are forthcoming.
       <br/>

@@ -9,7 +9,7 @@ class Regexp
 end
 
 class Book < ActiveRecord::Base
-  SNIPPET_HALF_LENGTH = 100
+  SNIPPET_HALF_LENGTH = 200
   # attr_accessible :title, :body
 
   validates :file, :uniqueness => true
