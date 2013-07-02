@@ -39,3 +39,4 @@ gem 'jquery-rails'
 
 gem 'fnv'
 gem 'therubyracer'
+gem 'passenger'
