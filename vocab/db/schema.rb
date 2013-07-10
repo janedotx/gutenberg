@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130620080425) do
+ActiveRecord::Schema.define(:version => 20130710060407) do
 
   create_table "books", :force => true do |t|
     t.string   "file"
@@ -32,6 +32,8 @@ ActiveRecord::Schema.define(:version => 20130620080425) do
     t.integer  "unique_hash"
     t.string   "uniqueness_id"
   end
+
+  add_index "search_results", ["word_id"], :name => "index_search_results_on_word_id"
 
   create_table "words", :force => true do |t|
     t.integer  "frequency_band"
