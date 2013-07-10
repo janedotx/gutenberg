@@ -47,8 +47,8 @@ def filter_big_files(file, stem)
 end
 
 
-=begin
-words = Word.find(:all)
+#=begin
+words = Word.find(:all).select { |w| w.test_worthy }
 books = Book.find(:all)
 counter = 0
 Book.find(:all).each do |book| 
@@ -57,5 +57,5 @@ Book.find(:all).each do |book|
   puts "\n"
   book.build_index(words) 
 end
-=end
+#=end
 

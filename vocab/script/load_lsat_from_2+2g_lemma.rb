@@ -44,8 +44,9 @@ def mark_words_as_test_worthy
   lines = File.open("../data/lemmatized.csv").readlines
   lines.each do |line|
     arr = line.gsub(/"/, '').split(/;/)
-    regex_str = !arr[1].nil? ? arr[1] : arr[0]
-    regex = Regex.new(regex_str)
+    regex_str = !arr[1].blank? ? arr[1] : arr[0]
+    puts regex_str
+    regex = Regexp.new('\b' + regex_str + '\b')
       words.each do |word|
         if regex.match(word.headword)
           word.test_worthy = true
@@ -61,14 +62,16 @@ def load_frequency_hash
   hash = {}
   cur = 0
   lines.each do |l|
-    if l =~ /\d/
-      cur = l.chomp 
+    if match = /\d+/.match(l)
+      cur = match.to_s.to_i
       next
     end
 
     next if l =~ /  /
 
+#    puts l
     hash[l.chomp] = cur
+#    puts hash[l.chomp]
   end
   hash
 end
@@ -77,20 +80,37 @@ def get_difficulty
   words = Word.find(:all).select { |w| w.test_worthy }
   hash =  load_frequency_hash
   words.each do |word|
-    if hash[word.head_word]
-      word.frequency_band = hash[word.head_word].to_i
-      word.frequency_band.save
+    if hash[word.headword]
+      word.frequency_band = hash[word.headword].to_i
+      word.save
     end
   end
 end
-
-get_difficulty
+#load_frequency_hash
+#=begin
+#smush_lemmas
+#mark_words_as_test_worthy
+#get_difficulty
 
 words = Word.find(:all).select { |w| w.test_worthy }
-words.sort! { |w, x| w.frequency_band <=> x.frequency_band }
+#words.sort! { |w, x| w.frequency_band <=> x.frequency_band }
+#=begin
+hash = {}
 
 words.each do |w|
-  puts w.id
-  puts w.headword
-  puts w.frequency_band
+  if hash[w.frequency_band].nil?
+    hash[w.frequency_band] = []
+  end
+  hash[w.frequency_band] << w.headword
 end
+#=end
+
+hash.each_key do |key|
+  f = File.open("band_#{key}", 'w')
+  hash[key].each do |w|
+    f.write(w)
+    f.write("\n")
+  end
+  f.close
+end
+#=end

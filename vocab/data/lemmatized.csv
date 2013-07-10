@@ -1,9 +1,5 @@
 "Marxist";"Marx";
-;;
-;;
-;;
 "animosity";;
-;;
 "abdicate";"abdicat";
 "abduct";;
 "ably";;
@@ -13,7 +9,7 @@
 "absurd";;
 "abundant";;
 "accede";;
-"acclaimed";;
+"acclaim";;
 "accommodate";"accommodat";
 "accompany";;
 "accordance";;
@@ -22,7 +18,6 @@
 "acknowledge";;
 "acoustic";;
 "acquire";;
-;;
 "acquit";;
 "acute";;
 "additive";;
@@ -31,7 +26,6 @@
 "adhere";;
 "adjacent";;
 "adjustment";;
-;;
 "admissible";;
 "admittedly";;
 "adobe";;
@@ -43,11 +37,9 @@
 "affect";;
 "affirm";;
 "ailment";;
-"alleged";"alleg";
+"alleged;"alleg";
 "allocate";"allocat";
-;;
 "allude";;
-"allusion";;
 "aloud";;
 "alter";;
 "altruistic";;
@@ -56,9 +48,8 @@
 "amino acid";;
 "amorphous";;
 "amphibian";;
-"analog (not video)";"analog$";
-"analogous / disanalogous";"analogous|disanalogous";
-;;
+"analog";"analog$";
+"analogous";"analogous|disanalogous";
 "analogue";;
 "analogy";;
 "analyses";"analysis";
@@ -77,9 +68,8 @@
 "appeal";;
 "applicable";"applicabl";
 "application";;
-"appropriations";"appropriation";
+"appropriations;"appropriation";
 "apt";"apt";
-;;
 "arbitrary";;
 "archaeologist";;
 "archetypal";"archetypal|archetypical";
@@ -95,16 +85,13 @@
 "assertion";;
 "assess";;
 "asset";;
-"associate (v)";"associat";
-"assumption";"assum";
+"associate";"associat";(v)
+"assume;"assum";
 "asteroid";;
 "atom";;
 "attain";;
 "attitudinal";;
 "attribute";;
-"attributed / attribution / attribute";"attribut";
-;;
-;;
 "authoritative";;
 "auxiliary";;
 "avant-garde";;
@@ -124,14 +111,14 @@
 "bull-headed";;
 "burdensome";;
 "by-product";;
-"canonical";"canon";
+"canon";"canon";
 "capacity";;
 "capricious";;
 "carbohydrate";;
 "carbon dioxide";;
 "carnivorous";;
 "cartographer";;
-"cast (doubt)";;"manual"
+"cast";;"manual" (doubt)
 "catalogue";;
 "catastrophic";"catastroph";
 "cautious";;
@@ -150,12 +137,11 @@
 "civil liberties";;
 "civility";;
 "clarify";;
-"climatic";;
 "climactic";;
 "climatologist";;
 "coherence";"cohere";
 "cohesiveness";"cohesiv";
-"coin (v)";"coin";
+"coin";"coin";"manual"
 "coincide";;
 "collaboration";"collabor";
 "collective";"collectiv";
@@ -167,15 +153,14 @@
 "commend";;
 "commensurate";;
 "commentator";;
-"commercially";"commerc";
+"commercial";"commerc";
 "commonplace";;
 "commonsense";;
 "communal";;
 "compatible";"compatib";
 "compatriot";;
-"compel / compelling";"compel";
-;;
-;;
+"compel";"compel";
+"compelling";;
 "compensate";"compensat";
 "compile";;
 "complacent";;
@@ -192,7 +177,7 @@
 "condition";;
 "conditional";;
 "conducive";;
-"conduct (heat)";"conduct";
+"conduct";"conduct";
 "confine";;
 "confiscate";"confiscat";
 "conflate";"conflat";
@@ -201,13 +186,12 @@
 "congestion";"congest";
 "conglomerate";;
 "conjecture";;
-"conjunction (in ___ with)";"conjunction";
+"conjunction";"conjunction"; (in ___ with)
 "conscientious";;
 "conscious";;
 "consensus";;
 "consideration";;
-"consistency|consistent";"consisten";
-;;
+"consistent";"consisten";
 "constitute";"constitut";
 "constraint";"constrain";
 "construct";;
@@ -217,7 +201,6 @@
 "contaminant";;
 "contemporary";;
 "contend";"contend|contention";
-;;
 "contingency";"contingen";
 "continuity";"continuit";
 "continuous";;
@@ -273,15 +256,13 @@
 "deficit";;
 "definitive";;
 "degree";;
-"delegate (n)";"delegate";
+"delegate";"delegate";
 "deliberately";"deliberate";
-"delinquent (as in not paying)";"delinquent";
+"delinquent";"delinquent";
 "demolish";;
-;;
 "denounce";;
 "depict";;
 "deplete";"deplet";
-;;
 "deride";"deride|derision";
 "derive";;
 "designated";;
@@ -314,7 +295,7 @@
 "distillation";;
 "distinction";;
 "distinctive";;
-"distinguished (as in different)";"distinguish";
+"distinguished";"distinguish";
 "distribution";"distribut";
 "diverse";"diversity|diverse";
 "diversion";;
@@ -322,13 +303,13 @@
 "doctrine";;
 "domestic";;
 "dosage";;
-"drastically";"drastic";
+"drastic";"drastic";
 "dredge";;
 "drought";;
 "dues";;
 "duplicate";"duplicat";
 "dwindle";"dwindl";
-"ecologically";"ecological";
+"ecological";"ecological";
 "ecologist";;
 "economic sphere";;
 "economic";;
@@ -336,21 +317,20 @@
 "editorial";;
 "editorialist";;
 "effect";"affect";
-"effect/affect";"effect";
+"affect";"effect";
 "efficiency";;
 "egregious";;
 "elicit";;
 "eliminate";"eliminat";
 "embed";;
-"embellishment";"embellish";
+"embellish";"embellish";
 "embody";"embod";
 "emergence";"emergent|emergence";
 "eminence";"eminen";
 "emission";;
 "emit";;
 "empirical";;
-"employ (non-employment)";"employ";
-"employ (not job)";;
+"employ";"employ";
 "emulate";;
 "enable";"enabl";
 "enact";;
@@ -386,7 +366,7 @@
 "exaggerate";"exaggerat";
 "examiners";"examiner";
 "exceed";;
-"exceptionally";"exceptional";
+"exceptional";"exceptional";
 "excessive";"excess";
 "exclusion";"exclusi";
 "exclusively";"exclusive";
@@ -418,8 +398,6 @@
 "fluorescent";;
 "flourish";;
 "fluctuate";"fluctuat";
-;;
-;;
 "folklorist";;
 "forage";"forag";
 "forego";;
@@ -434,19 +412,17 @@
 "furthermore";;
 "gale";;
 "gallop";;
-"generalization / generalize";"generaliz";
-;;
-;;
+"generalization";"generaliz";
 "generically";"generic";
 "genetic";;
 "geographical";;
 "glucose";;
 "gratify";;
 "gridlock";;
-"hamper (v)";"hamper";
-"harbor (v)";"harbor";
+"hamper";"hamper";
+"harbor";"harbor";
 "harmonious";;
-"harness (not horses)";"harness";
+"harness";"harness";
 "hatchling";;
 "heed";;
 "hesitant";;
@@ -477,7 +453,6 @@
 "immune-cell";;
 "immunity";;
 "imperative";;
-;;
 "impermissible";"impermissibl";
 "impetus";;
 "implausible";"implausib";
@@ -514,7 +489,6 @@
 "inevitable";;
 "inexorable";"inexorab";
 "infer";"infer$|inference";
-;;
 "inflammatory";;
 "influx";;
 "infrastructure";;
@@ -544,7 +518,6 @@
 "intimate";;
 "intricacy";;
 "intuition";"intuit";
-;;
 "invariably";;
 "invasive";;
 "inventive";;
@@ -554,9 +527,7 @@
 "jointly";"joint";
 "jurisdiction";;
 "justification";"justif";
-;;
 "juxtapose";"juxtapos";
-;;
 "lamentable";"lament";
 "latter";;
 "lax";;
@@ -564,8 +535,6 @@
 "lien";;
 "linear";;
 "linguist";"linguist";
-;;
-;;
 "liquidate";"liquidat";
 "literally";"literal";
 "literary";;
@@ -578,13 +547,12 @@
 "manuscript";;
 "marginally";"marginal";
 "markedly";"marked";
-"market (v)";"market";
-;;
+"market";"market";
 "medium";;
 "memorabilia";;
 "mendacity";;
 "mere";;
-"merit (v)";"merit";
+"merit";"merit";
 "metabolic";;
 "metabolize";;
 "metaphor";;
@@ -601,7 +569,6 @@
 "misinterpret";;
 "modular";;
 "monarch";;
-;;
 "monopoly";"monopol";
 "morale";;
 "moralist";;
@@ -610,7 +577,7 @@
 "multinational";;
 "multitudinous";;
 "municipal";;
-"muster (as in ""pass ______""";;"manual"
+"muster;;"manual (pass muster)"
 "mutation";;
 "mutually exclusive";;"manual"
 "mythic proportions";;
@@ -637,7 +604,7 @@
 "nullify";;
 "numerous";;
 "objectionable";;
-"objective (n)";"objective";
+"objective";"objective";
 "objectively";;
 "objectivity";;
 "obligation";"oblig";
@@ -686,7 +653,7 @@
 "pesticide";;
 "pharmaceutical";;
 "pharmacological";;
-"phase (v)";"phase";
+"phase";"phase"; (v)
 "phenomena/phenomenon";"phenomena|phenomenon";
 ;;
 ;;
@@ -730,12 +697,12 @@
 "primarily";;
 "primary";;
 "primate";;
-"primer (paint)";"primer";
+"primer";"primer"; (paint)
 "principle";;
 "pristine";;
 "privileges";"privilege";
 ;;
-"proceeds (n)";"proceeds";
+"proceeds";"proceeds"; (n)
 "prohibitively";"prohibitive";
 "projection";;
 "proliferate";"proliferat";
@@ -762,7 +729,7 @@
 "radioactive";;
 "radius";;
 "ramification";;
-"rash (adj)";"rash";
+"rash";"rash"; (adj)
 "realism";;
 "reasonable";;
 "rebutt";"rebut";
@@ -933,25 +900,23 @@
 "verdict";;
 "verification";"verif";
 "versatile";;
-"verse (as in poetry)";"verse";
+"verse";"verse"; (as in poetry)
 "vessel";;
 "vest";;
 "via";;
 "viable";;
-"vicissitudes";"vicissitude";
+"vicissitude";"vicissitude";
 "vigorous";;
-;;
 "virtually";"virtual";
 "virtuosity";"virtuosity|virtuoso";
 "vital";"vital";
-;;
 "vivid";;
 "voltage";;
 "voluntarily";"voluntar";
 "vulnerable";"vulnerab";
 "wage war";;
-"warehouse (v)";"warehouse";
-"weather (as in persevere)";"weather";"manual"
+"warehouse";"warehouse";
+"weather";"weather";"manual"
 "welfare";;
 "wholesale";;
 "wholly";;
