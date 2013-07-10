@@ -84,8 +84,15 @@ def get_difficulty
   end
 end
 
-get_difficulty
+hash = load_frequency_hash
+words = File.open("../../data/erica-words").readlines().map { |w| w.chomp }
+words.each do |w|
+  val = hash[w] ? hash[w].gsub(/[\s-]/, '') : ""
+  puts "#{w}: #{val}"
+end
 
+=begin
+get_difficulty
 words = Word.find(:all).select { |w| w.test_worthy }
 words.sort! { |w, x| w.frequency_band <=> x.frequency_band }
 
@@ -94,3 +101,4 @@ words.each do |w|
   puts w.headword
   puts w.frequency_band
 end
+=end
