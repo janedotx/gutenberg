@@ -11,14 +11,15 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130710060407) do
+ActiveRecord::Schema.define(:version => 20130710163338) do
 
   create_table "books", :force => true do |t|
     t.string   "file"
     t.string   "title"
     t.string   "author"
-    t.datetime "created_at", :null => false
-    t.datetime "updated_at", :null => false
+    t.datetime "created_at",  :null => false
+    t.datetime "updated_at",  :null => false
+    t.boolean  "was_indexed"
   end
 
   create_table "search_results", :force => true do |t|
@@ -39,9 +40,11 @@ ActiveRecord::Schema.define(:version => 20130710060407) do
     t.integer  "frequency_band"
     t.string   "conjugates"
     t.string   "headword"
-    t.datetime "created_at",     :null => false
-    t.datetime "updated_at",     :null => false
+    t.datetime "created_at",        :null => false
+    t.datetime "updated_at",        :null => false
     t.boolean  "test_worthy"
+    t.integer  "number_of_results"
+    t.binary   "search_result_ids"
   end
 
 end
