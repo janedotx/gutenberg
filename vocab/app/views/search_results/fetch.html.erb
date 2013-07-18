@@ -15,7 +15,7 @@
   <br/>
   <% @results.each do |result| %>
     <div class="result" id="<%= result.id %>">
-      <input type="checkbox" <%= result.is_good ? "checked" : "" %>>
+      <input type="checkbox"  <%= result.is_good ? "checked" : "" %>>
       Context: <%= result.snippet %>
       <br/>
       File: <%= result.book.file %>
@@ -24,4 +24,8 @@
       <br/>
       <br/>
     </div>
+  <% end %>
+
+  <% @num_pages.times do |page| %>
+    <%= link_to page + 1, params.merge({ :url => "/fetch",  :q => "justify", :page => page }) %>
   <% end %>

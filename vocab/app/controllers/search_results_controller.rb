@@ -3,8 +3,11 @@ class SearchResultsController < ApplicationController
   end
 
   def fetch
+    logger.error(params.inspect)
     @word = Word.find_by_headword(params[:q])
-    @results = SearchResult.find_all_by_word_id(@word.id)
+    @num_pages = @word.number_of_results / 20
+    @num_pages += 1 if @word.number_of_results % 20 != 0
+    @results = @word.return_page(params[:page].to_i)
     if @word.blank?
       redirect_to index_path, :flash => { :error => "Use only lemmas/headwords for searches!" }
     end
