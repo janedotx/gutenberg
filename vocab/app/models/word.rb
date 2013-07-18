@@ -4,6 +4,10 @@ class Word < ActiveRecord::Base
 #  has_many :search_results
   # attr_accessible :title, :body
 
+  def self.test_worthy_words
+    Word.find(:all).select { |w| w.test_worthy }
+  end
+
   def unpacked_conjugates
     @unpacked_conjugates ||= if conjugates.blank?
                                 []
@@ -26,6 +30,7 @@ class Word < ActiveRecord::Base
     end
     SearchResult.find(unpacked_search_result_ids[start_index...end_index])
   end
+
 
 =begin
   123

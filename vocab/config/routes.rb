@@ -8,6 +8,7 @@ Vocab::Application.routes.draw do
   root :to => 'search_results#index'
   match 'fetch' => 'search_results#fetch'
   match 'mark' => 'search_results#mark'
+  match 'worthy_words' => 'words#worthy_words'
 
   # Sample of named route:
   #   match 'products/:id/purchase' => 'catalog#purchase', :as => :purchase
