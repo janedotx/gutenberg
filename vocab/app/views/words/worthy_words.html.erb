@@ -1,0 +1,7 @@
+<% @words.each do |w| %>
+  <%= w.headword %>
+  <br/>
+  <%= w.unpacked_conjugates.join(", ") %>
+    <br/>
+  <br/>
+<% end %>
