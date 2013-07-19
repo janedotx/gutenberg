@@ -27,10 +27,8 @@ $("document").ready(function () {
       console.log($result);
       $result.click((function(result, box) {
         return function () { 
-//        console.log(box.prop('checked'));
                     var isChecked = box.prop("checked");
                     box.prop("checked", !isChecked);
-                    console.log(result.prop("id"));
                     $.post("mark", { id: result.prop("id") });
                };
       })($result, $box));

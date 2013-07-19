@@ -16,14 +16,14 @@ class SearchResultsController < ApplicationController
   def mark
     # TODO exception handling
     sr = SearchResult.find(params[:id].to_i)
-    sr.is_good = !sr.is_good
-    sr.save
+    sr.update_mark(!sr.is_good)
     head :ok
   end
 
-  def results
+  def export
   end
 
-  def export
+  def show
+    @result = SearchResult.find(params[:id].to_i)
   end
 end

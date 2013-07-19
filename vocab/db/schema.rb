@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130710163338) do
+ActiveRecord::Schema.define(:version => 20130718213640) do
 
   create_table "books", :force => true do |t|
     t.string   "file"
@@ -40,11 +40,14 @@ ActiveRecord::Schema.define(:version => 20130710163338) do
     t.integer  "frequency_band"
     t.string   "conjugates"
     t.string   "headword"
-    t.datetime "created_at",        :null => false
-    t.datetime "updated_at",        :null => false
+    t.datetime "created_at",             :null => false
+    t.datetime "updated_at",             :null => false
     t.boolean  "test_worthy"
     t.integer  "number_of_results"
     t.binary   "search_result_ids"
+    t.binary   "good_search_result_ids"
   end
+
+  add_index "words", ["headword"], :name => "index_words_on_headword"
 
 end

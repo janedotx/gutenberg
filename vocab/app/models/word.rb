@@ -20,6 +20,10 @@ class Word < ActiveRecord::Base
     @unpacked_search_result_ids ||= Marshal.load(self.search_result_ids)
   end
 
+  def unpacked_good_search_result_ids
+    @unpacked_good_search_result_ids ||= Marshal.load(self.good_search_result_ids)
+  end
+
   def return_page(page, num_per_page = 20)
     # TODO: what if they ask for too high of a page number?
     # TODO what if page *num_per_page is too big?

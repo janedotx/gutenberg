@@ -30,4 +30,17 @@ class SearchResult < ActiveRecord::Base
     @book ||= Book.find_by_id(self.book_id)
   end
 
+  def update_word_good_search_results
+    # sorry future Jane, I just couldn't resist!
+    method = self.is_good ? :<< : :delete
+    word.unpacked_good_search_result_ids.send(method, self.id) 
+    word.good_search_result_ids = Marshal.dump(word.unpacked_good_search_result_ids)
+    word.save
+  end
+
+  def update_mark(bool)
+    self.is_good = bool
+    self.save
+    update_word_good_search_results
+  end
 end
