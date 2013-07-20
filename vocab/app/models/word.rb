@@ -1,4 +1,11 @@
 class Word < ActiveRecord::Base
+
+  after_initialize :default_values
+  def default_values
+    self.search_result_ids ||= Marshal.dump([])
+    self.good_search_result_ids ||= Marshal.dump([])
+  end
+
   # TODO no redundant words
   validates :headword, :uniqueness => true
 #  has_many :search_results

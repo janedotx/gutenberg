@@ -4,13 +4,13 @@ class SearchResultsController < ApplicationController
 
   def fetch
     logger.error(params.inspect)
-    @word = Word.find_by_headword(params[:q])
-    @num_pages = @word.number_of_results / 20
-    @num_pages += 1 if @word.number_of_results % 20 != 0
-    @results = @word.return_page(params[:page].to_i)
+    @word = Word.find_by_headword(params[:q].chomp)
     if @word.blank?
-      redirect_to index_path, :flash => { :error => "Use only lemmas/headwords for searches!" }
+      redirect_to root_path, :flash => { :error => "Use only lemmas/headwords/words I've indexed for searches!" } and return
     end
+    @num_pages = @word.unpacked_search_result_ids.size / 20
+    @num_pages += 1 if @word.unpacked_search_result_ids.size % 20 != 0
+    @results = @word.return_page(params[:page].to_i)
   end
 
   def mark

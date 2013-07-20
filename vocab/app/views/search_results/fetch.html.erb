@@ -30,5 +30,5 @@
   <% end %>
 
   <% @num_pages.times do |page| %>
-    <%= link_to page + 1, params.merge({ :url => "/fetch",  :q => "justify", :page => page }) %>
+    <%= link_to page + 1, params.merge({ :url => "/fetch",  :q => @word.headword, :page => page }) %>
   <% end %>
