@@ -24,7 +24,7 @@ $("document").ready(function () {
     for (var i = 0; i < results.size(); i++) {
       var $result = $(results[i]);
       var $box = $(boxes[i]);
-      console.log($result);
+//      console.log($result);
       $result.click((function(result, box) {
         return function () { 
                     var isChecked = box.prop("checked");

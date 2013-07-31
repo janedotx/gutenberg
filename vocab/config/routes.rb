@@ -10,6 +10,7 @@ Vocab::Application.routes.draw do
   match 'mark' => 'search_results#mark'
   match 'worthy_words' => 'words#worthy_words'
   get 'search_results/:id' => 'search_results#show'
+  get 'good_results/:headword' => 'words#good_results'
 
   # Sample of named route:
   #   match 'products/:id/purchase' => 'catalog#purchase', :as => :purchase
